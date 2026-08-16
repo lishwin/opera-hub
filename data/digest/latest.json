@@ -1,7 +1,26 @@
 {
   "date": "2026-08-16",
-  "generated_at": "2026-08-16T11:34:12+00:00",
-  "news": [],
+  "generated_at": "2026-08-16T14:47:28+00:00",
+  "news": [
+    {
+      "source": "OperaWire",
+      "title": "Amartuvshin Enkhbat & Eleonora Buratto Lead San Francisco Opera’s ‘Simon Boccanegra’",
+      "url": "https://operawire.com/amartuvshin-enkhbat-eleonora-buratto-lead-san-francisco-operas-simon-boccanegra/",
+      "date": "2026-08-16"
+    },
+    {
+      "source": "Slipped Disc",
+      "title": "Running Salzburg? The ‘gay Jewish kangaroo’…",
+      "url": "https://slippedisc.com/2026/08/running-salzburg-the-gay-jewish-kangaroo/?utm_source=rss&utm_medium=rss&utm_campaign=running-salzburg-the-gay-jewish-kangaroo",
+      "date": "2026-08-16"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Bell’Aria Lírica to Present ‘Rigoletto’",
+      "url": "https://operawire.com/fabricio-gori-tomas-eckart-norberto-lara-laura-scartascini-chisari-rocio-cereceda-star-in-bellaria-liricas-rigoletto/",
+      "date": "2026-08-16"
+    }
+  ],
   "ncpa": [],
   "schedule_updates": [
     {

@@ -1,7 +1,9 @@
 📰 歌剧日报 · 2026-08-16
 
 ▍今日要闻
-今日暂无新报道
+- Amartuvshin Enkhbat & Eleonora Buratto Lead San Francisco Opera’s ‘Simon Boccanegra’ ｜ OperaWire  https://operawire.com/amartuvshin-enkhbat-eleonora-buratto-lead-san-francisco-operas-simon-boccanegra/
+- Running Salzburg? The ‘gay Jewish kangaroo’… ｜ Slipped Disc  https://slippedisc.com/2026/08/running-salzburg-the-gay-jewish-kangaroo/?utm_source=rss&utm_medium=rss&utm_campaign=running-salzburg-the-gay-jewish-kangaroo
+- Bell’Aria Lírica to Present ‘Rigoletto’ ｜ OperaWire  https://operawire.com/fabricio-gori-tomas-eckart-norberto-lara-laura-scartascini-chisari-rocio-cereceda-star-in-bellaria-liricas-rigoletto/
 
 ▍国家大剧院关联动态
 今日暂无与大剧院合作艺术家相关的报道
