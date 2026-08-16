@@ -1,0 +1,255 @@
+[
+  {
+    "id": "met",
+    "name": "纽约大都会歌剧院",
+    "name_en": "Metropolitan Opera",
+    "city": "纽约",
+    "country": "美国",
+    "timezone": "America/New_York",
+    "website": "https://www.metopera.org/",
+    "calendar_url": "https://www.metopera.org/calendar/",
+    "feeds": [
+      {
+        "type": "met-json",
+        "url": "https://www.metopera.org/ace-api/events/?startDate={from_date}&endDate={to_date}",
+        "window_days": 90,
+        "browser": true,
+        "warmup_url": "https://www.metopera.org/calendar/",
+        "note": "官网 ace-api（Cloudflare 保护，需浏览器模式），含指挥与卡司"
+      }
+    ],
+    "notes": "数据来自官网 API，含指挥与卡司"
+  },
+  {
+    "id": "rbo",
+    "name": "伦敦皇家歌剧院",
+    "name_en": "Royal Opera House",
+    "city": "伦敦",
+    "country": "英国",
+    "timezone": "Europe/London",
+    "website": "https://www.rbo.org.uk/",
+    "calendar_url": "https://www.rbo.org.uk/calendar",
+    "feeds": [
+      {
+        "type": "roh-json",
+        "url": "https://www.rbo.org.uk/api/calendar?date={year}-{month}",
+        "months_ahead": 3
+      }
+    ],
+    "notes": "数据来自官网日历 API"
+  },
+  {
+    "id": "wiener-staatsoper",
+    "name": "维也纳国家歌剧院",
+    "name_en": "Wiener Staatsoper",
+    "city": "维也纳",
+    "country": "奥地利",
+    "timezone": "Europe/Vienna",
+    "website": "https://www.wiener-staatsoper.at/",
+    "calendar_url": "https://www.wiener-staatsoper.at/en/calendar/",
+    "feeds": [
+      {
+        "type": "vienna-html",
+        "url": "https://www.wiener-staatsoper.at/en/calendar/{year}/{month}/",
+        "months_ahead": 3
+      }
+    ],
+    "notes": "数据来自官网月历页，含指挥与卡司"
+  },
+  {
+    "id": "teatro-alla-scala",
+    "name": "米兰斯卡拉歌剧院",
+    "name_en": "Teatro alla Scala",
+    "city": "米兰",
+    "country": "意大利",
+    "timezone": "Europe/Rome",
+    "website": "https://www.teatroallascala.org/",
+    "calendar_url": "https://www.teatroallascala.org/en/calendar.html",
+    "feeds": [
+      {
+        "type": "scala-html",
+        "url": "https://www.teatroallascala.org/en/calendar.html"
+      }
+    ],
+    "notes": "数据来自官网日历页（仅保留未来演出）"
+  },
+  {
+    "id": "opera-paris",
+    "name": "巴黎歌剧院",
+    "name_en": "Opéra national de Paris",
+    "city": "巴黎",
+    "country": "法国",
+    "timezone": "Europe/Paris",
+    "website": "https://www.operadeparis.fr/",
+    "calendar_url": "https://www.operadeparis.fr/en/programme",
+    "feeds": [
+      {
+        "type": "paris-json",
+        "url": "https://www.operadeparis.fr/ajax/programming/saison-26-27"
+      }
+    ],
+    "notes": "数据来自官网节目单接口（新演出季发布后如无数据，把 URL 中的 saison-26-27 改为新季）"
+  },
+  {
+    "id": "bayerische-staatsoper",
+    "name": "慕尼黑巴伐利亚国家歌剧院",
+    "name_en": "Bayerische Staatsoper",
+    "city": "慕尼黑",
+    "country": "德国",
+    "timezone": "Europe/Berlin",
+    "website": "https://www.staatsoper.de/",
+    "calendar_url": "https://www.staatsoper.de/spielplan",
+    "feeds": [
+      {
+        "type": "bayerische-html",
+        "url": "https://www.staatsoper.de/spielplan",
+        "browser": true,
+        "wait_selector": ".activity-list__row",
+        "scroll": 5,
+        "note": "页面为 JS 渲染，需浏览器模式"
+      }
+    ],
+    "notes": "数据来自官网演出计划页（仅歌剧/芭蕾/音乐会/艺术歌曲）"
+  },
+  {
+    "id": "opernhaus-zuerich",
+    "name": "苏黎世歌剧院",
+    "name_en": "Opernhaus Zürich",
+    "city": "苏黎世",
+    "country": "瑞士",
+    "timezone": "Europe/Zurich",
+    "website": "https://www.opernhaus.ch/",
+    "calendar_url": "https://www.opernhaus.ch/spielplan/kalendarium/",
+    "feeds": [
+      {
+        "type": "zurich-html",
+        "url": "https://www.opernhaus.ch/spielplan/kalendarium/",
+        "max_pages": 20
+      }
+    ],
+    "notes": "数据来自官网日历（自动翻页，抓取未来约 90 天）"
+  },
+  {
+    "id": "salzburg-festival",
+    "name": "萨尔茨堡音乐节",
+    "name_en": "Salzburg Festival",
+    "city": "萨尔茨堡",
+    "country": "奥地利",
+    "timezone": "Europe/Vienna",
+    "website": "https://www.salzburgerfestspiele.at/",
+    "calendar_url": "https://www.salzburgerfestspiele.at/en/tickets/calendar",
+    "feeds": [
+      {
+        "type": "salzburg-json",
+        "url": "https://www.salzburgerfestspiele.at/vue/calendar/de/events",
+        "post_body": {
+          "dateRange": ["{from_date} 00:00", "{to_date} 23:59"],
+          "season": 0
+        },
+        "window_days": 150
+      }
+    ],
+    "notes": "数据来自官网日历接口，含指挥信息"
+  },
+  {
+    "id": "bayreuth-festival",
+    "name": "拜罗伊特音乐节",
+    "name_en": "Bayreuth Festival",
+    "city": "拜罗伊特",
+    "country": "德国",
+    "timezone": "Europe/Berlin",
+    "website": "https://www.bayreuther-festspiele.de/",
+    "calendar_url": "https://www.bayreuther-festspiele.de/en/spielplan/",
+    "feeds": [
+      {
+        "type": "bayreuth-html",
+        "url": "https://www.bayreuther-festspiele.de/en/spielplan/",
+        "insecure": true,
+        "note": "官网证书链特殊，需跳过证书校验"
+      }
+    ],
+    "notes": "数据来自官网节目页与各制作详情页的演出日期"
+  },
+  {
+    "id": "lyric-opera-chicago",
+    "name": "芝加哥抒情歌剧院",
+    "name_en": "Lyric Opera of Chicago",
+    "city": "芝加哥",
+    "country": "美国",
+    "timezone": "America/Chicago",
+    "website": "https://www.lyricopera.org/",
+    "calendar_url": "https://www.lyricopera.org/calendar/",
+    "feeds": [
+      {
+        "type": "lyric-json",
+        "url": "https://www.lyricopera.org/ace-api/events?startDate={from_date}&endDate={to_date}",
+        "window_days": 400,
+        "browser": true,
+        "warmup_url": "https://www.lyricopera.org/calendar/",
+        "note": "官网接口被 Cloudflare 保护，需浏览器模式"
+      }
+    ],
+    "notes": "数据来自官网 API"
+  },
+  {
+    "id": "san-francisco-opera",
+    "name": "旧金山歌剧院",
+    "name_en": "San Francisco Opera",
+    "city": "旧金山",
+    "country": "美国",
+    "timezone": "America/Los_Angeles",
+    "website": "https://www.sfopera.com/",
+    "calendar_url": "https://www.sfopera.com/calendar/",
+    "feeds": [
+      {
+        "type": "sfopera-json",
+        "url": "https://www.sfopera.com/ace-api/events?startDate={from_date}&endDate={to_date}",
+        "window_days": 120
+      }
+    ],
+    "notes": "数据来自官网 API"
+  },
+  {
+    "id": "sydney-opera-house",
+    "name": "悉尼歌剧院",
+    "name_en": "Sydney Opera House",
+    "city": "悉尼",
+    "country": "澳大利亚",
+    "timezone": "Australia/Sydney",
+    "website": "https://www.sydneyoperahouse.com/",
+    "calendar_url": "https://www.sydneyoperahouse.com/whats-on",
+    "feeds": [
+      {
+        "type": "sydney-html",
+        "url": "https://www.sydneyoperahouse.com/whats-on?genre[]=1436&genre[]=1441",
+        "max_pages": 8,
+        "note": "genre[]=1436&1441 为歌剧与经典音乐分类，可在官网确认分类编号"
+      }
+    ],
+    "notes": "数据来自官网 what's on（仅歌剧/经典音乐分类）"
+  },
+  {
+    "id": "glyndebourne",
+    "name": "格林德伯恩歌剧节",
+    "name_en": "Glyndebourne",
+    "city": "刘易斯",
+    "country": "英国",
+    "timezone": "Europe/London",
+    "website": "https://www.glyndebourne.com/",
+    "calendar_url": "https://www.glyndebourne.com/",
+    "feeds": [],
+    "notes": "未找到公开的机器可读接口（官网为 JS 应用），如需接入可另找数据源"
+  },
+  {
+    "id": "deutsche-oper-berlin",
+    "name": "柏林德意志歌剧院",
+    "name_en": "Deutsche Oper Berlin",
+    "city": "柏林",
+    "country": "德国",
+    "timezone": "Europe/Berlin",
+    "website": "https://www.deutscheoperberlin.de/",
+    "calendar_url": "https://www.deutscheoperberlin.de/en_EN/calendar",
+    "feeds": [],
+    "notes": "官网存在 event.json 接口但返回 500，参数/授权待确认后接入"
+  }
+]

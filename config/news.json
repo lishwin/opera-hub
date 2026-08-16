@@ -1,0 +1,96 @@
+{
+  "filter_keywords": [
+    "opera",
+    "oper",
+    "歌剧",
+    "soprano",
+    "tenor",
+    "baritone",
+    "mezzo",
+    "conductor",
+    "指挥",
+    "歌唱家",
+    "aria",
+    "recital",
+    "operatic",
+    "cast",
+    "debut",
+    "premiere",
+    "费加罗",
+    "魔笛",
+    "图兰朵",
+    "茶花女",
+    "卡门",
+    "托斯卡",
+    "阿依达",
+    "女武神",
+    "指环",
+    "帕西法尔",
+    "metropolitan opera",
+    "la scala",
+    "royal opera",
+    "wiener staatsoper",
+    "vienna state opera",
+    "paris opera",
+    "bayerische staatsoper",
+    "bayreuth",
+    "salzburg",
+    "glyndebourne",
+    "dudamel",
+    "netrebko",
+    "kaufmann",
+    "damrau",
+    "petrenko",
+    "muti",
+    "pappano",
+    "nelsons",
+    "和慧",
+    "hui he"
+  ],
+  "sources": [
+    {
+      "id": "operawire",
+      "name": "OperaWire",
+      "url": "https://operawire.com/feed/",
+      "enabled": true,
+      "language": "en"
+    },
+    {
+      "id": "parterre",
+      "name": "Parterre Box",
+      "url": "https://parterre.com/feed/",
+      "enabled": true,
+      "language": "en"
+    },
+    {
+      "id": "operatoday",
+      "name": "Opera Today",
+      "url": "https://www.operatoday.com/feed/",
+      "enabled": true,
+      "language": "en"
+    },
+    {
+      "id": "slippedisc",
+      "name": "Slipped Disc",
+      "url": "https://slippedisc.com/feed/",
+      "enabled": true,
+      "language": "en"
+    },
+    {
+      "id": "bachtrack",
+      "name": "Bachtrack",
+      "url": "",
+      "enabled": false,
+      "language": "en",
+      "note": "未发现公开 RSS，待从官网确认订阅链接"
+    },
+    {
+      "id": "guardian",
+      "name": "卫报古典音乐",
+      "url": "https://www.theguardian.com/music/classicalmusicandopera/rss",
+      "enabled": false,
+      "language": "en",
+      "note": "存在反爬限制，暂未通过测试"
+    }
+  ]
+}

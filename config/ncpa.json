@@ -1,0 +1,522 @@
+{
+  "name": "国家大剧院",
+  "name_en": "National Centre for the Performing Arts (NCPA)",
+  "updated": "2026-08-16",
+  "note": "国家大剧院歌剧制作与合作艺术家基础库。数据来源：国家大剧院官网（chncpa.org）及相关公开报道；按制作逐一收录主创与主演，艺术家名单可由 aliases 补充外文名。",
+  "aliases": {
+    "吕嘉": {"name_en": ["Lü Jia", "Lu Jia"], "category": "指挥"},
+    "张国勇": {"name_en": ["Zhang Guoyong"], "category": "指挥"},
+    "陈佐湟": {"name_en": ["Chen Zuohuang"], "category": "指挥"},
+    "袁丁": {"name_en": ["Yuan Ding"], "category": "指挥"},
+    "张艺": {"name_en": ["Zhang Yi"], "category": "指挥"},
+    "祖宾·梅塔": {"name_en": ["Zubin Mehta"], "category": "指挥"},
+    "尤金·柯恩": {"name_en": ["Eugene Kohn"], "category": "指挥"},
+    "皮埃尔·乔尔乔·莫兰迪": {"name_en": ["Pier Giorgio Morandi"], "category": "指挥"},
+    "马库斯·博施": {"name_en": ["Markus Bosch"], "category": "指挥"},
+    "乌戈·德·安纳": {"name_en": ["Hugo de Ana"], "category": "导演"},
+    "强卡洛·德·莫纳科": {"name_en": ["Giancarlo del Monaco"], "category": "导演"},
+    "吉尔伯特·德弗洛": {"name_en": ["Gilbert Deflo"], "category": "导演"},
+    "弗朗切斯科·米凯利": {"name_en": ["Francesco Micheli"], "category": "导演"},
+    "劳伦斯·戴尔": {"name_en": ["Lawrence Dale"], "category": "导演"},
+    "陈薪伊": {"name_en": ["Chen Xinyi"], "category": "导演"},
+    "曹其敬": {"name_en": ["Cao Qijing"], "category": "导演"},
+    "廖向红": {"name_en": ["Liao Xianghong"], "category": "导演"},
+    "易立明": {"name_en": ["Yi Liming"], "category": "导演"},
+    "田沁鑫": {"name_en": ["Tian Qinxin"], "category": "导演"},
+    "王晓鹰": {"name_en": ["Wang Xiaoying"], "category": "导演"},
+    "王筱頔": {"name_en": ["Wang Xiaodi"], "category": "导演"},
+    "李六乙": {"name_en": ["Li Liuyi"], "category": "导演"},
+    "杨笑阳": {"name_en": ["Yang Xiaoyang"], "category": "导演"},
+    "多明戈": {"name_en": ["Placido Domingo", "Plácido Domingo"], "category": "歌唱家"},
+    "和慧": {"name_en": ["Hui He"], "category": "歌唱家"},
+    "廖昌永": {"name_en": ["Liao Changyong"], "category": "歌唱家"},
+    "戴玉强": {"name_en": ["Dai Yuqiang"], "category": "歌唱家"},
+    "魏松": {"name_en": ["Wei Song"], "category": "歌唱家"},
+    "张立萍": {"name_en": ["Zhang Liping"], "category": "歌唱家"},
+    "孙秀苇": {"name_en": ["Sun Xiuwei"], "category": "歌唱家"},
+    "周晓琳": {"name_en": ["Zhou Xiaolin"], "category": "歌唱家"},
+    "田浩江": {"name_en": ["Tian Haojiang"], "category": "歌唱家"},
+    "王宏伟": {"name_en": ["Wang Hongwei"], "category": "歌唱家"},
+    "王喆": {"name_en": ["Wang Zhe"], "category": "歌唱家"},
+    "王丽达": {"name_en": ["Wang Lida"], "category": "歌唱家"},
+    "雷佳": {"name_en": ["Lei Jia"], "category": "歌唱家"},
+    "迪里拜尔": {"name_en": ["Dilber"], "category": "歌唱家"},
+    "吴碧霞": {"name_en": ["Wu Bixia"], "category": "歌唱家"},
+    "杨小勇": {"name_en": ["Yang Xiaoyong"], "category": "歌唱家"},
+    "阎维文": {"name_en": ["Yan Weiwen"], "category": "歌唱家"},
+    "韩蓬": {"name_en": ["Han Peng"], "category": "歌唱家"},
+    "宋元明": {"name_en": ["Song Yuanming"], "category": "歌唱家"},
+    "王凯": {"name_en": ["Wang Kai"], "category": "歌唱家"},
+    "王海涛": {"name_en": ["Wang Haitao"], "category": "歌唱家"},
+    "刘嵩虎": {"name_en": ["Liu Songhu"], "category": "歌唱家"},
+    "迟立明": {"name_en": ["Chi Liming"], "category": "歌唱家"},
+    "关致京": {"name_en": ["Guan Zhijing"], "category": "歌唱家"},
+    "龚爽": {"name_en": ["Gong Shuang"], "category": "歌唱家"},
+    "王鹤翔": {"name_en": ["Wang Hexiang"], "category": "歌唱家"},
+    "卢恰诺·冈奇": {"name_en": ["Luciano Ganci"], "category": "歌唱家"},
+    "豪尔赫·德·莱昂": {"name_en": ["Jorge de León", "Jorge de Leon"], "category": "歌唱家"},
+    "阿奎利斯·曼查多": {"name_en": ["Aquiles Machado"], "category": "歌唱家"},
+    "伊娃·约翰森": {"name_en": ["Eva Johansson"], "category": "歌唱家"},
+    "马丽娜·普鲁登丝卡雅": {"name_en": ["Marina Prudenskaja"], "category": "歌唱家"},
+    "卡洛斯·阿尔玛戈尔": {"name_en": ["Carlos Almaguer"], "category": "歌唱家"},
+    "苏珊娜·布朗齐尼": {"name_en": ["Susanna Branchini"], "category": "歌唱家"},
+    "袁晨野": {"name_en": ["Yuan Chenye"], "category": "歌唱家"},
+    "古斯塔沃·波尔塔": {"name_en": ["Gustavo Porta"], "category": "歌唱家"},
+    "郭文景": {"name_en": ["Guo Wenjing"], "category": "作曲家"},
+    "雷蕾": {"name_en": ["Lei Lei"], "category": "作曲家"},
+    "郝维亚": {"name_en": ["Hao Weiya"], "category": "作曲家"},
+    "印青": {"name_en": ["Yin Qing"], "category": "作曲家"},
+    "孟卫东": {"name_en": ["Meng Weidong"], "category": "作曲家"},
+    "张千一": {"name_en": ["Zhang Qianyi"], "category": "作曲家"},
+    "唐建平": {"name_en": ["Tang Jianping"], "category": "作曲家"},
+    "金湘": {"name_en": ["Jin Xiang"], "category": "作曲家"},
+    "邹静之": {"name_en": ["Zou Jingzhi"], "category": "编剧"},
+    "万方": {"name_en": ["Wan Fang"], "category": "编剧"},
+    "冯柏铭": {"name_en": ["Feng Baiming"], "category": "编剧"},
+    "冯必烈": {"name_en": ["Feng Bilie"], "category": "编剧"},
+    "徐瑛": {"name_en": ["Xu Ying"], "category": "编剧"},
+    "赵大鸣": {"name_en": ["Zhao Daming"], "category": "编剧"},
+    "黄维若": {"name_en": ["Huang Weiruo"], "category": "编剧"},
+    "董妮": {"name_en": ["Dong Ni"], "category": "编剧"},
+    "莫言": {"name_en": ["Mo Yan"], "category": "编剧"},
+    "刘恒": {"name_en": ["Liu Heng"], "category": "编剧"},
+    "易茗": {"name_en": ["Yi Ming"], "category": "编剧"},
+    "高广健": {"name_en": ["Gao Guangjian"], "category": "舞美设计"},
+    "刘杏林": {"name_en": ["Liu Xinglin"], "category": "舞美设计"},
+    "刘科栋": {"name_en": ["Liu Kedong"], "category": "舞美设计"},
+    "季乔": {"name_en": ["Ji Qiao"], "category": "舞美设计"},
+    "陈同勋": {"name_en": ["Chen Tongxun"], "category": "服装设计"},
+    "埃兹欧·弗里杰利奥": {"name_en": ["Ezio Frigerio"], "category": "舞美设计"},
+    "弗兰卡·斯夸尔恰皮诺": {"name_en": ["Franca Squarciapino"], "category": "服装设计"}
+  },
+  "productions": [
+    {
+      "id": "turandot-2008",
+      "year": 2008,
+      "title": "图兰朵",
+      "composer": "普契尼",
+      "type": "西方经典歌剧（国家大剧院版）",
+      "first_run": "2008-03-21",
+      "roles": {
+        "指挥": ["吕嘉"],
+        "导演": ["陈薪伊"],
+        "舞美设计": ["高广健"],
+        "续创作曲": ["郝维亚"]
+      },
+      "notes": "郝维亚续写 18 分钟结尾，为世界第三位《图兰朵》续写者；2021 年复排指挥为袁丁"
+    },
+    {
+      "id": "xishi-2009",
+      "year": 2009,
+      "title": "西施",
+      "composer": "雷蕾",
+      "type": "原创歌剧",
+      "first_run": "2009-10-29",
+      "roles": {
+        "作曲": ["雷蕾"],
+        "编剧": ["邹静之"],
+        "指挥": ["陈佐湟", "张国勇"],
+        "导演": ["曹其敬"],
+        "艺术指导": ["黄小曼"]
+      },
+      "cast": [
+        {"name": "张立萍"}, {"name": "徐晓英"}, {"name": "戴玉强"},
+        {"name": "魏松"}, {"name": "孙砾"}, {"name": "杨小勇"},
+        {"name": "吴碧霞"}, {"name": "熊郁菲"}
+      ],
+      "notes": "国家大剧院首部原创歌剧，与上海歌剧院联合制作"
+    },
+    {
+      "id": "shancunnvjiaoshi-2010",
+      "year": 2010,
+      "title": "山村女教师",
+      "composer": "郝维亚",
+      "type": "原创歌剧",
+      "first_run": "2010-01-01",
+      "roles": {
+        "作曲": ["郝维亚"],
+        "编剧": ["刘恒"],
+        "指挥": ["吕嘉"],
+        "导演": ["陈薪伊"]
+      },
+      "notes": "2021 年新版更名《夏日彩虹》，指挥张艺"
+    },
+    {
+      "id": "zhaoshiguer-2011",
+      "year": 2011,
+      "title": "赵氏孤儿",
+      "composer": "雷蕾",
+      "type": "原创歌剧",
+      "first_run": "2011-06-20",
+      "roles": {
+        "作曲": ["雷蕾"],
+        "编剧": ["邹静之"],
+        "指挥": ["吕嘉"],
+        "导演": ["陈薪伊"],
+        "舞美设计": ["高广健"]
+      }
+    },
+    {
+      "id": "yunheyao-2012",
+      "year": 2012,
+      "title": "运河谣",
+      "composer": "印青",
+      "type": "原创民族歌剧",
+      "first_run": "2012-06-21",
+      "roles": {
+        "作曲": ["印青"],
+        "编剧": ["黄维若", "董妮"],
+        "指挥": ["吕嘉"],
+        "导演": ["廖向红"],
+        "舞美设计": ["刘杏林"]
+      },
+      "cast": [
+        {"name": "雷佳"}, {"name": "王喆"}
+      ]
+    },
+    {
+      "id": "piaobodehelanren-2012",
+      "year": 2012,
+      "title": "漂泊的荷兰人",
+      "composer": "瓦格纳",
+      "type": "西方经典歌剧（国家大剧院版）",
+      "first_run": "2012-04-03",
+      "roles": {
+        "指挥": ["吕嘉"],
+        "导演": ["强卡洛·德·莫纳科"]
+      },
+      "cast": [
+        {"name": "伊娃·约翰森"}, {"name": "托马斯·卡则里"}, {"name": "简·亨德里克·鲁特林"}
+      ],
+      "notes": "国家大剧院乐团首次演出瓦格纳歌剧"
+    },
+    {
+      "id": "tuosika-2012",
+      "year": 2012,
+      "title": "托斯卡",
+      "composer": "普契尼",
+      "type": "西方经典歌剧（国家大剧院版）",
+      "first_run": "2012-04-19",
+      "roles": {
+        "指挥": ["吕嘉"],
+        "导演": ["强卡洛·德·莫纳科"]
+      },
+      "cast": [
+        {"name": "孙秀苇", "role": "托斯卡"},
+        {"name": "塞莉娅·克斯堤亚", "role": "托斯卡"},
+        {"name": "阿奎利斯·曼查多"},
+        {"name": "伦佐·祖利安"},
+        {"name": "阿尔贝托·马斯特罗马里诺"},
+        {"name": "章亚伦"}
+      ],
+      "notes": "国家大剧院首次携手导演强卡洛·德·莫纳科"
+    },
+    {
+      "id": "jiamianwuhui-2012",
+      "year": 2012,
+      "title": "假面舞会",
+      "composer": "威尔第",
+      "type": "西方经典歌剧（国家大剧院版）",
+      "first_run": "2012-05-24",
+      "roles": {
+        "指挥": ["吕嘉"],
+        "导演": ["乌戈·德·安纳"]
+      },
+      "cast": [
+        {"name": "和慧"}, {"name": "廖昌永"}, {"name": "张秋林"}
+      ],
+      "notes": "采用瑞典斯德哥尔摩版"
+    },
+    {
+      "id": "nabuke-2013",
+      "year": 2013,
+      "title": "纳布科",
+      "composer": "威尔第",
+      "type": "西方经典歌剧（国家大剧院版）",
+      "first_run": "2013-04-24",
+      "roles": {
+        "指挥": ["尤金·柯恩"],
+        "导演": ["吉尔伯特·德弗洛"],
+        "舞美设计": ["埃兹欧·弗里杰利奥"],
+        "服装设计": ["弗兰卡·斯夸尔恰皮诺"]
+      },
+      "cast": [
+        {"name": "多明戈", "role": "纳布科"}
+      ],
+      "notes": "多明戈中国歌剧首秀，挑战男中音角色"
+    },
+    {
+      "id": "aosailuo-2013",
+      "year": 2013,
+      "title": "奥赛罗",
+      "composer": "威尔第",
+      "type": "西方经典歌剧（国家大剧院版）",
+      "first_run": "2013-04-11",
+      "roles": {
+        "指挥": ["吕嘉"],
+        "导演": ["强卡洛·德·莫纳科"]
+      },
+      "cast": [
+        {"name": "古斯塔沃·波尔塔", "role": "奥赛罗"}
+      ],
+      "notes": "2014 年纪念莎翁诞辰复演，指挥皮埃尔·乔尔乔·莫兰迪"
+    },
+    {
+      "id": "bingshanshangdelaike-2014",
+      "year": 2014,
+      "title": "冰山上的来客",
+      "composer": "雷蕾",
+      "type": "原创歌剧",
+      "first_run": "2014-12-01",
+      "roles": {
+        "作曲": ["雷蕾"],
+        "编剧": ["易茗"],
+        "指挥": ["吕嘉"],
+        "导演": ["陈薪伊"]
+      },
+      "cast": [
+        {"name": "迪里拜尔"}, {"name": "艾尔肯·阿不都热依木"}, {"name": "杨小勇"}
+      ],
+      "notes": "国家大剧院“中国故事，国际制作”首举"
+    },
+    {
+      "id": "churi-2015",
+      "year": 2015,
+      "title": "日出",
+      "composer": "金湘",
+      "type": "原创歌剧",
+      "first_run": "2015-06-17",
+      "roles": {
+        "作曲": ["金湘"],
+        "编剧": ["万方"],
+        "导演": ["李六乙"]
+      },
+      "notes": "纪念曹禺《日出》发表八十周年，国家大剧院第七部原创歌剧"
+    },
+    {
+      "id": "fangzhimin-2015",
+      "year": 2015,
+      "title": "方志敏",
+      "composer": "孟卫东",
+      "type": "原创歌剧",
+      "first_run": "2015-12-24",
+      "roles": {
+        "作曲": ["孟卫东"],
+        "编剧": ["冯柏铭", "冯必烈"],
+        "导演": ["廖向红"],
+        "舞美设计": ["高广健"]
+      }
+    },
+    {
+      "id": "aluotuo-2014",
+      "year": 2014,
+      "title": "骆驼祥子",
+      "composer": "郭文景",
+      "type": "原创歌剧",
+      "first_run": "2014-06-25",
+      "roles": {
+        "作曲": ["郭文景"],
+        "编剧": ["徐瑛"],
+        "指挥": ["张国勇"],
+        "导演": ["易立明"]
+      },
+      "cast": [
+        {"name": "韩蓬", "role": "祥子"}, {"name": "张亚林", "role": "祥子"},
+        {"name": "王心", "role": "祥子"}, {"name": "孙秀苇", "role": "虎妞"},
+        {"name": "宋元明"}, {"name": "李欣桐"}, {"name": "田浩江"}, {"name": "王鹤翔"}
+      ],
+      "notes": "郭文景第一部国家大剧院委约歌剧"
+    },
+    {
+      "id": "changzheng-2016",
+      "year": 2016,
+      "title": "长征",
+      "composer": "印青",
+      "type": "原创歌剧",
+      "first_run": "2016-07-01",
+      "roles": {
+        "作曲": ["印青"],
+        "编剧": ["邹静之"],
+        "指挥": ["吕嘉"],
+        "导演": ["田沁鑫", "杨笑阳"]
+      },
+      "cast": [
+        {"name": "阎维文"}, {"name": "王宏伟"}, {"name": "迟立明"},
+        {"name": "刘嵩虎"}, {"name": "王喆"}, {"name": "王海涛"},
+        {"name": "王鹤翔"}, {"name": "龚爽"}, {"name": "关致京"},
+        {"name": "张龙"}, {"name": "李扬"}, {"name": "黄训国"},
+        {"name": "梁羽丰"}, {"name": "李欣桐"}, {"name": "王一凤"}
+      ],
+      "notes": "纪念中国工农红军长征胜利 80 周年"
+    },
+    {
+      "id": "jinshajiangpan-2017",
+      "year": 2017,
+      "title": "金沙江畔",
+      "composer": "雷蕾",
+      "type": "原创民族歌剧",
+      "first_run": "2017-07-28",
+      "roles": {
+        "作曲": ["雷蕾"],
+        "编剧": ["冯柏铭", "冯必烈"],
+        "指挥": ["张国勇"],
+        "导演": ["廖向红"]
+      },
+      "cast": [
+        {"name": "王凯"}, {"name": "王泽南"}, {"name": "王喆"},
+        {"name": "王丽达"}, {"name": "刘珊"}, {"name": "陈冠馥"},
+        {"name": "关致京"}, {"name": "黄延明"}, {"name": "王宏尧"}, {"name": "张卓"}
+      ]
+    },
+    {
+      "id": "lanhuahua-2017",
+      "year": 2017,
+      "title": "兰花花",
+      "composer": "张千一",
+      "type": "原创歌剧",
+      "first_run": "2017-10-01",
+      "roles": {
+        "作曲": ["张千一"],
+        "编剧": ["赵大鸣"],
+        "导演": ["陈薪伊"]
+      },
+      "notes": "以陕北民歌为素材，创作六年"
+    },
+    {
+      "id": "zhelidelimingjingqiao-2018",
+      "year": 2018,
+      "title": "这里的黎明静悄悄",
+      "composer": "唐建平",
+      "type": "原创歌剧",
+      "first_run": "2018-04-12",
+      "roles": {
+        "作曲": ["唐建平"],
+        "编剧": ["万方"],
+        "指挥": ["吕嘉"],
+        "导演": ["王晓鹰"]
+      },
+      "cast": [
+        {"name": "张扬"}
+      ],
+      "notes": "赴俄罗斯马林斯基剧院交流演出"
+    },
+    {
+      "id": "qingchunzhige-2023",
+      "year": 2023,
+      "title": "青春之歌",
+      "composer": "张千一",
+      "type": "原创歌剧",
+      "first_run": "2023-04-26",
+      "roles": {
+        "作曲": ["张千一"],
+        "编剧": ["赵大鸣"],
+        "指挥": ["吕嘉"],
+        "导演": ["王晓鹰"],
+        "舞美设计": ["刘科栋"]
+      },
+      "notes": "国家大剧院制作推出的第 100 部剧目"
+    },
+    {
+      "id": "honggaoliang-2025",
+      "year": 2025,
+      "title": "红高粱",
+      "composer": "郭文景",
+      "type": "原创民族歌剧",
+      "first_run": "2025-09-01",
+      "roles": {
+        "作曲": ["郭文景"],
+        "编剧": ["莫言"],
+        "指挥": ["张国勇"],
+        "导演": ["王筱頔"],
+        "舞美设计": ["季乔"],
+        "服装/造型设计": ["陈同勋"]
+      },
+      "cast": [
+        {"name": "宋元明", "role": "九儿"}, {"name": "乌列热", "role": "九儿"},
+        {"name": "王冲", "role": "余占鳌"}, {"name": "郭子照", "role": "余占鳌"},
+        {"name": "王鹤翔", "role": "刘罗汉"}, {"name": "张扬", "role": "刘罗汉"},
+        {"name": "赵丽丽", "role": "凤仙"}, {"name": "张文沁", "role": "凤仙"},
+        {"name": "李鳌", "role": "戴老三"}, {"name": "柴进", "role": "戴老三"},
+        {"name": "朱贺", "role": "任参谋"}, {"name": "李廷雷", "role": "任参谋"},
+        {"name": "梁羽丰", "role": "单扁郎"}, {"name": "谢昕宇", "role": "单扁郎"},
+        {"name": "杨广萌", "role": "翻译官"}, {"name": "陈亦昂", "role": "日军官"}
+      ],
+      "notes": "纪念抗战胜利 80 周年；莫言亲笔改编歌剧剧本"
+    },
+    {
+      "id": "yinyongshiren-2014",
+      "year": 2014,
+      "title": "游吟诗人",
+      "composer": "威尔第",
+      "type": "西方经典歌剧（国家大剧院版）",
+      "first_run": "2014-05-21",
+      "roles": {
+        "指挥": ["吕嘉"],
+        "导演": ["乌戈·德·安纳"]
+      },
+      "cast": [
+        {"name": "和慧", "role": "莱奥诺拉"},
+        {"name": "卢恰诺·冈奇", "role": "曼里科"},
+        {"name": "戴玉强"},
+        {"name": "周晓琳"},
+        {"name": "廖昌永", "role": "卢纳伯爵"}
+      ]
+    },
+    {
+      "id": "aida-2015",
+      "year": 2015,
+      "title": "阿依达",
+      "composer": "威尔第",
+      "type": "西方经典歌剧（国家大剧院版）",
+      "first_run": "2015-01-24",
+      "roles": {
+        "指挥": ["祖宾·梅塔"],
+        "导演": ["弗朗切斯科·米凯利"],
+        "舞美设计": ["埃兹欧·弗里杰利奥"]
+      },
+      "cast": [
+        {"name": "和慧", "role": "阿依达"},
+        {"name": "豪尔赫·德·莱昂"},
+        {"name": "戴玉强"},
+        {"name": "马丽娜·普鲁登丝卡雅"},
+        {"name": "杨光"},
+        {"name": "卡洛斯·阿尔玛戈尔"},
+        {"name": "袁晨野"},
+        {"name": "田浩江"},
+        {"name": "苏珊娜·布朗齐尼"}
+      ],
+      "notes": "国家大剧院制作的第 35 部歌剧"
+    },
+    {
+      "id": "qigefu-li-de-2026",
+      "year": 2026,
+      "title": "齐格弗里德",
+      "composer": "瓦格纳",
+      "type": "西方经典歌剧（国家大剧院版·指环系列）",
+      "first_run": "2026-05-01",
+      "roles": {
+        "指挥": ["马库斯·博施"],
+        "导演": ["劳伦斯·戴尔"],
+        "编舞": ["卡尔米内·德阿米西斯"]
+      },
+      "cast": [
+        {"name": "马格努斯·维吉利乌斯"}, {"name": "迈达·洪德林"},
+        {"name": "埃吉尔·西林斯"}, {"name": "阿诺德·贝聚延"},
+        {"name": "奥拉维尔·西于尔扎松"}
+      ],
+      "notes": "国家大剧院制作瓦格纳《指环》系列"
+    },
+    {
+      "id": "nuoerma-2026",
+      "year": 2026,
+      "title": "诺尔玛",
+      "composer": "贝利尼",
+      "type": "西方经典歌剧（国家大剧院版）",
+      "first_run": "2026-08-01",
+      "roles": {
+        "指挥": ["马可·阿里布兰多"],
+        "导演": ["皮耶·阿里"]
+      }
+    }
+  ]
+}

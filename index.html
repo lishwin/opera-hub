@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>世界歌剧院动态全览</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🎭 世界歌剧院动态全览</h1>
+    <p class="subtitle">演出排期 · 行业新闻 · 艺术家动态</p>
+    <div class="meta">最后更新：<span id="updated-at">—</span></div>
+  </header>
+
+  <main>
+    <section class="stats">
+      <div class="stat-card"><div class="stat-num" id="stat-houses">0</div><div class="stat-label">关注剧院</div></div>
+      <div class="stat-card"><div class="stat-num" id="stat-performances">0</div><div class="stat-label">排期演出</div></div>
+      <div class="stat-card"><div class="stat-num" id="stat-news">0</div><div class="stat-label">新闻条目</div></div>
+      <div class="stat-card"><div class="stat-num" id="stat-artists">0</div><div class="stat-label">关注艺术家</div></div>
+      <div class="stat-card"><div class="stat-num" id="stat-ncpa-artists">0</div><div class="stat-label">大剧院艺术家库</div></div>
+      <div class="stat-card"><div class="stat-num" id="stat-ncpa-productions">0</div><div class="stat-label">大剧院制作档案</div></div>
+    </section>
+
+    <section id="digest">
+      <h2>📰 今日日报</h2>
+      <div id="digest-body" class="card"></div>
+    </section>
+
+    <section id="performances">
+      <h2>🗓️ 未来 30 天演出</h2>
+      <div class="toolbar">
+        <input id="search" type="search" placeholder="搜索剧目 / 剧院 / 艺术家">
+        <select id="house-filter">
+          <option value="">全部剧院</option>
+        </select>
+      </div>
+      <div id="performance-list" class="card"></div>
+    </section>
+
+    <section id="news">
+      <h2>📣 最新新闻</h2>
+      <div id="news-list" class="card"></div>
+    </section>
+
+    <section id="artists">
+      <h2>🎤 艺术家关注榜</h2>
+      <div id="artist-list" class="grid"></div>
+    </section>
+
+    <section id="ncpa">
+      <h2>🏛️ 国家大剧院合作艺术家库</h2>
+      <p class="subtitle">大剧院过往歌剧制作中合作过的指挥、导演、歌唱家与主创；每日新闻若提及将特别标注。</p>
+      <div class="toolbar">
+        <input id="ncpa-search" type="search" placeholder="搜索艺术家 / 外文名 / 类别">
+      </div>
+      <div id="ncpa-artist-list" class="card"></div>
+    </section>
+  </main>
+
+  <footer>数据由每日定时任务自动采集整理 · 具体说明见 <a href="README.md">README</a></footer>
+  <script src="app.js"></script>
+</body>
+</html>

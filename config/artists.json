@@ -1,0 +1,79 @@
+[
+  {
+    "id": "gustavo-dudamel",
+    "name": "古斯塔沃·杜达梅尔",
+    "name_en": ["Gustavo Dudamel"],
+    "category": "指挥",
+    "keywords": ["Dudamel"]
+  },
+  {
+    "id": "riccardo-muti",
+    "name": "里卡多·穆蒂",
+    "name_en": ["Riccardo Muti"],
+    "category": "指挥",
+    "keywords": ["Muti"]
+  },
+  {
+    "id": "antonio-pappano",
+    "name": "安东尼奥·帕帕诺",
+    "name_en": ["Antonio Pappano"],
+    "category": "指挥",
+    "keywords": ["Pappano"]
+  },
+  {
+    "id": "kirill-petrenko",
+    "name": "基里尔·别特连科",
+    "name_en": ["Kirill Petrenko"],
+    "category": "指挥",
+    "keywords": ["Petrenko"]
+  },
+  {
+    "id": "anna-netrebko",
+    "name": "安娜·奈瑞贝科",
+    "name_en": ["Anna Netrebko"],
+    "category": "歌唱家",
+    "keywords": ["Netrebko"]
+  },
+  {
+    "id": "jonas-kaufmann",
+    "name": "乔纳斯·考夫曼",
+    "name_en": ["Jonas Kaufmann"],
+    "category": "歌唱家",
+    "keywords": ["Kaufmann"]
+  },
+  {
+    "id": "diana-damrau",
+    "name": "迪安娜·达姆娆",
+    "name_en": ["Diana Damrau"],
+    "category": "歌唱家",
+    "keywords": ["Damrau"]
+  },
+  {
+    "id": "piotr-beczala",
+    "name": "彼得·贝恰拉",
+    "name_en": ["Piotr Beczała", "Piotr Beczala"],
+    "category": "歌唱家",
+    "keywords": ["Beczala", "Becza"]
+  },
+  {
+    "id": "hui-he",
+    "name": "和慧",
+    "name_en": ["Hui He"],
+    "category": "歌唱家",
+    "keywords": ["和慧", "Hui He"]
+  },
+  {
+    "id": "dmitri-tcherniakov",
+    "name": "德米特里·切尔尼亚科夫",
+    "name_en": ["Dmitri Tcherniakov"],
+    "category": "导演",
+    "keywords": ["Tcherniakov"]
+  },
+  {
+    "id": "katie-mitchell",
+    "name": "凯蒂·米切尔",
+    "name_en": ["Katie Mitchell"],
+    "category": "导演",
+    "keywords": ["Katie Mitchell"]
+  }
+]
