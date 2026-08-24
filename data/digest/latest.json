@@ -1,135 +1,141 @@
 {
-  "date": "2026-08-23",
-  "generated_at": "2026-08-23T02:23:18+00:00",
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T02:21:37+00:00",
   "news": [
     {
-      "source": "Slipped Disc",
-      "title": "Violist steps out after 66 years in the Met Opera orchestra",
-      "url": "https://slippedisc.com/2026/08/violist-steps-out-after-66-years-in-the-met-opera-orchestra/?utm_source=rss&utm_medium=rss&utm_campaign=violist-steps-out-after-66-years-in-the-met-opera-orchestra",
-      "date": "2026-08-22"
+      "source": "Parterre Box",
+      "title": "Avert your AIs",
+      "url": "https://parterre.com/2026/08/23/avert-your-ais/",
+      "date": "2026-08-23"
     },
     {
       "source": "Slipped Disc",
-      "title": "An international tenor is beaten up in Austria",
-      "url": "https://slippedisc.com/2026/08/an-international-tenor-is-beaten-up-in-austria/?utm_source=rss&utm_medium=rss&utm_campaign=an-international-tenor-is-beaten-up-in-austria",
-      "date": "2026-08-22"
-    },
-    {
-      "source": "Slipped Disc",
-      "title": "Stalwart Berlin soprano, 97",
-      "url": "https://slippedisc.com/2026/08/stalwart-berlin-soprano-97/?utm_source=rss&utm_medium=rss&utm_campaign=stalwart-berlin-soprano-97",
-      "date": "2026-08-22"
-    },
-    {
-      "source": "Slipped Disc",
-      "title": "British mezzo-soprano, 102",
-      "url": "https://slippedisc.com/2026/08/british-mezzo-soprano-102/?utm_source=rss&utm_medium=rss&utm_campaign=british-mezzo-soprano-102",
-      "date": "2026-08-22"
+      "title": "Met’s oldest conductor dies",
+      "url": "https://slippedisc.com/2026/08/mets-oldest-conductor-dies/?utm_source=rss&utm_medium=rss&utm_campaign=mets-oldest-conductor-dies",
+      "date": "2026-08-23"
     },
     {
       "source": "OperaWire",
-      "title": "Anna Netrebko, Aigul Akhmetshina, Anthony Davis, Edward Nelson, Miles Mykkanen, Olga Kulchynska Lead New CD/DVD Releases",
-      "url": "https://operawire.com/anna-netrebko-aigul-akhmetshina-anthony-davis-edward-nelson-miles-mykkanen-olga-kulchynska-lead-new-cd-dvd-releases/",
-      "date": "2026-08-22"
+      "title": "Soraya Mafi & Anthony León Lead Dallas Opera’s ‘The Elixir of Love’",
+      "url": "https://operawire.com/soraya-mafi-anthony-leon-lead-dallas-operas-the-elixir-of-love/",
+      "date": "2026-08-23"
     },
     {
       "source": "OperaWire",
-      "title": "Q & A: Maria José Siri on Singing 200 Performances of ‘Aida’",
-      "url": "https://operawire.com/q-a-maria-jose-siri-on-singing-200-performances-of-aida/",
-      "date": "2026-08-22"
+      "title": "Dutch National Opera to Present ‘Cherry Town’",
+      "url": "https://operawire.com/dutch-national-opera-to-present-cherry-town/",
+      "date": "2026-08-23"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Anthony Roth Costanzo Headlines Frick Collection’s 2026–27 Concert Season",
+      "url": "https://operawire.com/anthony-roth-costanzo-headlines-frick-collections-2026-27-concert-season/",
+      "date": "2026-08-23"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Mezzo-Soprano Cashlin Oostindië Joins TACT Artists Management",
+      "url": "https://operawire.com/mezzo-soprano-cashlin-oostindie-joins-tact-artists-management/",
+      "date": "2026-08-23"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Ensemble for These Times (E4TT) Announces 2026-27 Season",
+      "url": "https://operawire.com/ensemble-for-these-times-e4tt-announces-2026-27-season/",
+      "date": "2026-08-23"
     }
   ],
   "ncpa": [],
   "schedule_updates": [
     {
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "house": "伦敦皇家歌剧院",
-      "title": "Sip and Sketch: Costume Design Tour",
-      "url": "https://www.rbo.org.uk/tickets-and-events/costume-design-tour-dates"
+      "title": "Children's Alice in Wonderland Adventure Tour",
+      "url": "https://www.rbo.org.uk/tickets-and-events/childrens-adventure-tour-dates"
     },
     {
-      "date": "2026-08-23",
+      "date": "2026-08-24",
+      "house": "伦敦皇家歌剧院",
+      "title": "Exhibition Tours",
+      "url": "https://www.rbo.org.uk/tickets-and-events/exhibition-tours-dates"
+    },
+    {
+      "date": "2026-08-24",
       "house": "伦敦皇家歌剧院",
       "title": "Behind the Scenes Tour",
       "url": "https://www.rbo.org.uk/tickets-and-events/roh-behind-the-scene-tour-dates"
     },
     {
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "house": "伦敦皇家歌剧院",
-      "title": "Tea and Tour",
-      "url": "https://www.rbo.org.uk/tickets-and-events/tea-and-tour-dates"
+      "title": "Beyond the Bridge Tour: Celebrating 100 Years of The Royal Ballet School",
+      "url": "https://www.rbo.org.uk/tickets-and-events/royal-ballet-school-tour-dates"
     },
     {
-      "date": "2026-08-23",
+      "date": "2026-08-24",
+      "house": "伦敦皇家歌剧院",
+      "title": "Summer exclusive: Extended behind the Scenes Tour",
+      "url": "https://www.rbo.org.uk/tickets-and-events/summer-exclusive-extended-behind-the-scenes-tour-dates"
+    },
+    {
+      "date": "2026-08-24",
+      "house": "伦敦皇家歌剧院",
+      "title": "The Magic and Macabre in Opera Tour",
+      "url": "https://www.rbo.org.uk/tickets-and-events/the-opera-tour-dates"
+    },
+    {
+      "date": "2026-08-24",
       "house": "萨尔茨堡音乐节",
-      "title": "Wiener Philharmoniker · Thielemann",
-      "url": "https://www.salzburgerfestspiele.at/p/wiener-philharmoniker-thielemann-2026"
+      "title": "Öffentliche Führung durch die Festspielhäuser in englischer Sprache",
+      "url": ""
     },
     {
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "house": "萨尔茨堡音乐节",
-      "title": "Mozart-Matinee · Antonini",
-      "url": "https://www.salzburgerfestspiele.at/p/mozart-matinee-antonini-2026"
+      "title": "The Living Archive",
+      "url": "https://www.salzburgerfestspiele.at/p/the-living-archive-2026"
     },
     {
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "house": "萨尔茨堡音乐节",
-      "title": "Wiener Philharmoniker · Thielemann (2026)",
-      "url": "https://www.salzburgerfestspiele.at/p/wiener-philharmoniker-thielemann-2026"
+      "title": "Strauss&#039; Ariadne auf Naxos: Ein Kaleidoskop der Musikgeschichte",
+      "url": ""
     },
     {
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "house": "萨尔茨堡音乐节",
-      "title": "Wir spielen Oper!",
-      "url": "https://www.salzburgerfestspiele.at/p/wir-spielen-oper-2026"
+      "title": "Stroneggers Sommergäste – Siegbert Stronegger im Gespräch mit Mavie Hörbiger",
+      "url": ""
     },
     {
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "house": "萨尔茨堡音乐节",
-      "title": "King Arthur Junior (Henry Purcell)",
-      "url": "https://www.salzburgerfestspiele.at/p/king-arthur-2026"
+      "title": "Öffentliche Führung durch die Festspielhäuser in deutscher Sprache",
+      "url": ""
     },
     {
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "house": "萨尔茨堡音乐节",
-      "title": "Saint François d’Assise (Olivier Messiaen)",
-      "url": "https://www.salzburgerfestspiele.at/p/saint-francois-dassise-2026"
+      "title": "Jedermann (Hugo von Hofmannsthal)",
+      "url": "https://www.salzburgerfestspiele.at/p/jedermann-2026"
     },
     {
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "house": "萨尔茨堡音乐节",
-      "title": "Refektorium - Pausenrestaurant Saint François d’Assise",
-      "url": "https://www.salzburgerfestspiele.at/p/refektorium-pausenrestaurant-saint-francois-dassise-2026"
+      "title": "Unter Tieren (Elfriede Jelinek)",
+      "url": "https://www.salzburgerfestspiele.at/p/unter-tieren-2026"
     },
     {
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "house": "萨尔茨堡音乐节",
-      "title": "Der Menschenfeind (Molière)",
-      "url": "https://www.salzburgerfestspiele.at/p/der-menschenfeind-2026"
+      "title": "Ariadne auf Naxos (Richard Strauss)",
+      "url": "https://www.salzburgerfestspiele.at/p/ariadne-auf-naxos-2026"
     },
     {
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "house": "萨尔茨堡音乐节",
-      "title": "Angelika Prokopp Sommerakademie der Wiener Philharmoniker — Kammerkonzert",
-      "url": "https://www.salzburgerfestspiele.at/p/angelika-prokopp-sommerakademie-der-wiener-philharmoniker-kammerkonzert-2026"
-    },
-    {
-      "date": "2026-08-23",
-      "house": "萨尔茨堡音乐节",
-      "title": "Berliner Philharmoniker 1 · Petrenko",
-      "url": "https://www.salzburgerfestspiele.at/p/berliner-philharmoniker-1-petrenko-2026"
-    },
-    {
-      "date": "2026-08-23",
-      "house": "芝加哥抒情歌剧院",
-      "title": "Sunday in the Park with Lyric",
-      "url": "https://www.lyricopera.org/shows/upcoming/lyric-opera/sunday-in-the-park-with-lyric/"
-    },
-    {
-      "date": "2026-08-23",
-      "house": "悉尼歌剧院",
-      "title": "Tchaikovsky’s First Piano Concerto",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/tchaikovsky-first-piano-concerto"
+      "title": "Berliner Philharmoniker 2 · Petrenko",
+      "url": "https://www.salzburgerfestspiele.at/p/berliner-philharmoniker-2-petrenko-2026"
     }
   ],
   "artists": [
@@ -154,18 +160,6 @@
           "title": "Kirill Petrenko / Berliner Philharmoniker (Guest orchestras subscritpion)",
           "url": "https://www.teatroallascala.org/en/season/2026-2027/concerts/guest-orchestras/berliner-philharmoniker-kirill-petrenko.html",
           "date": "2027-11-15"
-        }
-      ]
-    },
-    {
-      "name": "安娜·奈瑞贝科",
-      "category": "歌唱家",
-      "mentions": [
-        {
-          "type": "新闻",
-          "title": "Anna Netrebko, Aigul Akhmetshina, Anthony Davis, Edward Nelson, Miles Mykkanen, Olga Kulchynska Lead New CD/DVD Releases",
-          "url": "https://operawire.com/anna-netrebko-aigul-akhmetshina-anthony-davis-edward-nelson-miles-mykkanen-olga-kulchynska-lead-new-cd-dvd-releases/",
-          "date": "2026-08-22T04:31:09+00:00"
         }
       ]
     },
@@ -220,94 +214,94 @@
   ],
   "upcoming_7": [
     {
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "house": "伦敦皇家歌剧院",
-      "title": "Sip and Sketch: Costume Design Tour",
-      "url": "https://www.rbo.org.uk/tickets-and-events/costume-design-tour-dates"
+      "title": "Children's Alice in Wonderland Adventure Tour",
+      "url": "https://www.rbo.org.uk/tickets-and-events/childrens-adventure-tour-dates"
     },
     {
-      "date": "2026-08-23",
+      "date": "2026-08-24",
+      "house": "伦敦皇家歌剧院",
+      "title": "Exhibition Tours",
+      "url": "https://www.rbo.org.uk/tickets-and-events/exhibition-tours-dates"
+    },
+    {
+      "date": "2026-08-24",
       "house": "伦敦皇家歌剧院",
       "title": "Behind the Scenes Tour",
       "url": "https://www.rbo.org.uk/tickets-and-events/roh-behind-the-scene-tour-dates"
     },
     {
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "house": "伦敦皇家歌剧院",
-      "title": "Tea and Tour",
-      "url": "https://www.rbo.org.uk/tickets-and-events/tea-and-tour-dates"
+      "title": "Beyond the Bridge Tour: Celebrating 100 Years of The Royal Ballet School",
+      "url": "https://www.rbo.org.uk/tickets-and-events/royal-ballet-school-tour-dates"
     },
     {
-      "date": "2026-08-23",
+      "date": "2026-08-24",
+      "house": "伦敦皇家歌剧院",
+      "title": "Summer exclusive: Extended behind the Scenes Tour",
+      "url": "https://www.rbo.org.uk/tickets-and-events/summer-exclusive-extended-behind-the-scenes-tour-dates"
+    },
+    {
+      "date": "2026-08-24",
+      "house": "伦敦皇家歌剧院",
+      "title": "The Magic and Macabre in Opera Tour",
+      "url": "https://www.rbo.org.uk/tickets-and-events/the-opera-tour-dates"
+    },
+    {
+      "date": "2026-08-24",
       "house": "萨尔茨堡音乐节",
-      "title": "Wiener Philharmoniker · Thielemann",
-      "url": "https://www.salzburgerfestspiele.at/p/wiener-philharmoniker-thielemann-2026"
+      "title": "Öffentliche Führung durch die Festspielhäuser in englischer Sprache",
+      "url": ""
     },
     {
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "house": "萨尔茨堡音乐节",
-      "title": "Mozart-Matinee · Antonini",
-      "url": "https://www.salzburgerfestspiele.at/p/mozart-matinee-antonini-2026"
+      "title": "The Living Archive",
+      "url": "https://www.salzburgerfestspiele.at/p/the-living-archive-2026"
     },
     {
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "house": "萨尔茨堡音乐节",
-      "title": "Wiener Philharmoniker · Thielemann (2026)",
-      "url": "https://www.salzburgerfestspiele.at/p/wiener-philharmoniker-thielemann-2026"
+      "title": "Strauss&#039; Ariadne auf Naxos: Ein Kaleidoskop der Musikgeschichte",
+      "url": ""
     },
     {
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "house": "萨尔茨堡音乐节",
-      "title": "Wir spielen Oper!",
-      "url": "https://www.salzburgerfestspiele.at/p/wir-spielen-oper-2026"
+      "title": "Stroneggers Sommergäste – Siegbert Stronegger im Gespräch mit Mavie Hörbiger",
+      "url": ""
     },
     {
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "house": "萨尔茨堡音乐节",
-      "title": "King Arthur Junior (Henry Purcell)",
-      "url": "https://www.salzburgerfestspiele.at/p/king-arthur-2026"
+      "title": "Öffentliche Führung durch die Festspielhäuser in deutscher Sprache",
+      "url": ""
     },
     {
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "house": "萨尔茨堡音乐节",
-      "title": "Saint François d’Assise (Olivier Messiaen)",
-      "url": "https://www.salzburgerfestspiele.at/p/saint-francois-dassise-2026"
+      "title": "Jedermann (Hugo von Hofmannsthal)",
+      "url": "https://www.salzburgerfestspiele.at/p/jedermann-2026"
     },
     {
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "house": "萨尔茨堡音乐节",
-      "title": "Refektorium - Pausenrestaurant Saint François d’Assise",
-      "url": "https://www.salzburgerfestspiele.at/p/refektorium-pausenrestaurant-saint-francois-dassise-2026"
+      "title": "Unter Tieren (Elfriede Jelinek)",
+      "url": "https://www.salzburgerfestspiele.at/p/unter-tieren-2026"
     },
     {
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "house": "萨尔茨堡音乐节",
-      "title": "Der Menschenfeind (Molière)",
-      "url": "https://www.salzburgerfestspiele.at/p/der-menschenfeind-2026"
+      "title": "Ariadne auf Naxos (Richard Strauss)",
+      "url": "https://www.salzburgerfestspiele.at/p/ariadne-auf-naxos-2026"
     },
     {
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "house": "萨尔茨堡音乐节",
-      "title": "Angelika Prokopp Sommerakademie der Wiener Philharmoniker — Kammerkonzert",
-      "url": "https://www.salzburgerfestspiele.at/p/angelika-prokopp-sommerakademie-der-wiener-philharmoniker-kammerkonzert-2026"
-    },
-    {
-      "date": "2026-08-23",
-      "house": "萨尔茨堡音乐节",
-      "title": "Berliner Philharmoniker 1 · Petrenko",
-      "url": "https://www.salzburgerfestspiele.at/p/berliner-philharmoniker-1-petrenko-2026"
-    },
-    {
-      "date": "2026-08-23",
-      "house": "芝加哥抒情歌剧院",
-      "title": "Sunday in the Park with Lyric",
-      "url": "https://www.lyricopera.org/shows/upcoming/lyric-opera/sunday-in-the-park-with-lyric/"
-    },
-    {
-      "date": "2026-08-23",
-      "house": "悉尼歌剧院",
-      "title": "Tchaikovsky’s First Piano Concerto",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/tchaikovsky-first-piano-concerto"
+      "title": "Berliner Philharmoniker 2 · Petrenko",
+      "url": "https://www.salzburgerfestspiele.at/p/berliner-philharmoniker-2-petrenko-2026"
     }
   ]
 }
