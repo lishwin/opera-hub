@@ -51,7 +51,7 @@
         "date": "2026-08-27T04:00:16+00:00"
       }
     ],
-    "last_updated": "2026-08-28T12:28:11+00:00"
+    "last_updated": "2026-08-29T07:41:27+00:00"
   },
   {
     "id": "riccardo-muti",
@@ -85,9 +85,21 @@
         "title": "Muti cancels for sudden surgery",
         "url": "https://slippedisc.com/2026/08/muti-cancels-for-sudden-surgery/?utm_source=rss&utm_medium=rss&utm_campaign=muti-cancels-for-sudden-surgery",
         "date": "2026-08-27T11:16:31+00:00"
+      },
+      {
+        "type": "新闻",
+        "title": "Riccardo Muti Cancels Grafenegg Festival Concert Due to Medical Procedure",
+        "url": "https://operawire.com/riccardo-muti-cancels-grafenegg-festival-concert-due-to-medical-procedure/",
+        "date": "2026-08-28T15:56:37+00:00"
+      },
+      {
+        "type": "新闻",
+        "title": "Riccardo Muti’s Villa Verdi Concert Canceled",
+        "url": "https://operawire.com/riccardo-mutis-villa-verdi-concert-canceled/",
+        "date": "2026-08-28T15:56:12+00:00"
       }
     ],
-    "last_updated": "2026-08-28T12:28:11+00:00"
+    "last_updated": "2026-08-29T07:41:27+00:00"
   },
   {
     "id": "kirill-petrenko",
@@ -117,7 +129,7 @@
         "date": "2027-11-15"
       }
     ],
-    "last_updated": "2026-08-28T12:28:11+00:00"
+    "last_updated": "2026-08-29T07:41:27+00:00"
   },
   {
     "id": "diana-damrau",
@@ -135,7 +147,7 @@
         "date": "2027-06-13"
       }
     ],
-    "last_updated": "2026-08-28T12:28:11+00:00"
+    "last_updated": "2026-08-29T07:41:27+00:00"
   },
   {
     "id": "piotr-beczala",
@@ -153,7 +165,7 @@
         "date": "2026-08-27T08:31:02+00:00"
       }
     ],
-    "last_updated": "2026-08-28T12:28:11+00:00"
+    "last_updated": "2026-08-29T07:41:27+00:00"
   },
   {
     "id": "antonio-pappano",
@@ -181,8 +193,14 @@
         "title": "Anna Netrebko, Jonas Kaufmann & Luca Salsi to Join Forces with Riccardo Frizza for ‘Aida’",
         "url": "https://operawire.com/anna-netrebko-jonas-kaufmann-luca-salsi-to-join-forces-with-riccardo-frizza-for-aida/",
         "date": "2026-08-25T15:35:22+00:00"
+      },
+      {
+        "type": "新闻",
+        "title": "Anna Netrebko to Return to Arena di Verona in 2027",
+        "url": "https://operawire.com/anna-netrebko-to-return-to-arena-di-verona-in-2027/",
+        "date": "2026-08-28T21:26:11+00:00"
       }
     ],
-    "last_updated": "2026-08-26T02:26:06+00:00"
+    "last_updated": "2026-08-29T07:41:27+00:00"
   }
 ]
