@@ -1,94 +1,28 @@
 {
-  "date": "2026-09-06",
-  "generated_at": "2026-09-06T05:27:05+00:00",
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T05:37:22+00:00",
   "news": [
     {
       "source": "OperaWire",
-      "title": "Canadian Opera Company Announces Free Concert Series",
-      "url": "https://operawire.com/canadian-opera-company-announces-free-concert-series-3/",
-      "date": "2026-09-06"
+      "title": "The Bach Choir of Bethlehem Unveils 2026-27 Season",
+      "url": "https://operawire.com/the-bach-choir-of-bethlehem-unveils-2026-27-season/",
+      "date": "2026-09-07"
     },
     {
       "source": "OperaWire",
-      "title": "Luis Ledesma Joins Encompass Arts for Worldwide Representation",
-      "url": "https://operawire.com/luis-ledesma-joins-encompass-arts-for-worldwide-representation/",
-      "date": "2026-09-06"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Opera Company of Middlebury Unveils Fall 2026 Season",
-      "url": "https://operawire.com/opera-company-of-middlebury-unveils-fall-2026-season/",
+      "title": "7th International Ottavio Garaventa Competition Schedule Unveiled",
+      "url": "https://operawire.com/7th-international-ottavio-garaventa-competition-schedule-unveiled/",
       "date": "2026-09-06"
     },
     {
       "source": "Slipped Disc",
-      "title": "Opera postpones season because bits are falling off",
-      "url": "https://slippedisc.com/2026/09/opera-postpones-season-because-bits-are-falling-off/?utm_source=rss&utm_medium=rss&utm_campaign=opera-postpones-season-because-bits-are-falling-off",
-      "date": "2026-09-05"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Opera Saratoga General and Artistic Director Mary Birnbaum to Transition into Advisory Role",
-      "url": "https://operawire.com/opera-saratoga-general-and-artistic-director-mary-birnbaum-to-transition-into-advisory-role/",
-      "date": "2026-09-05"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Olivia Warburton Joins Keynote Artist Management",
-      "url": "https://operawire.com/olivia-warburton-joins-keynote-artist-management/",
-      "date": "2026-09-05"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Marcelo Lombardero Joins the Roster of GoDirect AM",
-      "url": "https://operawire.com/marcelo-lombardero-joins-the-roster-of-godirect-am/",
-      "date": "2026-09-05"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Opera Crown, Tbilisi International Voice Competition Announces Fifth Edition",
-      "url": "https://operawire.com/opera-crown-tbilisi-international-voice-competition-announces-fifth-edition/",
-      "date": "2026-09-05"
+      "title": "When Chicago prohibited encores",
+      "url": "https://slippedisc.com/2026/09/when-chicago-banned-encores/?utm_source=rss&utm_medium=rss&utm_campaign=when-chicago-banned-encores",
+      "date": "2026-09-06"
     }
   ],
   "ncpa": [],
   "schedule_updates": [
-    {
-      "date": "2026-09-06",
-      "house": "伦敦皇家歌剧院",
-      "title": "Behind the Scenes Tour",
-      "url": "https://www.rbo.org.uk/tickets-and-events/roh-behind-the-scene-tour-dates"
-    },
-    {
-      "date": "2026-09-06",
-      "house": "维也纳国家歌剧院",
-      "title": "Opern Air",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/opern-air/2026-09-06/"
-    },
-    {
-      "date": "2026-09-06",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Festival MITO SettembreMusica / Simone Young / War Requiem",
-      "url": "https://www.teatroallascala.org/en/season/2026-2027/concerts/visiting-italian-musical-institutions/festival-mito-settembremusica-simone-young-war-requiem.html"
-    },
-    {
-      "date": "2026-09-06",
-      "house": "萨尔茨堡音乐节",
-      "title": "Pittsburgh Symphony Orchestra · Honeck (2026)",
-      "url": "https://www.salzburgerfestspiele.at/p/pittsburgh-symphony-orchestra-honeck-2026"
-    },
-    {
-      "date": "2026-09-06",
-      "house": "悉尼歌剧院",
-      "title": "Thomas Dunford",
-      "url": "https://www.sydneyoperahouse.com/utzon-music/thomas-dunford"
-    },
-    {
-      "date": "2026-09-06",
-      "house": "悉尼歌剧院",
-      "title": "ROMCA: Anniversary X",
-      "url": "https://www.sydneyoperahouse.com/classical-music/romca-anniversary-x"
-    },
     {
       "date": "2026-09-07",
       "house": "维也纳国家歌剧院",
@@ -142,6 +76,42 @@
       "house": "米兰斯卡拉歌剧院",
       "title": "Stresa Festival | Closing Concert of the 65th Edition",
       "url": "https://www.teatroallascala.org/en/season/2026-2027/concerts/visiting-italian-musical-institutions/stresa-festival-closing-concert-of-the-65th-edition.html"
+    },
+    {
+      "date": "2026-09-09",
+      "house": "巴黎歌剧院",
+      "title": "Perle noire : méditations pour Joséphine",
+      "url": "https://www.operadeparis.fr/saison-26-27/opera/perle-noire-meditations-pour-josephine"
+    },
+    {
+      "date": "2026-09-09",
+      "house": "萨尔茨堡音乐节",
+      "title": "Öffentliche Führung durch die Festspielhäuser in englischer Sprache",
+      "url": ""
+    },
+    {
+      "date": "2026-09-09",
+      "house": "萨尔茨堡音乐节",
+      "title": "Öffentliche Führung durch die Festspielhäuser in deutscher Sprache",
+      "url": ""
+    },
+    {
+      "date": "2026-09-09",
+      "house": "悉尼歌剧院",
+      "title": "Mozart’s Requiem with Stephen Layton",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/mozart-requiem-stephen-layton"
+    },
+    {
+      "date": "2026-09-10",
+      "house": "伦敦皇家歌剧院",
+      "title": "Don Giovanni",
+      "url": "https://www.rbo.org.uk/production/don-giovanni-kasper-holten"
+    },
+    {
+      "date": "2026-09-10",
+      "house": "伦敦皇家歌剧院",
+      "title": "Behind the Scenes Tour",
+      "url": "https://www.rbo.org.uk/tickets-and-events/roh-behind-the-scene-tour-dates"
     }
   ],
   "artists": [
@@ -226,42 +196,6 @@
   ],
   "upcoming_7": [
     {
-      "date": "2026-09-06",
-      "house": "伦敦皇家歌剧院",
-      "title": "Behind the Scenes Tour",
-      "url": "https://www.rbo.org.uk/tickets-and-events/roh-behind-the-scene-tour-dates"
-    },
-    {
-      "date": "2026-09-06",
-      "house": "维也纳国家歌剧院",
-      "title": "Opern Air",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/opern-air/2026-09-06/"
-    },
-    {
-      "date": "2026-09-06",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Festival MITO SettembreMusica / Simone Young / War Requiem",
-      "url": "https://www.teatroallascala.org/en/season/2026-2027/concerts/visiting-italian-musical-institutions/festival-mito-settembremusica-simone-young-war-requiem.html"
-    },
-    {
-      "date": "2026-09-06",
-      "house": "萨尔茨堡音乐节",
-      "title": "Pittsburgh Symphony Orchestra · Honeck (2026)",
-      "url": "https://www.salzburgerfestspiele.at/p/pittsburgh-symphony-orchestra-honeck-2026"
-    },
-    {
-      "date": "2026-09-06",
-      "house": "悉尼歌剧院",
-      "title": "Thomas Dunford",
-      "url": "https://www.sydneyoperahouse.com/utzon-music/thomas-dunford"
-    },
-    {
-      "date": "2026-09-06",
-      "house": "悉尼歌剧院",
-      "title": "ROMCA: Anniversary X",
-      "url": "https://www.sydneyoperahouse.com/classical-music/romca-anniversary-x"
-    },
-    {
       "date": "2026-09-07",
       "house": "维也纳国家歌剧院",
       "title": "Don Carlo (Giuseppe Verdi)",
@@ -314,6 +248,42 @@
       "house": "米兰斯卡拉歌剧院",
       "title": "Stresa Festival | Closing Concert of the 65th Edition",
       "url": "https://www.teatroallascala.org/en/season/2026-2027/concerts/visiting-italian-musical-institutions/stresa-festival-closing-concert-of-the-65th-edition.html"
+    },
+    {
+      "date": "2026-09-09",
+      "house": "巴黎歌剧院",
+      "title": "Perle noire : méditations pour Joséphine",
+      "url": "https://www.operadeparis.fr/saison-26-27/opera/perle-noire-meditations-pour-josephine"
+    },
+    {
+      "date": "2026-09-09",
+      "house": "萨尔茨堡音乐节",
+      "title": "Öffentliche Führung durch die Festspielhäuser in englischer Sprache",
+      "url": ""
+    },
+    {
+      "date": "2026-09-09",
+      "house": "萨尔茨堡音乐节",
+      "title": "Öffentliche Führung durch die Festspielhäuser in deutscher Sprache",
+      "url": ""
+    },
+    {
+      "date": "2026-09-09",
+      "house": "悉尼歌剧院",
+      "title": "Mozart’s Requiem with Stephen Layton",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/mozart-requiem-stephen-layton"
+    },
+    {
+      "date": "2026-09-10",
+      "house": "伦敦皇家歌剧院",
+      "title": "Don Giovanni",
+      "url": "https://www.rbo.org.uk/production/don-giovanni-kasper-holten"
+    },
+    {
+      "date": "2026-09-10",
+      "house": "伦敦皇家歌剧院",
+      "title": "Behind the Scenes Tour",
+      "url": "https://www.rbo.org.uk/tickets-and-events/roh-behind-the-scene-tour-dates"
     }
   ]
 }
