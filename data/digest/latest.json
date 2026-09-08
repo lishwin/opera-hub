@@ -1,40 +1,76 @@
 {
-  "date": "2026-09-07",
-  "generated_at": "2026-09-07T05:37:22+00:00",
+  "date": "2026-09-08",
+  "generated_at": "2026-09-08T05:34:05+00:00",
   "news": [
     {
       "source": "OperaWire",
-      "title": "The Bach Choir of Bethlehem Unveils 2026-27 Season",
-      "url": "https://operawire.com/the-bach-choir-of-bethlehem-unveils-2026-27-season/",
+      "title": "Michal Oren Wins 2026 Evgeny Svetlanov International Conducting Competition",
+      "url": "https://operawire.com/michal-oren-wins-2026-evgeny-svetlanov-international-conducting-competition/",
+      "date": "2026-09-08"
+    },
+    {
+      "source": "OperaWire",
+      "title": "UAE National Orchestra and Choir to Present ‘To This Land, We Belong’",
+      "url": "https://operawire.com/uae-national-orchestra-and-choir-to-present-to-this-land-we-belong/",
+      "date": "2026-09-08"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Marshall Opera to Celebrate Adolphus Hailstork’s 85th Birthday",
+      "url": "https://operawire.com/marshall-opera-to-celebrate-adolphus-hailstorks-85th-birthday/",
+      "date": "2026-09-08"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Anna Netrebko’s Defamation Complaint Against the Metropolitan Opera & Peter Gelb Dismissed",
+      "url": "https://operawire.com/anna-netrebkos-defamation-complaint-against-the-metropolitan-opera-peter-gelb-dismissed/",
       "date": "2026-09-07"
     },
     {
       "source": "OperaWire",
-      "title": "7th International Ottavio Garaventa Competition Schedule Unveiled",
-      "url": "https://operawire.com/7th-international-ottavio-garaventa-competition-schedule-unveiled/",
-      "date": "2026-09-06"
+      "title": "Teatro Comunale di Ferrara to Pick Cast for ‘Un Ballo in Maschera’ Through ‘Cantante 5.0’ Program",
+      "url": "https://operawire.com/teatro-comunale-di-ferrara-to-pick-cast-for-un-ballo-in-maschera-through-cantante-5-0-program/",
+      "date": "2026-09-07"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Liv Repath & Brandon Victor Dixon to Headline MUSE/IQUE’s ‘American Sound Takes Flight: From Aaron Copland to Paul Simon, Our Musical Pursuit of Happiness’",
+      "url": "https://operawire.com/liv-repath-brandon-victor-dixon-to-headline-muse-iques-american-sound-takes-flight-from-aaron-copland-to-paul-simon-our-musical-pursuit-of-happiness/",
+      "date": "2026-09-07"
+    },
+    {
+      "source": "OperaWire",
+      "title": "San Francisco Opera Orchestra Shares Update on Contract Negotiations",
+      "url": "https://operawire.com/san-francisco-opera-orchestra-shares-update-on-contract-negotiations/",
+      "date": "2026-09-07"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Israeli Opera Announces New Management Team",
+      "url": "https://operawire.com/israeli-opera-announces-new-management-team/",
+      "date": "2026-09-07"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Éva Marton International Singing Competition Announces 2026 Winners",
+      "url": "https://operawire.com/eva-marton-international-singing-competition-announces-2026-winners/",
+      "date": "2026-09-07"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Musikfest Berlin 2026 Review: La Sainte Face",
+      "url": "https://operawire.com/musikfest-berlin-2026-review-la-sainte-face/",
+      "date": "2026-09-07"
     },
     {
       "source": "Slipped Disc",
-      "title": "When Chicago prohibited encores",
-      "url": "https://slippedisc.com/2026/09/when-chicago-banned-encores/?utm_source=rss&utm_medium=rss&utm_campaign=when-chicago-banned-encores",
-      "date": "2026-09-06"
+      "title": "Paris Opéra rolls its own orchestra",
+      "url": "https://slippedisc.com/2026/09/paris-opera-rolls-its-own-orchestra/?utm_source=rss&utm_medium=rss&utm_campaign=paris-opera-rolls-its-own-orchestra",
+      "date": "2026-09-07"
     }
   ],
   "ncpa": [],
   "schedule_updates": [
-    {
-      "date": "2026-09-07",
-      "house": "维也纳国家歌剧院",
-      "title": "Don Carlo (Giuseppe Verdi)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/don-carlo/2026-09-07/"
-    },
-    {
-      "date": "2026-09-07",
-      "house": "悉尼歌剧院",
-      "title": "Open Rehearsal with Stephen Layton",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/open-rehearsal-stephen-layton"
-    },
     {
       "date": "2026-09-08",
       "house": "伦敦皇家歌剧院",
@@ -112,6 +148,18 @@
       "house": "伦敦皇家歌剧院",
       "title": "Behind the Scenes Tour",
       "url": "https://www.rbo.org.uk/tickets-and-events/roh-behind-the-scene-tour-dates"
+    },
+    {
+      "date": "2026-09-10",
+      "house": "维也纳国家歌剧院",
+      "title": "Don Carlo (Giuseppe Verdi)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/don-carlo/2026-09-10/"
+    },
+    {
+      "date": "2026-09-10",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "L’elisir d’amore (Gaetano Donizetti)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/l-elisir-d-amore.html"
     }
   ],
   "artists": [
@@ -136,6 +184,18 @@
           "title": "Kirill Petrenko / Berliner Philharmoniker (Guest orchestras subscritpion)",
           "url": "https://www.teatroallascala.org/en/season/2026-2027/concerts/guest-orchestras/berliner-philharmoniker-kirill-petrenko.html",
           "date": "2027-11-15"
+        }
+      ]
+    },
+    {
+      "name": "安娜·奈瑞贝科",
+      "category": "歌唱家",
+      "mentions": [
+        {
+          "type": "新闻",
+          "title": "Anna Netrebko’s Defamation Complaint Against the Metropolitan Opera & Peter Gelb Dismissed",
+          "url": "https://operawire.com/anna-netrebkos-defamation-complaint-against-the-metropolitan-opera-peter-gelb-dismissed/",
+          "date": "2026-09-07T20:51:53+00:00"
         }
       ]
     },
@@ -196,18 +256,6 @@
   ],
   "upcoming_7": [
     {
-      "date": "2026-09-07",
-      "house": "维也纳国家歌剧院",
-      "title": "Don Carlo (Giuseppe Verdi)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/don-carlo/2026-09-07/"
-    },
-    {
-      "date": "2026-09-07",
-      "house": "悉尼歌剧院",
-      "title": "Open Rehearsal with Stephen Layton",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/open-rehearsal-stephen-layton"
-    },
-    {
       "date": "2026-09-08",
       "house": "伦敦皇家歌剧院",
       "title": "Insights: Parsifal",
@@ -284,6 +332,18 @@
       "house": "伦敦皇家歌剧院",
       "title": "Behind the Scenes Tour",
       "url": "https://www.rbo.org.uk/tickets-and-events/roh-behind-the-scene-tour-dates"
+    },
+    {
+      "date": "2026-09-10",
+      "house": "维也纳国家歌剧院",
+      "title": "Don Carlo (Giuseppe Verdi)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/don-carlo/2026-09-10/"
+    },
+    {
+      "date": "2026-09-10",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "L’elisir d’amore (Gaetano Donizetti)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/l-elisir-d-amore.html"
     }
   ]
 }
