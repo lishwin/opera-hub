@@ -1,44 +1,14 @@
 {
-  "updated_at": "2026-09-08T05:34:05+00:00",
+  "updated_at": "2026-09-09T05:41:23+00:00",
   "stats": {
     "houses": 14,
-    "performances": 1135,
-    "news": 251,
+    "performances": 1136,
+    "news": 264,
     "artists": 8,
     "ncpa_artists": 132,
     "ncpa_productions": 24
   },
   "upcoming_30": [
-    {
-      "date": "2026-09-08",
-      "house": "伦敦皇家歌剧院",
-      "title": "Insights: Parsifal",
-      "url": "https://www.rbo.org.uk/production/insights-parsifal"
-    },
-    {
-      "date": "2026-09-08",
-      "house": "伦敦皇家歌剧院",
-      "title": "Friends Rehearsals — Don Giovanni",
-      "url": "https://www.rbo.org.uk/tickets-and-events/friends-rehearsals-dates"
-    },
-    {
-      "date": "2026-09-08",
-      "house": "伦敦皇家歌剧院",
-      "title": "Behind the Scenes Tour",
-      "url": "https://www.rbo.org.uk/tickets-and-events/roh-behind-the-scene-tour-dates"
-    },
-    {
-      "date": "2026-09-08",
-      "house": "维也纳国家歌剧院",
-      "title": "Francesco Cilèa Adriana Lecouvreur (Francesco Cilèa)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/adriana-lecouvreur/2026-09-08/"
-    },
-    {
-      "date": "2026-09-08",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Gaetano Donizetti L’elisir d’amore (Gaetano Donizetti)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/l-elisir-d-amore.html"
-    },
     {
       "date": "2026-09-09",
       "house": "维也纳国家歌剧院",
@@ -488,6 +458,36 @@
       "house": "维也纳国家歌剧院",
       "title": "George Balanchine,\n        \n    \n\n    \n        \n            Christopher Wheeldon,\n        \n    \n\n    \n        \n            Frederick Ashton Living Legacies (George Balanchine,\n        \n    \n\n    \n        \n            Christopher Wheeldon,\n        \n    \n\n    \n        \n            Frederick Ashton)",
       "url": "https://www.wiener-staatsoper.at/en/calendar/detail/living-legacies/2026-09-18/"
+    },
+    {
+      "date": "2026-09-18",
+      "house": "巴黎歌剧院",
+      "title": "Hamlet — Ambroise Thomas",
+      "url": "https://www.operadeparis.fr/saison-26-27/opera/hamlet"
+    },
+    {
+      "date": "2026-09-18",
+      "house": "苏黎世歌剧院",
+      "title": "Oiseaux Rebelles",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/oiseaux-rebelles/2026-2027/"
+    },
+    {
+      "date": "2026-09-18",
+      "house": "苏黎世歌剧院",
+      "title": "Eröffnungsfest",
+      "url": "https://www.opernhaus.ch/spielplan/eroeffnungsfest-2026-27/"
+    },
+    {
+      "date": "2026-09-18",
+      "house": "萨尔茨堡音乐节",
+      "title": "Öffentliche Führung durch die Festspielhäuser in deutscher Sprache",
+      "url": ""
+    },
+    {
+      "date": "2026-09-18",
+      "house": "悉尼歌剧院",
+      "title": "Umberto Clerici conducts Dvořák",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/umberto-clerici-dvorak"
     }
   ]
 }
