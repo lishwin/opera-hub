@@ -1,154 +1,58 @@
 {
-  "date": "2026-09-12",
-  "generated_at": "2026-09-12T05:21:28+00:00",
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T05:39:17+00:00",
   "news": [
     {
       "source": "OperaWire",
-      "title": "Pacific Symphony to Present Mahler’s Symphony No. 2 with Miah Persson & Sarah Connolly",
-      "url": "https://operawire.com/pacific-symphony-to-present-mahlers-symphony-no-2-with-miah-persson-sarah-connolly/",
+      "title": "Sarasota Opera to Open with ‘Hansel and Gretel’",
+      "url": "https://operawire.com/sarasota-opera-to-open-with-hansel-and-gretel/",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "OperaWire",
+      "title": "In Less Than Five Minutes, Get To Know Stage Director MariaLuisa Bafunno",
+      "url": "https://operawire.com/in-less-than-five-minutes-get-to-know-stage-director-marialuisa-bafunno/",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Innsbrucker Festwochen der Alten Musik 2026 Review: Atalanta",
+      "url": "https://operawire.com/innsbrucker-festwochen-der-alten-musik-2026-review-atalanta/",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "OperaWire",
+      "title": "San Francisco Opera Releases Following Orchestra Strike",
+      "url": "https://operawire.com/san-francisco-opera-releases-following-orchestra-strike/",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "OperaWire",
+      "title": "The San Francisco Opera Orchestra Announces Strike in Advance of Opening Night",
+      "url": "https://operawire.com/the-san-francisco-opera-orchestra-announces-strike-in-advance-of-opening-night/",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Charlotte Kelso & Gerard Schneider to Headline State Opera South Australia’s ‘Carmen’",
+      "url": "https://operawire.com/charlotte-kelso-gerard-schneider-to-headline-state-opera-south-australias-carmen/",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Cygnus Ensemble to Perform Victoria Bonds’ ‘Sirens’",
+      "url": "https://operawire.com/cygnus-ensemble-to-perform-victoria-bonds-sirens/",
       "date": "2026-09-12"
     },
     {
       "source": "OperaWire",
-      "title": "Works & Process to Preview ‘The Many Deaths of Laila Starr’",
-      "url": "https://operawire.com/works-process-to-preview-the-many-deaths-of-laila-starr/",
+      "title": "Daniela Machado & Alessio Boraggine Headline Opera Italiana is in the Air’s 2026 Central Park Concert",
+      "url": "https://operawire.com/daniela-machado-alessio-boraggine-headline-opera-italiana-is-in-the-airs-2026-central-park-concert/",
       "date": "2026-09-12"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Juanjo Mena Retires Earlier Than Expected",
-      "url": "https://operawire.com/juanjo-mena-retires-earlier-than-expected/",
-      "date": "2026-09-11"
-    },
-    {
-      "source": "OperaWire",
-      "title": "James Valenti to Perform at Yankee Stadium in 9/11 Commemoration",
-      "url": "https://operawire.com/james-valenti-to-perform-at-yankee-stadium-in-9-11-commemoration/",
-      "date": "2026-09-11"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Houston Grand Opera Names Chairs for Major Fundraising Events",
-      "url": "https://operawire.com/houston-grand-opera-names-chairs-for-major-fundraising-events/",
-      "date": "2026-09-11"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Gramophone Announces Shortlist for 2026 Classical Music Awards",
-      "url": "https://operawire.com/gramophone-announces-shortlist-for-2026-classical-music-awards/",
-      "date": "2026-09-11"
-    },
-    {
-      "source": "Slipped Disc",
-      "title": "New York instals principal horn",
-      "url": "https://slippedisc.com/2026/09/new-york-confirms-its-principal-horn/?utm_source=rss&utm_medium=rss&utm_campaign=new-york-confirms-its-principal-horn",
-      "date": "2026-09-11"
-    },
-    {
-      "source": "Slipped Disc",
-      "title": "Boston snub: DG backs Andris Nelsons big box",
-      "url": "https://slippedisc.com/2026/09/boston-snub-dg-backs-andris-nelsons-big-box/?utm_source=rss&utm_medium=rss&utm_campaign=boston-snub-dg-backs-andris-nelsons-big-box",
-      "date": "2026-09-11"
-    },
-    {
-      "source": "Slipped Disc",
-      "title": "Alastair Macaulay:  A callow opera star acquires depth and colour",
-      "url": "https://slippedisc.com/2026/09/alastair-macaulay-10/?utm_source=rss&utm_medium=rss&utm_campaign=alastair-macaulay-10",
-      "date": "2026-09-11"
-    },
-    {
-      "source": "Slipped Disc",
-      "title": "How Beautiful Panama Is!",
-      "url": "https://slippedisc.com/2026/09/operavision-62/?utm_source=rss&utm_medium=rss&utm_campaign=operavision-62",
-      "date": "2026-09-11"
-    },
-    {
-      "source": "Slipped Disc",
-      "title": "Coldplay’s Chris Martin on Dudamel’s beat: I don’t know what the f*** you’re doing",
-      "url": "https://slippedisc.com/2026/09/coldplays-chris-martin-on-dudamels-beat-i-dont-know-what-the-f-youre-doing/?utm_source=rss&utm_medium=rss&utm_campaign=coldplays-chris-martin-on-dudamels-beat-i-dont-know-what-the-f-youre-doing",
-      "date": "2026-09-11"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Opera Meets Film: Recalling Cinematic Legacies, Pt. 1: Halka",
-      "url": "https://operawire.com/opera-meets-film-recalling-cinematic-legacies-pt-1-halka/",
-      "date": "2026-09-11"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Teatro Petruzzelli di Bari to Present Italian Premiere of ‘Bona Sforza’",
-      "url": "https://operawire.com/teatro-petruzzelli-di-bari-to-present-italian-premiere-of-bona-sforza/",
-      "date": "2026-09-11"
     }
   ],
   "ncpa": [],
   "schedule_updates": [
-    {
-      "date": "2026-09-12",
-      "house": "伦敦皇家歌剧院",
-      "title": "Holding Light",
-      "url": "https://www.rbo.org.uk/production/holding-light-fallen-angels-dance-theatre"
-    },
-    {
-      "date": "2026-09-12",
-      "house": "伦敦皇家歌剧院",
-      "title": "I would be here if I could: The Mirrorbox",
-      "url": "https://www.rbo.org.uk/tickets-and-events/i-would-be-here-if-i-could-the-mirrorbox-details"
-    },
-    {
-      "date": "2026-09-12",
-      "house": "伦敦皇家歌剧院",
-      "title": "The McRae / Vassilev Project",
-      "url": "https://www.rbo.org.uk/production/the-mcrae-vasko-vassilev-project"
-    },
-    {
-      "date": "2026-09-12",
-      "house": "伦敦皇家歌剧院",
-      "title": "Behind the Scenes Tour",
-      "url": "https://www.rbo.org.uk/tickets-and-events/roh-behind-the-scene-tour-dates"
-    },
-    {
-      "date": "2026-09-12",
-      "house": "维也纳国家歌剧院",
-      "title": "Le nozze di Figaro (Wolfgang Amadeus Mozart)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/le-nozze-di-figaro/2026-09-12/"
-    },
-    {
-      "date": "2026-09-12",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "L’elisir d’amore (Gaetano Donizetti)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/l-elisir-d-amore.html"
-    },
-    {
-      "date": "2026-09-12",
-      "house": "巴黎歌剧院",
-      "title": "Le Barbier de Séville — Gioacchino Rossini",
-      "url": "https://www.operadeparis.fr/saison-26-27/opera/le-barbier-de-seville"
-    },
-    {
-      "date": "2026-09-12",
-      "house": "苏黎世歌剧院",
-      "title": "Preview «Die Zauberflöte»",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/preview-die-zauberfloete/2026-2027/"
-    },
-    {
-      "date": "2026-09-12",
-      "house": "旧金山歌剧院",
-      "title": "Simon Boccanegra (Giuseppe Verdi)",
-      "url": "https://www.sfopera.com/operas/simon-boccanegra/"
-    },
-    {
-      "date": "2026-09-12",
-      "house": "悉尼歌剧院",
-      "title": "SUMMIT",
-      "url": "https://www.sydneyoperahouse.com/classical-music/summit"
-    },
-    {
-      "date": "2026-09-12",
-      "house": "悉尼歌剧院",
-      "title": "Mozart’s Requiem with Stephen Layton",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/mozart-requiem-stephen-layton"
-    },
     {
       "date": "2026-09-13",
       "house": "伦敦皇家歌剧院",
@@ -172,21 +76,75 @@
       "house": "伦敦皇家歌剧院",
       "title": "Behind the Scenes Tour",
       "url": "https://www.rbo.org.uk/tickets-and-events/roh-behind-the-scene-tour-dates"
+    },
+    {
+      "date": "2026-09-13",
+      "house": "维也纳国家歌剧院",
+      "title": "Don Carlo (Giuseppe Verdi)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/don-carlo/2026-09-13/"
+    },
+    {
+      "date": "2026-09-13",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Orchestra Sinfonica di Milano",
+      "url": "https://www.teatroallascala.org/en/season/2026-2027/concerts/visiting-italian-musical-institutions/orchestra-sinfonica-di-milano-20260913.html"
+    },
+    {
+      "date": "2026-09-13",
+      "house": "苏黎世歌剧院",
+      "title": "Führung Opernhaus",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/fuehrung_opernhaus/2026-2027/"
+    },
+    {
+      "date": "2026-09-13",
+      "house": "苏黎世歌剧院",
+      "title": "Oiseaux Rebelles",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/oiseaux-rebelles/2026-2027/"
+    },
+    {
+      "date": "2026-09-13",
+      "house": "萨尔茨堡音乐节",
+      "title": "Öffentliche Führung durch die Festspielhäuser in englischer Sprache",
+      "url": ""
+    },
+    {
+      "date": "2026-09-13",
+      "house": "萨尔茨堡音乐节",
+      "title": "Wiener Philharmoniker · Sokhiev (2026)",
+      "url": "https://www.salzburgerfestspiele.at/p/wiener-philharmoniker-sokhiev-2026"
+    },
+    {
+      "date": "2026-09-13",
+      "house": "萨尔茨堡音乐节",
+      "title": "Öffentliche Führung durch die Festspielhäuser in deutscher Sprache",
+      "url": ""
+    },
+    {
+      "date": "2026-09-13",
+      "house": "旧金山歌剧院",
+      "title": "Opera in the Park",
+      "url": "https://www.sfopera.com/seasons/opera-in-the-park/"
+    },
+    {
+      "date": "2026-09-14",
+      "house": "伦敦皇家歌剧院",
+      "title": "Don Giovanni",
+      "url": "https://www.rbo.org.uk/production/don-giovanni-kasper-holten"
+    },
+    {
+      "date": "2026-09-14",
+      "house": "伦敦皇家歌剧院",
+      "title": "The McRae / Vassilev Project",
+      "url": "https://www.rbo.org.uk/production/the-mcrae-vasko-vassilev-project"
+    },
+    {
+      "date": "2026-09-14",
+      "house": "伦敦皇家歌剧院",
+      "title": "Behind the Scenes Tour",
+      "url": "https://www.rbo.org.uk/tickets-and-events/roh-behind-the-scene-tour-dates"
     }
   ],
   "artists": [
-    {
-      "name": "古斯塔沃·杜达梅尔",
-      "category": "指挥",
-      "mentions": [
-        {
-          "type": "新闻",
-          "title": "Coldplay’s Chris Martin on Dudamel’s beat: I don’t know what the f*** you’re doing",
-          "url": "https://slippedisc.com/2026/09/coldplays-chris-martin-on-dudamels-beat-i-dont-know-what-the-f-youre-doing/?utm_source=rss&utm_medium=rss&utm_campaign=coldplays-chris-martin-on-dudamels-beat-i-dont-know-what-the-f-youre-doing",
-          "date": "2026-09-11T09:44:59+00:00"
-        }
-      ]
-    },
     {
       "name": "基里尔·别特连科",
       "category": "指挥",
@@ -268,72 +226,6 @@
   ],
   "upcoming_7": [
     {
-      "date": "2026-09-12",
-      "house": "伦敦皇家歌剧院",
-      "title": "Holding Light",
-      "url": "https://www.rbo.org.uk/production/holding-light-fallen-angels-dance-theatre"
-    },
-    {
-      "date": "2026-09-12",
-      "house": "伦敦皇家歌剧院",
-      "title": "I would be here if I could: The Mirrorbox",
-      "url": "https://www.rbo.org.uk/tickets-and-events/i-would-be-here-if-i-could-the-mirrorbox-details"
-    },
-    {
-      "date": "2026-09-12",
-      "house": "伦敦皇家歌剧院",
-      "title": "The McRae / Vassilev Project",
-      "url": "https://www.rbo.org.uk/production/the-mcrae-vasko-vassilev-project"
-    },
-    {
-      "date": "2026-09-12",
-      "house": "伦敦皇家歌剧院",
-      "title": "Behind the Scenes Tour",
-      "url": "https://www.rbo.org.uk/tickets-and-events/roh-behind-the-scene-tour-dates"
-    },
-    {
-      "date": "2026-09-12",
-      "house": "维也纳国家歌剧院",
-      "title": "Le nozze di Figaro (Wolfgang Amadeus Mozart)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/le-nozze-di-figaro/2026-09-12/"
-    },
-    {
-      "date": "2026-09-12",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "L’elisir d’amore (Gaetano Donizetti)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/l-elisir-d-amore.html"
-    },
-    {
-      "date": "2026-09-12",
-      "house": "巴黎歌剧院",
-      "title": "Le Barbier de Séville — Gioacchino Rossini",
-      "url": "https://www.operadeparis.fr/saison-26-27/opera/le-barbier-de-seville"
-    },
-    {
-      "date": "2026-09-12",
-      "house": "苏黎世歌剧院",
-      "title": "Preview «Die Zauberflöte»",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/preview-die-zauberfloete/2026-2027/"
-    },
-    {
-      "date": "2026-09-12",
-      "house": "旧金山歌剧院",
-      "title": "Simon Boccanegra (Giuseppe Verdi)",
-      "url": "https://www.sfopera.com/operas/simon-boccanegra/"
-    },
-    {
-      "date": "2026-09-12",
-      "house": "悉尼歌剧院",
-      "title": "SUMMIT",
-      "url": "https://www.sydneyoperahouse.com/classical-music/summit"
-    },
-    {
-      "date": "2026-09-12",
-      "house": "悉尼歌剧院",
-      "title": "Mozart’s Requiem with Stephen Layton",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/mozart-requiem-stephen-layton"
-    },
-    {
       "date": "2026-09-13",
       "house": "伦敦皇家歌剧院",
       "title": "I would be here if I could: The Mirrorbox",
@@ -353,6 +245,72 @@
     },
     {
       "date": "2026-09-13",
+      "house": "伦敦皇家歌剧院",
+      "title": "Behind the Scenes Tour",
+      "url": "https://www.rbo.org.uk/tickets-and-events/roh-behind-the-scene-tour-dates"
+    },
+    {
+      "date": "2026-09-13",
+      "house": "维也纳国家歌剧院",
+      "title": "Don Carlo (Giuseppe Verdi)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/don-carlo/2026-09-13/"
+    },
+    {
+      "date": "2026-09-13",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Orchestra Sinfonica di Milano",
+      "url": "https://www.teatroallascala.org/en/season/2026-2027/concerts/visiting-italian-musical-institutions/orchestra-sinfonica-di-milano-20260913.html"
+    },
+    {
+      "date": "2026-09-13",
+      "house": "苏黎世歌剧院",
+      "title": "Führung Opernhaus",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/fuehrung_opernhaus/2026-2027/"
+    },
+    {
+      "date": "2026-09-13",
+      "house": "苏黎世歌剧院",
+      "title": "Oiseaux Rebelles",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/oiseaux-rebelles/2026-2027/"
+    },
+    {
+      "date": "2026-09-13",
+      "house": "萨尔茨堡音乐节",
+      "title": "Öffentliche Führung durch die Festspielhäuser in englischer Sprache",
+      "url": ""
+    },
+    {
+      "date": "2026-09-13",
+      "house": "萨尔茨堡音乐节",
+      "title": "Wiener Philharmoniker · Sokhiev (2026)",
+      "url": "https://www.salzburgerfestspiele.at/p/wiener-philharmoniker-sokhiev-2026"
+    },
+    {
+      "date": "2026-09-13",
+      "house": "萨尔茨堡音乐节",
+      "title": "Öffentliche Führung durch die Festspielhäuser in deutscher Sprache",
+      "url": ""
+    },
+    {
+      "date": "2026-09-13",
+      "house": "旧金山歌剧院",
+      "title": "Opera in the Park",
+      "url": "https://www.sfopera.com/seasons/opera-in-the-park/"
+    },
+    {
+      "date": "2026-09-14",
+      "house": "伦敦皇家歌剧院",
+      "title": "Don Giovanni",
+      "url": "https://www.rbo.org.uk/production/don-giovanni-kasper-holten"
+    },
+    {
+      "date": "2026-09-14",
+      "house": "伦敦皇家歌剧院",
+      "title": "The McRae / Vassilev Project",
+      "url": "https://www.rbo.org.uk/production/the-mcrae-vasko-vassilev-project"
+    },
+    {
+      "date": "2026-09-14",
       "house": "伦敦皇家歌剧院",
       "title": "Behind the Scenes Tour",
       "url": "https://www.rbo.org.uk/tickets-and-events/roh-behind-the-scene-tour-dates"

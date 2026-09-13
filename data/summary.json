@@ -1,80 +1,14 @@
 {
-  "updated_at": "2026-09-12T05:21:28+00:00",
+  "updated_at": "2026-09-13T05:39:17+00:00",
   "stats": {
     "houses": 14,
-    "performances": 1135,
+    "performances": 1128,
     "news": 300,
     "artists": 8,
     "ncpa_artists": 132,
     "ncpa_productions": 24
   },
   "upcoming_30": [
-    {
-      "date": "2026-09-12",
-      "house": "伦敦皇家歌剧院",
-      "title": "Holding Light",
-      "url": "https://www.rbo.org.uk/production/holding-light-fallen-angels-dance-theatre"
-    },
-    {
-      "date": "2026-09-12",
-      "house": "伦敦皇家歌剧院",
-      "title": "I would be here if I could: The Mirrorbox",
-      "url": "https://www.rbo.org.uk/tickets-and-events/i-would-be-here-if-i-could-the-mirrorbox-details"
-    },
-    {
-      "date": "2026-09-12",
-      "house": "伦敦皇家歌剧院",
-      "title": "The McRae / Vassilev Project",
-      "url": "https://www.rbo.org.uk/production/the-mcrae-vasko-vassilev-project"
-    },
-    {
-      "date": "2026-09-12",
-      "house": "伦敦皇家歌剧院",
-      "title": "Behind the Scenes Tour",
-      "url": "https://www.rbo.org.uk/tickets-and-events/roh-behind-the-scene-tour-dates"
-    },
-    {
-      "date": "2026-09-12",
-      "house": "维也纳国家歌剧院",
-      "title": "Wolfgang Amadeus Mozart Le nozze di Figaro (Wolfgang Amadeus Mozart)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/le-nozze-di-figaro/2026-09-12/"
-    },
-    {
-      "date": "2026-09-12",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Gaetano Donizetti L’elisir d’amore (Gaetano Donizetti)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/l-elisir-d-amore.html"
-    },
-    {
-      "date": "2026-09-12",
-      "house": "巴黎歌剧院",
-      "title": "Le Barbier de Séville — Gioacchino Rossini",
-      "url": "https://www.operadeparis.fr/saison-26-27/opera/le-barbier-de-seville"
-    },
-    {
-      "date": "2026-09-12",
-      "house": "苏黎世歌剧院",
-      "title": "Preview «Die Zauberflöte»",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/preview-die-zauberfloete/2026-2027/"
-    },
-    {
-      "date": "2026-09-12",
-      "house": "旧金山歌剧院",
-      "title": "Giuseppe Verdi Simon Boccanegra (Giuseppe Verdi)",
-      "url": "https://www.sfopera.com/operas/simon-boccanegra/"
-    },
-    {
-      "date": "2026-09-12",
-      "house": "悉尼歌剧院",
-      "title": "SUMMIT",
-      "url": "https://www.sydneyoperahouse.com/classical-music/summit"
-    },
-    {
-      "date": "2026-09-12",
-      "house": "悉尼歌剧院",
-      "title": "Mozart’s Requiem with Stephen Layton",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/mozart-requiem-stephen-layton"
-    },
     {
       "date": "2026-09-13",
       "house": "伦敦皇家歌剧院",
@@ -488,6 +422,72 @@
       "house": "旧金山歌剧院",
       "title": "Giuseppe Verdi Simon Boccanegra (Giuseppe Verdi)",
       "url": "https://www.sfopera.com/operas/simon-boccanegra/"
+    },
+    {
+      "date": "2026-09-19",
+      "house": "悉尼歌剧院",
+      "title": "Mozart’s Last Symphonies",
+      "url": "https://www.sydneyoperahouse.com/australian-chamber-orchestra/2026-season/mozarts-last-symphonies"
+    },
+    {
+      "date": "2026-09-19",
+      "house": "悉尼歌剧院",
+      "title": "FAIRUZ, HOMAGE TO A LEGEND",
+      "url": "https://www.sydneyoperahouse.com/classical-music/fairuz-homage-legend"
+    },
+    {
+      "date": "2026-09-19",
+      "house": "悉尼歌剧院",
+      "title": "Bryce Dessner’s Trembling Earth",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/bryce-dessner-trembling-earth"
+    },
+    {
+      "date": "2026-09-20",
+      "house": "伦敦皇家歌剧院",
+      "title": "Alcina",
+      "url": "https://www.rbo.org.uk/production/alcina-richard-jones"
+    },
+    {
+      "date": "2026-09-20",
+      "house": "伦敦皇家歌剧院",
+      "title": "Behind the Scenes Tour",
+      "url": "https://www.rbo.org.uk/tickets-and-events/roh-behind-the-scene-tour-dates"
+    },
+    {
+      "date": "2026-09-20",
+      "house": "维也纳国家歌剧院",
+      "title": "Matinee zu Eine Florentinische Tragödie/Herzog Blaubarts Burg",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/matinee-zu-eine-florentinische-tragoedieherzog-blaubarts-burg/2026-09-20/"
+    },
+    {
+      "date": "2026-09-20",
+      "house": "维也纳国家歌剧院",
+      "title": "Wolfgang Amadeus Mozart La clemenza di Tito (Wolfgang Amadeus Mozart)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/la-clemenza-di-tito/2026-09-20/"
+    },
+    {
+      "date": "2026-09-20",
+      "house": "巴黎歌剧院",
+      "title": "Au Bord de l’eau — Midi musical",
+      "url": "https://www.operadeparis.fr/saison-26-27/concert-et-recital/au-bord-de-l-eau"
+    },
+    {
+      "date": "2026-09-20",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "John Neumeier DIE KAMELIENDAME (John Neumeier)",
+      "url": "https://www.staatsoper.de/stuecke/die-kameliendame/2026-09-20-1800-16093"
+    },
+    {
+      "date": "2026-09-20",
+      "house": "苏黎世歌剧院",
+      "title": "Guided Tour Opera House",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/backstage-tour/2026-2027/"
+    },
+    {
+      "date": "2026-09-20",
+      "house": "苏黎世歌剧院",
+      "title": "Führung Opernhaus",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/fuehrung_opernhaus/2026-2027/"
     }
   ]
 }
