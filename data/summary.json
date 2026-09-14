@@ -1,12 +1,10 @@
 {
-  "updated_at": "2026-09-14T05:41:22+00:00",
+  "updated_at": "2026-09-14T13:14:07+00:00",
   "stats": {
     "houses": 14,
-    "performances": 1121,
-    "news": 300,
-    "artists": 8,
-    "ncpa_artists": 132,
-    "ncpa_productions": 24
+    "performances": 897,
+    "news": 54,
+    "artists": 7
   },
   "upcoming_30": [
     {
@@ -20,12 +18,6 @@
       "house": "伦敦皇家歌剧院",
       "title": "The McRae / Vassilev Project",
       "url": "https://www.rbo.org.uk/production/the-mcrae-vasko-vassilev-project"
-    },
-    {
-      "date": "2026-09-14",
-      "house": "伦敦皇家歌剧院",
-      "title": "Behind the Scenes Tour",
-      "url": "https://www.rbo.org.uk/tickets-and-events/roh-behind-the-scene-tour-dates"
     },
     {
       "date": "2026-09-14",
@@ -46,18 +38,6 @@
       "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/l-elisir-d-amore.html"
     },
     {
-      "date": "2026-09-14",
-      "house": "萨尔茨堡音乐节",
-      "title": "Öffentliche Führung durch die Festspielhäuser in englischer Sprache",
-      "url": ""
-    },
-    {
-      "date": "2026-09-14",
-      "house": "萨尔茨堡音乐节",
-      "title": "Öffentliche Führung durch die Festspielhäuser in deutscher Sprache",
-      "url": ""
-    },
-    {
       "date": "2026-09-15",
       "house": "伦敦皇家歌剧院",
       "title": "Alcina",
@@ -71,33 +51,9 @@
     },
     {
       "date": "2026-09-15",
-      "house": "伦敦皇家歌剧院",
-      "title": "Behind the Scenes Tour",
-      "url": "https://www.rbo.org.uk/tickets-and-events/roh-behind-the-scene-tour-dates"
-    },
-    {
-      "date": "2026-09-15",
-      "house": "伦敦皇家歌剧院",
-      "title": "Thurrock Workshop Tour",
-      "url": "https://www.rbo.org.uk/tickets-and-events/thurrock-tour-dates"
-    },
-    {
-      "date": "2026-09-15",
       "house": "维也纳国家歌剧院",
       "title": "Wolfgang Amadeus Mozart Le nozze di Figaro (Wolfgang Amadeus Mozart)",
       "url": "https://www.wiener-staatsoper.at/en/calendar/detail/le-nozze-di-figaro/2026-09-15/"
-    },
-    {
-      "date": "2026-09-15",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "Ballett extra: Talk im Salon Luitpold – Neue Ensemblemitglieder stellen sich vor",
-      "url": "https://www.staatsoper.de/stuecke/ballett-extra/2026-09-15-1900-16684"
-    },
-    {
-      "date": "2026-09-15",
-      "house": "萨尔茨堡音乐节",
-      "title": "Öffentliche Führung durch die Festspielhäuser in deutscher Sprache",
-      "url": ""
     },
     {
       "date": "2026-09-15",
@@ -113,12 +69,6 @@
     },
     {
       "date": "2026-09-16",
-      "house": "伦敦皇家歌剧院",
-      "title": "Behind the Scenes Tour",
-      "url": "https://www.rbo.org.uk/tickets-and-events/roh-behind-the-scene-tour-dates"
-    },
-    {
-      "date": "2026-09-16",
       "house": "维也纳国家歌剧院",
       "title": "Giuseppe Verdi Don Carlo (Giuseppe Verdi)",
       "url": "https://www.wiener-staatsoper.at/en/calendar/detail/don-carlo/2026-09-16/"
@@ -131,33 +81,9 @@
     },
     {
       "date": "2026-09-16",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "Oper für alle: BMW Classics Konzert",
-      "url": "https://www.staatsoper.de/stuecke/oper-fuer-alle-bmw-classics-konzert-2026/2026-09-16-1900-16460"
-    },
-    {
-      "date": "2026-09-16",
-      "house": "苏黎世歌剧院",
-      "title": "Familienführung Opernhaus",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/familienfuehrung-ohz/2026-2027/"
-    },
-    {
-      "date": "2026-09-16",
       "house": "苏黎世歌剧院",
       "title": "Oiseaux Rebelles",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/oiseaux-rebelles/2026-2027/"
-    },
-    {
-      "date": "2026-09-16",
-      "house": "萨尔茨堡音乐节",
-      "title": "Öffentliche Führung durch die Festspielhäuser in englischer Sprache",
-      "url": ""
-    },
-    {
-      "date": "2026-09-16",
-      "house": "萨尔茨堡音乐节",
-      "title": "Öffentliche Führung durch die Festspielhäuser in deutscher Sprache",
-      "url": ""
     },
     {
       "date": "2026-09-16",
@@ -173,12 +99,6 @@
     },
     {
       "date": "2026-09-17",
-      "house": "伦敦皇家歌剧院",
-      "title": "Behind the Scenes Tour",
-      "url": "https://www.rbo.org.uk/tickets-and-events/roh-behind-the-scene-tour-dates"
-    },
-    {
-      "date": "2026-09-17",
       "house": "维也纳国家歌剧院",
       "title": "Wolfgang Amadeus Mozart Le nozze di Figaro (Wolfgang Amadeus Mozart)",
       "url": "https://www.wiener-staatsoper.at/en/calendar/detail/le-nozze-di-figaro/2026-09-17/"
@@ -188,12 +108,6 @@
       "house": "苏黎世歌剧院",
       "title": "ZURICH TALKS DANCE",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/zurich-talks-dance/2026-2027/"
-    },
-    {
-      "date": "2026-09-17",
-      "house": "萨尔茨堡音乐节",
-      "title": "Öffentliche Führung durch die Festspielhäuser in deutscher Sprache",
-      "url": ""
     },
     {
       "date": "2026-09-18",
@@ -206,12 +120,6 @@
       "house": "伦敦皇家歌剧院",
       "title": "The McRae / Vassilev Project",
       "url": "https://www.rbo.org.uk/production/the-mcrae-vasko-vassilev-project"
-    },
-    {
-      "date": "2026-09-18",
-      "house": "伦敦皇家歌剧院",
-      "title": "Behind the Scenes Tour",
-      "url": "https://www.rbo.org.uk/tickets-and-events/roh-behind-the-scene-tour-dates"
     },
     {
       "date": "2026-09-18",
@@ -239,12 +147,6 @@
     },
     {
       "date": "2026-09-18",
-      "house": "萨尔茨堡音乐节",
-      "title": "Öffentliche Führung durch die Festspielhäuser in deutscher Sprache",
-      "url": ""
-    },
-    {
-      "date": "2026-09-18",
       "house": "悉尼歌剧院",
       "title": "Umberto Clerici conducts Dvořák",
       "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/umberto-clerici-dvorak"
@@ -263,24 +165,6 @@
     },
     {
       "date": "2026-09-19",
-      "house": "伦敦皇家歌剧院",
-      "title": "Sip and Sketch: Costume Design Tour",
-      "url": "https://www.rbo.org.uk/tickets-and-events/costume-design-tour-dates"
-    },
-    {
-      "date": "2026-09-19",
-      "house": "伦敦皇家歌剧院",
-      "title": "Divine Divas Tour",
-      "url": "https://www.rbo.org.uk/tickets-and-events/divine-divas-tour-dates"
-    },
-    {
-      "date": "2026-09-19",
-      "house": "伦敦皇家歌剧院",
-      "title": "Behind the Scenes Tour",
-      "url": "https://www.rbo.org.uk/tickets-and-events/roh-behind-the-scene-tour-dates"
-    },
-    {
-      "date": "2026-09-19",
       "house": "维也纳国家歌剧院",
       "title": "Impulse",
       "url": "https://www.wiener-staatsoper.at/en/calendar/detail/impulse/2026-09-19/"
@@ -296,48 +180,6 @@
       "house": "米兰斯卡拉歌剧院",
       "title": "Giuseppe Verdi La traviata (Giuseppe Verdi)",
       "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/la-traviata.html"
-    },
-    {
-      "date": "2026-09-19",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "Ballett-Kurzführungen",
-      "url": "https://www.staatsoper.de/stuecke/ballett-kurzfuehrungen/2026-09-19-1130-16640"
-    },
-    {
-      "date": "2026-09-19",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "Ballett-Kurzführungen",
-      "url": "https://www.staatsoper.de/stuecke/ballett-kurzfuehrungen/2026-09-19-1215-16641"
-    },
-    {
-      "date": "2026-09-19",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "Ballett-Kurzführungen",
-      "url": "https://www.staatsoper.de/stuecke/ballett-kurzfuehrungen/2026-09-19-1300-16642"
-    },
-    {
-      "date": "2026-09-19",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "Ballett-Kurzführungen",
-      "url": "https://www.staatsoper.de/stuecke/ballett-kurzfuehrungen/2026-09-19-1345-16643"
-    },
-    {
-      "date": "2026-09-19",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "Ballett-Kurzführungen",
-      "url": "https://www.staatsoper.de/stuecke/ballett-kurzfuehrungen/2026-09-19-1430-16644"
-    },
-    {
-      "date": "2026-09-19",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "Ballett-Kurzführungen",
-      "url": "https://www.staatsoper.de/stuecke/ballett-kurzfuehrungen/2026-09-19-1515-16645"
-    },
-    {
-      "date": "2026-09-19",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "Gioachino Rossini LA CENERENTOLA (Gioachino Rossini)",
-      "url": "https://www.staatsoper.de/stuecke/la-cenerentola/2026-09-19-1800-16092"
     },
     {
       "date": "2026-09-19",
@@ -377,12 +219,6 @@
     },
     {
       "date": "2026-09-20",
-      "house": "伦敦皇家歌剧院",
-      "title": "Behind the Scenes Tour",
-      "url": "https://www.rbo.org.uk/tickets-and-events/roh-behind-the-scene-tour-dates"
-    },
-    {
-      "date": "2026-09-20",
       "house": "维也纳国家歌剧院",
       "title": "Matinee zu Eine Florentinische Tragödie/Herzog Blaubarts Burg",
       "url": "https://www.wiener-staatsoper.at/en/calendar/detail/matinee-zu-eine-florentinische-tragoedieherzog-blaubarts-burg/2026-09-20/"
@@ -401,39 +237,9 @@
     },
     {
       "date": "2026-09-20",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "John Neumeier DIE KAMELIENDAME (John Neumeier)",
-      "url": "https://www.staatsoper.de/stuecke/die-kameliendame/2026-09-20-1800-16093"
-    },
-    {
-      "date": "2026-09-20",
-      "house": "苏黎世歌剧院",
-      "title": "Guided Tour Opera House",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/backstage-tour/2026-2027/"
-    },
-    {
-      "date": "2026-09-20",
-      "house": "苏黎世歌剧院",
-      "title": "Führung Opernhaus",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/fuehrung_opernhaus/2026-2027/"
-    },
-    {
-      "date": "2026-09-20",
       "house": "苏黎世歌剧院",
       "title": "Wolfgang Amadeus Mozart Die Zauberflöte (Wolfgang Amadeus Mozart)",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/die-zauberfloete-1/2026-2027/"
-    },
-    {
-      "date": "2026-09-20",
-      "house": "萨尔茨堡音乐节",
-      "title": "Öffentliche Führung durch die Festspielhäuser in englischer Sprache",
-      "url": ""
-    },
-    {
-      "date": "2026-09-20",
-      "house": "萨尔茨堡音乐节",
-      "title": "Öffentliche Führung durch die Festspielhäuser in deutscher Sprache",
-      "url": ""
     },
     {
       "date": "2026-09-20",
@@ -461,26 +267,8 @@
     },
     {
       "date": "2026-09-21",
-      "house": "伦敦皇家歌剧院",
-      "title": "Behind the Scenes Tour",
-      "url": "https://www.rbo.org.uk/tickets-and-events/roh-behind-the-scene-tour-dates"
-    },
-    {
-      "date": "2026-09-21",
       "house": "维也纳国家歌剧院",
       "title": "No Performance",
-      "url": ""
-    },
-    {
-      "date": "2026-09-21",
-      "house": "萨尔茨堡音乐节",
-      "title": "Öffentliche Führung durch die Festspielhäuser in englischer Sprache",
-      "url": ""
-    },
-    {
-      "date": "2026-09-21",
-      "house": "萨尔茨堡音乐节",
-      "title": "Öffentliche Führung durch die Festspielhäuser in deutscher Sprache",
       "url": ""
     },
     {
@@ -488,6 +276,216 @@
       "house": "悉尼歌剧院",
       "title": "Mozart’s Last Symphonies",
       "url": "https://www.sydneyoperahouse.com/australian-chamber-orchestra/2026-season/mozarts-last-symphonies"
+    },
+    {
+      "date": "2026-09-22",
+      "house": "维也纳国家歌剧院",
+      "title": "Recital Günther Groissböck",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/recital/2026-09-22/"
+    },
+    {
+      "date": "2026-09-22",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Symphony Concerts A Daniele Rustioni (Symphony Concerts A)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/concerts/symphony-concerts/daniele-rustioni.html"
+    },
+    {
+      "date": "2026-09-22",
+      "house": "苏黎世歌剧院",
+      "title": "open space stimme",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/open-space-stimme/2026-2027/"
+    },
+    {
+      "date": "2026-09-22",
+      "house": "旧金山歌剧院",
+      "title": "Giuseppe Verdi Simon Boccanegra (Giuseppe Verdi)",
+      "url": "https://www.sfopera.com/operas/simon-boccanegra/"
+    },
+    {
+      "date": "2026-09-22",
+      "house": "悉尼歌剧院",
+      "title": "Acacia Concert",
+      "url": "https://www.sydneyoperahouse.com/festival-instrumental-music/acacia"
+    },
+    {
+      "date": "2026-09-23",
+      "house": "伦敦皇家歌剧院",
+      "title": "Alcina",
+      "url": "https://www.rbo.org.uk/production/alcina-richard-jones"
+    },
+    {
+      "date": "2026-09-23",
+      "house": "伦敦皇家歌剧院",
+      "title": "Dark Nights",
+      "url": "https://www.rbo.org.uk/production/dark-nights"
+    },
+    {
+      "date": "2026-09-23",
+      "house": "伦敦皇家歌剧院",
+      "title": "Insights: The Royal Ballet in Rehearsal",
+      "url": "https://www.rbo.org.uk/production/insights-the-royal-ballet-in-rehearsal"
+    },
+    {
+      "date": "2026-09-23",
+      "house": "维也纳国家歌剧院",
+      "title": "Wolfgang Amadeus Mozart La clemenza di Tito (Wolfgang Amadeus Mozart)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/la-clemenza-di-tito/2026-09-23/"
+    },
+    {
+      "date": "2026-09-23",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Giuseppe Verdi La traviata (Giuseppe Verdi)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/la-traviata.html"
+    },
+    {
+      "date": "2026-09-23",
+      "house": "悉尼歌剧院",
+      "title": "Banksia Concert",
+      "url": "https://www.sydneyoperahouse.com/festival-instrumental-music/banksia"
+    },
+    {
+      "date": "2026-09-24",
+      "house": "伦敦皇家歌剧院",
+      "title": "Don Giovanni",
+      "url": "https://www.rbo.org.uk/production/don-giovanni-kasper-holten"
+    },
+    {
+      "date": "2026-09-24",
+      "house": "维也纳国家歌剧院",
+      "title": "Giuseppe Verdi Macbeth (Giuseppe Verdi)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/macbeth/2026-09-24/"
+    },
+    {
+      "date": "2026-09-24",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Symphony Concerts B Daniele Rustioni (Symphony Concerts B)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/concerts/symphony-concerts/daniele-rustioni.html"
+    },
+    {
+      "date": "2026-09-24",
+      "house": "巴黎歌剧院",
+      "title": "Concert d’ouverture de la saison Académie — Artistes de l’Académie",
+      "url": "https://www.operadeparis.fr/saison-26-27/concert-et-recital/concert-douverture-de-la-saison-academie"
+    },
+    {
+      "date": "2026-09-24",
+      "house": "苏黎世歌剧院",
+      "title": "Giacomo Puccini La rondine (Giacomo Puccini)",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/la-rondine/2026-2027/"
+    },
+    {
+      "date": "2026-09-24",
+      "house": "旧金山歌剧院",
+      "title": "Thea Musgrave Mary, Queen of Scots (Thea Musgrave)",
+      "url": "https://www.sfopera.com/operas/mary-queen-of-scots/"
+    },
+    {
+      "date": "2026-09-24",
+      "house": "悉尼歌剧院",
+      "title": "Jacaranda Concert",
+      "url": "https://www.sydneyoperahouse.com/festival-instrumental-music/jacaranda"
+    },
+    {
+      "date": "2026-09-25",
+      "house": "伦敦皇家歌剧院",
+      "title": "Alcina",
+      "url": "https://www.rbo.org.uk/production/alcina-richard-jones"
+    },
+    {
+      "date": "2026-09-25",
+      "house": "伦敦皇家歌剧院",
+      "title": "JPA @ 25: Jukebox",
+      "url": "https://www.rbo.org.uk/production/jpa-25-jukebox"
+    },
+    {
+      "date": "2026-09-25",
+      "house": "伦敦皇家歌剧院",
+      "title": "Live at Lunch",
+      "url": "https://www.rbo.org.uk/production/live-at-lunch"
+    },
+    {
+      "date": "2026-09-25",
+      "house": "维也纳国家歌剧院",
+      "title": "George Balanchine,\n        \n    \n\n    \n        \n            Christopher Wheeldon,\n        \n    \n\n    \n        \n            Frederick Ashton Living Legacies (George Balanchine,\n        \n    \n\n    \n        \n            Christopher Wheeldon,\n        \n    \n\n    \n        \n            Frederick Ashton)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/living-legacies/2026-09-25/"
+    },
+    {
+      "date": "2026-09-25",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Symphony Concerts C Daniele Rustioni (Symphony Concerts C)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/concerts/symphony-concerts/daniele-rustioni.html"
+    },
+    {
+      "date": "2026-09-25",
+      "house": "苏黎世歌剧院",
+      "title": "Wolfgang Amadeus Mozart Die Zauberflöte (Wolfgang Amadeus Mozart)",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/die-zauberfloete-1/2026-2027/"
+    },
+    {
+      "date": "2026-09-25",
+      "house": "旧金山歌剧院",
+      "title": "Giuseppe Verdi Simon Boccanegra (Giuseppe Verdi)",
+      "url": "https://www.sfopera.com/operas/simon-boccanegra/"
+    },
+    {
+      "date": "2026-09-25",
+      "house": "悉尼歌剧院",
+      "title": "Mimosa Concert",
+      "url": "https://www.sydneyoperahouse.com/festival-instrumental-music/mimosa"
+    },
+    {
+      "date": "2026-09-26",
+      "house": "维也纳国家歌剧院",
+      "title": "Open Adult Ballet Class",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/open-adult-ballet-class/2026-09-26/"
+    },
+    {
+      "date": "2026-09-26",
+      "house": "维也纳国家歌剧院",
+      "title": "Wolfgang Amadeus Mozart La clemenza di Tito (Wolfgang Amadeus Mozart)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/la-clemenza-di-tito/2026-09-26/"
+    },
+    {
+      "date": "2026-09-26",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Giuseppe Verdi La traviata (Giuseppe Verdi)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/la-traviata.html"
+    },
+    {
+      "date": "2026-09-26",
+      "house": "巴黎歌剧院",
+      "title": "Répétition publique : Paysages intérieurs — Vers un pays sage de Jean-Christophe Maillot",
+      "url": "https://www.operadeparis.fr/saison-26-27/repetition/repetition-publique-paysages-interieurs"
+    },
+    {
+      "date": "2026-09-26",
+      "house": "苏黎世歌剧院",
+      "title": "Matinee «Ein Sommernachtstraum»",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/matinee-ein-sommernachtstraum/2026-2027/"
+    },
+    {
+      "date": "2026-09-26",
+      "house": "苏黎世歌剧院",
+      "title": "Richard Wagner Opernhaustag Tannhäuser (Richard Wagner Opernhaustag)",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/tannhaeuser-1/2026-2027/"
+    },
+    {
+      "date": "2026-09-26",
+      "house": "旧金山歌剧院",
+      "title": "Thea Musgrave Mary, Queen of Scots (Thea Musgrave)",
+      "url": "https://www.sfopera.com/operas/mary-queen-of-scots/"
+    },
+    {
+      "date": "2026-09-27",
+      "house": "维也纳国家歌剧院",
+      "title": "Matinee of the Opera Studio",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/studiokonzert/2026-09-27/"
+    },
+    {
+      "date": "2026-09-27",
+      "house": "维也纳国家歌剧院",
+      "title": "Maarten Seghers Lee Miller in Hitler's Bathtub (Maarten Seghers)",
+      "url": ""
     }
   ]
 }

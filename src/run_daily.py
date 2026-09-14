@@ -16,7 +16,6 @@ from src import (
     config,
     digest as digest_mod,
     houses,
-    ncpa as ncpa_mod,
     notify,
     rss_news,
     store,
@@ -53,14 +52,18 @@ def main() -> int:
     )[:300]
     store.save_json(config.DATA_DIR / "news.json", news_json)
 
-    # 2. 排期（歌剧院订阅源）
+    # 2. 排期（歌剧院订阅源，过滤参观游览类 tour 活动）
     # 排期每天全量刷新，避免残留已过期或已变更的场次
     by_id = {}
     for house in config.houses_config():
         for item in houses.fetch_house(house):
             by_id[item["id"]] = item
     performances = sorted(
-        (p for p in by_id.values() if p.get("date", "") >= today_iso),
+        (
+            p for p in by_id.values()
+            if p.get("date", "") >= today_iso
+            and not houses.is_tour_or_visit(p.get("title", ""), p.get("url", ""))
+        ),
         key=lambda p: p.get("date", "9999-99-99"),
     )
     store.save_json(config.DATA_DIR / "performances.json", performances)
@@ -74,32 +77,12 @@ def main() -> int:
     store.save_json(config.DATA_DIR / "artists.json", artists_json)
 
     # 4. 日报
-    ncpa_index = ncpa_mod.load_index()
-    ncpa_artists = [
-        {
-            "name": a["name"],
-            "category": a.get("category", ""),
-            "name_en": a.get("name_en", []),
-            "productions": [
-                {
-                    "year": ncpa_index.productions[pid].get("year"),
-                    "title": ncpa_index.productions[pid].get("title"),
-                    "composer": ncpa_index.productions[pid].get("composer", ""),
-                }
-                for pid in a["prod_ids"]
-            ],
-        }
-        for a in ncpa_index.artists.values()
-    ]
-    ncpa_artists.sort(key=lambda x: (-len(x["productions"]), x["name"]))
-    store.save_json(config.DATA_DIR / "ncpa_artists.json", ncpa_artists)
     digest = digest_mod.build(
         new_items,
         performances,
         mentions,
         watchlist_by_id,
         today=today,
-        ncpa_index=ncpa_index,
     )
     store.save_json(config.DATA_DIR / "digest" / "latest.json", digest)
     md = digest_mod.to_markdown(digest)
@@ -118,8 +101,6 @@ def main() -> int:
                 "performances": len(performances),
                 "news": len(news_json),
                 "artists": len(artists_json),
-                "ncpa_artists": len(ncpa_index.artists),
-                "ncpa_productions": len(ncpa_index.productions),
             },
             "upcoming_30": [
                 {

@@ -1,7 +1,31 @@
 {
   "date": "2026-09-14",
-  "generated_at": "2026-09-14T05:41:22+00:00",
+  "generated_at": "2026-09-14T13:14:07+00:00",
   "news": [
+    {
+      "source": "Parterre Box",
+      "title": "Come sail away with me",
+      "url": "https://parterre.com/2026/09/14/come-sail-away-with-me/",
+      "date": "2026-09-14"
+    },
+    {
+      "source": "Slipped Disc",
+      "title": "Which opera?",
+      "url": "https://slippedisc.com/2026/09/whic-opera/?utm_source=rss&utm_medium=rss&utm_campaign=whic-opera",
+      "date": "2026-09-14"
+    },
+    {
+      "source": "Slipped Disc",
+      "title": "23 minutes before curtain-up, San Francisco Opera went on strike",
+      "url": "https://slippedisc.com/2026/09/23-minutes-before-curtain-up-san-francisco-opera-went-on-strike/?utm_source=rss&utm_medium=rss&utm_campaign=23-minutes-before-curtain-up-san-francisco-opera-went-on-strike",
+      "date": "2026-09-14"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Azrieli Music, Arts & Culture Centre Presents 2026 Azrieli Music Prizes Gala Concert",
+      "url": "https://operawire.com/azrieli-music-arts-culture-centre-presents-2026-azrieli-music-prizes-gala-concert/",
+      "date": "2026-09-14"
+    },
     {
       "source": "OperaWire",
       "title": "Bilbao Opera Chorus Stages Surprise Public Performance at Hotel Carlton",
@@ -45,12 +69,6 @@
       "date": "2026-09-13"
     },
     {
-      "source": "OperaWire",
-      "title": "Julian Wachner Avoids Jail-time After Pleading Guilty; Sentenced to Six Years of Probation",
-      "url": "https://operawire.com/julian-wachner-avoids-jail-time-after-pleading-guilty-sentenced-to-six-years-of-probation/",
-      "date": "2026-09-13"
-    },
-    {
       "source": "Parterre Box",
       "title": "The awkward stage",
       "url": "https://parterre.com/2026/09/13/the-awkward-stage/",
@@ -61,9 +79,50 @@
       "title": "Next season I’m looking forward to Otello",
       "url": "https://parterre.com/2026/09/13/next-season-im-looking-forward-to-otello/",
       "date": "2026-09-13"
+    },
+    {
+      "source": "Parterre Box",
+      "title": "Mi pare sentire odor di femmina",
+      "url": "https://parterre.com/2026/09/09/mi-pare-sentire-odor-di-femmina/",
+      "date": "2026-09-09"
+    },
+    {
+      "source": "Parterre Box",
+      "title": "Showing yourself out",
+      "url": "https://parterre.com/2026/09/08/showing-yourself-out/",
+      "date": "2026-09-08"
+    },
+    {
+      "source": "Opera Today",
+      "title": "PROMS 2026: To Hell With You—Berlioz’s La Damnation de Faust at the Proms",
+      "url": "https://operatoday.com/2026/09/proms-2026-to-hell-with-you-berliozs-la-damnation-de-faust-at-the-proms/",
+      "date": "2026-09-02"
+    },
+    {
+      "source": "Parterre Box",
+      "title": "State of siege",
+      "url": "https://parterre.com/2026/08/30/state-of-siege/",
+      "date": "2026-08-30"
+    },
+    {
+      "source": "Parterre Box",
+      "title": "Voi foste, io vi perdei",
+      "url": "https://parterre.com/2026/08/28/voi-foste-io-vi-perdei/",
+      "date": "2026-08-28"
+    },
+    {
+      "source": "Opera Today",
+      "title": "PROMS 2026: Orchestra and Soloists Create a Collective Magic for Mahler’s Das Lied von Der Erde",
+      "url": "https://operatoday.com/2026/08/proms-2026-orchestra-and-soloists-create-a-collective-magic-for-mahlers-das-lied-von-der-erde/",
+      "date": "2026-08-24"
+    },
+    {
+      "source": "Parterre Box",
+      "title": "Avert your AIs",
+      "url": "https://parterre.com/2026/08/23/avert-your-ais/",
+      "date": "2026-08-23"
     }
   ],
-  "ncpa": [],
   "schedule_updates": [
     {
       "date": "2026-09-14",
@@ -76,12 +135,6 @@
       "house": "伦敦皇家歌剧院",
       "title": "The McRae / Vassilev Project",
       "url": "https://www.rbo.org.uk/production/the-mcrae-vasko-vassilev-project"
-    },
-    {
-      "date": "2026-09-14",
-      "house": "伦敦皇家歌剧院",
-      "title": "Behind the Scenes Tour",
-      "url": "https://www.rbo.org.uk/tickets-and-events/roh-behind-the-scene-tour-dates"
     },
     {
       "date": "2026-09-14",
@@ -102,18 +155,6 @@
       "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/l-elisir-d-amore.html"
     },
     {
-      "date": "2026-09-14",
-      "house": "萨尔茨堡音乐节",
-      "title": "Öffentliche Führung durch die Festspielhäuser in englischer Sprache",
-      "url": ""
-    },
-    {
-      "date": "2026-09-14",
-      "house": "萨尔茨堡音乐节",
-      "title": "Öffentliche Führung durch die Festspielhäuser in deutscher Sprache",
-      "url": ""
-    },
-    {
       "date": "2026-09-15",
       "house": "伦敦皇家歌剧院",
       "title": "Alcina",
@@ -127,36 +168,66 @@
     },
     {
       "date": "2026-09-15",
-      "house": "伦敦皇家歌剧院",
-      "title": "Behind the Scenes Tour",
-      "url": "https://www.rbo.org.uk/tickets-and-events/roh-behind-the-scene-tour-dates"
-    },
-    {
-      "date": "2026-09-15",
-      "house": "伦敦皇家歌剧院",
-      "title": "Thurrock Workshop Tour",
-      "url": "https://www.rbo.org.uk/tickets-and-events/thurrock-tour-dates"
-    },
-    {
-      "date": "2026-09-15",
       "house": "维也纳国家歌剧院",
       "title": "Le nozze di Figaro (Wolfgang Amadeus Mozart)",
       "url": "https://www.wiener-staatsoper.at/en/calendar/detail/le-nozze-di-figaro/2026-09-15/"
     },
     {
       "date": "2026-09-15",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "Ballett extra: Talk im Salon Luitpold – Neue Ensemblemitglieder stellen sich vor",
-      "url": "https://www.staatsoper.de/stuecke/ballett-extra/2026-09-15-1900-16684"
+      "house": "悉尼歌剧院",
+      "title": "Listen to This: Discover Beethoven",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/listen-discover-beethoven"
     },
     {
-      "date": "2026-09-15",
-      "house": "萨尔茨堡音乐节",
-      "title": "Öffentliche Führung durch die Festspielhäuser in deutscher Sprache",
-      "url": ""
+      "date": "2026-09-16",
+      "house": "伦敦皇家歌剧院",
+      "title": "Don Giovanni",
+      "url": "https://www.rbo.org.uk/production/don-giovanni-kasper-holten"
+    },
+    {
+      "date": "2026-09-16",
+      "house": "维也纳国家歌剧院",
+      "title": "Don Carlo (Giuseppe Verdi)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/don-carlo/2026-09-16/"
+    },
+    {
+      "date": "2026-09-16",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "L’elisir d’amore (Gaetano Donizetti)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/l-elisir-d-amore.html"
+    },
+    {
+      "date": "2026-09-16",
+      "house": "苏黎世歌剧院",
+      "title": "Oiseaux Rebelles",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/oiseaux-rebelles/2026-2027/"
+    },
+    {
+      "date": "2026-09-16",
+      "house": "旧金山歌剧院",
+      "title": "Simon Boccanegra (Giuseppe Verdi)",
+      "url": "https://www.sfopera.com/operas/simon-boccanegra/"
+    },
+    {
+      "date": "2026-09-17",
+      "house": "伦敦皇家歌剧院",
+      "title": "The McRae / Vassilev Project",
+      "url": "https://www.rbo.org.uk/production/the-mcrae-vasko-vassilev-project"
     }
   ],
   "artists": [
+    {
+      "name": "安东尼奥·帕帕诺",
+      "category": "指挥",
+      "mentions": [
+        {
+          "type": "新闻",
+          "title": "PROMS 2026: To Hell With You—Berlioz’s La Damnation de Faust at the Proms",
+          "url": "https://operatoday.com/2026/09/proms-2026-to-hell-with-you-berliozs-la-damnation-de-faust-at-the-proms/",
+          "date": "2026-09-02T18:11:20+00:00"
+        }
+      ]
+    },
     {
       "name": "基里尔·别特连科",
       "category": "指挥",
@@ -252,12 +323,6 @@
     {
       "date": "2026-09-14",
       "house": "伦敦皇家歌剧院",
-      "title": "Behind the Scenes Tour",
-      "url": "https://www.rbo.org.uk/tickets-and-events/roh-behind-the-scene-tour-dates"
-    },
-    {
-      "date": "2026-09-14",
-      "house": "伦敦皇家歌剧院",
       "title": "Tea Dance",
       "url": "https://www.rbo.org.uk/tickets-and-events/tea-dance-dates"
     },
@@ -274,18 +339,6 @@
       "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/l-elisir-d-amore.html"
     },
     {
-      "date": "2026-09-14",
-      "house": "萨尔茨堡音乐节",
-      "title": "Öffentliche Führung durch die Festspielhäuser in englischer Sprache",
-      "url": ""
-    },
-    {
-      "date": "2026-09-14",
-      "house": "萨尔茨堡音乐节",
-      "title": "Öffentliche Führung durch die Festspielhäuser in deutscher Sprache",
-      "url": ""
-    },
-    {
       "date": "2026-09-15",
       "house": "伦敦皇家歌剧院",
       "title": "Alcina",
@@ -299,33 +352,51 @@
     },
     {
       "date": "2026-09-15",
-      "house": "伦敦皇家歌剧院",
-      "title": "Behind the Scenes Tour",
-      "url": "https://www.rbo.org.uk/tickets-and-events/roh-behind-the-scene-tour-dates"
-    },
-    {
-      "date": "2026-09-15",
-      "house": "伦敦皇家歌剧院",
-      "title": "Thurrock Workshop Tour",
-      "url": "https://www.rbo.org.uk/tickets-and-events/thurrock-tour-dates"
-    },
-    {
-      "date": "2026-09-15",
       "house": "维也纳国家歌剧院",
       "title": "Le nozze di Figaro (Wolfgang Amadeus Mozart)",
       "url": "https://www.wiener-staatsoper.at/en/calendar/detail/le-nozze-di-figaro/2026-09-15/"
     },
     {
       "date": "2026-09-15",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "Ballett extra: Talk im Salon Luitpold – Neue Ensemblemitglieder stellen sich vor",
-      "url": "https://www.staatsoper.de/stuecke/ballett-extra/2026-09-15-1900-16684"
+      "house": "悉尼歌剧院",
+      "title": "Listen to This: Discover Beethoven",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/listen-discover-beethoven"
     },
     {
-      "date": "2026-09-15",
-      "house": "萨尔茨堡音乐节",
-      "title": "Öffentliche Führung durch die Festspielhäuser in deutscher Sprache",
-      "url": ""
+      "date": "2026-09-16",
+      "house": "伦敦皇家歌剧院",
+      "title": "Don Giovanni",
+      "url": "https://www.rbo.org.uk/production/don-giovanni-kasper-holten"
+    },
+    {
+      "date": "2026-09-16",
+      "house": "维也纳国家歌剧院",
+      "title": "Don Carlo (Giuseppe Verdi)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/don-carlo/2026-09-16/"
+    },
+    {
+      "date": "2026-09-16",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "L’elisir d’amore (Gaetano Donizetti)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/l-elisir-d-amore.html"
+    },
+    {
+      "date": "2026-09-16",
+      "house": "苏黎世歌剧院",
+      "title": "Oiseaux Rebelles",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/oiseaux-rebelles/2026-2027/"
+    },
+    {
+      "date": "2026-09-16",
+      "house": "旧金山歌剧院",
+      "title": "Simon Boccanegra (Giuseppe Verdi)",
+      "url": "https://www.sfopera.com/operas/simon-boccanegra/"
+    },
+    {
+      "date": "2026-09-17",
+      "house": "伦敦皇家歌剧院",
+      "title": "The McRae / Vassilev Project",
+      "url": "https://www.rbo.org.uk/production/the-mcrae-vasko-vassilev-project"
     }
   ]
 }

@@ -16,7 +16,7 @@ def _display(p: dict) -> str:
     return title
 
 
-def build(new_items, performances, artist_mentions, watchlist_by_id, today=None, ncpa_index=None):
+def build(new_items, performances, artist_mentions, watchlist_by_id, today=None):
     today = today or store.beijing_date()
     today_iso = today.isoformat()
     upcoming = sorted(
@@ -37,7 +37,6 @@ def build(new_items, performances, artist_mentions, watchlist_by_id, today=None,
         "date": today_iso,
         "generated_at": store.utc_now_iso(),
         "news": news,
-        "ncpa": _ncpa_links(news, new_items, ncpa_index),
         "schedule_updates": _schedule_updates(performances, today_iso),
         "artists": _artist_section(artist_mentions, watchlist_by_id),
         "upcoming_7": [
@@ -45,37 +44,6 @@ def build(new_items, performances, artist_mentions, watchlist_by_id, today=None,
             for p in upcoming_7
         ],
     }
-
-
-def _ncpa_links(news: list[dict], new_items: list[dict], ncpa_index) -> list[dict]:
-    """比对新闻中是否提及与国家大剧院合作过的艺术家，按新闻条目组织。"""
-    if ncpa_index is None:
-        return []
-    by_url = {n.get("url"): n for n in new_items}
-    out = []
-    for item in news:
-        raw = by_url.get(item.get("url"), {})
-        text = f'{raw.get("title", item.get("title", ""))} {raw.get("summary", "")}'
-        hits = ncpa_index.match(text)
-        if not hits:
-            continue
-        out.append(
-            {
-                "title": item["title"],
-                "url": item.get("url", ""),
-                "source": item.get("source", ""),
-                "date": item.get("date", ""),
-                "artists": [
-                    {
-                        "name": h["name"],
-                        "category": h.get("category", ""),
-                        "productions": h.get("productions", []),
-                    }
-                    for h in hits
-                ],
-            }
-        )
-    return out
 
 
 def _schedule_updates(performances, today_iso: str) -> list[dict]:
@@ -109,23 +77,6 @@ def to_markdown(sections: dict) -> str:
             lines.append(f"- {n['title']} ｜ {n['source']}  {n['url']}")
     else:
         lines.append("今日暂无新报道")
-    lines.append("")
-
-    lines.append("▍国家大剧院关联动态")
-    if sections.get("ncpa"):
-        for n in sections["ncpa"]:
-            lines.append(f"- {n['title']} ｜ {n['source']}  {n['url']}")
-            for a in n.get("artists", []):
-                prods = a.get("productions", [])
-                label = "、".join(f"{p.get('title', '')}({p.get('year', '')})" for p in prods[:4])
-                if len(prods) > 4:
-                    label += f" 等 {len(prods)} 部"
-                if label:
-                    lines.append(f"  · {a['name']}（{a.get('category') or '艺术家'}）：曾合作 {label}")
-                else:
-                    lines.append(f"  · {a['name']}（{a.get('category') or '艺术家'}）：曾与国家大剧院合作")
-    else:
-        lines.append("今日暂无与大剧院合作艺术家相关的报道")
     lines.append("")
 
     lines.append("▍排期更新")

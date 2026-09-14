@@ -42,8 +42,6 @@ function renderMeta(summary) {
   $("stat-performances").textContent = stats.performances ?? 0;
   $("stat-news").textContent = stats.news ?? 0;
   $("stat-artists").textContent = stats.artists ?? 0;
-  $("stat-ncpa-artists").textContent = stats.ncpa_artists ?? 0;
-  $("stat-ncpa-productions").textContent = stats.ncpa_productions ?? 0;
 }
 
 function renderDigest(digest) {
@@ -66,53 +64,13 @@ function renderDigest(digest) {
   const upcoming = (digest.upcoming_7 || []).map(
     (u) => `${esc(u.date)} ${esc(u.house)}：${link(u.url, u.title)}`
   );
-  const ncpa = (digest.ncpa || []).map((n) => {
-    const head = `${link(n.url, n.title)} <span class="badge">${esc(n.source)}</span>`;
-    const subs = (n.artists || []).map((a) => {
-      const prods = (a.productions || []).map((p) => `${p.title}(${p.year})`);
-      const shown = prods.length > 4 ? `${prods.slice(0, 4).join("、")} 等 ${prods.length} 部` : prods.join("、");
-      const suffix = shown ? `：曾合作 ${shown}` : "：曾与国家大剧院合作";
-      return `<div class="sub">· ${esc(a.name)}（${esc(a.category || "艺术家")}）${esc(suffix)}</div>`;
-    }).join("");
-    return head + subs;
-  });
   el.innerHTML =
     sectionHtml("今日要闻", news, "今日暂无新报道") +
-    sectionHtml("国家大剧院关联动态", ncpa, "今日暂无与大剧院合作艺术家相关的报道") +
     sectionHtml("排期更新", schedule, "今日暂无排期更新") +
     sectionHtml("艺术家动态", artists, "关注名单暂无新动态") +
     sectionHtml("未来 7 天值得关注", upcoming, "暂无排期数据");
 }
 
-function renderNcpaArtists(artists) {
-  const el = $("ncpa-artist-list");
-  if (!artists || !artists.length) {
-    el.innerHTML = emptyState("艺术家库尚未生成，等待首次定时运行。");
-    return;
-  }
-  const apply = () => {
-    const q = $("ncpa-search").value.trim().toLowerCase();
-    const list = artists.filter((a) =>
-      `${a.name || ""} ${(a.name_en || []).join(" ")} ${a.category || ""}`.toLowerCase().includes(q)
-    );
-    if (!list.length) {
-      el.innerHTML = emptyState("没有匹配的艺术家。");
-      return;
-    }
-    el.innerHTML = `<ul class="feed">${list.map((a) => {
-      const prods = a.productions || [];
-      const shown = prods.slice(0, 6).map((p) => `${p.title}(${p.year})`).join("、");
-      const more = prods.length > 6 ? ` 等 ${prods.length} 部` : "";
-      return `
-        <li>
-          <strong>${esc(a.name)}</strong> <span class="badge">${esc(a.category || "艺术家")}</span>
-          <div class="sub">合作制作：${esc(shown)}${esc(more)}</div>
-        </li>`;
-    }).join("")}</ul>`;
-  };
-  $("ncpa-search").addEventListener("input", apply);
-  apply();
-}
 
 function renderNews(news) {
   const el = $("news-list");
@@ -154,21 +112,49 @@ function renderArtists(artists) {
   }).join("");
 }
 
+function isTourEvent(p) {
+  const t = (p?.title || "").toLowerCase();
+  const u = (p?.url || "").toLowerCase();
+  if (/(\/tickets-and-events\/.*tour|\/tickets-and-events\/.*behind-the-scene|stages-and-cells|exhibition|\/backstage-tour|[-_/]fuehrung|[-_/]visite|[-_/]visita)/i.test(u)) {
+    return true;
+  }
+  if (/\b(tour|tours|guided\s+walk|walking\s+tour|backstage\s+tour|open\s+day)\b/i.test(t)) {
+    return true;
+  }
+  if (/\b(behind the scenes|stages and cells of covent garden|exhibition tours?)\b/i.test(t)) {
+    return true;
+  }
+  if (/(?<!auf)(?<!ent)f(ü|ue)hrung(en)?\b/i.test(t)) {
+    return true;
+  }
+  if (/\b(rundgang|besichtigung|werksf(ü|ue)hrung)\b/i.test(t) || t.includes("pausenrestaurant") || t.includes("refektorium")) {
+    return true;
+  }
+  if (/\bvisite(s)?\s+(guidée|guidées|du\s+théâtre|de\s+l['’]opéra|des\s+coulisses)\b/i.test(t)) {
+    return true;
+  }
+  if (/\b(visita\s+guidata|visite\s+guidate|tour\s+guidato)\b/i.test(t)) {
+    return true;
+  }
+  return false;
+}
+
 function renderPerformances(performances) {
   const el = $("performance-list");
   const houseSelect = $("house-filter");
-  if (!performances || !performances.length) {
+  const validPerformances = (performances || []).filter((p) => !isTourEvent(p));
+  if (!validPerformances.length) {
     el.innerHTML = emptyState("还没有排期数据，请先接入歌剧院订阅源。");
     return;
   }
-  const houses = [...new Set(performances.map((p) => p.house_name).filter(Boolean))].sort();
+  const houses = [...new Set(validPerformances.map((p) => p.house_name).filter(Boolean))].sort();
   houseSelect.innerHTML = `<option value="">全部剧院</option>` +
     houses.map((h) => `<option value="${esc(h)}">${esc(h)}</option>`).join("");
 
   const applyFilter = () => {
     const q = $("search").value.trim().toLowerCase();
     const house = houseSelect.value;
-    const list = performances
+    const list = validPerformances
       .filter((p) => !house || p.house_name === house)
       .filter((p) => {
         if (!q) return true;
@@ -191,20 +177,18 @@ function renderPerformances(performances) {
 }
 
 async function init() {
-  const [summary, digest, news, artists, performances, ncpaArtists] = await Promise.all([
+  const [summary, digest, news, artists, performances] = await Promise.all([
     getJSON("data/summary.json"),
     getJSON("data/digest/latest.json"),
     getJSON("data/news.json"),
     getJSON("data/artists.json"),
     getJSON("data/performances.json"),
-    getJSON("data/ncpa_artists.json"),
   ]);
   renderMeta(summary);
   renderDigest(digest);
   renderNews(news);
   renderArtists(artists);
   renderPerformances(performances);
-  renderNcpaArtists(ncpaArtists);
 }
 
 init();

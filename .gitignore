@@ -4,3 +4,12 @@ __pycache__/
 .DS_Store
 .env
 data/*.tmp
+
+# 简报与局域网服务文件
+/歌剧新闻/
+/news-report/
+/search_data.js
+/search_index.json
+/index_weekly_portal.html
+/歌剧新闻报*.md
+/📰*.md

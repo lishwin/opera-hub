@@ -840,6 +840,52 @@ _FEED_HANDLERS = {
 }
 
 
+def is_tour_or_visit(title: str, url: str = "") -> bool:
+    """判断是否为剧院参观、游览、后台导览等非真正演出的 tour 类型活动。"""
+    t = (title or "").lower()
+    u = (url or "").lower()
+
+    # 1. URL 路径特征检测
+    tour_url_patterns = [
+        r'/tickets-and-events/.*tour',
+        r'/tickets-and-events/.*behind-the-scene',
+        r'/tickets-and-events/stages-and-cells',
+        r'/tickets-and-events/exhibition',
+        r'/backstage-tour',
+        r'[-_/]fuehrung',
+        r'[-_/]visite',
+        r'[-_/]visita',
+    ]
+    for p in tour_url_patterns:
+        if re.search(p, u):
+            return True
+
+    # 2. 英文导览 / 游览 / 展览类标题
+    if re.search(r'\b(tour|tours|guided\s+walk|walking\s+tour|backstage\s+tour|open\s+day)\b', t, re.IGNORECASE):
+        return True
+    if re.search(r'\b(behind the scenes|stages and cells of covent garden|exhibition tours?)\b', t, re.IGNORECASE):
+        return True
+
+    # 3. 德语导览 / 参观类标题
+    # 注意排除莫扎特歌剧《后宫诱逃》（Die Entführung aus dem Serail）及首演标示（Aufführung / Uraufführung）
+    if re.search(r'(?<!auf)(?<!ent)f(ü|ue)hrung(en)?\b', t, re.IGNORECASE):
+        return True
+    if re.search(r'\b(rundgang|besichtigung|werksf(ü|ue)hrung)\b', t, re.IGNORECASE):
+        return True
+    if "pausenrestaurant" in t or "refektorium" in t:
+        return True
+
+    # 4. 法语 / 意大利语导览类标题
+    if re.search(r'\bvisite(s)?\s+(guidée|guidées|du\s+théâtre|de\s+l[\'’]opéra|des\s+coulisses)\b', t, re.IGNORECASE):
+        return True
+    if re.search(r'\bvisite(s)?\b', t, re.IGNORECASE) and any(k in t for k in ['théâtre', 'opera', 'opéra', 'coulisses', 'palais']):
+        return True
+    if re.search(r'\b(visita\s+guidata|visite\s+guidate|tour\s+guidato)\b', t, re.IGNORECASE):
+        return True
+
+    return False
+
+
 def fetch_house(house: dict) -> list[dict]:
     """抓取一家剧院的全部启用订阅源，返回标准化演出条目。"""
     results = []
@@ -865,6 +911,8 @@ def fetch_house(house: dict) -> list[dict]:
         for it in items:
             title = it.get("title", "").strip()
             if not title or not it.get("date") or it["date"] < today:
+                continue
+            if is_tour_or_visit(title, it.get("url", "")):
                 continue
             composer = it.get("composer", "").strip()
             display_title = title
