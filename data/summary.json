@@ -1,41 +1,17 @@
 {
-  "updated_at": "2026-09-21T05:51:23+00:00",
+  "updated_at": "2026-09-22T05:48:10+00:00",
   "stats": {
     "houses": 14,
-    "performances": 969,
-    "news": 136,
+    "performances": 973,
+    "news": 148,
     "artists": 7
   },
   "upcoming_30": [
     {
-      "date": "2026-09-21",
-      "house": "伦敦皇家歌剧院",
-      "title": "Don Giovanni",
-      "url": "https://www.rbo.org.uk/production/don-giovanni-kasper-holten"
-    },
-    {
-      "date": "2026-09-21",
-      "house": "伦敦皇家歌剧院",
-      "title": "Recitals at Lunch",
-      "url": "https://www.rbo.org.uk/production/recitals-at-lunch"
-    },
-    {
-      "date": "2026-09-21",
-      "house": "维也纳国家歌剧院",
-      "title": "No Performance",
-      "url": ""
-    },
-    {
-      "date": "2026-09-21",
-      "house": "悉尼歌剧院",
-      "title": "Mozart’s Last Symphonies",
-      "url": "https://www.sydneyoperahouse.com/australian-chamber-orchestra/2026-season/mozarts-last-symphonies"
-    },
-    {
       "date": "2026-09-22",
       "house": "维也纳国家歌剧院",
-      "title": "Recital Günther Groissböck",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/recital/2026-09-22/"
+      "title": "Change of Programme: Florian Boesch sings »Winter­reise«",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/recitals/2026-09-22/"
     },
     {
       "date": "2026-09-22",
@@ -123,6 +99,12 @@
     },
     {
       "date": "2026-09-24",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "John Neumeier DIE KAMELIENDAME (John Neumeier)",
+      "url": "https://www.staatsoper.de/stuecke/die-kameliendame/2026-09-24-1930-16094"
+    },
+    {
+      "date": "2026-09-24",
       "house": "苏黎世歌剧院",
       "title": "Giacomo Puccini La rondine (Giacomo Puccini)",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/la-rondine/"
@@ -171,6 +153,12 @@
     },
     {
       "date": "2026-09-25",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "Georg Friedrich Händel Semele (Georg Friedrich Händel)",
+      "url": "https://www.staatsoper.de/stuecke/semele/2026-09-25-1800-16095"
+    },
+    {
+      "date": "2026-09-25",
       "house": "苏黎世歌剧院",
       "title": "Wolfgang Amadeus Mozart Die Zauberflöte (Wolfgang Amadeus Mozart)",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/die-zauberfloete-1/"
@@ -213,6 +201,12 @@
     },
     {
       "date": "2026-09-26",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "1. Akademiekonzert: Vladimir Jurowski",
+      "url": "https://www.staatsoper.de/stuecke/1-akademiekonzert-2026-27-vladimir-jurowski/2026-09-26-2000-16096"
+    },
+    {
+      "date": "2026-09-26",
       "house": "苏黎世歌剧院",
       "title": "Matinee «Ein Sommernachtstraum»",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/matinee-ein-sommernachtstraum/"
@@ -252,6 +246,12 @@
       "house": "维也纳国家歌剧院",
       "title": "Giuseppe Verdi Macbeth (Giuseppe Verdi)",
       "url": "https://www.wiener-staatsoper.at/en/calendar/detail/macbeth/2026-09-27/"
+    },
+    {
+      "date": "2026-09-27",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "1. Akademiekonzert: Vladimir Jurowski",
+      "url": "https://www.staatsoper.de/stuecke/1-akademiekonzert-2026-27-vladimir-jurowski/2026-09-27-1900-16097"
     },
     {
       "date": "2026-09-27",
@@ -312,6 +312,12 @@
       "house": "巴黎歌剧院",
       "title": "L'Histoire de Manon — Kenneth MacMillan",
       "url": "https://www.operadeparis.fr/saison-26-27/ballet/lhistoire-de-manon"
+    },
+    {
+      "date": "2026-09-28",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "Georg Friedrich Händel Semele (Georg Friedrich Händel)",
+      "url": "https://www.staatsoper.de/stuecke/semele/2026-09-28-1800-16098"
     },
     {
       "date": "2026-09-28",
@@ -466,7 +472,7 @@
     {
       "date": "2026-10-02",
       "house": "苏黎世歌剧院",
-      "title": "Benefizkonzert «amiamusica»",
+      "title": "Benefizkonzert Anne-Sophie Mutter",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/benefiz-amiamusica/"
     },
     {
@@ -480,12 +486,6 @@
       "house": "伦敦皇家歌剧院",
       "title": "Alcina",
       "url": "https://www.rbo.org.uk/production/alcina-richard-jones"
-    },
-    {
-      "date": "2026-10-03",
-      "house": "伦敦皇家歌剧院",
-      "title": "Insights: The Royal Ballet School – A Centenary Celebration",
-      "url": "https://www.rbo.org.uk/production/insights-the-royal-ballet-school-a-centenary-celebration"
     }
   ]
 }

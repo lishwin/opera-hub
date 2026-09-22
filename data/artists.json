@@ -57,7 +57,7 @@
         "date": "2026-11-08"
       }
     ],
-    "last_updated": "2026-09-21T05:51:23+00:00"
+    "last_updated": "2026-09-22T05:48:10+00:00"
   },
   {
     "id": "riccardo-muti",
@@ -111,7 +111,7 @@
         "date": "2027-11-15"
       }
     ],
-    "last_updated": "2026-09-21T05:51:23+00:00"
+    "last_updated": "2026-09-22T05:48:10+00:00"
   },
   {
     "id": "diana-damrau",
@@ -129,7 +129,7 @@
         "date": "2027-06-13"
       }
     ],
-    "last_updated": "2026-09-21T05:51:23+00:00"
+    "last_updated": "2026-09-22T05:48:10+00:00"
   },
   {
     "id": "piotr-beczala",
@@ -139,9 +139,15 @@
         "title": "Piotr Beczała",
         "url": "https://www.operadeparis.fr/saison-26-27/concert-et-recital/recital-piotr-beczala",
         "date": "2027-03-07"
+      },
+      {
+        "type": "新闻",
+        "title": "Piotr Beczała & Marigona Qerkezi Close out Zagreb Opera Festival 2026",
+        "url": "https://operawire.com/piotr-beczala-marigona-qerkezi-close-out-zagreb-opera-festival-2026/",
+        "date": "2026-09-22T04:00:30+00:00"
       }
     ],
-    "last_updated": "2026-09-21T05:51:23+00:00"
+    "last_updated": "2026-09-22T05:48:10+00:00"
   },
   {
     "id": "antonio-pappano",
