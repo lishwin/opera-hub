@@ -55,9 +55,15 @@
         "title": "Otello (Giuseppe Verdi)",
         "url": "https://www.wiener-staatsoper.at/en/calendar/detail/otello/2026-11-08/",
         "date": "2026-11-08"
+      },
+      {
+        "type": "新闻",
+        "title": "Jonas Kaufmann to Headline Palm Beach Opera Gala",
+        "url": "https://operawire.com/jonas-kaufmann-to-headline-palm-beach-opera-gala/",
+        "date": "2026-09-22T14:48:17+00:00"
       }
     ],
-    "last_updated": "2026-09-22T05:48:10+00:00"
+    "last_updated": "2026-09-23T05:29:42+00:00"
   },
   {
     "id": "riccardo-muti",
@@ -111,7 +117,7 @@
         "date": "2027-11-15"
       }
     ],
-    "last_updated": "2026-09-22T05:48:10+00:00"
+    "last_updated": "2026-09-23T05:29:42+00:00"
   },
   {
     "id": "diana-damrau",
@@ -129,7 +135,7 @@
         "date": "2027-06-13"
       }
     ],
-    "last_updated": "2026-09-22T05:48:10+00:00"
+    "last_updated": "2026-09-23T05:29:42+00:00"
   },
   {
     "id": "piotr-beczala",
@@ -147,7 +153,7 @@
         "date": "2026-09-22T04:00:30+00:00"
       }
     ],
-    "last_updated": "2026-09-22T05:48:10+00:00"
+    "last_updated": "2026-09-23T05:29:42+00:00"
   },
   {
     "id": "antonio-pappano",
@@ -160,5 +166,17 @@
       }
     ],
     "last_updated": "2026-09-14T13:14:07+00:00"
+  },
+  {
+    "id": "anna-netrebko",
+    "mentions": [
+      {
+        "type": "新闻",
+        "title": "Paris Opera Play Announces 2026-27 Streaming Slate Featuring Anna Netrebko, Nicole Car, Sondra Radvanovsky & Ludovic Tézier",
+        "url": "https://operawire.com/paris-opera-play-announces-2026-27-streaming-slate-featuring-anna-netrebko-nicole-car-sondra-radvanovsky-ludovic-tezier/",
+        "date": "2026-09-22T18:32:56+00:00"
+      }
+    ],
+    "last_updated": "2026-09-23T05:29:42+00:00"
   }
 ]
