@@ -1,99 +1,51 @@
 {
-  "date": "2026-09-23",
-  "generated_at": "2026-09-23T05:29:42+00:00",
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T05:49:23+00:00",
   "news": [
     {
       "source": "OperaWire",
-      "title": "Deutsche Oper Berlin 2026-27 Review: Mittwoch aus Licht",
-      "url": "https://operawire.com/deutsche-oper-berlin-2026-27-review-mittwoch-aus-licht/",
+      "title": "New Cantonese Opera ‘Sleepless Moon’ to Premiere in Hong Kong",
+      "url": "https://operawire.com/new-cantonese-opera-sleepless-moon-to-premiere-in-hong-kong/",
+      "date": "2026-09-24"
+    },
+    {
+      "source": "OperaWire",
+      "title": "L’Académie de l’Opéra national de Paris Announces 2026-27 Season",
+      "url": "https://operawire.com/lacademie-de-lopera-national-de-paris-announces-2026-27-season/",
+      "date": "2026-09-24"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Louise Alder, Lise Davidsen, Rosa Feola, Jonathan Tetelman, Lawrence Brownlee, Clay Hilley & Lisette Oropesa Among Nominees for 2026 International Opera Awards",
+      "url": "https://operawire.com/louise-alder-lise-davidsen-rosa-feola-jonathan-tetelman-lawrence-brownlee-clay-hilley-lisette-oropesa-among-nominees-for-2026-international-opera-awards/",
+      "date": "2026-09-24"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Metropolitan Opera 2026-27 Review: Macbeth",
+      "url": "https://operawire.com/metropolitan-opera-2026-27-review-macbeth/",
+      "date": "2026-09-23"
+    },
+    {
+      "source": "Slipped Disc",
+      "title": "Gustavo Dudamel: My questions of identity",
+      "url": "https://slippedisc.com/2026/09/gustavo-dudamel-my-questions-of-identity/?utm_source=rss&utm_medium=rss&utm_campaign=gustavo-dudamel-my-questions-of-identity",
       "date": "2026-09-23"
     },
     {
       "source": "OperaWire",
-      "title": "Komische Oper Berlin 2026-27 Review: Lear",
-      "url": "https://operawire.com/komische-oper-berlin-2026-27-review-lear/",
-      "date": "2026-09-22"
+      "title": "Mary Elizabeth Williams & Brendan Boyle Lead Toledo Opera’s ‘Aida’",
+      "url": "https://operawire.com/mary-elizabeth-williams-brendan-boyle-lead-toledo-operas-aida/",
+      "date": "2026-09-23"
     },
     {
       "source": "OperaWire",
-      "title": "Paris Opera Play Announces 2026-27 Streaming Slate Featuring Anna Netrebko, Nicole Car, Sondra Radvanovsky & Ludovic Tézier",
-      "url": "https://operawire.com/paris-opera-play-announces-2026-27-streaming-slate-featuring-anna-netrebko-nicole-car-sondra-radvanovsky-ludovic-tezier/",
-      "date": "2026-09-22"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Jonas Kaufmann to Headline Palm Beach Opera Gala",
-      "url": "https://operawire.com/jonas-kaufmann-to-headline-palm-beach-opera-gala/",
-      "date": "2026-09-22"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Cast Change: Florian Boesch Replaces Günther Groissböck in Wiener Staatsoper Recital",
-      "url": "https://operawire.com/cast-change-florian-boesch-replaces-gunther-groissbock-in-wiener-staatsoper-recital/",
-      "date": "2026-09-22"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Musikfest Berlin 2026 Review: Porgy and Bess",
-      "url": "https://operawire.com/musikfest-berlin-2026-review-porgy-and-bess/",
-      "date": "2026-09-22"
-    },
-    {
-      "source": "Parterre Box",
-      "title": "All about Eve",
-      "url": "https://parterre.com/2026/09/22/all-about-eve/",
-      "date": "2026-09-22"
-    },
-    {
-      "source": "Slipped Disc",
-      "title": "Famed conductor, 90, gives fortune to save local orchestra",
-      "url": "https://slippedisc.com/2026/09/famed-conductor-90-gives-fortune-to-save-local-orchestra/?utm_source=rss&utm_medium=rss&utm_campaign=famed-conductor-90-gives-fortune-to-save-local-orchestra",
-      "date": "2026-09-22"
-    },
-    {
-      "source": "Slipped Disc",
-      "title": "Hungarians can’t find a good enough Liszt",
-      "url": "https://slippedisc.com/2026/09/hungarians-cant-find-a-good-enough-liszt/?utm_source=rss&utm_medium=rss&utm_campaign=hungarians-cant-find-a-good-enough-liszt",
-      "date": "2026-09-22"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Voices of Ascension to Open with ‘War & Requiem’",
-      "url": "https://operawire.com/voices-of-ascension-to-open-with-war-requiem/",
-      "date": "2026-09-22"
+      "title": "David Reiland Named Principal Conductor of the Orchestre de Picardie",
+      "url": "https://operawire.com/david-reiland-named-principal-conductor-of-the-orchestre-de-picardie/",
+      "date": "2026-09-23"
     }
   ],
   "schedule_updates": [
-    {
-      "date": "2026-09-23",
-      "house": "伦敦皇家歌剧院",
-      "title": "Alcina",
-      "url": "https://www.rbo.org.uk/production/alcina-richard-jones"
-    },
-    {
-      "date": "2026-09-23",
-      "house": "伦敦皇家歌剧院",
-      "title": "Dark Nights",
-      "url": "https://www.rbo.org.uk/production/dark-nights"
-    },
-    {
-      "date": "2026-09-23",
-      "house": "伦敦皇家歌剧院",
-      "title": "Insights: The Royal Ballet in Rehearsal",
-      "url": "https://www.rbo.org.uk/production/insights-the-royal-ballet-in-rehearsal"
-    },
-    {
-      "date": "2026-09-23",
-      "house": "维也纳国家歌剧院",
-      "title": "La clemenza di Tito (Wolfgang Amadeus Mozart)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/la-clemenza-di-tito/2026-09-23/"
-    },
-    {
-      "date": "2026-09-23",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "La traviata (Giuseppe Verdi)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/la-traviata.html"
-    },
     {
       "date": "2026-09-24",
       "house": "伦敦皇家歌剧院",
@@ -153,9 +105,51 @@
       "house": "维也纳国家歌剧院",
       "title": "Living Legacies (George Balanchine,\n        \n    \n\n    \n        \n            Christopher Wheeldon,\n        \n    \n\n    \n        \n            Frederick Ashton)",
       "url": "https://www.wiener-staatsoper.at/en/calendar/detail/living-legacies/2026-09-25/"
+    },
+    {
+      "date": "2026-09-25",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Daniele Rustioni (Symphony Concerts C)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/concerts/symphony-concerts/daniele-rustioni.html"
+    },
+    {
+      "date": "2026-09-25",
+      "house": "苏黎世歌剧院",
+      "title": "Die Zauberflöte (Wolfgang Amadeus Mozart)",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/die-zauberfloete-1/"
+    },
+    {
+      "date": "2026-09-25",
+      "house": "旧金山歌剧院",
+      "title": "Simon Boccanegra (Giuseppe Verdi)",
+      "url": "https://www.sfopera.com/operas/simon-boccanegra/"
+    },
+    {
+      "date": "2026-09-26",
+      "house": "维也纳国家歌剧院",
+      "title": "Open Adult Ballet Class",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/open-adult-ballet-class/2026-09-26/"
+    },
+    {
+      "date": "2026-09-26",
+      "house": "维也纳国家歌剧院",
+      "title": "La clemenza di Tito (Wolfgang Amadeus Mozart)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/la-clemenza-di-tito/2026-09-26/"
     }
   ],
   "artists": [
+    {
+      "name": "古斯塔沃·杜达梅尔",
+      "category": "指挥",
+      "mentions": [
+        {
+          "type": "新闻",
+          "title": "Gustavo Dudamel: My questions of identity",
+          "url": "https://slippedisc.com/2026/09/gustavo-dudamel-my-questions-of-identity/?utm_source=rss&utm_medium=rss&utm_campaign=gustavo-dudamel-my-questions-of-identity",
+          "date": "2026-09-23T09:35:10+00:00"
+        }
+      ]
+    },
     {
       "name": "基里尔·别特连科",
       "category": "指挥",
@@ -177,18 +171,6 @@
           "title": "Kirill Petrenko / Berliner Philharmoniker (Guest orchestras subscritpion)",
           "url": "https://www.teatroallascala.org/en/season/2026-2027/concerts/guest-orchestras/berliner-philharmoniker-kirill-petrenko.html",
           "date": "2027-11-15"
-        }
-      ]
-    },
-    {
-      "name": "安娜·奈瑞贝科",
-      "category": "歌唱家",
-      "mentions": [
-        {
-          "type": "新闻",
-          "title": "Paris Opera Play Announces 2026-27 Streaming Slate Featuring Anna Netrebko, Nicole Car, Sondra Radvanovsky & Ludovic Tézier",
-          "url": "https://operawire.com/paris-opera-play-announces-2026-27-streaming-slate-featuring-anna-netrebko-nicole-car-sondra-radvanovsky-ludovic-tezier/",
-          "date": "2026-09-22T18:32:56+00:00"
         }
       ]
     },
@@ -249,36 +231,6 @@
   ],
   "upcoming_7": [
     {
-      "date": "2026-09-23",
-      "house": "伦敦皇家歌剧院",
-      "title": "Alcina",
-      "url": "https://www.rbo.org.uk/production/alcina-richard-jones"
-    },
-    {
-      "date": "2026-09-23",
-      "house": "伦敦皇家歌剧院",
-      "title": "Dark Nights",
-      "url": "https://www.rbo.org.uk/production/dark-nights"
-    },
-    {
-      "date": "2026-09-23",
-      "house": "伦敦皇家歌剧院",
-      "title": "Insights: The Royal Ballet in Rehearsal",
-      "url": "https://www.rbo.org.uk/production/insights-the-royal-ballet-in-rehearsal"
-    },
-    {
-      "date": "2026-09-23",
-      "house": "维也纳国家歌剧院",
-      "title": "La clemenza di Tito (Wolfgang Amadeus Mozart)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/la-clemenza-di-tito/2026-09-23/"
-    },
-    {
-      "date": "2026-09-23",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "La traviata (Giuseppe Verdi)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/la-traviata.html"
-    },
-    {
       "date": "2026-09-24",
       "house": "伦敦皇家歌剧院",
       "title": "Don Giovanni",
@@ -337,6 +289,36 @@
       "house": "维也纳国家歌剧院",
       "title": "Living Legacies (George Balanchine,\n        \n    \n\n    \n        \n            Christopher Wheeldon,\n        \n    \n\n    \n        \n            Frederick Ashton)",
       "url": "https://www.wiener-staatsoper.at/en/calendar/detail/living-legacies/2026-09-25/"
+    },
+    {
+      "date": "2026-09-25",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Daniele Rustioni (Symphony Concerts C)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/concerts/symphony-concerts/daniele-rustioni.html"
+    },
+    {
+      "date": "2026-09-25",
+      "house": "苏黎世歌剧院",
+      "title": "Die Zauberflöte (Wolfgang Amadeus Mozart)",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/die-zauberfloete-1/"
+    },
+    {
+      "date": "2026-09-25",
+      "house": "旧金山歌剧院",
+      "title": "Simon Boccanegra (Giuseppe Verdi)",
+      "url": "https://www.sfopera.com/operas/simon-boccanegra/"
+    },
+    {
+      "date": "2026-09-26",
+      "house": "维也纳国家歌剧院",
+      "title": "Open Adult Ballet Class",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/open-adult-ballet-class/2026-09-26/"
+    },
+    {
+      "date": "2026-09-26",
+      "house": "维也纳国家歌剧院",
+      "title": "La clemenza di Tito (Wolfgang Amadeus Mozart)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/la-clemenza-di-tito/2026-09-26/"
     }
   ]
 }
