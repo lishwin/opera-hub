@@ -1,48 +1,12 @@
 {
-  "updated_at": "2026-09-24T05:49:23+00:00",
+  "updated_at": "2026-09-25T05:44:09+00:00",
   "stats": {
     "houses": 14,
-    "performances": 958,
-    "news": 165,
+    "performances": 962,
+    "news": 173,
     "artists": 8
   },
   "upcoming_30": [
-    {
-      "date": "2026-09-24",
-      "house": "伦敦皇家歌剧院",
-      "title": "Don Giovanni",
-      "url": "https://www.rbo.org.uk/production/don-giovanni-kasper-holten"
-    },
-    {
-      "date": "2026-09-24",
-      "house": "维也纳国家歌剧院",
-      "title": "Giuseppe Verdi Macbeth (Giuseppe Verdi)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/macbeth/2026-09-24/"
-    },
-    {
-      "date": "2026-09-24",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Symphony Concerts B Daniele Rustioni (Symphony Concerts B)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/concerts/symphony-concerts/daniele-rustioni.html"
-    },
-    {
-      "date": "2026-09-24",
-      "house": "巴黎歌剧院",
-      "title": "Concert d’ouverture de la saison Académie — Artistes de l’Académie",
-      "url": "https://www.operadeparis.fr/saison-26-27/concert-et-recital/concert-douverture-de-la-saison-academie"
-    },
-    {
-      "date": "2026-09-24",
-      "house": "苏黎世歌剧院",
-      "title": "Giacomo Puccini La rondine (Giacomo Puccini)",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/la-rondine/"
-    },
-    {
-      "date": "2026-09-24",
-      "house": "旧金山歌剧院",
-      "title": "Thea Musgrave Mary, Queen of Scots (Thea Musgrave)",
-      "url": "https://www.sfopera.com/operas/mary-queen-of-scots/"
-    },
     {
       "date": "2026-09-25",
       "house": "伦敦皇家歌剧院",
@@ -72,6 +36,12 @@
       "house": "米兰斯卡拉歌剧院",
       "title": "Symphony Concerts C Daniele Rustioni (Symphony Concerts C)",
       "url": "https://www.teatroallascala.org/en/season/2025-2026/concerts/symphony-concerts/daniele-rustioni.html"
+    },
+    {
+      "date": "2026-09-25",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "Georg Friedrich Händel Semele (Georg Friedrich Händel)",
+      "url": "https://www.staatsoper.de/stuecke/semele/2026-09-25-1800-16095"
     },
     {
       "date": "2026-09-25",
@@ -108,6 +78,12 @@
       "house": "巴黎歌剧院",
       "title": "Répétition publique : Paysages intérieurs — Vers un pays sage de Jean-Christophe Maillot",
       "url": "https://www.operadeparis.fr/saison-26-27/repetition/repetition-publique-paysages-interieurs"
+    },
+    {
+      "date": "2026-09-26",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "1. Akademiekonzert: Vladimir Jurowski",
+      "url": "https://www.staatsoper.de/stuecke/1-akademiekonzert-2026-27-vladimir-jurowski/2026-09-26-2000-16096"
     },
     {
       "date": "2026-09-26",
@@ -150,6 +126,12 @@
       "house": "维也纳国家歌剧院",
       "title": "Giuseppe Verdi Macbeth (Giuseppe Verdi)",
       "url": "https://www.wiener-staatsoper.at/en/calendar/detail/macbeth/2026-09-27/"
+    },
+    {
+      "date": "2026-09-27",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "1. Akademiekonzert: Vladimir Jurowski",
+      "url": "https://www.staatsoper.de/stuecke/1-akademiekonzert-2026-27-vladimir-jurowski/2026-09-27-1900-16097"
     },
     {
       "date": "2026-09-27",
@@ -210,6 +192,12 @@
       "house": "巴黎歌剧院",
       "title": "L'Histoire de Manon — Kenneth MacMillan",
       "url": "https://www.operadeparis.fr/saison-26-27/ballet/lhistoire-de-manon"
+    },
+    {
+      "date": "2026-09-28",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "Georg Friedrich Händel Semele (Georg Friedrich Händel)",
+      "url": "https://www.staatsoper.de/stuecke/semele/2026-09-28-1800-16098"
     },
     {
       "date": "2026-09-28",
@@ -486,6 +474,18 @@
       "house": "苏黎世歌剧院",
       "title": "Richard Wagner Tannhäuser (Richard Wagner)",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/tannhaeuser-1/"
+    },
+    {
+      "date": "2026-10-04",
+      "house": "芝加哥抒情歌剧院",
+      "title": "2026 Final Auditions",
+      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/2026-final-auditions/"
+    },
+    {
+      "date": "2026-10-04",
+      "house": "旧金山歌剧院",
+      "title": "Thea Musgrave Mary, Queen of Scots (Thea Musgrave)",
+      "url": "https://www.sfopera.com/operas/mary-queen-of-scots/"
     }
   ]
 }

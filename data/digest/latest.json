@@ -1,87 +1,57 @@
 {
-  "date": "2026-09-24",
-  "generated_at": "2026-09-24T05:49:23+00:00",
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T05:44:09+00:00",
   "news": [
     {
       "source": "OperaWire",
-      "title": "New Cantonese Opera ‘Sleepless Moon’ to Premiere in Hong Kong",
-      "url": "https://operawire.com/new-cantonese-opera-sleepless-moon-to-premiere-in-hong-kong/",
-      "date": "2026-09-24"
+      "title": "OperaDelaware Announces ‘Don Giovanni Portraits’ and & ‘Opera Insights on Don Giovanni’",
+      "url": "https://operawire.com/operadelaware-announces-don-giovanni-portraits-and-opera-insights-on-don-giovanni/",
+      "date": "2026-09-25"
     },
     {
       "source": "OperaWire",
-      "title": "L’Académie de l’Opéra national de Paris Announces 2026-27 Season",
-      "url": "https://operawire.com/lacademie-de-lopera-national-de-paris-announces-2026-27-season/",
-      "date": "2026-09-24"
+      "title": "‘The Puerto Rico Experiment’ to World Premiere as Part of Perelman Performing Arts Center’s Democracy Cycle Festival",
+      "url": "https://operawire.com/the-puerto-rico-experiment-to-world-premiere-as-part-of-perelman-performing-arts-centers-democracy-cycle-festival/",
+      "date": "2026-09-25"
     },
     {
       "source": "OperaWire",
-      "title": "Louise Alder, Lise Davidsen, Rosa Feola, Jonathan Tetelman, Lawrence Brownlee, Clay Hilley & Lisette Oropesa Among Nominees for 2026 International Opera Awards",
-      "url": "https://operawire.com/louise-alder-lise-davidsen-rosa-feola-jonathan-tetelman-lawrence-brownlee-clay-hilley-lisette-oropesa-among-nominees-for-2026-international-opera-awards/",
-      "date": "2026-09-24"
+      "title": "Festival Napa Valley Presents Andrea Bocelli with Angels of the Arts Award",
+      "url": "https://operawire.com/festival-napa-valley-presents-andrea-bocelli-with-angels-of-the-arts-award/",
+      "date": "2026-09-25"
     },
     {
       "source": "OperaWire",
-      "title": "Metropolitan Opera 2026-27 Review: Macbeth",
-      "url": "https://operawire.com/metropolitan-opera-2026-27-review-macbeth/",
-      "date": "2026-09-23"
+      "title": "Massimo Cavalletti, Alessandra di Giorgio, Fabián Veloz & Nikoletta Hertsak lead Teatro Pergolesi di Jesi’s 2026 Season",
+      "url": "https://operawire.com/massimo-cavalletti-alessandra-di-giorgio-fabian-veloz-nikoletta-hertsak-lead-teatro-pergolesi-di-jesis-2026-season/",
+      "date": "2026-09-25"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Q & A: Marija Jelič on her Debut with the Sicilian Symphony Orchestra, AI in Opera & Future Projects",
+      "url": "https://operawire.com/q-a-marija-jelic-on-her-debut-with-the-sicilian-symphony-orchestra-ai-in-opera-future-projects/",
+      "date": "2026-09-25"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Q & A: Rosa Feola on the Metropolitan Opera, ‘La Bohème’ & Future Projects",
+      "url": "https://operawire.com/q-a-rosa-feola-on-the-metropolitan-opera-la-boheme-future-projects/",
+      "date": "2026-09-25"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Opera Philadelphia & New York City Center Announce Collaboration for Gershwins’ ‘Let ‘Em Eat Cake’",
+      "url": "https://operawire.com/opera-philadelphia-new-york-city-center-announce-collaboration-for-gershwins-let-em-eat-cake/",
+      "date": "2026-09-25"
     },
     {
       "source": "Slipped Disc",
-      "title": "Gustavo Dudamel: My questions of identity",
-      "url": "https://slippedisc.com/2026/09/gustavo-dudamel-my-questions-of-identity/?utm_source=rss&utm_medium=rss&utm_campaign=gustavo-dudamel-my-questions-of-identity",
-      "date": "2026-09-23"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Mary Elizabeth Williams & Brendan Boyle Lead Toledo Opera’s ‘Aida’",
-      "url": "https://operawire.com/mary-elizabeth-williams-brendan-boyle-lead-toledo-operas-aida/",
-      "date": "2026-09-23"
-    },
-    {
-      "source": "OperaWire",
-      "title": "David Reiland Named Principal Conductor of the Orchestre de Picardie",
-      "url": "https://operawire.com/david-reiland-named-principal-conductor-of-the-orchestre-de-picardie/",
-      "date": "2026-09-23"
+      "title": "A US orchestra lacks ‘sufficient cash to sustain operations’",
+      "url": "https://slippedisc.com/2026/09/a-us-orchestra-lacks-sufficient-cash-to-sustain-operations/?utm_source=rss&utm_medium=rss&utm_campaign=a-us-orchestra-lacks-sufficient-cash-to-sustain-operations",
+      "date": "2026-09-24"
     }
   ],
   "schedule_updates": [
-    {
-      "date": "2026-09-24",
-      "house": "伦敦皇家歌剧院",
-      "title": "Don Giovanni",
-      "url": "https://www.rbo.org.uk/production/don-giovanni-kasper-holten"
-    },
-    {
-      "date": "2026-09-24",
-      "house": "维也纳国家歌剧院",
-      "title": "Macbeth (Giuseppe Verdi)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/macbeth/2026-09-24/"
-    },
-    {
-      "date": "2026-09-24",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Daniele Rustioni (Symphony Concerts B)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/concerts/symphony-concerts/daniele-rustioni.html"
-    },
-    {
-      "date": "2026-09-24",
-      "house": "巴黎歌剧院",
-      "title": "Concert d’ouverture de la saison Académie — Artistes de l’Académie",
-      "url": "https://www.operadeparis.fr/saison-26-27/concert-et-recital/concert-douverture-de-la-saison-academie"
-    },
-    {
-      "date": "2026-09-24",
-      "house": "苏黎世歌剧院",
-      "title": "La rondine (Giacomo Puccini)",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/la-rondine/"
-    },
-    {
-      "date": "2026-09-24",
-      "house": "旧金山歌剧院",
-      "title": "Mary, Queen of Scots (Thea Musgrave)",
-      "url": "https://www.sfopera.com/operas/mary-queen-of-scots/"
-    },
     {
       "date": "2026-09-25",
       "house": "伦敦皇家歌剧院",
@@ -114,6 +84,12 @@
     },
     {
       "date": "2026-09-25",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "Semele (Georg Friedrich Händel)",
+      "url": "https://www.staatsoper.de/stuecke/semele/2026-09-25-1800-16095"
+    },
+    {
+      "date": "2026-09-25",
       "house": "苏黎世歌剧院",
       "title": "Die Zauberflöte (Wolfgang Amadeus Mozart)",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/die-zauberfloete-1/"
@@ -135,21 +111,39 @@
       "house": "维也纳国家歌剧院",
       "title": "La clemenza di Tito (Wolfgang Amadeus Mozart)",
       "url": "https://www.wiener-staatsoper.at/en/calendar/detail/la-clemenza-di-tito/2026-09-26/"
+    },
+    {
+      "date": "2026-09-26",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "La traviata (Giuseppe Verdi)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/la-traviata.html"
+    },
+    {
+      "date": "2026-09-26",
+      "house": "巴黎歌剧院",
+      "title": "Répétition publique : Paysages intérieurs — Vers un pays sage de Jean-Christophe Maillot",
+      "url": "https://www.operadeparis.fr/saison-26-27/repetition/repetition-publique-paysages-interieurs"
+    },
+    {
+      "date": "2026-09-26",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "1. Akademiekonzert: Vladimir Jurowski",
+      "url": "https://www.staatsoper.de/stuecke/1-akademiekonzert-2026-27-vladimir-jurowski/2026-09-26-2000-16096"
+    },
+    {
+      "date": "2026-09-26",
+      "house": "苏黎世歌剧院",
+      "title": "Matinee «Ein Sommernachtstraum»",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/matinee-ein-sommernachtstraum/"
+    },
+    {
+      "date": "2026-09-26",
+      "house": "苏黎世歌剧院",
+      "title": "Tannhäuser (Richard Wagner Opernhaustag)",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/tannhaeuser-1/"
     }
   ],
   "artists": [
-    {
-      "name": "古斯塔沃·杜达梅尔",
-      "category": "指挥",
-      "mentions": [
-        {
-          "type": "新闻",
-          "title": "Gustavo Dudamel: My questions of identity",
-          "url": "https://slippedisc.com/2026/09/gustavo-dudamel-my-questions-of-identity/?utm_source=rss&utm_medium=rss&utm_campaign=gustavo-dudamel-my-questions-of-identity",
-          "date": "2026-09-23T09:35:10+00:00"
-        }
-      ]
-    },
     {
       "name": "基里尔·别特连科",
       "category": "指挥",
@@ -231,42 +225,6 @@
   ],
   "upcoming_7": [
     {
-      "date": "2026-09-24",
-      "house": "伦敦皇家歌剧院",
-      "title": "Don Giovanni",
-      "url": "https://www.rbo.org.uk/production/don-giovanni-kasper-holten"
-    },
-    {
-      "date": "2026-09-24",
-      "house": "维也纳国家歌剧院",
-      "title": "Macbeth (Giuseppe Verdi)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/macbeth/2026-09-24/"
-    },
-    {
-      "date": "2026-09-24",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Daniele Rustioni (Symphony Concerts B)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/concerts/symphony-concerts/daniele-rustioni.html"
-    },
-    {
-      "date": "2026-09-24",
-      "house": "巴黎歌剧院",
-      "title": "Concert d’ouverture de la saison Académie — Artistes de l’Académie",
-      "url": "https://www.operadeparis.fr/saison-26-27/concert-et-recital/concert-douverture-de-la-saison-academie"
-    },
-    {
-      "date": "2026-09-24",
-      "house": "苏黎世歌剧院",
-      "title": "La rondine (Giacomo Puccini)",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/la-rondine/"
-    },
-    {
-      "date": "2026-09-24",
-      "house": "旧金山歌剧院",
-      "title": "Mary, Queen of Scots (Thea Musgrave)",
-      "url": "https://www.sfopera.com/operas/mary-queen-of-scots/"
-    },
-    {
       "date": "2026-09-25",
       "house": "伦敦皇家歌剧院",
       "title": "Alcina",
@@ -298,6 +256,12 @@
     },
     {
       "date": "2026-09-25",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "Semele (Georg Friedrich Händel)",
+      "url": "https://www.staatsoper.de/stuecke/semele/2026-09-25-1800-16095"
+    },
+    {
+      "date": "2026-09-25",
       "house": "苏黎世歌剧院",
       "title": "Die Zauberflöte (Wolfgang Amadeus Mozart)",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/die-zauberfloete-1/"
@@ -319,6 +283,36 @@
       "house": "维也纳国家歌剧院",
       "title": "La clemenza di Tito (Wolfgang Amadeus Mozart)",
       "url": "https://www.wiener-staatsoper.at/en/calendar/detail/la-clemenza-di-tito/2026-09-26/"
+    },
+    {
+      "date": "2026-09-26",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "La traviata (Giuseppe Verdi)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/la-traviata.html"
+    },
+    {
+      "date": "2026-09-26",
+      "house": "巴黎歌剧院",
+      "title": "Répétition publique : Paysages intérieurs — Vers un pays sage de Jean-Christophe Maillot",
+      "url": "https://www.operadeparis.fr/saison-26-27/repetition/repetition-publique-paysages-interieurs"
+    },
+    {
+      "date": "2026-09-26",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "1. Akademiekonzert: Vladimir Jurowski",
+      "url": "https://www.staatsoper.de/stuecke/1-akademiekonzert-2026-27-vladimir-jurowski/2026-09-26-2000-16096"
+    },
+    {
+      "date": "2026-09-26",
+      "house": "苏黎世歌剧院",
+      "title": "Matinee «Ein Sommernachtstraum»",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/matinee-ein-sommernachtstraum/"
+    },
+    {
+      "date": "2026-09-26",
+      "house": "苏黎世歌剧院",
+      "title": "Tannhäuser (Richard Wagner Opernhaustag)",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/tannhaeuser-1/"
     }
   ]
 }
