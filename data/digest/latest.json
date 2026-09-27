@@ -1,135 +1,45 @@
 {
-  "date": "2026-09-26",
-  "generated_at": "2026-09-26T05:47:07+00:00",
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27T06:08:07+00:00",
   "news": [
     {
       "source": "OperaWire",
-      "title": "Norman Garrett & Marcy Stonikas Lead Opera Colorado’s ‘Macbeth’",
-      "url": "https://operawire.com/norman-garrett-marcy-stonikas-lead-opera-colorados-macbeth/",
+      "title": "Sarasota Youth Opera to Present ‘Rootabaga Country’",
+      "url": "https://operawire.com/sarasota-youth-opera-to-present-rootabaga-country/",
+      "date": "2026-09-27"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Heartbeat Opera to Present ‘Queeney Tood: The Demon Bottom of Fleet Street’",
+      "url": "https://operawire.com/heartbeat-opera-to-present-queeney-tood-the-demon-bottom-of-fleet-street/",
+      "date": "2026-09-27"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Emma Marhefka has Joins Roster of Askonas Holt",
+      "url": "https://operawire.com/emma-marhefka-has-joins-roster-of-askonas-holt/",
+      "date": "2026-09-27"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Brandon Cedel Joins Opus 3 for Management",
+      "url": "https://operawire.com/brandon-cedel-joins-opus-3-for-management/",
+      "date": "2026-09-27"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Nashville Symphony Faces Financial Struggles",
+      "url": "https://operawire.com/nashville-symphony-faces-financial-struggles/",
       "date": "2026-09-26"
     },
     {
-      "source": "Slipped Disc",
-      "title": "She gives great Nielsen",
-      "url": "https://slippedisc.com/2026/09/she-gives-great-nielsen/?utm_source=rss&utm_medium=rss&utm_campaign=she-gives-great-nielsen",
+      "source": "OperaWire",
+      "title": "Frédéric Chaslin Cleared of Sexual Harassment Accusations",
+      "url": "https://operawire.com/frederic-chaslin-cleared-of-sexual-harassment-accusations/",
       "date": "2026-09-26"
-    },
-    {
-      "source": "OperaWire",
-      "title": "LA Opera to Present Free Simulcast of ‘Carmen’",
-      "url": "https://operawire.com/la-opera-to-present-free-simulcast-of-carmen/",
-      "date": "2026-09-26"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Brooklyn Art Song Society to Open Season with ‘Passions I: Fin-de-Siècle’",
-      "url": "https://operawire.com/brooklyn-art-song-society-to-open-season-with-passions-i-fin-de-siecle/",
-      "date": "2026-09-26"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Cast Change: Freddie de Tommaso Steps into Met Opera’s ‘La Boheme’",
-      "url": "https://operawire.com/cast-change-freddie-de-tommaso-steps-into-met-operas-la-boheme/",
-      "date": "2026-09-25"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Portland Opera Receives Major Grant from Wildhorse Foundation",
-      "url": "https://operawire.com/portland-opera-receives-major-grant-from-wildhorse-foundation/",
-      "date": "2026-09-25"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Obituary: Tenor Michael Forest Passes Away at 63",
-      "url": "https://operawire.com/obituary-tenor-michael-forest-passes-away-at-63/",
-      "date": "2026-09-25"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Fort Worth Opera’s ‘Project: Opera’ Approved as Official Curriculum by Fort Worth ISD",
-      "url": "https://operawire.com/fort-worth-operas-project-opera-approved-as-official-curriculum-by-fort-worth-isd/",
-      "date": "2026-09-25"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Obituary: Tenor William Lewis Passes Away at 94",
-      "url": "https://operawire.com/obituary-tenor-william-lewis-passes-away-at-94/",
-      "date": "2026-09-25"
-    },
-    {
-      "source": "Slipped Disc",
-      "title": "No Mehta in Munich",
-      "url": "https://slippedisc.com/2026/09/no-mehta-in-munich/?utm_source=rss&utm_medium=rss&utm_campaign=no-mehta-in-munich",
-      "date": "2026-09-25"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Malmö Opera to Live Stream ‘The Shining’",
-      "url": "https://operawire.com/malmo-opera-to-live-stream-the-shining/",
-      "date": "2026-09-25"
-    },
-    {
-      "source": "Slipped Disc",
-      "title": "Exclusive: French conductor is cleared of sexual harrassment",
-      "url": "https://slippedisc.com/2026/09/exclusive-french-conductor-is-cleared-of-sexual-harrassment/?utm_source=rss&utm_medium=rss&utm_campaign=exclusive-french-conductor-is-cleared-of-sexual-harrassment",
-      "date": "2026-09-25"
-    },
-    {
-      "source": "Parterre Box",
-      "title": "Next season I’m excited for Maria Stuarda",
-      "url": "https://parterre.com/2026/09/25/next-season-im-excited-formaria-stuarda/",
-      "date": "2026-09-25"
     }
   ],
   "schedule_updates": [
-    {
-      "date": "2026-09-26",
-      "house": "维也纳国家歌剧院",
-      "title": "Open Adult Ballet Class",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/open-adult-ballet-class/2026-09-26/"
-    },
-    {
-      "date": "2026-09-26",
-      "house": "维也纳国家歌剧院",
-      "title": "La clemenza di Tito (Wolfgang Amadeus Mozart)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/la-clemenza-di-tito/2026-09-26/"
-    },
-    {
-      "date": "2026-09-26",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "La traviata (Giuseppe Verdi)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/la-traviata.html"
-    },
-    {
-      "date": "2026-09-26",
-      "house": "巴黎歌剧院",
-      "title": "Répétition publique : Paysages intérieurs — Vers un pays sage de Jean-Christophe Maillot",
-      "url": "https://www.operadeparis.fr/saison-26-27/repetition/repetition-publique-paysages-interieurs"
-    },
-    {
-      "date": "2026-09-26",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "1. Akademiekonzert: Vladimir Jurowski",
-      "url": "https://www.staatsoper.de/stuecke/1-akademiekonzert-2026-27-vladimir-jurowski/2026-09-26-2000-16096"
-    },
-    {
-      "date": "2026-09-26",
-      "house": "苏黎世歌剧院",
-      "title": "Matinee «Ein Sommernachtstraum»",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/matinee-ein-sommernachtstraum/"
-    },
-    {
-      "date": "2026-09-26",
-      "house": "苏黎世歌剧院",
-      "title": "Tannhäuser (Richard Wagner Opernhaustag)",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/tannhaeuser-1/"
-    },
-    {
-      "date": "2026-09-26",
-      "house": "旧金山歌剧院",
-      "title": "Mary, Queen of Scots (Thea Musgrave)",
-      "url": "https://www.sfopera.com/operas/mary-queen-of-scots/"
-    },
     {
       "date": "2026-09-27",
       "house": "伦敦皇家歌剧院",
@@ -156,12 +66,6 @@
     },
     {
       "date": "2026-09-27",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "1. Akademiekonzert: Vladimir Jurowski",
-      "url": "https://www.staatsoper.de/stuecke/1-akademiekonzert-2026-27-vladimir-jurowski/2026-09-27-1900-16097"
-    },
-    {
-      "date": "2026-09-27",
       "house": "苏黎世歌剧院",
       "title": "1. Kammerkonzert",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/kammerkonzert-1/"
@@ -171,6 +75,60 @@
       "house": "苏黎世歌剧院",
       "title": "Oiseaux Rebelles",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/oiseaux-rebelles/"
+    },
+    {
+      "date": "2026-09-27",
+      "house": "苏黎世歌剧院",
+      "title": "La rondine (Giacomo Puccini)",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/la-rondine/"
+    },
+    {
+      "date": "2026-09-27",
+      "house": "旧金山歌剧院",
+      "title": "Simon Boccanegra (Giuseppe Verdi)",
+      "url": "https://www.sfopera.com/operas/simon-boccanegra/"
+    },
+    {
+      "date": "2026-09-27",
+      "house": "悉尼歌剧院",
+      "title": "Mahk Making Spaces",
+      "url": "https://www.sydneyoperahouse.com/classical-music/mahk-making-spaces"
+    },
+    {
+      "date": "2026-09-28",
+      "house": "伦敦皇家歌剧院",
+      "title": "Friends Rehearsals",
+      "url": "https://www.rbo.org.uk/production/friends-rehearsals"
+    },
+    {
+      "date": "2026-09-28",
+      "house": "伦敦皇家歌剧院",
+      "title": "Recitals at Lunch",
+      "url": "https://www.rbo.org.uk/production/recitals-at-lunch"
+    },
+    {
+      "date": "2026-09-28",
+      "house": "维也纳国家歌剧院",
+      "title": "Living Legacies (George Balanchine,\n        \n    \n\n    \n        \n            Christopher Wheeldon,\n        \n    \n\n    \n        \n            Frederick Ashton)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/living-legacies/2026-09-28/"
+    },
+    {
+      "date": "2026-09-28",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "La traviata (Giuseppe Verdi)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/la-traviata.html"
+    },
+    {
+      "date": "2026-09-28",
+      "house": "巴黎歌剧院",
+      "title": "L'Histoire de Manon — Kenneth MacMillan",
+      "url": "https://www.operadeparis.fr/saison-26-27/ballet/lhistoire-de-manon"
+    },
+    {
+      "date": "2026-09-28",
+      "house": "苏黎世歌剧院",
+      "title": "1. Kammerkonzert",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/kammerkonzert-1/"
     }
   ],
   "artists": [
@@ -255,54 +213,6 @@
   ],
   "upcoming_7": [
     {
-      "date": "2026-09-26",
-      "house": "维也纳国家歌剧院",
-      "title": "Open Adult Ballet Class",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/open-adult-ballet-class/2026-09-26/"
-    },
-    {
-      "date": "2026-09-26",
-      "house": "维也纳国家歌剧院",
-      "title": "La clemenza di Tito (Wolfgang Amadeus Mozart)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/la-clemenza-di-tito/2026-09-26/"
-    },
-    {
-      "date": "2026-09-26",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "La traviata (Giuseppe Verdi)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/la-traviata.html"
-    },
-    {
-      "date": "2026-09-26",
-      "house": "巴黎歌剧院",
-      "title": "Répétition publique : Paysages intérieurs — Vers un pays sage de Jean-Christophe Maillot",
-      "url": "https://www.operadeparis.fr/saison-26-27/repetition/repetition-publique-paysages-interieurs"
-    },
-    {
-      "date": "2026-09-26",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "1. Akademiekonzert: Vladimir Jurowski",
-      "url": "https://www.staatsoper.de/stuecke/1-akademiekonzert-2026-27-vladimir-jurowski/2026-09-26-2000-16096"
-    },
-    {
-      "date": "2026-09-26",
-      "house": "苏黎世歌剧院",
-      "title": "Matinee «Ein Sommernachtstraum»",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/matinee-ein-sommernachtstraum/"
-    },
-    {
-      "date": "2026-09-26",
-      "house": "苏黎世歌剧院",
-      "title": "Tannhäuser (Richard Wagner Opernhaustag)",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/tannhaeuser-1/"
-    },
-    {
-      "date": "2026-09-26",
-      "house": "旧金山歌剧院",
-      "title": "Mary, Queen of Scots (Thea Musgrave)",
-      "url": "https://www.sfopera.com/operas/mary-queen-of-scots/"
-    },
-    {
       "date": "2026-09-27",
       "house": "伦敦皇家歌剧院",
       "title": "Opera on the Terrace",
@@ -328,12 +238,6 @@
     },
     {
       "date": "2026-09-27",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "1. Akademiekonzert: Vladimir Jurowski",
-      "url": "https://www.staatsoper.de/stuecke/1-akademiekonzert-2026-27-vladimir-jurowski/2026-09-27-1900-16097"
-    },
-    {
-      "date": "2026-09-27",
       "house": "苏黎世歌剧院",
       "title": "1. Kammerkonzert",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/kammerkonzert-1/"
@@ -343,6 +247,60 @@
       "house": "苏黎世歌剧院",
       "title": "Oiseaux Rebelles",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/oiseaux-rebelles/"
+    },
+    {
+      "date": "2026-09-27",
+      "house": "苏黎世歌剧院",
+      "title": "La rondine (Giacomo Puccini)",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/la-rondine/"
+    },
+    {
+      "date": "2026-09-27",
+      "house": "旧金山歌剧院",
+      "title": "Simon Boccanegra (Giuseppe Verdi)",
+      "url": "https://www.sfopera.com/operas/simon-boccanegra/"
+    },
+    {
+      "date": "2026-09-27",
+      "house": "悉尼歌剧院",
+      "title": "Mahk Making Spaces",
+      "url": "https://www.sydneyoperahouse.com/classical-music/mahk-making-spaces"
+    },
+    {
+      "date": "2026-09-28",
+      "house": "伦敦皇家歌剧院",
+      "title": "Friends Rehearsals",
+      "url": "https://www.rbo.org.uk/production/friends-rehearsals"
+    },
+    {
+      "date": "2026-09-28",
+      "house": "伦敦皇家歌剧院",
+      "title": "Recitals at Lunch",
+      "url": "https://www.rbo.org.uk/production/recitals-at-lunch"
+    },
+    {
+      "date": "2026-09-28",
+      "house": "维也纳国家歌剧院",
+      "title": "Living Legacies (George Balanchine,\n        \n    \n\n    \n        \n            Christopher Wheeldon,\n        \n    \n\n    \n        \n            Frederick Ashton)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/living-legacies/2026-09-28/"
+    },
+    {
+      "date": "2026-09-28",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "La traviata (Giuseppe Verdi)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/la-traviata.html"
+    },
+    {
+      "date": "2026-09-28",
+      "house": "巴黎歌剧院",
+      "title": "L'Histoire de Manon — Kenneth MacMillan",
+      "url": "https://www.operadeparis.fr/saison-26-27/ballet/lhistoire-de-manon"
+    },
+    {
+      "date": "2026-09-28",
+      "house": "苏黎世歌剧院",
+      "title": "1. Kammerkonzert",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/kammerkonzert-1/"
     }
   ]
 }
