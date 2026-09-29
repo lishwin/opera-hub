@@ -1,60 +1,12 @@
 {
-  "updated_at": "2026-09-28T06:16:31+00:00",
+  "updated_at": "2026-09-29T06:34:49+00:00",
   "stats": {
     "houses": 14,
-    "performances": 939,
-    "news": 203,
+    "performances": 932,
+    "news": 215,
     "artists": 8
   },
   "upcoming_30": [
-    {
-      "date": "2026-09-28",
-      "house": "伦敦皇家歌剧院",
-      "title": "Friends Rehearsals",
-      "url": "https://www.rbo.org.uk/production/friends-rehearsals"
-    },
-    {
-      "date": "2026-09-28",
-      "house": "伦敦皇家歌剧院",
-      "title": "Recitals at Lunch",
-      "url": "https://www.rbo.org.uk/production/recitals-at-lunch"
-    },
-    {
-      "date": "2026-09-28",
-      "house": "维也纳国家歌剧院",
-      "title": "George Balanchine,\n        \n    \n\n    \n        \n            Christopher Wheeldon,\n        \n    \n\n    \n        \n            Frederick Ashton Living Legacies (George Balanchine,\n        \n    \n\n    \n        \n            Christopher Wheeldon,\n        \n    \n\n    \n        \n            Frederick Ashton)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/living-legacies/2026-09-28/"
-    },
-    {
-      "date": "2026-09-28",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Giuseppe Verdi La traviata (Giuseppe Verdi)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/la-traviata.html"
-    },
-    {
-      "date": "2026-09-28",
-      "house": "巴黎歌剧院",
-      "title": "L'Histoire de Manon — Kenneth MacMillan",
-      "url": "https://www.operadeparis.fr/saison-26-27/ballet/lhistoire-de-manon"
-    },
-    {
-      "date": "2026-09-28",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "Georg Friedrich Händel Semele (Georg Friedrich Händel)",
-      "url": "https://www.staatsoper.de/stuecke/semele/2026-09-28-1800-16098"
-    },
-    {
-      "date": "2026-09-28",
-      "house": "苏黎世歌剧院",
-      "title": "1. Kammerkonzert",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/kammerkonzert-1/"
-    },
-    {
-      "date": "2026-09-28",
-      "house": "悉尼歌剧院",
-      "title": "Great Opera Hits 2026",
-      "url": "https://www.sydneyoperahouse.com/opera-australia/2026-season/great-opera-hits-2026"
-    },
     {
       "date": "2026-09-29",
       "house": "伦敦皇家歌剧院",
@@ -442,7 +394,7 @@
     {
       "date": "2026-10-08",
       "house": "悉尼歌剧院",
-      "title": "Ying Fang sings Songs of the Auvergne",
+      "title": "Donald Runnicles conducts Brahms",
       "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/ying-fang-songs-auvergne"
     },
     {
@@ -472,7 +424,7 @@
     {
       "date": "2026-10-09",
       "house": "悉尼歌剧院",
-      "title": "Ying Fang sings Songs of the Auvergne",
+      "title": "Donald Runnicles conducts Brahms",
       "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/ying-fang-songs-auvergne"
     },
     {
@@ -486,6 +438,54 @@
       "house": "维也纳国家歌剧院",
       "title": "Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch)",
       "url": "https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-10/"
+    },
+    {
+      "date": "2026-10-10",
+      "house": "维也纳国家歌剧院",
+      "title": "Open Adult Ballet Class",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/open-adult-ballet-class/2026-10-10/"
+    },
+    {
+      "date": "2026-10-10",
+      "house": "维也纳国家歌剧院",
+      "title": "Alexander von Zemlinsky,\n        \n    \n\n    \n        \n            Béla Bartók Eine floren­tinische Tragödie/ Bluebeard's Castle (Alexander von Zemlinsky,\n        \n    \n\n    \n        \n            Béla Bartók)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/eine-florentinische-tragoedie-herzog-blaubarts-burg/2026-10-10/"
+    },
+    {
+      "date": "2026-10-10",
+      "house": "维也纳国家歌剧院",
+      "title": "Das Opernquiz mit Georg Nigl",
+      "url": ""
+    },
+    {
+      "date": "2026-10-10",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Giuseppe Verdi La traviata (Giuseppe Verdi)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/la-traviata.html"
+    },
+    {
+      "date": "2026-10-10",
+      "house": "巴黎歌剧院",
+      "title": "Échos et battements",
+      "url": "https://www.operadeparis.fr/saison-26-27/concert-et-recital/echos-et-battements"
+    },
+    {
+      "date": "2026-10-10",
+      "house": "巴黎歌剧院",
+      "title": "Gala — Ouverture de la saison de danse",
+      "url": "https://www.operadeparis.fr/saison-26-27/ballet/gala"
+    },
+    {
+      "date": "2026-10-10",
+      "house": "苏黎世歌剧院",
+      "title": "Giacomo Puccini La rondine (Giacomo Puccini)",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/la-rondine/"
+    },
+    {
+      "date": "2026-10-10",
+      "house": "芝加哥抒情歌剧院",
+      "title": "Don Giovanni",
+      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/don-giovanni/"
     }
   ]
 }
