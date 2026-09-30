@@ -1,54 +1,12 @@
 {
-  "updated_at": "2026-09-29T06:34:49+00:00",
+  "updated_at": "2026-09-30T06:17:10+00:00",
   "stats": {
     "houses": 14,
-    "performances": 932,
-    "news": 215,
+    "performances": 926,
+    "news": 223,
     "artists": 8
   },
   "upcoming_30": [
-    {
-      "date": "2026-09-29",
-      "house": "伦敦皇家歌剧院",
-      "title": "Don Giovanni",
-      "url": "https://www.rbo.org.uk/production/don-giovanni-kasper-holten"
-    },
-    {
-      "date": "2026-09-29",
-      "house": "伦敦皇家歌剧院",
-      "title": "Three Short Ballets",
-      "url": "https://www.rbo.org.uk/production/three-short-ballets-northern-ballet"
-    },
-    {
-      "date": "2026-09-29",
-      "house": "维也纳国家歌剧院",
-      "title": "Wolfgang Amadeus Mozart La clemenza di Tito (Wolfgang Amadeus Mozart)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/la-clemenza-di-tito/2026-09-29/"
-    },
-    {
-      "date": "2026-09-29",
-      "house": "巴黎歌剧院",
-      "title": "Toï toï toï : Paysages intérieurs",
-      "url": "https://www.operadeparis.fr/saison-26-27/rencontre/toi-toi-toi-paysages-interieurs"
-    },
-    {
-      "date": "2026-09-29",
-      "house": "苏黎世歌剧院",
-      "title": "Die Fledermaus",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/die-fledermaus-1/"
-    },
-    {
-      "date": "2026-09-29",
-      "house": "苏黎世歌剧院",
-      "title": "open space stimme",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/open-space-stimme/"
-    },
-    {
-      "date": "2026-09-29",
-      "house": "旧金山歌剧院",
-      "title": "Thea Musgrave Mary, Queen of Scots (Thea Musgrave)",
-      "url": "https://www.sfopera.com/operas/mary-queen-of-scots/"
-    },
     {
       "date": "2026-09-30",
       "house": "伦敦皇家歌剧院",
@@ -180,6 +138,12 @@
       "house": "维也纳国家歌剧院",
       "title": "Zemlinsky- Symposium",
       "url": "https://www.wiener-staatsoper.at/en/calendar/detail/zemlinsky-symposium/2026-10-03/"
+    },
+    {
+      "date": "2026-10-03",
+      "house": "维也纳国家歌剧院",
+      "title": "CityLab",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/citylab/2026-10-03/"
     },
     {
       "date": "2026-10-03",
@@ -486,6 +450,42 @@
       "house": "芝加哥抒情歌剧院",
       "title": "Don Giovanni",
       "url": "https://www.lyricopera.org/shows/upcoming/2026-27/don-giovanni/"
+    },
+    {
+      "date": "2026-10-10",
+      "house": "悉尼歌剧院",
+      "title": "Donald Runnicles conducts Brahms",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/ying-fang-songs-auvergne"
+    },
+    {
+      "date": "2026-10-10",
+      "house": "悉尼歌剧院",
+      "title": "Hourglass Ensemble: Jazz Nocturne",
+      "url": "https://www.sydneyoperahouse.com/classical-music/hourglass-ensemble-jazz-nocturne"
+    },
+    {
+      "date": "2026-10-11",
+      "house": "伦敦皇家歌剧院",
+      "title": "Parsifal",
+      "url": "https://www.rbo.org.uk/production/parsifal-evgeny-titov"
+    },
+    {
+      "date": "2026-10-11",
+      "house": "维也纳国家歌剧院",
+      "title": "Matinee zu Nijinsky",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/matinee-zu-nijinsky/2026-10-11/"
+    },
+    {
+      "date": "2026-10-11",
+      "house": "维也纳国家歌剧院",
+      "title": "Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-11/"
+    },
+    {
+      "date": "2026-10-11",
+      "house": "维也纳国家歌剧院",
+      "title": "Georges Bizet Carmen (Georges Bizet)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/carmen/2026-10-11/"
     }
   ]
 }
