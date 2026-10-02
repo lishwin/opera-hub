@@ -1,48 +1,12 @@
 {
-  "updated_at": "2026-10-01T06:46:57+00:00",
+  "updated_at": "2026-10-02T06:35:36+00:00",
   "stats": {
     "houses": 14,
-    "performances": 1063,
-    "news": 235,
+    "performances": 1059,
+    "news": 247,
     "artists": 8
   },
   "upcoming_30": [
-    {
-      "date": "2026-10-01",
-      "house": "伦敦皇家歌剧院",
-      "title": "Parsifal",
-      "url": "https://www.rbo.org.uk/production/parsifal-evgeny-titov"
-    },
-    {
-      "date": "2026-10-01",
-      "house": "伦敦皇家歌剧院",
-      "title": "Three Short Ballets",
-      "url": "https://www.rbo.org.uk/production/three-short-ballets-northern-ballet"
-    },
-    {
-      "date": "2026-10-01",
-      "house": "维也纳国家歌剧院",
-      "title": "Giuseppe Verdi Macbeth (Giuseppe Verdi)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/macbeth/2026-10-01/"
-    },
-    {
-      "date": "2026-10-01",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Jean Coralli – Jules Perrot Giselle (Jean Coralli – Jules Perrot)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/ballet/giselle.html"
-    },
-    {
-      "date": "2026-10-01",
-      "house": "巴黎歌剧院",
-      "title": "Concert-rencontre du 1 octobre",
-      "url": "https://www.operadeparis.fr/saison-26-27/concert-et-recital/concert-rencontre-du-1-octobre"
-    },
-    {
-      "date": "2026-10-01",
-      "house": "苏黎世歌剧院",
-      "title": "Giacomo Puccini AMAG Volksvorstellung La rondine (Giacomo Puccini AMAG Volksvorstellung)",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/la-rondine/"
-    },
     {
       "date": "2026-10-02",
       "house": "伦敦皇家歌剧院",
@@ -486,6 +450,42 @@
       "house": "芝加哥抒情歌剧院",
       "title": "Don Giovanni",
       "url": "https://www.lyricopera.org/shows/upcoming/2026-27/don-giovanni/"
+    },
+    {
+      "date": "2026-10-10",
+      "house": "悉尼歌剧院",
+      "title": "Donald Runnicles conducts Brahms",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/ying-fang-songs-auvergne"
+    },
+    {
+      "date": "2026-10-10",
+      "house": "悉尼歌剧院",
+      "title": "Hourglass Ensemble: Jazz Nocturne",
+      "url": "https://www.sydneyoperahouse.com/classical-music/hourglass-ensemble-jazz-nocturne"
+    },
+    {
+      "date": "2026-10-11",
+      "house": "伦敦皇家歌剧院",
+      "title": "Parsifal",
+      "url": "https://www.rbo.org.uk/production/parsifal-evgeny-titov"
+    },
+    {
+      "date": "2026-10-11",
+      "house": "维也纳国家歌剧院",
+      "title": "Matinee zu Nijinsky",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/matinee-zu-nijinsky/2026-10-11/"
+    },
+    {
+      "date": "2026-10-11",
+      "house": "维也纳国家歌剧院",
+      "title": "Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-11/"
+    },
+    {
+      "date": "2026-10-11",
+      "house": "维也纳国家歌剧院",
+      "title": "Georges Bizet Carmen (Georges Bizet)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/carmen/2026-10-11/"
     }
   ]
 }
