@@ -1,66 +1,12 @@
 {
-  "updated_at": "2026-10-02T06:35:36+00:00",
+  "updated_at": "2026-10-03T06:01:15+00:00",
   "stats": {
     "houses": 14,
-    "performances": 1059,
-    "news": 247,
+    "performances": 1025,
+    "news": 262,
     "artists": 8
   },
   "upcoming_30": [
-    {
-      "date": "2026-10-02",
-      "house": "伦敦皇家歌剧院",
-      "title": "Don Giovanni",
-      "url": "https://www.rbo.org.uk/production/don-giovanni-kasper-holten"
-    },
-    {
-      "date": "2026-10-02",
-      "house": "伦敦皇家歌剧院",
-      "title": "Live at Lunch",
-      "url": "https://www.rbo.org.uk/production/live-at-lunch"
-    },
-    {
-      "date": "2026-10-02",
-      "house": "伦敦皇家歌剧院",
-      "title": "Three Short Ballets",
-      "url": "https://www.rbo.org.uk/production/three-short-ballets-northern-ballet"
-    },
-    {
-      "date": "2026-10-02",
-      "house": "维也纳国家歌剧院",
-      "title": "Giacomo Puccini Tosca (Giacomo Puccini)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/tosca/2026-10-02/"
-    },
-    {
-      "date": "2026-10-02",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Giuseppe Verdi La traviata (Giuseppe Verdi)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/la-traviata.html"
-    },
-    {
-      "date": "2026-10-02",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "Georg Friedrich Händel Semele (Georg Friedrich Händel)",
-      "url": "https://www.staatsoper.de/stuecke/semele/2026-10-02-1800-16099"
-    },
-    {
-      "date": "2026-10-02",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "John Neumeier ILLUSIONEN - WIE SCHWANENSEE (Gastspiel in Baden-Baden) (John Neumeier)",
-      "url": "https://www.staatsoper.de/stuecke/illusionen-wie-schwanensee/2026-10-02-1930-16100"
-    },
-    {
-      "date": "2026-10-02",
-      "house": "苏黎世歌剧院",
-      "title": "Benefizkonzert Anne-Sophie Mutter",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/benefiz-amiamusica/"
-    },
-    {
-      "date": "2026-10-02",
-      "house": "旧金山歌剧院",
-      "title": "Thea Musgrave Mary, Queen of Scots (Thea Musgrave)",
-      "url": "https://www.sfopera.com/operas/mary-queen-of-scots/"
-    },
     {
       "date": "2026-10-03",
       "house": "伦敦皇家歌剧院",
@@ -123,18 +69,6 @@
     },
     {
       "date": "2026-10-03",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "Brett Dean Of One Blood (Brett Dean)",
-      "url": "https://www.staatsoper.de/stuecke/of-one-blood/2026-10-03-1900-16101"
-    },
-    {
-      "date": "2026-10-03",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "John Neumeier ILLUSIONEN - WIE SCHWANENSEE (Gastspiel in Baden-Baden) (John Neumeier)",
-      "url": "https://www.staatsoper.de/stuecke/illusionen-wie-schwanensee/2026-10-03-1930-16102"
-    },
-    {
-      "date": "2026-10-03",
       "house": "苏黎世歌剧院",
       "title": "Mutter & González-Granados",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/1-philharmonisches-konzert-1/"
@@ -186,18 +120,6 @@
       "house": "米兰斯卡拉歌剧院",
       "title": "Piano Recital subscription Rudolf Buchbinder (Piano Recital subscription)",
       "url": "https://www.teatroallascala.org/en/season/2025-2026/concerts/great-pianists-at-la-scala/rudolf-buchbinder.html"
-    },
-    {
-      "date": "2026-10-04",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "John Neumeier ILLUSIONEN - WIE SCHWANENSEE (Gastspiel in Baden-Baden) (John Neumeier)",
-      "url": "https://www.staatsoper.de/stuecke/illusionen-wie-schwanensee/2026-10-04-1500-16103"
-    },
-    {
-      "date": "2026-10-04",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "Georg Friedrich Händel Semele (Georg Friedrich Händel)",
-      "url": "https://www.staatsoper.de/stuecke/semele/2026-10-04-1700-16104"
     },
     {
       "date": "2026-10-04",
@@ -284,12 +206,6 @@
       "url": "https://www.teatroallascala.org/en/season/2025-2026/ballet/giselle.html"
     },
     {
-      "date": "2026-10-07",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "Georg Friedrich Händel Semele (Georg Friedrich Händel)",
-      "url": "https://www.staatsoper.de/stuecke/semele/2026-10-07-1800-16105"
-    },
-    {
       "date": "2026-10-08",
       "house": "伦敦皇家歌剧院",
       "title": "A Centenary Celebration",
@@ -327,12 +243,6 @@
     },
     {
       "date": "2026-10-08",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "Brett Dean Of One Blood (Brett Dean)",
-      "url": "https://www.staatsoper.de/stuecke/of-one-blood/2026-10-08-1900-16106"
-    },
-    {
-      "date": "2026-10-08",
       "house": "苏黎世歌剧院",
       "title": "Die Fledermaus",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/die-fledermaus-1/"
@@ -360,12 +270,6 @@
       "house": "米兰斯卡拉歌剧院",
       "title": "Jean Coralli – Jules Perrot Giselle (Jean Coralli – Jules Perrot)",
       "url": "https://www.teatroallascala.org/en/season/2025-2026/ballet/giselle.html"
-    },
-    {
-      "date": "2026-10-09",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "John Neumeier DIE KAMELIENDAME (John Neumeier)",
-      "url": "https://www.staatsoper.de/stuecke/die-kameliendame/2026-10-09-1930-16107"
     },
     {
       "date": "2026-10-09",
@@ -429,18 +333,6 @@
     },
     {
       "date": "2026-10-10",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "MVHS-Workshop zu \"CACTI\"",
-      "url": "https://www.staatsoper.de/stuecke/mvhs-workshop-ballett/2026-10-10-1900-16731"
-    },
-    {
-      "date": "2026-10-10",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "John Neumeier DIE KAMELIENDAME (John Neumeier)",
-      "url": "https://www.staatsoper.de/stuecke/die-kameliendame/2026-10-10-1930-16108"
-    },
-    {
-      "date": "2026-10-10",
       "house": "苏黎世歌剧院",
       "title": "Giacomo Puccini La rondine (Giacomo Puccini)",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/la-rondine/"
@@ -486,6 +378,114 @@
       "house": "维也纳国家歌剧院",
       "title": "Georges Bizet Carmen (Georges Bizet)",
       "url": "https://www.wiener-staatsoper.at/en/calendar/detail/carmen/2026-10-11/"
+    },
+    {
+      "date": "2026-10-11",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Façade",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/concerts/chamber-music-at-toscanini-boxes-foyer/members-of-the-teatro-alla-scala-orchestra-11-october-2026.html"
+    },
+    {
+      "date": "2026-10-11",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Guest orchestras subscritpion Symphonieorchester des Bayerischen Rundfunks / The Rite of Spring (Guest orchestras subscritpion)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/concerts/guest-orchestras/symphonieorchester-des-bayerischen-rundfunks-the-rite-of-spring.html"
+    },
+    {
+      "date": "2026-10-11",
+      "house": "巴黎歌剧院",
+      "title": "Paysages intérieurs — Jean-Christophe Maillot | William Forsythe | Aszure Barton",
+      "url": "https://www.operadeparis.fr/saison-26-27/ballet/paysages-interieurs"
+    },
+    {
+      "date": "2026-10-11",
+      "house": "巴黎歌剧院",
+      "title": "Récital Katia et Marielle Labèque — 55",
+      "url": "https://www.operadeparis.fr/saison-26-27/concert-et-recital/recital-katia-et-marielle-labeque"
+    },
+    {
+      "date": "2026-10-11",
+      "house": "苏黎世歌剧院",
+      "title": "2. Kammerkonzert",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/kammerkonzert-2/"
+    },
+    {
+      "date": "2026-10-11",
+      "house": "苏黎世歌剧院",
+      "title": "Cathy Marston Ein Sommernachtstraum (Cathy Marston)",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/ein-sommernachtstraum/"
+    },
+    {
+      "date": "2026-10-11",
+      "house": "悉尼歌剧院",
+      "title": "Magic, Spells, and Other Worlds",
+      "url": "https://www.sydneyoperahouse.com/classical-music/magic-spells-and-other-worlds"
+    },
+    {
+      "date": "2026-10-12",
+      "house": "伦敦皇家歌剧院",
+      "title": "Don Giovanni",
+      "url": "https://www.rbo.org.uk/production/don-giovanni-kasper-holten"
+    },
+    {
+      "date": "2026-10-12",
+      "house": "伦敦皇家歌剧院",
+      "title": "Recitals at Lunch",
+      "url": "https://www.rbo.org.uk/production/recitals-at-lunch"
+    },
+    {
+      "date": "2026-10-12",
+      "house": "维也纳国家歌剧院",
+      "title": "Alexander von Zemlinsky,\n        \n    \n\n    \n        \n            Béla Bartók Eine floren­tinische Tragödie/ Bluebeard's Castle (Alexander von Zemlinsky,\n        \n    \n\n    \n        \n            Béla Bartók)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/eine-florentinische-tragoedie-herzog-blaubarts-burg/2026-10-12/"
+    },
+    {
+      "date": "2026-10-12",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Giuseppe Verdi La traviata (Giuseppe Verdi)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/la-traviata.html"
+    },
+    {
+      "date": "2026-10-12",
+      "house": "苏黎世歌剧院",
+      "title": "2. Kammerkonzert",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/kammerkonzert-2/"
+    },
+    {
+      "date": "2026-10-12",
+      "house": "悉尼歌剧院",
+      "title": "Isata Kanneh-Mason in Recital",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/isata-kanneh-mason-recital"
+    },
+    {
+      "date": "2026-10-13",
+      "house": "伦敦皇家歌剧院",
+      "title": "Friends Rehearsals",
+      "url": "https://www.rbo.org.uk/production/friends-rehearsals"
+    },
+    {
+      "date": "2026-10-13",
+      "house": "伦敦皇家歌剧院",
+      "title": "Manon",
+      "url": "https://www.rbo.org.uk/production/manon-kenneth-macmillan"
+    },
+    {
+      "date": "2026-10-13",
+      "house": "维也纳国家歌剧院",
+      "title": "Gioachino Rossini Il Barbiere di Siviglia (Gioachino Rossini)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/il-barbiere-di-siviglia/2026-10-13/"
+    },
+    {
+      "date": "2026-10-13",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Jean Coralli – Jules Perrot Giselle (Jean Coralli – Jules Perrot)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/ballet/giselle.html"
+    },
+    {
+      "date": "2026-10-13",
+      "house": "苏黎世歌剧院",
+      "title": "Richard Wagner Tannhäuser (Richard Wagner)",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/tannhaeuser-1/"
     }
   ]
 }
