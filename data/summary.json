@@ -1,90 +1,12 @@
 {
-  "updated_at": "2026-10-03T06:01:15+00:00",
+  "updated_at": "2026-10-04T06:37:56+00:00",
   "stats": {
     "houses": 14,
-    "performances": 1025,
-    "news": 262,
+    "performances": 1014,
+    "news": 272,
     "artists": 8
   },
   "upcoming_30": [
-    {
-      "date": "2026-10-03",
-      "house": "伦敦皇家歌剧院",
-      "title": "Alcina",
-      "url": "https://www.rbo.org.uk/production/alcina-richard-jones"
-    },
-    {
-      "date": "2026-10-03",
-      "house": "伦敦皇家歌剧院",
-      "title": "Insights: The Royal Ballet School – A Centenary Celebration",
-      "url": "https://www.rbo.org.uk/production/insights-the-royal-ballet-school-a-centenary-celebration"
-    },
-    {
-      "date": "2026-10-03",
-      "house": "伦敦皇家歌剧院",
-      "title": "HerStory of the Royal Opera House",
-      "url": "https://www.rbo.org.uk/tickets-and-events/herstory-of-the-royal-opera-house-dates"
-    },
-    {
-      "date": "2026-10-03",
-      "house": "维也纳国家歌剧院",
-      "title": "Zemlinsky- Symposium",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/zemlinsky-symposium/2026-10-03/"
-    },
-    {
-      "date": "2026-10-03",
-      "house": "维也纳国家歌剧院",
-      "title": "CityLab",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/citylab/2026-10-03/"
-    },
-    {
-      "date": "2026-10-03",
-      "house": "维也纳国家歌剧院",
-      "title": "Open Adult Ballet Class",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/open-adult-ballet-class/2026-10-03/"
-    },
-    {
-      "date": "2026-10-03",
-      "house": "维也纳国家歌剧院",
-      "title": "Alexander von Zemlinsky,\n        \n    \n\n    \n        \n            Béla Bartók Eine floren­tinische Tragödie/ Bluebeard's Castle (Alexander von Zemlinsky,\n        \n    \n\n    \n        \n            Béla Bartók)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/eine-florentinische-tragoedie-herzog-blaubarts-burg/2026-10-03/"
-    },
-    {
-      "date": "2026-10-03",
-      "house": "维也纳国家歌剧院",
-      "title": "Maarten Seghers Lee Miller in Hitler's Bathtub (Maarten Seghers)",
-      "url": ""
-    },
-    {
-      "date": "2026-10-03",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Giuseppe Verdi La traviata (Giuseppe Verdi)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/la-traviata.html"
-    },
-    {
-      "date": "2026-10-03",
-      "house": "巴黎歌剧院",
-      "title": "Et Op’ ! — Opéra de Reims",
-      "url": "https://www.operadeparis.fr/saison-26-27/jeune-public/et-op"
-    },
-    {
-      "date": "2026-10-03",
-      "house": "苏黎世歌剧院",
-      "title": "Mutter & González-Granados",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/1-philharmonisches-konzert-1/"
-    },
-    {
-      "date": "2026-10-03",
-      "house": "苏黎世歌剧院",
-      "title": "Zürich Film Festival Award Night",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/zuerich-film-festival-award-night/"
-    },
-    {
-      "date": "2026-10-03",
-      "house": "芝加哥抒情歌剧院",
-      "title": "Lyric Under the Stars",
-      "url": "https://www.lyricopera.org/shows/special-events/lyric-under-the-stars/"
-    },
     {
       "date": "2026-10-04",
       "house": "伦敦皇家歌剧院",
@@ -486,6 +408,84 @@
       "house": "苏黎世歌剧院",
       "title": "Richard Wagner Tannhäuser (Richard Wagner)",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/tannhaeuser-1/"
+    },
+    {
+      "date": "2026-10-13",
+      "house": "芝加哥抒情歌剧院",
+      "title": "Don Giovanni",
+      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/don-giovanni/"
+    },
+    {
+      "date": "2026-10-14",
+      "house": "伦敦皇家歌剧院",
+      "title": "Parsifal",
+      "url": "https://www.rbo.org.uk/production/parsifal-evgeny-titov"
+    },
+    {
+      "date": "2026-10-14",
+      "house": "维也纳国家歌剧院",
+      "title": "Georges Bizet Carmen (Georges Bizet)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/carmen/2026-10-14/"
+    },
+    {
+      "date": "2026-10-14",
+      "house": "巴黎歌剧院",
+      "title": "Au coeur du romantisme allemand — Artistes en résidence à l’Académie",
+      "url": "https://www.operadeparis.fr/saison-26-27/concert-et-recital/au-coeur-du-romantisme-allemand"
+    },
+    {
+      "date": "2026-10-14",
+      "house": "悉尼歌剧院",
+      "title": "Beethoven & Tchaikovsky",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/beethoven-tchaikovsky"
+    },
+    {
+      "date": "2026-10-15",
+      "house": "伦敦皇家歌剧院",
+      "title": "Don Giovanni",
+      "url": "https://www.rbo.org.uk/production/don-giovanni-kasper-holten"
+    },
+    {
+      "date": "2026-10-15",
+      "house": "维也纳国家歌剧院",
+      "title": "Wolfgang Amadeus Mozart Die Entführung aus dem Serail (Wolfgang Amadeus Mozart)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/die-entfuehrung-aus-dem-serail/2026-10-15/"
+    },
+    {
+      "date": "2026-10-15",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Giuseppe Verdi La traviata (Giuseppe Verdi)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/la-traviata.html"
+    },
+    {
+      "date": "2026-10-15",
+      "house": "苏黎世歌剧院",
+      "title": "Giacomo Puccini Opernhaustag La rondine (Giacomo Puccini Opernhaustag)",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/la-rondine/"
+    },
+    {
+      "date": "2026-10-15",
+      "house": "芝加哥抒情歌剧院",
+      "title": "Don Giovanni",
+      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/don-giovanni/"
+    },
+    {
+      "date": "2026-10-15",
+      "house": "旧金山歌剧院",
+      "title": "Jules Massenet Manon (Jules Massenet)",
+      "url": "https://www.sfopera.com/operas/manon/"
+    },
+    {
+      "date": "2026-10-15",
+      "house": "悉尼歌剧院",
+      "title": "Beethoven & Tchaikovsky",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/beethoven-tchaikovsky"
+    },
+    {
+      "date": "2026-10-16",
+      "house": "伦敦皇家歌剧院",
+      "title": "Manon",
+      "url": "https://www.rbo.org.uk/production/manon-kenneth-macmillan"
     }
   ]
 }
