@@ -1,72 +1,12 @@
 {
-  "updated_at": "2026-10-04T06:37:56+00:00",
+  "updated_at": "2026-10-05T06:35:53+00:00",
   "stats": {
     "houses": 14,
-    "performances": 1014,
-    "news": 272,
+    "performances": 1028,
+    "news": 284,
     "artists": 8
   },
   "upcoming_30": [
-    {
-      "date": "2026-10-04",
-      "house": "伦敦皇家歌剧院",
-      "title": "Parsifal",
-      "url": "https://www.rbo.org.uk/production/parsifal-evgeny-titov"
-    },
-    {
-      "date": "2026-10-04",
-      "house": "维也纳国家歌剧院",
-      "title": "Ensemble­matinee im Mahler-Saal",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/ensemblematinee-im-mahler-saal/2026-10-04/"
-    },
-    {
-      "date": "2026-10-04",
-      "house": "维也纳国家歌剧院",
-      "title": "Maarten Seghers Lee Miller in Hitler's Bathtub (Maarten Seghers)",
-      "url": ""
-    },
-    {
-      "date": "2026-10-04",
-      "house": "维也纳国家歌剧院",
-      "title": "Giuseppe Verdi Macbeth (Giuseppe Verdi)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/macbeth/2026-10-04/"
-    },
-    {
-      "date": "2026-10-04",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Mimì & Teo and… The Magic Horn",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/great-performances-for-children-and-family/concerts-for-children/mimi-and-teo-and-the-magic-horn.html"
-    },
-    {
-      "date": "2026-10-04",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Piano Recital subscription Rudolf Buchbinder (Piano Recital subscription)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/concerts/great-pianists-at-la-scala/rudolf-buchbinder.html"
-    },
-    {
-      "date": "2026-10-04",
-      "house": "苏黎世歌剧院",
-      "title": "Richard Wagner Tannhäuser (Richard Wagner)",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/tannhaeuser-1/"
-    },
-    {
-      "date": "2026-10-04",
-      "house": "芝加哥抒情歌剧院",
-      "title": "2026 Final Auditions",
-      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/2026-final-auditions/"
-    },
-    {
-      "date": "2026-10-04",
-      "house": "旧金山歌剧院",
-      "title": "Thea Musgrave Mary, Queen of Scots (Thea Musgrave)",
-      "url": "https://www.sfopera.com/operas/mary-queen-of-scots/"
-    },
-    {
-      "date": "2026-10-04",
-      "house": "悉尼歌剧院",
-      "title": "Za Górami",
-      "url": "https://www.sydneyoperahouse.com/utzon-music-2026/za-gorami"
-    },
     {
       "date": "2026-10-05",
       "house": "维也纳国家歌剧院",
@@ -128,6 +68,12 @@
       "url": "https://www.teatroallascala.org/en/season/2025-2026/ballet/giselle.html"
     },
     {
+      "date": "2026-10-07",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "Georg Friedrich Händel Semele (Georg Friedrich Händel)",
+      "url": "https://www.staatsoper.de/stuecke/semele/2026-10-07-1800-16105"
+    },
+    {
       "date": "2026-10-08",
       "house": "伦敦皇家歌剧院",
       "title": "A Centenary Celebration",
@@ -165,6 +111,12 @@
     },
     {
       "date": "2026-10-08",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "Brett Dean Of One Blood (Brett Dean)",
+      "url": "https://www.staatsoper.de/stuecke/of-one-blood/2026-10-08-1900-16106"
+    },
+    {
+      "date": "2026-10-08",
       "house": "苏黎世歌剧院",
       "title": "Die Fledermaus",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/die-fledermaus-1/"
@@ -192,6 +144,12 @@
       "house": "米兰斯卡拉歌剧院",
       "title": "Jean Coralli – Jules Perrot Giselle (Jean Coralli – Jules Perrot)",
       "url": "https://www.teatroallascala.org/en/season/2025-2026/ballet/giselle.html"
+    },
+    {
+      "date": "2026-10-09",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "John Neumeier DIE KAMELIENDAME (John Neumeier)",
+      "url": "https://www.staatsoper.de/stuecke/die-kameliendame/2026-10-09-1930-16107"
     },
     {
       "date": "2026-10-09",
@@ -252,6 +210,18 @@
       "house": "巴黎歌剧院",
       "title": "Gala — Ouverture de la saison de danse",
       "url": "https://www.operadeparis.fr/saison-26-27/ballet/gala"
+    },
+    {
+      "date": "2026-10-10",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "MVHS-Workshop zu \"CACTI\"",
+      "url": "https://www.staatsoper.de/stuecke/mvhs-workshop-ballett/2026-10-10-1900-16731"
+    },
+    {
+      "date": "2026-10-10",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "John Neumeier DIE KAMELIENDAME (John Neumeier)",
+      "url": "https://www.staatsoper.de/stuecke/die-kameliendame/2026-10-10-1930-16108"
     },
     {
       "date": "2026-10-10",
@@ -327,6 +297,12 @@
     },
     {
       "date": "2026-10-11",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "Brett Dean Of One Blood (Brett Dean)",
+      "url": "https://www.staatsoper.de/stuecke/of-one-blood/2026-10-11-1800-16109"
+    },
+    {
+      "date": "2026-10-11",
       "house": "苏黎世歌剧院",
       "title": "2. Kammerkonzert",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/kammerkonzert-2/"
@@ -366,6 +342,12 @@
       "house": "米兰斯卡拉歌剧院",
       "title": "Giuseppe Verdi La traviata (Giuseppe Verdi)",
       "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/la-traviata.html"
+    },
+    {
+      "date": "2026-10-12",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "Richard Strauss ARIADNE AUF NAXOS (Richard Strauss)",
+      "url": "https://www.staatsoper.de/stuecke/ariadne-auf-naxos/2026-10-12-1900-16110"
     },
     {
       "date": "2026-10-12",
@@ -486,6 +468,24 @@
       "house": "伦敦皇家歌剧院",
       "title": "Manon",
       "url": "https://www.rbo.org.uk/production/manon-kenneth-macmillan"
+    },
+    {
+      "date": "2026-10-16",
+      "house": "维也纳国家歌剧院",
+      "title": "Gioachino Rossini Il Barbiere di Siviglia (Gioachino Rossini)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/il-barbiere-di-siviglia/2026-10-16/"
+    },
+    {
+      "date": "2026-10-16",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "Richard Strauss ARIADNE AUF NAXOS (Richard Strauss)",
+      "url": "https://www.staatsoper.de/stuecke/ariadne-auf-naxos/2026-10-16-1900-16111"
+    },
+    {
+      "date": "2026-10-16",
+      "house": "苏黎世歌剧院",
+      "title": "Cathy Marston Ein Sommernachtstraum (Cathy Marston)",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/ein-sommernachtstraum/"
     }
   ]
 }
