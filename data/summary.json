@@ -1,36 +1,12 @@
 {
-  "updated_at": "2026-10-07T06:50:45+00:00",
+  "updated_at": "2026-10-08T06:58:03+00:00",
   "stats": {
     "houses": 14,
-    "performances": 1006,
+    "performances": 1025,
     "news": 300,
     "artists": 8
   },
   "upcoming_30": [
-    {
-      "date": "2026-10-07",
-      "house": "伦敦皇家歌剧院",
-      "title": "Don Giovanni",
-      "url": "https://www.rbo.org.uk/production/don-giovanni-kasper-holten"
-    },
-    {
-      "date": "2026-10-07",
-      "house": "伦敦皇家歌剧院",
-      "title": "Insights: 4:48 Psychosis",
-      "url": "https://www.rbo.org.uk/production/insights-4-48-psychosis"
-    },
-    {
-      "date": "2026-10-07",
-      "house": "维也纳国家歌剧院",
-      "title": "No Performance",
-      "url": ""
-    },
-    {
-      "date": "2026-10-07",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Jean Coralli – Jules Perrot Giselle (Jean Coralli – Jules Perrot)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/ballet/giselle.html"
-    },
     {
       "date": "2026-10-08",
       "house": "伦敦皇家歌剧院",
@@ -69,6 +45,12 @@
     },
     {
       "date": "2026-10-08",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "Brett Dean Of One Blood (Brett Dean)",
+      "url": "https://www.staatsoper.de/stuecke/of-one-blood/2026-10-08-1900-16106"
+    },
+    {
+      "date": "2026-10-08",
       "house": "苏黎世歌剧院",
       "title": "Die Fledermaus",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/die-fledermaus-1/"
@@ -96,6 +78,12 @@
       "house": "米兰斯卡拉歌剧院",
       "title": "Jean Coralli – Jules Perrot Giselle (Jean Coralli – Jules Perrot)",
       "url": "https://www.teatroallascala.org/en/season/2025-2026/ballet/giselle.html"
+    },
+    {
+      "date": "2026-10-09",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "John Neumeier DIE KAMELIENDAME (John Neumeier)",
+      "url": "https://www.staatsoper.de/stuecke/die-kameliendame/2026-10-09-1930-16107"
     },
     {
       "date": "2026-10-09",
@@ -156,6 +144,18 @@
       "house": "巴黎歌剧院",
       "title": "Gala — Ouverture de la saison de danse",
       "url": "https://www.operadeparis.fr/saison-26-27/ballet/gala"
+    },
+    {
+      "date": "2026-10-10",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "MVHS-Workshop zu \"CACTI\"",
+      "url": "https://www.staatsoper.de/stuecke/mvhs-workshop-ballett/2026-10-10-1900-16731"
+    },
+    {
+      "date": "2026-10-10",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "John Neumeier DIE KAMELIENDAME (John Neumeier)",
+      "url": "https://www.staatsoper.de/stuecke/die-kameliendame/2026-10-10-1930-16108"
     },
     {
       "date": "2026-10-10",
@@ -231,6 +231,12 @@
     },
     {
       "date": "2026-10-11",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "Brett Dean Of One Blood (Brett Dean)",
+      "url": "https://www.staatsoper.de/stuecke/of-one-blood/2026-10-11-1800-16109"
+    },
+    {
+      "date": "2026-10-11",
       "house": "苏黎世歌剧院",
       "title": "2. Kammerkonzert",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/kammerkonzert-2/"
@@ -270,6 +276,12 @@
       "house": "米兰斯卡拉歌剧院",
       "title": "Giuseppe Verdi La traviata (Giuseppe Verdi)",
       "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/la-traviata.html"
+    },
+    {
+      "date": "2026-10-12",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "Richard Strauss ARIADNE AUF NAXOS (Richard Strauss)",
+      "url": "https://www.staatsoper.de/stuecke/ariadne-auf-naxos/2026-10-12-1900-16110"
     },
     {
       "date": "2026-10-12",
@@ -399,6 +411,12 @@
     },
     {
       "date": "2026-10-16",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "Richard Strauss ARIADNE AUF NAXOS (Richard Strauss)",
+      "url": "https://www.staatsoper.de/stuecke/ariadne-auf-naxos/2026-10-16-1900-16111"
+    },
+    {
+      "date": "2026-10-16",
       "house": "苏黎世歌剧院",
       "title": "Cathy Marston Ein Sommernachtstraum (Cathy Marston)",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/ein-sommernachtstraum/"
@@ -459,33 +477,15 @@
     },
     {
       "date": "2026-10-17",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "Alexander Ekman, Johan Inger, Jiří Kylián COMMON GROUND (Alexander Ekman, Johan Inger, Jiří Kylián)",
+      "url": "https://www.staatsoper.de/stuecke/common-ground/2026-10-17-1930-16112"
+    },
+    {
+      "date": "2026-10-17",
       "house": "苏黎世歌剧院",
       "title": "Workshop Ballette entdecken «Ein Sommernachtstraum»",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/workshop-ballette-entdecken-ein-sommernachtstraum/"
-    },
-    {
-      "date": "2026-10-17",
-      "house": "苏黎世歌剧院",
-      "title": "Die Fledermaus",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/die-fledermaus-1/"
-    },
-    {
-      "date": "2026-10-17",
-      "house": "芝加哥抒情歌剧院",
-      "title": "Omar Opera Insights",
-      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/Omar/omar-opera-insights/"
-    },
-    {
-      "date": "2026-10-17",
-      "house": "悉尼歌剧院",
-      "title": "Beethoven & Tchaikovsky",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/beethoven-tchaikovsky"
-    },
-    {
-      "date": "2026-10-17",
-      "house": "悉尼歌剧院",
-      "title": "Britten’s War Requiem",
-      "url": "https://www.sydneyoperahouse.com/sydney-philharmonia-choirs/2026-season/brittens-war-requiem"
     }
   ]
 }
