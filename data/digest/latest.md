@@ -1,49 +1,40 @@
-📰 歌剧日报 · 2026-10-10
+📰 歌剧日报 · 2026-10-11
 
 ▍今日要闻
-- Nevill Holt Festival to Present ‘Carmen’ in 2027 ｜ OperaWire  https://operawire.com/nevill-holt-festival-to-present-carmen-in-2027/
-- Los Angeles Opera to Present ‘Hercules vs. Vampires’ ｜ OperaWire  https://operawire.com/los-angeles-opera-to-present-hercules-vs-vampires/
-- Opera Memphis Cancels Anniversary Concert Due to Weather ｜ OperaWire  https://operawire.com/opera-memphis-cancels-anniversary-concert-due-to-weather/
-- Q & A: Lauren Randolph on Working with Denyce Graves & Denyce Graves Foundation ｜ OperaWire  https://operawire.com/q-a-lauren-randolph-on-working-with-denyce-graves-denyce-graves-foundation/
-- Q & A: Michele Spotti on ‘Carmen,’ Palau de les Arts, Deutsche Oper Berlin & Italian Repertoire ｜ OperaWire  https://operawire.com/q-a-michele-spotti-on-carmen-palau-de-les-arts-deutsche-oper-berlin-italian-repertoire/
-- Piedmont Opera to Present Double Bill ‘Another Sunrise’ & ‘Before It All Goes Dark’ ｜ OperaWire  https://operawire.com/piedmont-opera-to-present-double-bill-another-sunrise-before-it-all-goes-dark/
-- Diana Damrau to Auction Gowns to Fundraise for Theater Ulm ｜ OperaWire  https://operawire.com/diana-damrau-to-auction-gowns-to-fundraise-for-theater-ulm/
-- Obituary: Soprano Janice Dixon Dies at 70 ｜ OperaWire  https://operawire.com/obituary-soprano-janice-dixon-dies-at-70/
-- Sir Simon Rattle Extends Contract with Bavarian Radio Symphony Orchestra & Bavarian Radio Chorus ｜ OperaWire  https://operawire.com/sir-simon-rattle-extends-contract-with-bavarian-radio-symphony-orchestra-bavarian-radio-chorus/
-- A Terezin opera book salutes victims of October 7 ｜ Slipped Disc  https://slippedisc.com/2026/10/a-terezin-opera-book-salutes-victims-of-october-7/?utm_source=rss&utm_medium=rss&utm_campaign=a-terezin-opera-book-salutes-victims-of-october-7
-- E avanti a lei tremava tutta Stoccarda ｜ Parterre Box  https://parterre.com/2026/10/09/e-avanti-a-lei-tremava-tutta-stoccarda/
-- Soprano sells her clothes to save her local theatre ｜ Slipped Disc  https://slippedisc.com/2026/10/soprano-sells-her-clothes-to-save-her-local-theatre/?utm_source=rss&utm_medium=rss&utm_campaign=soprano-sells-her-clothes-to-save-her-local-theatre
-- Kid conductor, aged 9, at Berlin Philharmonie ｜ Slipped Disc  https://slippedisc.com/2026/10/kid-conductor-at-berlin-philharmonie/?utm_source=rss&utm_medium=rss&utm_campaign=kid-conductor-at-berlin-philharmonie
-- Singing competition final – Neue Stimmen ｜ Slipped Disc  https://slippedisc.com/2026/10/operavision-64/?utm_source=rss&utm_medium=rss&utm_campaign=operavision-64
+- The Atlanta Opera to Open 2026-27 Season with ‘Silent Night’ ｜ OperaWire  https://operawire.com/the-atlanta-opera-to-open-2026-27-season-with-silent-night/
+- NEUE STIMMEN Announces 2026 Winners ｜ OperaWire  https://operawire.com/neue-stimmen-announces-2026-winners/
+- No German voices? Chinese and Armenian win Neue Stimmen ｜ Slipped Disc  https://slippedisc.com/2026/10/no-german-voices-chinese-and-armenian-win-neue-stimmen/?utm_source=rss&utm_medium=rss&utm_campaign=no-german-voices-chinese-and-armenian-win-neue-stimmen
+- Accept this offering ｜ Parterre Box  https://parterre.com/2026/10/10/accept-this-offering/
+- A favorite mezzo performance from Rowna Sutin ｜ Parterre Box  https://parterre.com/2026/10/10/a-favorite-mezzo-performance-from-rowna-sutin/
 
 ▍排期更新
-- 2026-10-10 伦敦皇家歌剧院：A Centenary Celebration  https://www.rbo.org.uk/production/a-centenary-celebration-the-royal-ballet-school
-- 2026-10-10 维也纳国家歌剧院：Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,
-        
-    
-
-    
-        
-            Gerald  Resch)  https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-10/
-- 2026-10-10 维也纳国家歌剧院：Open Adult Ballet Class  https://www.wiener-staatsoper.at/en/calendar/detail/open-adult-ballet-class/2026-10-10/
-- 2026-10-10 维也纳国家歌剧院：Eine floren­tinische Tragödie/ Bluebeard's Castle (Alexander Zemlinsky,
-        
-    
-
-    
-        
-            Béla Bartók)  https://www.wiener-staatsoper.at/en/calendar/detail/eine-florentinische-tragoedie-herzog-blaubarts-burg/2026-10-10/
-- 2026-10-10 维也纳国家歌剧院：Das Opernquiz mit Georg Nigl  
-- 2026-10-10 米兰斯卡拉歌剧院：La traviata (Giuseppe Verdi)  https://www.teatroallascala.org/en/season/2025-2026/opera/la-traviata.html
-- 2026-10-10 巴黎歌剧院：Gala — Ouverture de la saison de danse  https://www.operadeparis.fr/saison-26-27/ballet/gala
-- 2026-10-10 巴黎歌剧院：Échos et battements  https://www.operadeparis.fr/saison-26-27/concert-et-recital/echos-et-battements
-- 2026-10-10 慕尼黑巴伐利亚国家歌剧院：MVHS-Workshop zu "CACTI"  https://www.staatsoper.de/stuecke/mvhs-workshop-ballett/2026-10-10-1900-16731
-- 2026-10-10 慕尼黑巴伐利亚国家歌剧院：DIE KAMELIENDAME (John Neumeier)  https://www.staatsoper.de/stuecke/die-kameliendame/2026-10-10-1930-16108
-- 2026-10-10 苏黎世歌剧院：La rondine (Giacomo Puccini)  https://www.opernhaus.ch/spielplan/kalendarium/la-rondine/
-- 2026-10-10 芝加哥抒情歌剧院：Don Giovanni  https://www.lyricopera.org/shows/upcoming/2026-27/don-giovanni/
-- 2026-10-10 悉尼歌剧院：Donald Runnicles conducts Brahms  https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/ying-fang-songs-auvergne
-- 2026-10-10 悉尼歌剧院：Hourglass Ensemble: Jazz Nocturne  https://www.sydneyoperahouse.com/classical-music/hourglass-ensemble-jazz-nocturne
 - 2026-10-11 伦敦皇家歌剧院：Parsifal  https://www.rbo.org.uk/production/parsifal-evgeny-titov
+- 2026-10-11 维也纳国家歌剧院：Matinee zu Nijinsky  https://www.wiener-staatsoper.at/en/calendar/detail/matinee-zu-nijinsky/2026-10-11/
+- 2026-10-11 维也纳国家歌剧院：Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,
+        
+    
+
+    
+        
+            Gerald  Resch)  https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-11/
+- 2026-10-11 维也纳国家歌剧院：Carmen (Georges Bizet)  https://www.wiener-staatsoper.at/en/calendar/detail/carmen/2026-10-11/
+- 2026-10-11 米兰斯卡拉歌剧院：Façade  https://www.teatroallascala.org/en/season/2025-2026/concerts/chamber-music-at-toscanini-boxes-foyer/members-of-the-teatro-alla-scala-orchestra-11-october-2026.html
+- 2026-10-11 米兰斯卡拉歌剧院：Symphonieorchester des Bayerischen Rundfunks / The Rite of Spring (Guest orchestras subscritpion)  https://www.teatroallascala.org/en/season/2025-2026/concerts/guest-orchestras/symphonieorchester-des-bayerischen-rundfunks-the-rite-of-spring.html
+- 2026-10-11 巴黎歌剧院：Récital Katia et Marielle Labèque — 55  https://www.operadeparis.fr/saison-26-27/concert-et-recital/recital-katia-et-marielle-labeque
+- 2026-10-11 巴黎歌剧院：Paysages intérieurs — Jean-Christophe Maillot | William Forsythe | Aszure Barton  https://www.operadeparis.fr/saison-26-27/ballet/paysages-interieurs
+- 2026-10-11 慕尼黑巴伐利亚国家歌剧院：Of One Blood (Brett Dean)  https://www.staatsoper.de/stuecke/of-one-blood/2026-10-11-1800-16109
+- 2026-10-11 苏黎世歌剧院：2. Kammerkonzert  https://www.opernhaus.ch/spielplan/kalendarium/kammerkonzert-2/
+- 2026-10-11 苏黎世歌剧院：Ein Sommernachtstraum (Cathy Marston)  https://www.opernhaus.ch/spielplan/kalendarium/ein-sommernachtstraum/
+- 2026-10-11 悉尼歌剧院：Magic, Spells, and Other Worlds  https://www.sydneyoperahouse.com/classical-music/magic-spells-and-other-worlds
+- 2026-10-12 伦敦皇家歌剧院：Don Giovanni  https://www.rbo.org.uk/production/don-giovanni-kasper-holten
+- 2026-10-12 伦敦皇家歌剧院：Recitals at Lunch  https://www.rbo.org.uk/production/recitals-at-lunch
+- 2026-10-12 维也纳国家歌剧院：Eine floren­tinische Tragödie/ Bluebeard's Castle (Alexander Zemlinsky,
+        
+    
+
+    
+        
+            Béla Bartók)  https://www.wiener-staatsoper.at/en/calendar/detail/eine-florentinische-tragoedie-herzog-blaubarts-burg/2026-10-12/
 
 ▍艺术家动态
 - 基里尔·别特连科（指挥）
@@ -55,37 +46,36 @@
   · Otello (Giuseppe Verdi)  https://www.wiener-staatsoper.at/en/calendar/detail/otello/2026-11-05/
   · Otello (Giuseppe Verdi)  https://www.wiener-staatsoper.at/en/calendar/detail/otello/2026-11-08/
 - 迪安娜·达姆娆（歌唱家）
-  · Diana Damrau to Auction Gowns to Fundraise for Theater Ulm  https://operawire.com/diana-damrau-to-auction-gowns-to-fundraise-for-theater-ulm/
   · Diana Damrau  https://www.operadeparis.fr/saison-26-27/concert-et-recital/recital-diana-damrau
   · Diana Damrau (Recital subscription)  https://www.teatroallascala.org/en/season/2026-2027/concerts/voice-recital/diana-damrau.html
 - 彼得·贝恰拉（歌唱家）
   · Piotr Beczała  https://www.operadeparis.fr/saison-26-27/concert-et-recital/recital-piotr-beczala
 
 ▍未来 7 天值得关注
-- 2026-10-10 伦敦皇家歌剧院：A Centenary Celebration  https://www.rbo.org.uk/production/a-centenary-celebration-the-royal-ballet-school
-- 2026-10-10 维也纳国家歌剧院：Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,
-        
-    
-
-    
-        
-            Gerald  Resch)  https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-10/
-- 2026-10-10 维也纳国家歌剧院：Open Adult Ballet Class  https://www.wiener-staatsoper.at/en/calendar/detail/open-adult-ballet-class/2026-10-10/
-- 2026-10-10 维也纳国家歌剧院：Eine floren­tinische Tragödie/ Bluebeard's Castle (Alexander Zemlinsky,
-        
-    
-
-    
-        
-            Béla Bartók)  https://www.wiener-staatsoper.at/en/calendar/detail/eine-florentinische-tragoedie-herzog-blaubarts-burg/2026-10-10/
-- 2026-10-10 维也纳国家歌剧院：Das Opernquiz mit Georg Nigl  
-- 2026-10-10 米兰斯卡拉歌剧院：La traviata (Giuseppe Verdi)  https://www.teatroallascala.org/en/season/2025-2026/opera/la-traviata.html
-- 2026-10-10 巴黎歌剧院：Gala — Ouverture de la saison de danse  https://www.operadeparis.fr/saison-26-27/ballet/gala
-- 2026-10-10 巴黎歌剧院：Échos et battements  https://www.operadeparis.fr/saison-26-27/concert-et-recital/echos-et-battements
-- 2026-10-10 慕尼黑巴伐利亚国家歌剧院：MVHS-Workshop zu "CACTI"  https://www.staatsoper.de/stuecke/mvhs-workshop-ballett/2026-10-10-1900-16731
-- 2026-10-10 慕尼黑巴伐利亚国家歌剧院：DIE KAMELIENDAME (John Neumeier)  https://www.staatsoper.de/stuecke/die-kameliendame/2026-10-10-1930-16108
-- 2026-10-10 苏黎世歌剧院：La rondine (Giacomo Puccini)  https://www.opernhaus.ch/spielplan/kalendarium/la-rondine/
-- 2026-10-10 芝加哥抒情歌剧院：Don Giovanni  https://www.lyricopera.org/shows/upcoming/2026-27/don-giovanni/
-- 2026-10-10 悉尼歌剧院：Donald Runnicles conducts Brahms  https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/ying-fang-songs-auvergne
-- 2026-10-10 悉尼歌剧院：Hourglass Ensemble: Jazz Nocturne  https://www.sydneyoperahouse.com/classical-music/hourglass-ensemble-jazz-nocturne
 - 2026-10-11 伦敦皇家歌剧院：Parsifal  https://www.rbo.org.uk/production/parsifal-evgeny-titov
+- 2026-10-11 维也纳国家歌剧院：Matinee zu Nijinsky  https://www.wiener-staatsoper.at/en/calendar/detail/matinee-zu-nijinsky/2026-10-11/
+- 2026-10-11 维也纳国家歌剧院：Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,
+        
+    
+
+    
+        
+            Gerald  Resch)  https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-11/
+- 2026-10-11 维也纳国家歌剧院：Carmen (Georges Bizet)  https://www.wiener-staatsoper.at/en/calendar/detail/carmen/2026-10-11/
+- 2026-10-11 米兰斯卡拉歌剧院：Façade  https://www.teatroallascala.org/en/season/2025-2026/concerts/chamber-music-at-toscanini-boxes-foyer/members-of-the-teatro-alla-scala-orchestra-11-october-2026.html
+- 2026-10-11 米兰斯卡拉歌剧院：Symphonieorchester des Bayerischen Rundfunks / The Rite of Spring (Guest orchestras subscritpion)  https://www.teatroallascala.org/en/season/2025-2026/concerts/guest-orchestras/symphonieorchester-des-bayerischen-rundfunks-the-rite-of-spring.html
+- 2026-10-11 巴黎歌剧院：Récital Katia et Marielle Labèque — 55  https://www.operadeparis.fr/saison-26-27/concert-et-recital/recital-katia-et-marielle-labeque
+- 2026-10-11 巴黎歌剧院：Paysages intérieurs — Jean-Christophe Maillot | William Forsythe | Aszure Barton  https://www.operadeparis.fr/saison-26-27/ballet/paysages-interieurs
+- 2026-10-11 慕尼黑巴伐利亚国家歌剧院：Of One Blood (Brett Dean)  https://www.staatsoper.de/stuecke/of-one-blood/2026-10-11-1800-16109
+- 2026-10-11 苏黎世歌剧院：2. Kammerkonzert  https://www.opernhaus.ch/spielplan/kalendarium/kammerkonzert-2/
+- 2026-10-11 苏黎世歌剧院：Ein Sommernachtstraum (Cathy Marston)  https://www.opernhaus.ch/spielplan/kalendarium/ein-sommernachtstraum/
+- 2026-10-11 悉尼歌剧院：Magic, Spells, and Other Worlds  https://www.sydneyoperahouse.com/classical-music/magic-spells-and-other-worlds
+- 2026-10-12 伦敦皇家歌剧院：Don Giovanni  https://www.rbo.org.uk/production/don-giovanni-kasper-holten
+- 2026-10-12 伦敦皇家歌剧院：Recitals at Lunch  https://www.rbo.org.uk/production/recitals-at-lunch
+- 2026-10-12 维也纳国家歌剧院：Eine floren­tinische Tragödie/ Bluebeard's Castle (Alexander Zemlinsky,
+        
+    
+
+    
+        
+            Béla Bartók)  https://www.wiener-staatsoper.at/en/calendar/detail/eine-florentinische-tragoedie-herzog-blaubarts-burg/2026-10-12/

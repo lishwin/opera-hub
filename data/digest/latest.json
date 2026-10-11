@@ -1,182 +1,128 @@
 {
-  "date": "2026-10-10",
-  "generated_at": "2026-10-10T06:43:18+00:00",
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T06:45:55+00:00",
   "news": [
     {
       "source": "OperaWire",
-      "title": "Nevill Holt Festival to Present ‘Carmen’ in 2027",
-      "url": "https://operawire.com/nevill-holt-festival-to-present-carmen-in-2027/",
+      "title": "The Atlanta Opera to Open 2026-27 Season with ‘Silent Night’",
+      "url": "https://operawire.com/the-atlanta-opera-to-open-2026-27-season-with-silent-night/",
+      "date": "2026-10-11"
+    },
+    {
+      "source": "OperaWire",
+      "title": "NEUE STIMMEN Announces 2026 Winners",
+      "url": "https://operawire.com/neue-stimmen-announces-2026-winners/",
       "date": "2026-10-10"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Los Angeles Opera to Present ‘Hercules vs. Vampires’",
-      "url": "https://operawire.com/los-angeles-opera-to-present-hercules-vs-vampires/",
-      "date": "2026-10-10"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Opera Memphis Cancels Anniversary Concert Due to Weather",
-      "url": "https://operawire.com/opera-memphis-cancels-anniversary-concert-due-to-weather/",
-      "date": "2026-10-10"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Q & A: Lauren Randolph on Working with Denyce Graves & Denyce Graves Foundation",
-      "url": "https://operawire.com/q-a-lauren-randolph-on-working-with-denyce-graves-denyce-graves-foundation/",
-      "date": "2026-10-09"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Q & A: Michele Spotti on ‘Carmen,’ Palau de les Arts, Deutsche Oper Berlin & Italian Repertoire",
-      "url": "https://operawire.com/q-a-michele-spotti-on-carmen-palau-de-les-arts-deutsche-oper-berlin-italian-repertoire/",
-      "date": "2026-10-09"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Piedmont Opera to Present Double Bill ‘Another Sunrise’ & ‘Before It All Goes Dark’",
-      "url": "https://operawire.com/piedmont-opera-to-present-double-bill-another-sunrise-before-it-all-goes-dark/",
-      "date": "2026-10-09"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Diana Damrau to Auction Gowns to Fundraise for Theater Ulm",
-      "url": "https://operawire.com/diana-damrau-to-auction-gowns-to-fundraise-for-theater-ulm/",
-      "date": "2026-10-09"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Obituary: Soprano Janice Dixon Dies at 70",
-      "url": "https://operawire.com/obituary-soprano-janice-dixon-dies-at-70/",
-      "date": "2026-10-09"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Sir Simon Rattle Extends Contract with Bavarian Radio Symphony Orchestra & Bavarian Radio Chorus",
-      "url": "https://operawire.com/sir-simon-rattle-extends-contract-with-bavarian-radio-symphony-orchestra-bavarian-radio-chorus/",
-      "date": "2026-10-09"
     },
     {
       "source": "Slipped Disc",
-      "title": "A Terezin opera book salutes victims of October 7",
-      "url": "https://slippedisc.com/2026/10/a-terezin-opera-book-salutes-victims-of-october-7/?utm_source=rss&utm_medium=rss&utm_campaign=a-terezin-opera-book-salutes-victims-of-october-7",
-      "date": "2026-10-09"
+      "title": "No German voices? Chinese and Armenian win Neue Stimmen",
+      "url": "https://slippedisc.com/2026/10/no-german-voices-chinese-and-armenian-win-neue-stimmen/?utm_source=rss&utm_medium=rss&utm_campaign=no-german-voices-chinese-and-armenian-win-neue-stimmen",
+      "date": "2026-10-10"
     },
     {
       "source": "Parterre Box",
-      "title": "E avanti a lei tremava tutta Stoccarda",
-      "url": "https://parterre.com/2026/10/09/e-avanti-a-lei-tremava-tutta-stoccarda/",
-      "date": "2026-10-09"
+      "title": "Accept this offering",
+      "url": "https://parterre.com/2026/10/10/accept-this-offering/",
+      "date": "2026-10-10"
     },
     {
-      "source": "Slipped Disc",
-      "title": "Soprano sells her clothes to save her local theatre",
-      "url": "https://slippedisc.com/2026/10/soprano-sells-her-clothes-to-save-her-local-theatre/?utm_source=rss&utm_medium=rss&utm_campaign=soprano-sells-her-clothes-to-save-her-local-theatre",
-      "date": "2026-10-09"
-    },
-    {
-      "source": "Slipped Disc",
-      "title": "Kid conductor, aged 9, at Berlin Philharmonie",
-      "url": "https://slippedisc.com/2026/10/kid-conductor-at-berlin-philharmonie/?utm_source=rss&utm_medium=rss&utm_campaign=kid-conductor-at-berlin-philharmonie",
-      "date": "2026-10-09"
-    },
-    {
-      "source": "Slipped Disc",
-      "title": "Singing competition final – Neue Stimmen",
-      "url": "https://slippedisc.com/2026/10/operavision-64/?utm_source=rss&utm_medium=rss&utm_campaign=operavision-64",
-      "date": "2026-10-09"
+      "source": "Parterre Box",
+      "title": "A favorite mezzo performance from Rowna Sutin",
+      "url": "https://parterre.com/2026/10/10/a-favorite-mezzo-performance-from-rowna-sutin/",
+      "date": "2026-10-10"
     }
   ],
   "schedule_updates": [
-    {
-      "date": "2026-10-10",
-      "house": "伦敦皇家歌剧院",
-      "title": "A Centenary Celebration",
-      "url": "https://www.rbo.org.uk/production/a-centenary-celebration-the-royal-ballet-school"
-    },
-    {
-      "date": "2026-10-10",
-      "house": "维也纳国家歌剧院",
-      "title": "Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-10/"
-    },
-    {
-      "date": "2026-10-10",
-      "house": "维也纳国家歌剧院",
-      "title": "Open Adult Ballet Class",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/open-adult-ballet-class/2026-10-10/"
-    },
-    {
-      "date": "2026-10-10",
-      "house": "维也纳国家歌剧院",
-      "title": "Eine floren­tinische Tragödie/ Bluebeard's Castle (Alexander Zemlinsky,\n        \n    \n\n    \n        \n            Béla Bartók)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/eine-florentinische-tragoedie-herzog-blaubarts-burg/2026-10-10/"
-    },
-    {
-      "date": "2026-10-10",
-      "house": "维也纳国家歌剧院",
-      "title": "Das Opernquiz mit Georg Nigl",
-      "url": ""
-    },
-    {
-      "date": "2026-10-10",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "La traviata (Giuseppe Verdi)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/la-traviata.html"
-    },
-    {
-      "date": "2026-10-10",
-      "house": "巴黎歌剧院",
-      "title": "Gala — Ouverture de la saison de danse",
-      "url": "https://www.operadeparis.fr/saison-26-27/ballet/gala"
-    },
-    {
-      "date": "2026-10-10",
-      "house": "巴黎歌剧院",
-      "title": "Échos et battements",
-      "url": "https://www.operadeparis.fr/saison-26-27/concert-et-recital/echos-et-battements"
-    },
-    {
-      "date": "2026-10-10",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "MVHS-Workshop zu \"CACTI\"",
-      "url": "https://www.staatsoper.de/stuecke/mvhs-workshop-ballett/2026-10-10-1900-16731"
-    },
-    {
-      "date": "2026-10-10",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "DIE KAMELIENDAME (John Neumeier)",
-      "url": "https://www.staatsoper.de/stuecke/die-kameliendame/2026-10-10-1930-16108"
-    },
-    {
-      "date": "2026-10-10",
-      "house": "苏黎世歌剧院",
-      "title": "La rondine (Giacomo Puccini)",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/la-rondine/"
-    },
-    {
-      "date": "2026-10-10",
-      "house": "芝加哥抒情歌剧院",
-      "title": "Don Giovanni",
-      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/don-giovanni/"
-    },
-    {
-      "date": "2026-10-10",
-      "house": "悉尼歌剧院",
-      "title": "Donald Runnicles conducts Brahms",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/ying-fang-songs-auvergne"
-    },
-    {
-      "date": "2026-10-10",
-      "house": "悉尼歌剧院",
-      "title": "Hourglass Ensemble: Jazz Nocturne",
-      "url": "https://www.sydneyoperahouse.com/classical-music/hourglass-ensemble-jazz-nocturne"
-    },
     {
       "date": "2026-10-11",
       "house": "伦敦皇家歌剧院",
       "title": "Parsifal",
       "url": "https://www.rbo.org.uk/production/parsifal-evgeny-titov"
+    },
+    {
+      "date": "2026-10-11",
+      "house": "维也纳国家歌剧院",
+      "title": "Matinee zu Nijinsky",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/matinee-zu-nijinsky/2026-10-11/"
+    },
+    {
+      "date": "2026-10-11",
+      "house": "维也纳国家歌剧院",
+      "title": "Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-11/"
+    },
+    {
+      "date": "2026-10-11",
+      "house": "维也纳国家歌剧院",
+      "title": "Carmen (Georges Bizet)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/carmen/2026-10-11/"
+    },
+    {
+      "date": "2026-10-11",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Façade",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/concerts/chamber-music-at-toscanini-boxes-foyer/members-of-the-teatro-alla-scala-orchestra-11-october-2026.html"
+    },
+    {
+      "date": "2026-10-11",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Symphonieorchester des Bayerischen Rundfunks / The Rite of Spring (Guest orchestras subscritpion)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/concerts/guest-orchestras/symphonieorchester-des-bayerischen-rundfunks-the-rite-of-spring.html"
+    },
+    {
+      "date": "2026-10-11",
+      "house": "巴黎歌剧院",
+      "title": "Récital Katia et Marielle Labèque — 55",
+      "url": "https://www.operadeparis.fr/saison-26-27/concert-et-recital/recital-katia-et-marielle-labeque"
+    },
+    {
+      "date": "2026-10-11",
+      "house": "巴黎歌剧院",
+      "title": "Paysages intérieurs — Jean-Christophe Maillot | William Forsythe | Aszure Barton",
+      "url": "https://www.operadeparis.fr/saison-26-27/ballet/paysages-interieurs"
+    },
+    {
+      "date": "2026-10-11",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "Of One Blood (Brett Dean)",
+      "url": "https://www.staatsoper.de/stuecke/of-one-blood/2026-10-11-1800-16109"
+    },
+    {
+      "date": "2026-10-11",
+      "house": "苏黎世歌剧院",
+      "title": "2. Kammerkonzert",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/kammerkonzert-2/"
+    },
+    {
+      "date": "2026-10-11",
+      "house": "苏黎世歌剧院",
+      "title": "Ein Sommernachtstraum (Cathy Marston)",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/ein-sommernachtstraum/"
+    },
+    {
+      "date": "2026-10-11",
+      "house": "悉尼歌剧院",
+      "title": "Magic, Spells, and Other Worlds",
+      "url": "https://www.sydneyoperahouse.com/classical-music/magic-spells-and-other-worlds"
+    },
+    {
+      "date": "2026-10-12",
+      "house": "伦敦皇家歌剧院",
+      "title": "Don Giovanni",
+      "url": "https://www.rbo.org.uk/production/don-giovanni-kasper-holten"
+    },
+    {
+      "date": "2026-10-12",
+      "house": "伦敦皇家歌剧院",
+      "title": "Recitals at Lunch",
+      "url": "https://www.rbo.org.uk/production/recitals-at-lunch"
+    },
+    {
+      "date": "2026-10-12",
+      "house": "维也纳国家歌剧院",
+      "title": "Eine floren­tinische Tragödie/ Bluebeard's Castle (Alexander Zemlinsky,\n        \n    \n\n    \n        \n            Béla Bartók)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/eine-florentinische-tragoedie-herzog-blaubarts-burg/2026-10-12/"
     }
   ],
   "artists": [
@@ -233,12 +179,6 @@
       "category": "歌唱家",
       "mentions": [
         {
-          "type": "新闻",
-          "title": "Diana Damrau to Auction Gowns to Fundraise for Theater Ulm",
-          "url": "https://operawire.com/diana-damrau-to-auction-gowns-to-fundraise-for-theater-ulm/",
-          "date": "2026-10-09T20:54:48+00:00"
-        },
-        {
           "type": "演出",
           "title": "Diana Damrau",
           "url": "https://www.operadeparis.fr/saison-26-27/concert-et-recital/recital-diana-damrau",
@@ -267,94 +207,94 @@
   ],
   "upcoming_7": [
     {
-      "date": "2026-10-10",
-      "house": "伦敦皇家歌剧院",
-      "title": "A Centenary Celebration",
-      "url": "https://www.rbo.org.uk/production/a-centenary-celebration-the-royal-ballet-school"
-    },
-    {
-      "date": "2026-10-10",
-      "house": "维也纳国家歌剧院",
-      "title": "Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-10/"
-    },
-    {
-      "date": "2026-10-10",
-      "house": "维也纳国家歌剧院",
-      "title": "Open Adult Ballet Class",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/open-adult-ballet-class/2026-10-10/"
-    },
-    {
-      "date": "2026-10-10",
-      "house": "维也纳国家歌剧院",
-      "title": "Eine floren­tinische Tragödie/ Bluebeard's Castle (Alexander Zemlinsky,\n        \n    \n\n    \n        \n            Béla Bartók)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/eine-florentinische-tragoedie-herzog-blaubarts-burg/2026-10-10/"
-    },
-    {
-      "date": "2026-10-10",
-      "house": "维也纳国家歌剧院",
-      "title": "Das Opernquiz mit Georg Nigl",
-      "url": ""
-    },
-    {
-      "date": "2026-10-10",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "La traviata (Giuseppe Verdi)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/la-traviata.html"
-    },
-    {
-      "date": "2026-10-10",
-      "house": "巴黎歌剧院",
-      "title": "Gala — Ouverture de la saison de danse",
-      "url": "https://www.operadeparis.fr/saison-26-27/ballet/gala"
-    },
-    {
-      "date": "2026-10-10",
-      "house": "巴黎歌剧院",
-      "title": "Échos et battements",
-      "url": "https://www.operadeparis.fr/saison-26-27/concert-et-recital/echos-et-battements"
-    },
-    {
-      "date": "2026-10-10",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "MVHS-Workshop zu \"CACTI\"",
-      "url": "https://www.staatsoper.de/stuecke/mvhs-workshop-ballett/2026-10-10-1900-16731"
-    },
-    {
-      "date": "2026-10-10",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "DIE KAMELIENDAME (John Neumeier)",
-      "url": "https://www.staatsoper.de/stuecke/die-kameliendame/2026-10-10-1930-16108"
-    },
-    {
-      "date": "2026-10-10",
-      "house": "苏黎世歌剧院",
-      "title": "La rondine (Giacomo Puccini)",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/la-rondine/"
-    },
-    {
-      "date": "2026-10-10",
-      "house": "芝加哥抒情歌剧院",
-      "title": "Don Giovanni",
-      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/don-giovanni/"
-    },
-    {
-      "date": "2026-10-10",
-      "house": "悉尼歌剧院",
-      "title": "Donald Runnicles conducts Brahms",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/ying-fang-songs-auvergne"
-    },
-    {
-      "date": "2026-10-10",
-      "house": "悉尼歌剧院",
-      "title": "Hourglass Ensemble: Jazz Nocturne",
-      "url": "https://www.sydneyoperahouse.com/classical-music/hourglass-ensemble-jazz-nocturne"
-    },
-    {
       "date": "2026-10-11",
       "house": "伦敦皇家歌剧院",
       "title": "Parsifal",
       "url": "https://www.rbo.org.uk/production/parsifal-evgeny-titov"
+    },
+    {
+      "date": "2026-10-11",
+      "house": "维也纳国家歌剧院",
+      "title": "Matinee zu Nijinsky",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/matinee-zu-nijinsky/2026-10-11/"
+    },
+    {
+      "date": "2026-10-11",
+      "house": "维也纳国家歌剧院",
+      "title": "Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-11/"
+    },
+    {
+      "date": "2026-10-11",
+      "house": "维也纳国家歌剧院",
+      "title": "Carmen (Georges Bizet)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/carmen/2026-10-11/"
+    },
+    {
+      "date": "2026-10-11",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Façade",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/concerts/chamber-music-at-toscanini-boxes-foyer/members-of-the-teatro-alla-scala-orchestra-11-october-2026.html"
+    },
+    {
+      "date": "2026-10-11",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Symphonieorchester des Bayerischen Rundfunks / The Rite of Spring (Guest orchestras subscritpion)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/concerts/guest-orchestras/symphonieorchester-des-bayerischen-rundfunks-the-rite-of-spring.html"
+    },
+    {
+      "date": "2026-10-11",
+      "house": "巴黎歌剧院",
+      "title": "Récital Katia et Marielle Labèque — 55",
+      "url": "https://www.operadeparis.fr/saison-26-27/concert-et-recital/recital-katia-et-marielle-labeque"
+    },
+    {
+      "date": "2026-10-11",
+      "house": "巴黎歌剧院",
+      "title": "Paysages intérieurs — Jean-Christophe Maillot | William Forsythe | Aszure Barton",
+      "url": "https://www.operadeparis.fr/saison-26-27/ballet/paysages-interieurs"
+    },
+    {
+      "date": "2026-10-11",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "Of One Blood (Brett Dean)",
+      "url": "https://www.staatsoper.de/stuecke/of-one-blood/2026-10-11-1800-16109"
+    },
+    {
+      "date": "2026-10-11",
+      "house": "苏黎世歌剧院",
+      "title": "2. Kammerkonzert",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/kammerkonzert-2/"
+    },
+    {
+      "date": "2026-10-11",
+      "house": "苏黎世歌剧院",
+      "title": "Ein Sommernachtstraum (Cathy Marston)",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/ein-sommernachtstraum/"
+    },
+    {
+      "date": "2026-10-11",
+      "house": "悉尼歌剧院",
+      "title": "Magic, Spells, and Other Worlds",
+      "url": "https://www.sydneyoperahouse.com/classical-music/magic-spells-and-other-worlds"
+    },
+    {
+      "date": "2026-10-12",
+      "house": "伦敦皇家歌剧院",
+      "title": "Don Giovanni",
+      "url": "https://www.rbo.org.uk/production/don-giovanni-kasper-holten"
+    },
+    {
+      "date": "2026-10-12",
+      "house": "伦敦皇家歌剧院",
+      "title": "Recitals at Lunch",
+      "url": "https://www.rbo.org.uk/production/recitals-at-lunch"
+    },
+    {
+      "date": "2026-10-12",
+      "house": "维也纳国家歌剧院",
+      "title": "Eine floren­tinische Tragödie/ Bluebeard's Castle (Alexander Zemlinsky,\n        \n    \n\n    \n        \n            Béla Bartók)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/eine-florentinische-tragoedie-herzog-blaubarts-burg/2026-10-12/"
     }
   ]
 }
