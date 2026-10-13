@@ -1,48 +1,12 @@
 {
-  "updated_at": "2026-10-12T06:55:51+00:00",
+  "updated_at": "2026-10-13T07:21:07+00:00",
   "stats": {
     "houses": 14,
-    "performances": 976,
+    "performances": 975,
     "news": 300,
     "artists": 8
   },
   "upcoming_30": [
-    {
-      "date": "2026-10-12",
-      "house": "伦敦皇家歌剧院",
-      "title": "Don Giovanni",
-      "url": "https://www.rbo.org.uk/production/don-giovanni-kasper-holten"
-    },
-    {
-      "date": "2026-10-12",
-      "house": "伦敦皇家歌剧院",
-      "title": "Recitals at Lunch",
-      "url": "https://www.rbo.org.uk/production/recitals-at-lunch"
-    },
-    {
-      "date": "2026-10-12",
-      "house": "维也纳国家歌剧院",
-      "title": "Alexander Zemlinsky,\n        \n    \n\n    \n        \n            Béla Bartók Eine floren­tinische Tragödie/ Bluebeard's Castle (Alexander Zemlinsky,\n        \n    \n\n    \n        \n            Béla Bartók)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/eine-florentinische-tragoedie-herzog-blaubarts-burg/2026-10-12/"
-    },
-    {
-      "date": "2026-10-12",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Giuseppe Verdi La traviata (Giuseppe Verdi)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/la-traviata.html"
-    },
-    {
-      "date": "2026-10-12",
-      "house": "苏黎世歌剧院",
-      "title": "2. Kammerkonzert",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/kammerkonzert-2/"
-    },
-    {
-      "date": "2026-10-12",
-      "house": "悉尼歌剧院",
-      "title": "Isata Kanneh-Mason in Recital",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/isata-kanneh-mason-recital"
-    },
     {
       "date": "2026-10-13",
       "house": "伦敦皇家歌剧院",
@@ -302,6 +266,12 @@
       "url": "https://www.sydneyoperahouse.com/australian-chamber-orchestra/2026-season/pekka-kuusisto"
     },
     {
+      "date": "2026-10-18",
+      "house": "悉尼歌剧院",
+      "title": "Great Opera Hits 2026",
+      "url": "https://www.sydneyoperahouse.com/opera-australia/2026-season/great-opera-hits-2026"
+    },
+    {
       "date": "2026-10-19",
       "house": "伦敦皇家歌剧院",
       "title": "4.48 Psychosis",
@@ -486,6 +456,36 @@
       "house": "伦敦皇家歌剧院",
       "title": "Manon",
       "url": "https://www.rbo.org.uk/production/manon-kenneth-macmillan"
+    },
+    {
+      "date": "2026-10-23",
+      "house": "维也纳国家歌剧院",
+      "title": "Wolfgang Amadeus Mozart Die Entführung aus dem Serail (Wolfgang Amadeus Mozart)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/die-entfuehrung-aus-dem-serail/2026-10-23/"
+    },
+    {
+      "date": "2026-10-23",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Jean Coralli – Jules Perrot Giselle (Jean Coralli – Jules Perrot)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/ballet/giselle.html"
+    },
+    {
+      "date": "2026-10-23",
+      "house": "苏黎世歌剧院",
+      "title": "Die Fledermaus",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/die-fledermaus-1/"
+    },
+    {
+      "date": "2026-10-23",
+      "house": "芝加哥抒情歌剧院",
+      "title": "Omar",
+      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/Omar/"
+    },
+    {
+      "date": "2026-10-23",
+      "house": "悉尼歌剧院",
+      "title": "Star Wars: The Empire Strikes Back in Concert",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/star-wars-empire-strikes-back-concert"
     }
   ]
 }
