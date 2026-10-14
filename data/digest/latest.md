@@ -1,23 +1,20 @@
-📰 歌剧日报 · 2026-10-13
+📰 歌剧日报 · 2026-10-14
 
 ▍今日要闻
-- Gasometer to Open in Stockholm ｜ OperaWire  https://operawire.com/gasometer-to-open-in-stockholm/
-- La MaMa Presents World Premiere of Julia Schwartz & Catherine Filloux’s ‘Allegra & the Cello, in Movements’ ｜ OperaWire  https://operawire.com/la-mama-presents-world-premiere-of-julia-schwartz-catherine-fillouxs-allegra-the-cello-in-movements/
-- Kristina Bachrach to Perform at Chicago’s Guarneri Hall ｜ OperaWire  https://operawire.com/kristina-bachrach-to-perform-at-chicagos-guarneri-hall/
-- Q & A: Nwando Ebizie on Her Mystic Opera ‘Ecstasy of the Virtues’ & Hildegard von Bingen ｜ OperaWire  https://operawire.com/q-a-nwando-ebizie-on-her-mystic-opera-ecstasy-of-the-virtues-hildegard-von-bingen/
-- Lea Shaw Wins Four Prizes at 59th International Vocal Competition ‘s-Hertogenbosch ｜ OperaWire  https://operawire.com/lea-shaw-wins-four-prizes-at-59th-international-vocal-competition-s-hertogenbosch/
-- Cast Change: John Relyea Joins Houston Grand Opera’s ‘Faust’ ｜ OperaWire  https://operawire.com/cast-change-john-relyea-joins-houston-grand-operas-faust/
-- San Francisco Opera 2026-27 Review: Mary, Queen of Scots ｜ OperaWire  https://operawire.com/san-francisco-opera-2026-27-review-mary-queen-of-scots/
-- Say it ain’t so, Gio ｜ Parterre Box  https://parterre.com/2026/10/12/say-it-aint-so-gio/
-- A favorite mezzo performance from Last Castrato ｜ Parterre Box  https://parterre.com/2026/10/12/a-favorite-mezzo-performance-from-last-castrato/
+- Ashley Milanese Joins TACT Artists Management ｜ OperaWire  https://operawire.com/ashley-milanese-joins-tact-artists-management/
+- Composers Concordance to Present ‘Art of the Art Song’ ｜ OperaWire  https://operawire.com/composers-concordance-to-present-art-of-the-art-song/
+- OperaDelaware Names New Director of Development ｜ OperaWire  https://operawire.com/operadelaware-names-new-director-of-development/
+- Francesca Zambello Opens Up About the New Era for the Washington National Opera on the OperaWire Podcast ｜ OperaWire  https://operawire.com/francesca-zambello-opens-up-about-the-new-era-for-the-washington-national-opera-on-the-operawire-podcast/
+- Jessye Norman Exhibition Opens in Atlanta ｜ OperaWire  https://operawire.com/jessye-norman-exhibition-opens-in-atlanta/
+- Teatro San Carlo 2025-26 Review: Alcina ｜ OperaWire  https://operawire.com/teatro-san-carlo-2025-26-review-alcina/
+- PROTESTRA to Present ‘Opera for Revolution’ ｜ OperaWire  https://operawire.com/protestra-to-present-opera-for-revolution/
+- Operantics to Present ‘Così Fan Tutte’ in 2027 ｜ OperaWire  https://operawire.com/operantics-to-present-cosi-fan-tutte-in-2027/
+- A kink in the plan ｜ Parterre Box  https://parterre.com/2026/10/13/a-kink-in-the-plan/
+- Aria Force One ｜ Parterre Box  https://parterre.com/2026/10/13/aria-force-one/
+- A favorite mezzo performance from Llewellyn Adelbert ｜ Parterre Box  https://parterre.com/2026/10/13/a-favorite-mezzo-performance-from-llewellyn-adelbert/
+- Sydney Opera will stage Les Miz ｜ Slipped Disc  https://slippedisc.com/2026/10/sydney-opera-will-stage-les-miz/?utm_source=rss&utm_medium=rss&utm_campaign=sydney-opera-will-stage-les-miz
 
 ▍排期更新
-- 2026-10-13 伦敦皇家歌剧院：Friends Rehearsals  https://www.rbo.org.uk/production/friends-rehearsals
-- 2026-10-13 伦敦皇家歌剧院：Manon  https://www.rbo.org.uk/production/manon-kenneth-macmillan
-- 2026-10-13 维也纳国家歌剧院：Il Barbiere di Siviglia (Gioachino Rossini)  https://www.wiener-staatsoper.at/en/calendar/detail/il-barbiere-di-siviglia/2026-10-13/
-- 2026-10-13 米兰斯卡拉歌剧院：Giselle (Jean Coralli – Jules Perrot)  https://www.teatroallascala.org/en/season/2025-2026/ballet/giselle.html
-- 2026-10-13 苏黎世歌剧院：Tannhäuser (Richard Wagner)  https://www.opernhaus.ch/spielplan/kalendarium/tannhaeuser-1/
-- 2026-10-13 芝加哥抒情歌剧院：Don Giovanni  https://www.lyricopera.org/shows/upcoming/2026-27/don-giovanni/
 - 2026-10-14 伦敦皇家歌剧院：Parsifal  https://www.rbo.org.uk/production/parsifal-evgeny-titov
 - 2026-10-14 维也纳国家歌剧院：Carmen (Georges Bizet)  https://www.wiener-staatsoper.at/en/calendar/detail/carmen/2026-10-14/
 - 2026-10-14 巴黎歌剧院：Au coeur du romantisme allemand — Artistes en résidence à l’Académie  https://www.operadeparis.fr/saison-26-27/concert-et-recital/au-coeur-du-romantisme-allemand
@@ -27,6 +24,12 @@
 - 2026-10-15 米兰斯卡拉歌剧院：La traviata (Giuseppe Verdi)  https://www.teatroallascala.org/en/season/2025-2026/opera/la-traviata.html
 - 2026-10-15 苏黎世歌剧院：La rondine (Giacomo Puccini Opernhaustag)  https://www.opernhaus.ch/spielplan/kalendarium/la-rondine/
 - 2026-10-15 芝加哥抒情歌剧院：Don Giovanni  https://www.lyricopera.org/shows/upcoming/2026-27/don-giovanni/
+- 2026-10-15 旧金山歌剧院：Manon (Jules Massenet)  https://www.sfopera.com/operas/manon/
+- 2026-10-15 悉尼歌剧院：Beethoven & Tchaikovsky  https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/beethoven-tchaikovsky
+- 2026-10-16 伦敦皇家歌剧院：Manon  https://www.rbo.org.uk/production/manon-kenneth-macmillan
+- 2026-10-16 维也纳国家歌剧院：Il Barbiere di Siviglia (Gioachino Rossini)  https://www.wiener-staatsoper.at/en/calendar/detail/il-barbiere-di-siviglia/2026-10-16/
+- 2026-10-16 慕尼黑巴伐利亚国家歌剧院：ARIADNE AUF NAXOS (Richard Strauss)  https://www.staatsoper.de/stuecke/ariadne-auf-naxos/2026-10-16-1900-16111
+- 2026-10-16 苏黎世歌剧院：Ein Sommer­nachtstraum (Cathy Marston)  https://www.opernhaus.ch/spielplan/kalendarium/ein-sommernachtstraum/
 
 ▍艺术家动态
 - 基里尔·别特连科（指挥）
@@ -44,12 +47,6 @@
   · Piotr Beczała  https://www.operadeparis.fr/saison-26-27/concert-et-recital/recital-piotr-beczala
 
 ▍未来 7 天值得关注
-- 2026-10-13 伦敦皇家歌剧院：Friends Rehearsals  https://www.rbo.org.uk/production/friends-rehearsals
-- 2026-10-13 伦敦皇家歌剧院：Manon  https://www.rbo.org.uk/production/manon-kenneth-macmillan
-- 2026-10-13 维也纳国家歌剧院：Il Barbiere di Siviglia (Gioachino Rossini)  https://www.wiener-staatsoper.at/en/calendar/detail/il-barbiere-di-siviglia/2026-10-13/
-- 2026-10-13 米兰斯卡拉歌剧院：Giselle (Jean Coralli – Jules Perrot)  https://www.teatroallascala.org/en/season/2025-2026/ballet/giselle.html
-- 2026-10-13 苏黎世歌剧院：Tannhäuser (Richard Wagner)  https://www.opernhaus.ch/spielplan/kalendarium/tannhaeuser-1/
-- 2026-10-13 芝加哥抒情歌剧院：Don Giovanni  https://www.lyricopera.org/shows/upcoming/2026-27/don-giovanni/
 - 2026-10-14 伦敦皇家歌剧院：Parsifal  https://www.rbo.org.uk/production/parsifal-evgeny-titov
 - 2026-10-14 维也纳国家歌剧院：Carmen (Georges Bizet)  https://www.wiener-staatsoper.at/en/calendar/detail/carmen/2026-10-14/
 - 2026-10-14 巴黎歌剧院：Au coeur du romantisme allemand — Artistes en résidence à l’Académie  https://www.operadeparis.fr/saison-26-27/concert-et-recital/au-coeur-du-romantisme-allemand
@@ -59,3 +56,9 @@
 - 2026-10-15 米兰斯卡拉歌剧院：La traviata (Giuseppe Verdi)  https://www.teatroallascala.org/en/season/2025-2026/opera/la-traviata.html
 - 2026-10-15 苏黎世歌剧院：La rondine (Giacomo Puccini Opernhaustag)  https://www.opernhaus.ch/spielplan/kalendarium/la-rondine/
 - 2026-10-15 芝加哥抒情歌剧院：Don Giovanni  https://www.lyricopera.org/shows/upcoming/2026-27/don-giovanni/
+- 2026-10-15 旧金山歌剧院：Manon (Jules Massenet)  https://www.sfopera.com/operas/manon/
+- 2026-10-15 悉尼歌剧院：Beethoven & Tchaikovsky  https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/beethoven-tchaikovsky
+- 2026-10-16 伦敦皇家歌剧院：Manon  https://www.rbo.org.uk/production/manon-kenneth-macmillan
+- 2026-10-16 维也纳国家歌剧院：Il Barbiere di Siviglia (Gioachino Rossini)  https://www.wiener-staatsoper.at/en/calendar/detail/il-barbiere-di-siviglia/2026-10-16/
+- 2026-10-16 慕尼黑巴伐利亚国家歌剧院：ARIADNE AUF NAXOS (Richard Strauss)  https://www.staatsoper.de/stuecke/ariadne-auf-naxos/2026-10-16-1900-16111
+- 2026-10-16 苏黎世歌剧院：Ein Sommer­nachtstraum (Cathy Marston)  https://www.opernhaus.ch/spielplan/kalendarium/ein-sommernachtstraum/

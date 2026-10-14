@@ -1,48 +1,12 @@
 {
-  "updated_at": "2026-10-13T07:21:07+00:00",
+  "updated_at": "2026-10-14T05:44:24+00:00",
   "stats": {
     "houses": 14,
-    "performances": 975,
+    "performances": 986,
     "news": 300,
     "artists": 8
   },
   "upcoming_30": [
-    {
-      "date": "2026-10-13",
-      "house": "伦敦皇家歌剧院",
-      "title": "Friends Rehearsals",
-      "url": "https://www.rbo.org.uk/production/friends-rehearsals"
-    },
-    {
-      "date": "2026-10-13",
-      "house": "伦敦皇家歌剧院",
-      "title": "Manon",
-      "url": "https://www.rbo.org.uk/production/manon-kenneth-macmillan"
-    },
-    {
-      "date": "2026-10-13",
-      "house": "维也纳国家歌剧院",
-      "title": "Gioachino Rossini Il Barbiere di Siviglia (Gioachino Rossini)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/il-barbiere-di-siviglia/2026-10-13/"
-    },
-    {
-      "date": "2026-10-13",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Jean Coralli – Jules Perrot Giselle (Jean Coralli – Jules Perrot)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/ballet/giselle.html"
-    },
-    {
-      "date": "2026-10-13",
-      "house": "苏黎世歌剧院",
-      "title": "Richard Wagner Tannhäuser (Richard Wagner)",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/tannhaeuser-1/"
-    },
-    {
-      "date": "2026-10-13",
-      "house": "芝加哥抒情歌剧院",
-      "title": "Don Giovanni",
-      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/don-giovanni/"
-    },
     {
       "date": "2026-10-14",
       "house": "伦敦皇家歌剧院",
@@ -123,8 +87,14 @@
     },
     {
       "date": "2026-10-16",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "Richard Strauss ARIADNE AUF NAXOS (Richard Strauss)",
+      "url": "https://www.staatsoper.de/stuecke/ariadne-auf-naxos/2026-10-16-1900-16111"
+    },
+    {
+      "date": "2026-10-16",
       "house": "苏黎世歌剧院",
-      "title": "Cathy Marston Ein Sommernachtstraum (Cathy Marston)",
+      "title": "Cathy Marston Ein Sommer­nachtstraum (Cathy Marston)",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/ein-sommernachtstraum/"
     },
     {
@@ -174,6 +144,12 @@
       "house": "巴黎歌剧院",
       "title": "Répétition publique : École de Danse — Dans les pas de Claude Bessy",
       "url": "https://www.operadeparis.fr/saison-26-27/repetition/repetition-publique-ecole-de-danse"
+    },
+    {
+      "date": "2026-10-17",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "Alexander Ekman, Johan Inger, Jiří Kylián COMMON GROUND (Alexander Ekman, Johan Inger, Jiří Kylián)",
+      "url": "https://www.staatsoper.de/stuecke/common-ground/2026-10-17-1930-16112"
     },
     {
       "date": "2026-10-17",
@@ -237,6 +213,18 @@
     },
     {
       "date": "2026-10-18",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "1. Kammerkonzert: Neues für Mallets und Streicher",
+      "url": "https://www.staatsoper.de/stuecke/1-kammerkonzert-2026-27-neues-fuer-mallets-und-streicher/2026-10-18-1100-16113"
+    },
+    {
+      "date": "2026-10-18",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "Gaetano Donizetti Lucrezia Borgia (Gaetano Donizetti)",
+      "url": "https://www.staatsoper.de/stuecke/lucrezia-borgia/2026-10-18-1900-16114"
+    },
+    {
+      "date": "2026-10-18",
       "house": "苏黎世歌剧院",
       "title": "Wolfgang Amadeus Mozart Die Zauberflöte (Wolfgang Amadeus Mozart)",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/die-zauberfloete-1/"
@@ -244,7 +232,7 @@
     {
       "date": "2026-10-18",
       "house": "苏黎世歌剧院",
-      "title": "Cathy Marston Ein Sommernachtstraum (Cathy Marston)",
+      "title": "Cathy Marston Ein Sommer­nachtstraum (Cathy Marston)",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/ein-sommernachtstraum/"
     },
     {
@@ -306,6 +294,12 @@
       "house": "米兰斯卡拉歌剧院",
       "title": "Jean Coralli – Jules Perrot Giselle (Jean Coralli – Jules Perrot)",
       "url": "https://www.teatroallascala.org/en/season/2025-2026/ballet/giselle.html"
+    },
+    {
+      "date": "2026-10-19",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "Richard Strauss ARIADNE AUF NAXOS (Richard Strauss)",
+      "url": "https://www.staatsoper.de/stuecke/ariadne-auf-naxos/2026-10-19-1900-16115"
     },
     {
       "date": "2026-10-19",
@@ -378,6 +372,12 @@
       "house": "米兰斯卡拉歌剧院",
       "title": "Jean Coralli – Jules Perrot Giselle (Jean Coralli – Jules Perrot)",
       "url": "https://www.teatroallascala.org/en/season/2025-2026/ballet/giselle.html"
+    },
+    {
+      "date": "2026-10-21",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "Gaetano Donizetti Lucrezia Borgia (Gaetano Donizetti)",
+      "url": "https://www.staatsoper.de/stuecke/lucrezia-borgia/2026-10-21-1900-16116"
     },
     {
       "date": "2026-10-21",
@@ -471,6 +471,12 @@
     },
     {
       "date": "2026-10-23",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "Richard Strauss ARIADNE AUF NAXOS (Richard Strauss)",
+      "url": "https://www.staatsoper.de/stuecke/ariadne-auf-naxos/2026-10-23-1900-16117"
+    },
+    {
+      "date": "2026-10-23",
       "house": "苏黎世歌剧院",
       "title": "Die Fledermaus",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/die-fledermaus-1/"
@@ -480,12 +486,6 @@
       "house": "芝加哥抒情歌剧院",
       "title": "Omar",
       "url": "https://www.lyricopera.org/shows/upcoming/2026-27/Omar/"
-    },
-    {
-      "date": "2026-10-23",
-      "house": "悉尼歌剧院",
-      "title": "Star Wars: The Empire Strikes Back in Concert",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/star-wars-empire-strikes-back-concert"
     }
   ]
 }
