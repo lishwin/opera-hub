@@ -1,17 +1,19 @@
-📰 歌剧日报 · 2026-10-16
+📰 歌剧日报 · 2026-10-17
 
 ▍今日要闻
-- Matthew Rhodes Joins Stafford Law & Rolin Artists ｜ OperaWire  https://operawire.com/matthew-rhodes-joins-stafford-law-rolin-artists/
-- Contained vehemence ｜ Parterre Box  https://parterre.com/2026/10/15/contained-vehemence/
-- A favorite mezzo performance from Beth Taylor ｜ Parterre Box  https://parterre.com/2026/10/15/a-favorite-mezzo-performance-from-beth-taylor/
-- Ryan Speedo Green Leads Dutch National Opera’s ‘Der fliegende Holländer’ ｜ OperaWire  https://operawire.com/ryan-speedo-green-leads-dutch-national-operas-der-fliegende-hollander/
+- Teatro dell’Opera to Present World Premiere of ‘La Vita Nuda’ ｜ OperaWire  https://operawire.com/teatro-dellopera-to-present-world-premiere-of-la-vita-nuda/
+- Scott Bakula to Make LA Opera Debut in ‘Candide’ ｜ OperaWire  https://operawire.com/scott-bakula-to-make-la-opera-debut-in-candide/
+- Anna Kelly Joins IMG Artists for General Management ｜ OperaWire  https://operawire.com/anna-kelly-joins-img-artists-for-general-management/
+- Agorà Lyric World Announces Third Edition ｜ OperaWire  https://operawire.com/agora-lyric-world-announces-third-edition/
+- Cast Change: Étienne Dupuis Joins Wiener Staatsoper’s ‘Carmen’ ｜ OperaWire  https://operawire.com/cast-change-etienne-dupuis-joins-wiener-staatsopers-carmen/
+- Metropolitan Opera Chief Development Officer Stepping Down ｜ OperaWire  https://operawire.com/metropolitan-opera-chief-development-officer-stepping-down/
+- Peter Gelb Orders Performance of Ukrainian National Anthem During ‘Macbeth’ Performance ｜ OperaWire  https://operawire.com/peter-gelb-orders-performance-of-ukrainian-national-anthem-during-macbeth-performance/
+- Verdi’s Macbeth at the Met ｜ Opera Today  https://operatoday.com/2026/10/verdis-macbeth-at-the-met/
+- Sudden death of LA conductor, 39 ｜ Slipped Disc  https://slippedisc.com/2026/10/sudden-death-of-la-conductor-39/?utm_source=rss&utm_medium=rss&utm_campaign=sudden-death-of-la-conductor-39
+- Which living composer can talk you to death? ｜ Slipped Disc  https://slippedisc.com/2026/10/which-living-composer-will-talk-you-to-death/?utm_source=rss&utm_medium=rss&utm_campaign=which-living-composer-will-talk-you-to-death
+- Two favorite mezzo performances from Jennifer Larmore ｜ Parterre Box  https://parterre.com/2026/10/16/two-favorite-mezzo-performances-from-jennifer-larmore/
 
 ▍排期更新
-- 2026-10-16 伦敦皇家歌剧院：Manon  https://www.rbo.org.uk/production/manon-kenneth-macmillan
-- 2026-10-16 维也纳国家歌剧院：Il Barbiere di Siviglia (Gioachino Rossini)  https://www.wiener-staatsoper.at/en/calendar/detail/il-barbiere-di-siviglia/2026-10-16/
-- 2026-10-16 苏黎世歌剧院：Ein Sommer­nachtstraum (Cathy Marston)  https://www.opernhaus.ch/spielplan/kalendarium/ein-sommernachtstraum/
-- 2026-10-16 悉尼歌剧院：The Encounter  https://www.sydneyoperahouse.com/classical-music/encounter
-- 2026-10-16 悉尼歌剧院：Beethoven & Tchaikovsky  https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/beethoven-tchaikovsky
 - 2026-10-17 伦敦皇家歌剧院：4.48 Psychosis  https://www.rbo.org.uk/production/448-psychosis-ted-huffman
 - 2026-10-17 伦敦皇家歌剧院：Parsifal  https://www.rbo.org.uk/production/parsifal-evgeny-titov
 - 2026-10-17 维也纳国家歌剧院：Open Adult Ballet Class  https://www.wiener-staatsoper.at/en/calendar/detail/open-adult-ballet-class/2026-10-17/
@@ -21,7 +23,18 @@
 - 2026-10-17 苏黎世歌剧院：Workshop Ballette entdecken «Ein Sommernachtstraum»  https://www.opernhaus.ch/spielplan/kalendarium/workshop-ballette-entdecken-ein-sommernachtstraum/
 - 2026-10-17 苏黎世歌剧院：Die Fledermaus  https://www.opernhaus.ch/spielplan/kalendarium/die-fledermaus-1/
 - 2026-10-17 芝加哥抒情歌剧院：Omar Opera Insights  https://www.lyricopera.org/shows/upcoming/2026-27/Omar/omar-opera-insights/
+- 2026-10-17 悉尼歌剧院：Britten’s War Requiem  https://www.sydneyoperahouse.com/sydney-philharmonia-choirs/2026-season/brittens-war-requiem
 - 2026-10-17 悉尼歌剧院：Beethoven & Tchaikovsky  https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/beethoven-tchaikovsky
+- 2026-10-18 伦敦皇家歌剧院：Family Sundays — ROOTS IN MOTION in collaboration with Just Us Dance Theatre  https://www.rbo.org.uk/tickets-and-events/family-sundays-dates
+- 2026-10-18 伦敦皇家歌剧院：Opera on the Terrace  https://www.opentable.co.uk/r/cicoria-by-angela-hartnett-london
+- 2026-10-18 维也纳国家歌剧院：Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,
+        
+    
+
+    
+        
+            Gerald  Resch)  https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-18/
+- 2026-10-18 维也纳国家歌剧院：Die Entführung aus dem Serail (Wolfgang Amadeus Mozart)  https://www.wiener-staatsoper.at/en/calendar/detail/die-entfuehrung-aus-dem-serail/2026-10-18/
 
 ▍艺术家动态
 - 基里尔·别特连科（指挥）
@@ -39,11 +52,6 @@
   · Piotr Beczała  https://www.operadeparis.fr/saison-26-27/concert-et-recital/recital-piotr-beczala
 
 ▍未来 7 天值得关注
-- 2026-10-16 伦敦皇家歌剧院：Manon  https://www.rbo.org.uk/production/manon-kenneth-macmillan
-- 2026-10-16 维也纳国家歌剧院：Il Barbiere di Siviglia (Gioachino Rossini)  https://www.wiener-staatsoper.at/en/calendar/detail/il-barbiere-di-siviglia/2026-10-16/
-- 2026-10-16 苏黎世歌剧院：Ein Sommer­nachtstraum (Cathy Marston)  https://www.opernhaus.ch/spielplan/kalendarium/ein-sommernachtstraum/
-- 2026-10-16 悉尼歌剧院：The Encounter  https://www.sydneyoperahouse.com/classical-music/encounter
-- 2026-10-16 悉尼歌剧院：Beethoven & Tchaikovsky  https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/beethoven-tchaikovsky
 - 2026-10-17 伦敦皇家歌剧院：4.48 Psychosis  https://www.rbo.org.uk/production/448-psychosis-ted-huffman
 - 2026-10-17 伦敦皇家歌剧院：Parsifal  https://www.rbo.org.uk/production/parsifal-evgeny-titov
 - 2026-10-17 维也纳国家歌剧院：Open Adult Ballet Class  https://www.wiener-staatsoper.at/en/calendar/detail/open-adult-ballet-class/2026-10-17/
@@ -53,4 +61,15 @@
 - 2026-10-17 苏黎世歌剧院：Workshop Ballette entdecken «Ein Sommernachtstraum»  https://www.opernhaus.ch/spielplan/kalendarium/workshop-ballette-entdecken-ein-sommernachtstraum/
 - 2026-10-17 苏黎世歌剧院：Die Fledermaus  https://www.opernhaus.ch/spielplan/kalendarium/die-fledermaus-1/
 - 2026-10-17 芝加哥抒情歌剧院：Omar Opera Insights  https://www.lyricopera.org/shows/upcoming/2026-27/Omar/omar-opera-insights/
+- 2026-10-17 悉尼歌剧院：Britten’s War Requiem  https://www.sydneyoperahouse.com/sydney-philharmonia-choirs/2026-season/brittens-war-requiem
 - 2026-10-17 悉尼歌剧院：Beethoven & Tchaikovsky  https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/beethoven-tchaikovsky
+- 2026-10-18 伦敦皇家歌剧院：Family Sundays — ROOTS IN MOTION in collaboration with Just Us Dance Theatre  https://www.rbo.org.uk/tickets-and-events/family-sundays-dates
+- 2026-10-18 伦敦皇家歌剧院：Opera on the Terrace  https://www.opentable.co.uk/r/cicoria-by-angela-hartnett-london
+- 2026-10-18 维也纳国家歌剧院：Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,
+        
+    
+
+    
+        
+            Gerald  Resch)  https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-18/
+- 2026-10-18 维也纳国家歌剧院：Die Entführung aus dem Serail (Wolfgang Amadeus Mozart)  https://www.wiener-staatsoper.at/en/calendar/detail/die-entfuehrung-aus-dem-serail/2026-10-18/

@@ -1,42 +1,12 @@
 {
-  "updated_at": "2026-10-16T05:24:07+00:00",
+  "updated_at": "2026-10-17T05:18:48+00:00",
   "stats": {
     "houses": 14,
-    "performances": 965,
+    "performances": 961,
     "news": 300,
     "artists": 8
   },
   "upcoming_30": [
-    {
-      "date": "2026-10-16",
-      "house": "伦敦皇家歌剧院",
-      "title": "Manon",
-      "url": "https://www.rbo.org.uk/production/manon-kenneth-macmillan"
-    },
-    {
-      "date": "2026-10-16",
-      "house": "维也纳国家歌剧院",
-      "title": "Gioachino Rossini Il Barbiere di Siviglia (Gioachino Rossini)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/il-barbiere-di-siviglia/2026-10-16/"
-    },
-    {
-      "date": "2026-10-16",
-      "house": "苏黎世歌剧院",
-      "title": "Cathy Marston Ein Sommer­nachtstraum (Cathy Marston)",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/ein-sommernachtstraum/"
-    },
-    {
-      "date": "2026-10-16",
-      "house": "悉尼歌剧院",
-      "title": "The Encounter",
-      "url": "https://www.sydneyoperahouse.com/classical-music/encounter"
-    },
-    {
-      "date": "2026-10-16",
-      "house": "悉尼歌剧院",
-      "title": "Beethoven & Tchaikovsky",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/beethoven-tchaikovsky"
-    },
     {
       "date": "2026-10-17",
       "house": "伦敦皇家歌剧院",
@@ -94,14 +64,14 @@
     {
       "date": "2026-10-17",
       "house": "悉尼歌剧院",
-      "title": "Beethoven & Tchaikovsky",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/beethoven-tchaikovsky"
+      "title": "Britten’s War Requiem",
+      "url": "https://www.sydneyoperahouse.com/sydney-philharmonia-choirs/2026-season/brittens-war-requiem"
     },
     {
       "date": "2026-10-17",
       "house": "悉尼歌剧院",
-      "title": "Britten’s War Requiem",
-      "url": "https://www.sydneyoperahouse.com/sydney-philharmonia-choirs/2026-season/brittens-war-requiem"
+      "title": "Beethoven & Tchaikovsky",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/beethoven-tchaikovsky"
     },
     {
       "date": "2026-10-18",
@@ -486,6 +456,36 @@
       "house": "伦敦皇家歌剧院",
       "title": "4.48 Psychosis",
       "url": "https://www.rbo.org.uk/production/448-psychosis-ted-huffman"
+    },
+    {
+      "date": "2026-10-25",
+      "house": "维也纳国家歌剧院",
+      "title": "Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-25/"
+    },
+    {
+      "date": "2026-10-25",
+      "house": "维也纳国家歌剧院",
+      "title": "Claudio Monteverdi L'Orfeo (Claudio Monteverdi)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/lorfeo/2026-10-25/"
+    },
+    {
+      "date": "2026-10-25",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Mimì & Teo and… The Jazz Robot!",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/great-performances-for-children-and-family/concerts-for-children/mimi-and-teo-and-the-jazz-robot.html"
+    },
+    {
+      "date": "2026-10-25",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Filarmonica della Scala / Gustavo Gimeno / Jörgen van Rijen",
+      "url": "https://www.filarmonica.it/en/eventi/stagione-2026-gustavo-gimeno-van-rijen---teatro-alla-scala---25-ottobre-2026"
+    },
+    {
+      "date": "2026-10-25",
+      "house": "苏黎世歌剧院",
+      "title": "Die Fledermaus",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/die-fledermaus-1/"
     }
   ]
 }

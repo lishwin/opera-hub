@@ -1,63 +1,75 @@
 {
-  "date": "2026-10-16",
-  "generated_at": "2026-10-16T05:24:07+00:00",
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T05:18:48+00:00",
   "news": [
     {
       "source": "OperaWire",
-      "title": "Matthew Rhodes Joins Stafford Law & Rolin Artists",
-      "url": "https://operawire.com/matthew-rhodes-joins-stafford-law-rolin-artists/",
+      "title": "Teatro dell’Opera to Present World Premiere of ‘La Vita Nuda’",
+      "url": "https://operawire.com/teatro-dellopera-to-present-world-premiere-of-la-vita-nuda/",
+      "date": "2026-10-17"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Scott Bakula to Make LA Opera Debut in ‘Candide’",
+      "url": "https://operawire.com/scott-bakula-to-make-la-opera-debut-in-candide/",
+      "date": "2026-10-16"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Anna Kelly Joins IMG Artists for General Management",
+      "url": "https://operawire.com/anna-kelly-joins-img-artists-for-general-management/",
+      "date": "2026-10-16"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Agorà Lyric World Announces Third Edition",
+      "url": "https://operawire.com/agora-lyric-world-announces-third-edition/",
+      "date": "2026-10-16"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Cast Change: Étienne Dupuis Joins Wiener Staatsoper’s ‘Carmen’",
+      "url": "https://operawire.com/cast-change-etienne-dupuis-joins-wiener-staatsopers-carmen/",
+      "date": "2026-10-16"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Metropolitan Opera Chief Development Officer Stepping Down",
+      "url": "https://operawire.com/metropolitan-opera-chief-development-officer-stepping-down/",
+      "date": "2026-10-16"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Peter Gelb Orders Performance of Ukrainian National Anthem During ‘Macbeth’ Performance",
+      "url": "https://operawire.com/peter-gelb-orders-performance-of-ukrainian-national-anthem-during-macbeth-performance/",
+      "date": "2026-10-16"
+    },
+    {
+      "source": "Opera Today",
+      "title": "Verdi’s Macbeth at the Met",
+      "url": "https://operatoday.com/2026/10/verdis-macbeth-at-the-met/",
+      "date": "2026-10-16"
+    },
+    {
+      "source": "Slipped Disc",
+      "title": "Sudden death of LA conductor, 39",
+      "url": "https://slippedisc.com/2026/10/sudden-death-of-la-conductor-39/?utm_source=rss&utm_medium=rss&utm_campaign=sudden-death-of-la-conductor-39",
+      "date": "2026-10-16"
+    },
+    {
+      "source": "Slipped Disc",
+      "title": "Which living composer can talk you to death?",
+      "url": "https://slippedisc.com/2026/10/which-living-composer-will-talk-you-to-death/?utm_source=rss&utm_medium=rss&utm_campaign=which-living-composer-will-talk-you-to-death",
       "date": "2026-10-16"
     },
     {
       "source": "Parterre Box",
-      "title": "Contained vehemence",
-      "url": "https://parterre.com/2026/10/15/contained-vehemence/",
-      "date": "2026-10-15"
-    },
-    {
-      "source": "Parterre Box",
-      "title": "A favorite mezzo performance from Beth Taylor",
-      "url": "https://parterre.com/2026/10/15/a-favorite-mezzo-performance-from-beth-taylor/",
-      "date": "2026-10-15"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Ryan Speedo Green Leads Dutch National Opera’s ‘Der fliegende Holländer’",
-      "url": "https://operawire.com/ryan-speedo-green-leads-dutch-national-operas-der-fliegende-hollander/",
-      "date": "2026-10-15"
+      "title": "Two favorite mezzo performances from Jennifer Larmore",
+      "url": "https://parterre.com/2026/10/16/two-favorite-mezzo-performances-from-jennifer-larmore/",
+      "date": "2026-10-16"
     }
   ],
   "schedule_updates": [
-    {
-      "date": "2026-10-16",
-      "house": "伦敦皇家歌剧院",
-      "title": "Manon",
-      "url": "https://www.rbo.org.uk/production/manon-kenneth-macmillan"
-    },
-    {
-      "date": "2026-10-16",
-      "house": "维也纳国家歌剧院",
-      "title": "Il Barbiere di Siviglia (Gioachino Rossini)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/il-barbiere-di-siviglia/2026-10-16/"
-    },
-    {
-      "date": "2026-10-16",
-      "house": "苏黎世歌剧院",
-      "title": "Ein Sommer­nachtstraum (Cathy Marston)",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/ein-sommernachtstraum/"
-    },
-    {
-      "date": "2026-10-16",
-      "house": "悉尼歌剧院",
-      "title": "The Encounter",
-      "url": "https://www.sydneyoperahouse.com/classical-music/encounter"
-    },
-    {
-      "date": "2026-10-16",
-      "house": "悉尼歌剧院",
-      "title": "Beethoven & Tchaikovsky",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/beethoven-tchaikovsky"
-    },
     {
       "date": "2026-10-17",
       "house": "伦敦皇家歌剧院",
@@ -115,8 +127,38 @@
     {
       "date": "2026-10-17",
       "house": "悉尼歌剧院",
+      "title": "Britten’s War Requiem",
+      "url": "https://www.sydneyoperahouse.com/sydney-philharmonia-choirs/2026-season/brittens-war-requiem"
+    },
+    {
+      "date": "2026-10-17",
+      "house": "悉尼歌剧院",
       "title": "Beethoven & Tchaikovsky",
       "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/beethoven-tchaikovsky"
+    },
+    {
+      "date": "2026-10-18",
+      "house": "伦敦皇家歌剧院",
+      "title": "Family Sundays — ROOTS IN MOTION in collaboration with Just Us Dance Theatre",
+      "url": "https://www.rbo.org.uk/tickets-and-events/family-sundays-dates"
+    },
+    {
+      "date": "2026-10-18",
+      "house": "伦敦皇家歌剧院",
+      "title": "Opera on the Terrace",
+      "url": "https://www.opentable.co.uk/r/cicoria-by-angela-hartnett-london"
+    },
+    {
+      "date": "2026-10-18",
+      "house": "维也纳国家歌剧院",
+      "title": "Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-18/"
+    },
+    {
+      "date": "2026-10-18",
+      "house": "维也纳国家歌剧院",
+      "title": "Die Entführung aus dem Serail (Wolfgang Amadeus Mozart)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/die-entfuehrung-aus-dem-serail/2026-10-18/"
     }
   ],
   "artists": [
@@ -201,36 +243,6 @@
   ],
   "upcoming_7": [
     {
-      "date": "2026-10-16",
-      "house": "伦敦皇家歌剧院",
-      "title": "Manon",
-      "url": "https://www.rbo.org.uk/production/manon-kenneth-macmillan"
-    },
-    {
-      "date": "2026-10-16",
-      "house": "维也纳国家歌剧院",
-      "title": "Il Barbiere di Siviglia (Gioachino Rossini)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/il-barbiere-di-siviglia/2026-10-16/"
-    },
-    {
-      "date": "2026-10-16",
-      "house": "苏黎世歌剧院",
-      "title": "Ein Sommer­nachtstraum (Cathy Marston)",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/ein-sommernachtstraum/"
-    },
-    {
-      "date": "2026-10-16",
-      "house": "悉尼歌剧院",
-      "title": "The Encounter",
-      "url": "https://www.sydneyoperahouse.com/classical-music/encounter"
-    },
-    {
-      "date": "2026-10-16",
-      "house": "悉尼歌剧院",
-      "title": "Beethoven & Tchaikovsky",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/beethoven-tchaikovsky"
-    },
-    {
       "date": "2026-10-17",
       "house": "伦敦皇家歌剧院",
       "title": "4.48 Psychosis",
@@ -287,8 +299,38 @@
     {
       "date": "2026-10-17",
       "house": "悉尼歌剧院",
+      "title": "Britten’s War Requiem",
+      "url": "https://www.sydneyoperahouse.com/sydney-philharmonia-choirs/2026-season/brittens-war-requiem"
+    },
+    {
+      "date": "2026-10-17",
+      "house": "悉尼歌剧院",
       "title": "Beethoven & Tchaikovsky",
       "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/beethoven-tchaikovsky"
+    },
+    {
+      "date": "2026-10-18",
+      "house": "伦敦皇家歌剧院",
+      "title": "Family Sundays — ROOTS IN MOTION in collaboration with Just Us Dance Theatre",
+      "url": "https://www.rbo.org.uk/tickets-and-events/family-sundays-dates"
+    },
+    {
+      "date": "2026-10-18",
+      "house": "伦敦皇家歌剧院",
+      "title": "Opera on the Terrace",
+      "url": "https://www.opentable.co.uk/r/cicoria-by-angela-hartnett-london"
+    },
+    {
+      "date": "2026-10-18",
+      "house": "维也纳国家歌剧院",
+      "title": "Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-18/"
+    },
+    {
+      "date": "2026-10-18",
+      "house": "维也纳国家歌剧院",
+      "title": "Die Entführung aus dem Serail (Wolfgang Amadeus Mozart)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/die-entfuehrung-aus-dem-serail/2026-10-18/"
     }
   ]
 }
