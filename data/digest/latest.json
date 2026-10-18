@@ -1,141 +1,63 @@
 {
-  "date": "2026-10-17",
-  "generated_at": "2026-10-17T05:18:48+00:00",
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T05:21:06+00:00",
   "news": [
     {
       "source": "OperaWire",
-      "title": "Teatro dell’Opera to Present World Premiere of ‘La Vita Nuda’",
-      "url": "https://operawire.com/teatro-dellopera-to-present-world-premiere-of-la-vita-nuda/",
+      "title": "Catapult Opera Announces 2026-27 Season",
+      "url": "https://operawire.com/catapult-opera-announces-2026-27-season/",
+      "date": "2026-10-18"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Brooke Iva Lohman, Jose Heredia, AnnaMaria Cardinalli, & Mark Cotton Among Performers in Opera West’s “A Night at the French Opera”",
+      "url": "https://operawire.com/brooke-iva-lohman-jose-heredia-annamaria-cardinalli-mark-cotton-among-performers-in-opera-wests-a-night-at-the-french-opera/",
+      "date": "2026-10-18"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Carnegie Hall 2026-27 Review: Greek National Opera – ‘Nikos Kazantzakis: An Odyssey in Music’",
+      "url": "https://operawire.com/carnegie-hall-2026-27-review-greek-national-opera-nikos-kazantzakis-an-odyssey-in-music/",
+      "date": "2026-10-17"
+    },
+    {
+      "source": "Parterre Box",
+      "title": "JK, just OK",
+      "url": "https://parterre.com/2026/10/17/jk-just-ok/",
+      "date": "2026-10-17"
+    },
+    {
+      "source": "Parterre Box",
+      "title": "A favorite mezzo performance from Soomin K.",
+      "url": "https://parterre.com/2026/10/17/a-favorite-mezzo-performance-from-soomin-k/",
+      "date": "2026-10-17"
+    },
+    {
+      "source": "Parterre Box",
+      "title": "A favorite mezzo performance from Belle Raggio",
+      "url": "https://parterre.com/2026/10/17/a-favorite-mezzo-performance-from-belle-raggio/",
       "date": "2026-10-17"
     },
     {
       "source": "OperaWire",
-      "title": "Scott Bakula to Make LA Opera Debut in ‘Candide’",
-      "url": "https://operawire.com/scott-bakula-to-make-la-opera-debut-in-candide/",
-      "date": "2026-10-16"
+      "title": "San Diego Opera Announces New Vocal Competition",
+      "url": "https://operawire.com/san-diego-opera-announces-new-vocal-competition/",
+      "date": "2026-10-17"
     },
     {
       "source": "OperaWire",
-      "title": "Anna Kelly Joins IMG Artists for General Management",
-      "url": "https://operawire.com/anna-kelly-joins-img-artists-for-general-management/",
-      "date": "2026-10-16"
+      "title": "Alexis Seminario Joins IMG Artists for General Management",
+      "url": "https://operawire.com/alexis-seminario-joins-img-artists-for-general-management/",
+      "date": "2026-10-17"
     },
     {
       "source": "OperaWire",
-      "title": "Agorà Lyric World Announces Third Edition",
-      "url": "https://operawire.com/agora-lyric-world-announces-third-edition/",
-      "date": "2026-10-16"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Cast Change: Étienne Dupuis Joins Wiener Staatsoper’s ‘Carmen’",
-      "url": "https://operawire.com/cast-change-etienne-dupuis-joins-wiener-staatsopers-carmen/",
-      "date": "2026-10-16"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Metropolitan Opera Chief Development Officer Stepping Down",
-      "url": "https://operawire.com/metropolitan-opera-chief-development-officer-stepping-down/",
-      "date": "2026-10-16"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Peter Gelb Orders Performance of Ukrainian National Anthem During ‘Macbeth’ Performance",
-      "url": "https://operawire.com/peter-gelb-orders-performance-of-ukrainian-national-anthem-during-macbeth-performance/",
-      "date": "2026-10-16"
-    },
-    {
-      "source": "Opera Today",
-      "title": "Verdi’s Macbeth at the Met",
-      "url": "https://operatoday.com/2026/10/verdis-macbeth-at-the-met/",
-      "date": "2026-10-16"
-    },
-    {
-      "source": "Slipped Disc",
-      "title": "Sudden death of LA conductor, 39",
-      "url": "https://slippedisc.com/2026/10/sudden-death-of-la-conductor-39/?utm_source=rss&utm_medium=rss&utm_campaign=sudden-death-of-la-conductor-39",
-      "date": "2026-10-16"
-    },
-    {
-      "source": "Slipped Disc",
-      "title": "Which living composer can talk you to death?",
-      "url": "https://slippedisc.com/2026/10/which-living-composer-will-talk-you-to-death/?utm_source=rss&utm_medium=rss&utm_campaign=which-living-composer-will-talk-you-to-death",
-      "date": "2026-10-16"
-    },
-    {
-      "source": "Parterre Box",
-      "title": "Two favorite mezzo performances from Jennifer Larmore",
-      "url": "https://parterre.com/2026/10/16/two-favorite-mezzo-performances-from-jennifer-larmore/",
-      "date": "2026-10-16"
+      "title": "San Francisco Opera to Present ‘Strauss in Concert’ Featuring Adela Zaharia",
+      "url": "https://operawire.com/san-francisco-opera-to-present-strauss-in-concert-featuring-adela-zaharia/",
+      "date": "2026-10-17"
     }
   ],
   "schedule_updates": [
-    {
-      "date": "2026-10-17",
-      "house": "伦敦皇家歌剧院",
-      "title": "4.48 Psychosis",
-      "url": "https://www.rbo.org.uk/production/448-psychosis-ted-huffman"
-    },
-    {
-      "date": "2026-10-17",
-      "house": "伦敦皇家歌剧院",
-      "title": "Parsifal",
-      "url": "https://www.rbo.org.uk/production/parsifal-evgeny-titov"
-    },
-    {
-      "date": "2026-10-17",
-      "house": "维也纳国家歌剧院",
-      "title": "Open Adult Ballet Class",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/open-adult-ballet-class/2026-10-17/"
-    },
-    {
-      "date": "2026-10-17",
-      "house": "维也纳国家歌剧院",
-      "title": "Carmen (Georges Bizet)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/carmen/2026-10-17/"
-    },
-    {
-      "date": "2026-10-17",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Giselle (Jean Coralli – Jules Perrot)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/ballet/giselle.html"
-    },
-    {
-      "date": "2026-10-17",
-      "house": "巴黎歌剧院",
-      "title": "Répétition publique : École de Danse — Dans les pas de Claude Bessy",
-      "url": "https://www.operadeparis.fr/saison-26-27/repetition/repetition-publique-ecole-de-danse"
-    },
-    {
-      "date": "2026-10-17",
-      "house": "苏黎世歌剧院",
-      "title": "Workshop Ballette entdecken «Ein Sommernachtstraum»",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/workshop-ballette-entdecken-ein-sommernachtstraum/"
-    },
-    {
-      "date": "2026-10-17",
-      "house": "苏黎世歌剧院",
-      "title": "Die Fledermaus",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/die-fledermaus-1/"
-    },
-    {
-      "date": "2026-10-17",
-      "house": "芝加哥抒情歌剧院",
-      "title": "Omar Opera Insights",
-      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/Omar/omar-opera-insights/"
-    },
-    {
-      "date": "2026-10-17",
-      "house": "悉尼歌剧院",
-      "title": "Britten’s War Requiem",
-      "url": "https://www.sydneyoperahouse.com/sydney-philharmonia-choirs/2026-season/brittens-war-requiem"
-    },
-    {
-      "date": "2026-10-17",
-      "house": "悉尼歌剧院",
-      "title": "Beethoven & Tchaikovsky",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/beethoven-tchaikovsky"
-    },
     {
       "date": "2026-10-18",
       "house": "伦敦皇家歌剧院",
@@ -159,6 +81,72 @@
       "house": "维也纳国家歌剧院",
       "title": "Die Entführung aus dem Serail (Wolfgang Amadeus Mozart)",
       "url": "https://www.wiener-staatsoper.at/en/calendar/detail/die-entfuehrung-aus-dem-serail/2026-10-18/"
+    },
+    {
+      "date": "2026-10-18",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Filarmonica della Scala / Riccardo Chailly",
+      "url": "https://www.filarmonica.it/en/eventi/stagione-2026-riccardo-chailly-hadelich---teatro-alla-scala---18-ottobre-2026"
+    },
+    {
+      "date": "2026-10-18",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "1. Kammerkonzert: Neues für Mallets und Streicher",
+      "url": "https://www.staatsoper.de/stuecke/1-kammerkonzert-2026-27-neues-fuer-mallets-und-streicher/2026-10-18-1100-16113"
+    },
+    {
+      "date": "2026-10-18",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "Lucrezia Borgia (Gaetano Donizetti)",
+      "url": "https://www.staatsoper.de/stuecke/lucrezia-borgia/2026-10-18-1900-16114"
+    },
+    {
+      "date": "2026-10-18",
+      "house": "苏黎世歌剧院",
+      "title": "Die Zauberflöte (Wolfgang Amadeus Mozart)",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/die-zauberfloete-1/"
+    },
+    {
+      "date": "2026-10-18",
+      "house": "苏黎世歌剧院",
+      "title": "Ein Sommer­nachtstraum (Cathy Marston)",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/ein-sommernachtstraum/"
+    },
+    {
+      "date": "2026-10-18",
+      "house": "芝加哥抒情歌剧院",
+      "title": "Don Giovanni",
+      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/don-giovanni/"
+    },
+    {
+      "date": "2026-10-18",
+      "house": "旧金山歌剧院",
+      "title": "Manon (Jules Massenet)",
+      "url": "https://www.sfopera.com/operas/manon/"
+    },
+    {
+      "date": "2026-10-18",
+      "house": "悉尼歌剧院",
+      "title": "Pekka Kuusisto",
+      "url": "https://www.sydneyoperahouse.com/australian-chamber-orchestra/2026-season/pekka-kuusisto"
+    },
+    {
+      "date": "2026-10-18",
+      "house": "悉尼歌剧院",
+      "title": "Great Opera Hits 2026",
+      "url": "https://www.sydneyoperahouse.com/opera-australia/2026-season/great-opera-hits-2026"
+    },
+    {
+      "date": "2026-10-19",
+      "house": "伦敦皇家歌剧院",
+      "title": "4.48 Psychosis",
+      "url": "https://www.rbo.org.uk/production/448-psychosis-ted-huffman"
+    },
+    {
+      "date": "2026-10-19",
+      "house": "伦敦皇家歌剧院",
+      "title": "Manon",
+      "url": "https://www.rbo.org.uk/production/manon-kenneth-macmillan"
     }
   ],
   "artists": [
@@ -243,72 +231,6 @@
   ],
   "upcoming_7": [
     {
-      "date": "2026-10-17",
-      "house": "伦敦皇家歌剧院",
-      "title": "4.48 Psychosis",
-      "url": "https://www.rbo.org.uk/production/448-psychosis-ted-huffman"
-    },
-    {
-      "date": "2026-10-17",
-      "house": "伦敦皇家歌剧院",
-      "title": "Parsifal",
-      "url": "https://www.rbo.org.uk/production/parsifal-evgeny-titov"
-    },
-    {
-      "date": "2026-10-17",
-      "house": "维也纳国家歌剧院",
-      "title": "Open Adult Ballet Class",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/open-adult-ballet-class/2026-10-17/"
-    },
-    {
-      "date": "2026-10-17",
-      "house": "维也纳国家歌剧院",
-      "title": "Carmen (Georges Bizet)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/carmen/2026-10-17/"
-    },
-    {
-      "date": "2026-10-17",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Giselle (Jean Coralli – Jules Perrot)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/ballet/giselle.html"
-    },
-    {
-      "date": "2026-10-17",
-      "house": "巴黎歌剧院",
-      "title": "Répétition publique : École de Danse — Dans les pas de Claude Bessy",
-      "url": "https://www.operadeparis.fr/saison-26-27/repetition/repetition-publique-ecole-de-danse"
-    },
-    {
-      "date": "2026-10-17",
-      "house": "苏黎世歌剧院",
-      "title": "Workshop Ballette entdecken «Ein Sommernachtstraum»",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/workshop-ballette-entdecken-ein-sommernachtstraum/"
-    },
-    {
-      "date": "2026-10-17",
-      "house": "苏黎世歌剧院",
-      "title": "Die Fledermaus",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/die-fledermaus-1/"
-    },
-    {
-      "date": "2026-10-17",
-      "house": "芝加哥抒情歌剧院",
-      "title": "Omar Opera Insights",
-      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/Omar/omar-opera-insights/"
-    },
-    {
-      "date": "2026-10-17",
-      "house": "悉尼歌剧院",
-      "title": "Britten’s War Requiem",
-      "url": "https://www.sydneyoperahouse.com/sydney-philharmonia-choirs/2026-season/brittens-war-requiem"
-    },
-    {
-      "date": "2026-10-17",
-      "house": "悉尼歌剧院",
-      "title": "Beethoven & Tchaikovsky",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/beethoven-tchaikovsky"
-    },
-    {
       "date": "2026-10-18",
       "house": "伦敦皇家歌剧院",
       "title": "Family Sundays — ROOTS IN MOTION in collaboration with Just Us Dance Theatre",
@@ -331,6 +253,72 @@
       "house": "维也纳国家歌剧院",
       "title": "Die Entführung aus dem Serail (Wolfgang Amadeus Mozart)",
       "url": "https://www.wiener-staatsoper.at/en/calendar/detail/die-entfuehrung-aus-dem-serail/2026-10-18/"
+    },
+    {
+      "date": "2026-10-18",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Filarmonica della Scala / Riccardo Chailly",
+      "url": "https://www.filarmonica.it/en/eventi/stagione-2026-riccardo-chailly-hadelich---teatro-alla-scala---18-ottobre-2026"
+    },
+    {
+      "date": "2026-10-18",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "1. Kammerkonzert: Neues für Mallets und Streicher",
+      "url": "https://www.staatsoper.de/stuecke/1-kammerkonzert-2026-27-neues-fuer-mallets-und-streicher/2026-10-18-1100-16113"
+    },
+    {
+      "date": "2026-10-18",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "Lucrezia Borgia (Gaetano Donizetti)",
+      "url": "https://www.staatsoper.de/stuecke/lucrezia-borgia/2026-10-18-1900-16114"
+    },
+    {
+      "date": "2026-10-18",
+      "house": "苏黎世歌剧院",
+      "title": "Die Zauberflöte (Wolfgang Amadeus Mozart)",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/die-zauberfloete-1/"
+    },
+    {
+      "date": "2026-10-18",
+      "house": "苏黎世歌剧院",
+      "title": "Ein Sommer­nachtstraum (Cathy Marston)",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/ein-sommernachtstraum/"
+    },
+    {
+      "date": "2026-10-18",
+      "house": "芝加哥抒情歌剧院",
+      "title": "Don Giovanni",
+      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/don-giovanni/"
+    },
+    {
+      "date": "2026-10-18",
+      "house": "旧金山歌剧院",
+      "title": "Manon (Jules Massenet)",
+      "url": "https://www.sfopera.com/operas/manon/"
+    },
+    {
+      "date": "2026-10-18",
+      "house": "悉尼歌剧院",
+      "title": "Pekka Kuusisto",
+      "url": "https://www.sydneyoperahouse.com/australian-chamber-orchestra/2026-season/pekka-kuusisto"
+    },
+    {
+      "date": "2026-10-18",
+      "house": "悉尼歌剧院",
+      "title": "Great Opera Hits 2026",
+      "url": "https://www.sydneyoperahouse.com/opera-australia/2026-season/great-opera-hits-2026"
+    },
+    {
+      "date": "2026-10-19",
+      "house": "伦敦皇家歌剧院",
+      "title": "4.48 Psychosis",
+      "url": "https://www.rbo.org.uk/production/448-psychosis-ted-huffman"
+    },
+    {
+      "date": "2026-10-19",
+      "house": "伦敦皇家歌剧院",
+      "title": "Manon",
+      "url": "https://www.rbo.org.uk/production/manon-kenneth-macmillan"
     }
   ]
 }
