@@ -1,38 +1,35 @@
-📰 歌剧日报 · 2026-10-18
+📰 歌剧日报 · 2026-10-19
 
 ▍今日要闻
-- Catapult Opera Announces 2026-27 Season ｜ OperaWire  https://operawire.com/catapult-opera-announces-2026-27-season/
-- Brooke Iva Lohman, Jose Heredia, AnnaMaria Cardinalli, & Mark Cotton Among Performers in Opera West’s “A Night at the French Opera” ｜ OperaWire  https://operawire.com/brooke-iva-lohman-jose-heredia-annamaria-cardinalli-mark-cotton-among-performers-in-opera-wests-a-night-at-the-french-opera/
-- Carnegie Hall 2026-27 Review: Greek National Opera – ‘Nikos Kazantzakis: An Odyssey in Music’ ｜ OperaWire  https://operawire.com/carnegie-hall-2026-27-review-greek-national-opera-nikos-kazantzakis-an-odyssey-in-music/
-- JK, just OK ｜ Parterre Box  https://parterre.com/2026/10/17/jk-just-ok/
-- A favorite mezzo performance from Soomin K. ｜ Parterre Box  https://parterre.com/2026/10/17/a-favorite-mezzo-performance-from-soomin-k/
-- A favorite mezzo performance from Belle Raggio ｜ Parterre Box  https://parterre.com/2026/10/17/a-favorite-mezzo-performance-from-belle-raggio/
-- San Diego Opera Announces New Vocal Competition ｜ OperaWire  https://operawire.com/san-diego-opera-announces-new-vocal-competition/
-- Alexis Seminario Joins IMG Artists for General Management ｜ OperaWire  https://operawire.com/alexis-seminario-joins-img-artists-for-general-management/
-- San Francisco Opera to Present ‘Strauss in Concert’ Featuring Adela Zaharia ｜ OperaWire  https://operawire.com/san-francisco-opera-to-present-strauss-in-concert-featuring-adela-zaharia/
+- Q & A: Royce Vavrek on Premiering ‘Lincoln in the Bardo’ at the Met & His Work with Missy Mazzoli ｜ OperaWire  https://operawire.com/q-a-royce-vavrek-on-premiering-lincoln-in-the-bardo-at-the-met-his-work-with-missy-mazzoli/
+- Just in: Opera singer is replaced for waving Palestine flag ｜ Slipped Disc  https://slippedisc.com/2026/10/just-in-opera-singer-is-replaced-for-waving-palestine-flag/?utm_source=rss&utm_medium=rss&utm_campaign=just-in-opera-singer-is-replaced-for-waving-palestine-flag
+- The world’s most spectacular opera house just opened ｜ Slipped Disc  https://slippedisc.com/2026/10/the-worlds-most-spectacular-opera-house/?utm_source=rss&utm_medium=rss&utm_campaign=the-worlds-most-spectacular-opera-house
+- Jennifer Lopez Attends LA Opera’s Opening Night of ‘Carmen’ ｜ OperaWire  https://operawire.com/jennifer-lopez-attends-la-operas-opening-night-of-carmen/
+- Calgary Opera Replaces Gabriel Sanchez-Ortega in ‘Tosca’ After Singer Displays Palestinian Flag During Curtain Call ｜ OperaWire  https://operawire.com/calgary-opera-replaces-gabriel-sanchez-ortega-in-tosca-after-singer-displays-palestinian-flag-during-curtain-call/
+- A favorite mezzo performance from Leyla GenderBender ｜ Parterre Box  https://parterre.com/2026/10/18/a-favorite-mezzo-performance-from-leyla-genderbender/
 
 ▍排期更新
-- 2026-10-18 伦敦皇家歌剧院：Family Sundays — ROOTS IN MOTION in collaboration with Just Us Dance Theatre  https://www.rbo.org.uk/tickets-and-events/family-sundays-dates
-- 2026-10-18 伦敦皇家歌剧院：Opera on the Terrace  https://www.opentable.co.uk/r/cicoria-by-angela-hartnett-london
-- 2026-10-18 维也纳国家歌剧院：Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,
+- 2026-10-19 伦敦皇家歌剧院：4.48 Psychosis  https://www.rbo.org.uk/production/448-psychosis-ted-huffman
+- 2026-10-19 伦敦皇家歌剧院：Manon  https://www.rbo.org.uk/production/manon-kenneth-macmillan
+- 2026-10-19 维也纳国家歌剧院：Nijinsky (John Neumeier)  https://www.wiener-staatsoper.at/en/calendar/detail/nijinsky/2026-10-19/
+- 2026-10-19 维也纳国家歌剧院：Il Barbiere di Siviglia (Gioachino Rossini)  https://www.wiener-staatsoper.at/en/calendar/detail/il-barbiere-di-siviglia/2026-10-19/
+- 2026-10-19 米兰斯卡拉歌剧院：Impressions… on Ravel and Debussy  https://www.teatroallascala.org/en/season/2025-2026/concerts/invitation-to-la-scala/impressions-on-ravel-debussy-20261019.html
+- 2026-10-19 米兰斯卡拉歌剧院：Giselle (Jean Coralli – Jules Perrot)  https://www.teatroallascala.org/en/season/2025-2026/ballet/giselle.html
+- 2026-10-19 苏黎世歌剧院：1. La Scintilla Konzert  https://www.opernhaus.ch/spielplan/kalendarium/scintilla-konzert-1/
+- 2026-10-20 伦敦皇家歌剧院：4.48 Psychosis  https://www.rbo.org.uk/production/448-psychosis-ted-huffman
+- 2026-10-20 伦敦皇家歌剧院：Manon  https://www.rbo.org.uk/production/manon-kenneth-macmillan
+- 2026-10-20 维也纳国家歌剧院：Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,
         
     
 
     
         
-            Gerald  Resch)  https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-18/
-- 2026-10-18 维也纳国家歌剧院：Die Entführung aus dem Serail (Wolfgang Amadeus Mozart)  https://www.wiener-staatsoper.at/en/calendar/detail/die-entfuehrung-aus-dem-serail/2026-10-18/
-- 2026-10-18 米兰斯卡拉歌剧院：Filarmonica della Scala / Riccardo Chailly  https://www.filarmonica.it/en/eventi/stagione-2026-riccardo-chailly-hadelich---teatro-alla-scala---18-ottobre-2026
-- 2026-10-18 慕尼黑巴伐利亚国家歌剧院：1. Kammerkonzert: Neues für Mallets und Streicher  https://www.staatsoper.de/stuecke/1-kammerkonzert-2026-27-neues-fuer-mallets-und-streicher/2026-10-18-1100-16113
-- 2026-10-18 慕尼黑巴伐利亚国家歌剧院：Lucrezia Borgia (Gaetano Donizetti)  https://www.staatsoper.de/stuecke/lucrezia-borgia/2026-10-18-1900-16114
-- 2026-10-18 苏黎世歌剧院：Die Zauberflöte (Wolfgang Amadeus Mozart)  https://www.opernhaus.ch/spielplan/kalendarium/die-zauberfloete-1/
-- 2026-10-18 苏黎世歌剧院：Ein Sommer­nachtstraum (Cathy Marston)  https://www.opernhaus.ch/spielplan/kalendarium/ein-sommernachtstraum/
-- 2026-10-18 芝加哥抒情歌剧院：Don Giovanni  https://www.lyricopera.org/shows/upcoming/2026-27/don-giovanni/
-- 2026-10-18 旧金山歌剧院：Manon (Jules Massenet)  https://www.sfopera.com/operas/manon/
-- 2026-10-18 悉尼歌剧院：Pekka Kuusisto  https://www.sydneyoperahouse.com/australian-chamber-orchestra/2026-season/pekka-kuusisto
-- 2026-10-18 悉尼歌剧院：Great Opera Hits 2026  https://www.sydneyoperahouse.com/opera-australia/2026-season/great-opera-hits-2026
-- 2026-10-19 伦敦皇家歌剧院：4.48 Psychosis  https://www.rbo.org.uk/production/448-psychosis-ted-huffman
-- 2026-10-19 伦敦皇家歌剧院：Manon  https://www.rbo.org.uk/production/manon-kenneth-macmillan
+            Gerald  Resch)  https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-20/
+- 2026-10-20 维也纳国家歌剧院：Nijinsky (John Neumeier)  https://www.wiener-staatsoper.at/en/calendar/detail/nijinsky/2026-10-20/
+- 2026-10-20 米兰斯卡拉歌剧院：Faust (Charles Gounod)  https://www.teatroallascala.org/en/season/2025-2026/opera/faust.html
+- 2026-10-20 苏黎世歌剧院：Nachhall  https://www.opernhaus.ch/spielplan/kalendarium/nachhall/
+- 2026-10-20 苏黎世歌剧院：open space stimme  https://www.opernhaus.ch/spielplan/kalendarium/open-space-stimme/
+- 2026-10-20 悉尼歌剧院：Voyager  https://www.sydneyoperahouse.com/classical-music/voyager
 
 ▍艺术家动态
 - 基里尔·别特连科（指挥）
@@ -50,24 +47,24 @@
   · Piotr Beczała  https://www.operadeparis.fr/saison-26-27/concert-et-recital/recital-piotr-beczala
 
 ▍未来 7 天值得关注
-- 2026-10-18 伦敦皇家歌剧院：Family Sundays — ROOTS IN MOTION in collaboration with Just Us Dance Theatre  https://www.rbo.org.uk/tickets-and-events/family-sundays-dates
-- 2026-10-18 伦敦皇家歌剧院：Opera on the Terrace  https://www.opentable.co.uk/r/cicoria-by-angela-hartnett-london
-- 2026-10-18 维也纳国家歌剧院：Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,
+- 2026-10-19 伦敦皇家歌剧院：4.48 Psychosis  https://www.rbo.org.uk/production/448-psychosis-ted-huffman
+- 2026-10-19 伦敦皇家歌剧院：Manon  https://www.rbo.org.uk/production/manon-kenneth-macmillan
+- 2026-10-19 维也纳国家歌剧院：Nijinsky (John Neumeier)  https://www.wiener-staatsoper.at/en/calendar/detail/nijinsky/2026-10-19/
+- 2026-10-19 维也纳国家歌剧院：Il Barbiere di Siviglia (Gioachino Rossini)  https://www.wiener-staatsoper.at/en/calendar/detail/il-barbiere-di-siviglia/2026-10-19/
+- 2026-10-19 米兰斯卡拉歌剧院：Impressions… on Ravel and Debussy  https://www.teatroallascala.org/en/season/2025-2026/concerts/invitation-to-la-scala/impressions-on-ravel-debussy-20261019.html
+- 2026-10-19 米兰斯卡拉歌剧院：Giselle (Jean Coralli – Jules Perrot)  https://www.teatroallascala.org/en/season/2025-2026/ballet/giselle.html
+- 2026-10-19 苏黎世歌剧院：1. La Scintilla Konzert  https://www.opernhaus.ch/spielplan/kalendarium/scintilla-konzert-1/
+- 2026-10-20 伦敦皇家歌剧院：4.48 Psychosis  https://www.rbo.org.uk/production/448-psychosis-ted-huffman
+- 2026-10-20 伦敦皇家歌剧院：Manon  https://www.rbo.org.uk/production/manon-kenneth-macmillan
+- 2026-10-20 维也纳国家歌剧院：Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,
         
     
 
     
         
-            Gerald  Resch)  https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-18/
-- 2026-10-18 维也纳国家歌剧院：Die Entführung aus dem Serail (Wolfgang Amadeus Mozart)  https://www.wiener-staatsoper.at/en/calendar/detail/die-entfuehrung-aus-dem-serail/2026-10-18/
-- 2026-10-18 米兰斯卡拉歌剧院：Filarmonica della Scala / Riccardo Chailly  https://www.filarmonica.it/en/eventi/stagione-2026-riccardo-chailly-hadelich---teatro-alla-scala---18-ottobre-2026
-- 2026-10-18 慕尼黑巴伐利亚国家歌剧院：1. Kammerkonzert: Neues für Mallets und Streicher  https://www.staatsoper.de/stuecke/1-kammerkonzert-2026-27-neues-fuer-mallets-und-streicher/2026-10-18-1100-16113
-- 2026-10-18 慕尼黑巴伐利亚国家歌剧院：Lucrezia Borgia (Gaetano Donizetti)  https://www.staatsoper.de/stuecke/lucrezia-borgia/2026-10-18-1900-16114
-- 2026-10-18 苏黎世歌剧院：Die Zauberflöte (Wolfgang Amadeus Mozart)  https://www.opernhaus.ch/spielplan/kalendarium/die-zauberfloete-1/
-- 2026-10-18 苏黎世歌剧院：Ein Sommer­nachtstraum (Cathy Marston)  https://www.opernhaus.ch/spielplan/kalendarium/ein-sommernachtstraum/
-- 2026-10-18 芝加哥抒情歌剧院：Don Giovanni  https://www.lyricopera.org/shows/upcoming/2026-27/don-giovanni/
-- 2026-10-18 旧金山歌剧院：Manon (Jules Massenet)  https://www.sfopera.com/operas/manon/
-- 2026-10-18 悉尼歌剧院：Pekka Kuusisto  https://www.sydneyoperahouse.com/australian-chamber-orchestra/2026-season/pekka-kuusisto
-- 2026-10-18 悉尼歌剧院：Great Opera Hits 2026  https://www.sydneyoperahouse.com/opera-australia/2026-season/great-opera-hits-2026
-- 2026-10-19 伦敦皇家歌剧院：4.48 Psychosis  https://www.rbo.org.uk/production/448-psychosis-ted-huffman
-- 2026-10-19 伦敦皇家歌剧院：Manon  https://www.rbo.org.uk/production/manon-kenneth-macmillan
+            Gerald  Resch)  https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-20/
+- 2026-10-20 维也纳国家歌剧院：Nijinsky (John Neumeier)  https://www.wiener-staatsoper.at/en/calendar/detail/nijinsky/2026-10-20/
+- 2026-10-20 米兰斯卡拉歌剧院：Faust (Charles Gounod)  https://www.teatroallascala.org/en/season/2025-2026/opera/faust.html
+- 2026-10-20 苏黎世歌剧院：Nachhall  https://www.opernhaus.ch/spielplan/kalendarium/nachhall/
+- 2026-10-20 苏黎世歌剧院：open space stimme  https://www.opernhaus.ch/spielplan/kalendarium/open-space-stimme/
+- 2026-10-20 悉尼歌剧院：Voyager  https://www.sydneyoperahouse.com/classical-music/voyager

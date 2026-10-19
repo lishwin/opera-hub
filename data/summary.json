@@ -1,90 +1,12 @@
 {
-  "updated_at": "2026-10-18T05:21:06+00:00",
+  "updated_at": "2026-10-19T05:39:58+00:00",
   "stats": {
     "houses": 14,
-    "performances": 965,
+    "performances": 947,
     "news": 300,
     "artists": 8
   },
   "upcoming_30": [
-    {
-      "date": "2026-10-18",
-      "house": "伦敦皇家歌剧院",
-      "title": "Family Sundays — ROOTS IN MOTION in collaboration with Just Us Dance Theatre",
-      "url": "https://www.rbo.org.uk/tickets-and-events/family-sundays-dates"
-    },
-    {
-      "date": "2026-10-18",
-      "house": "伦敦皇家歌剧院",
-      "title": "Opera on the Terrace",
-      "url": "https://www.opentable.co.uk/r/cicoria-by-angela-hartnett-london"
-    },
-    {
-      "date": "2026-10-18",
-      "house": "维也纳国家歌剧院",
-      "title": "Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-18/"
-    },
-    {
-      "date": "2026-10-18",
-      "house": "维也纳国家歌剧院",
-      "title": "Wolfgang Amadeus Mozart Die Entführung aus dem Serail (Wolfgang Amadeus Mozart)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/die-entfuehrung-aus-dem-serail/2026-10-18/"
-    },
-    {
-      "date": "2026-10-18",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Filarmonica della Scala / Riccardo Chailly",
-      "url": "https://www.filarmonica.it/en/eventi/stagione-2026-riccardo-chailly-hadelich---teatro-alla-scala---18-ottobre-2026"
-    },
-    {
-      "date": "2026-10-18",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "1. Kammerkonzert: Neues für Mallets und Streicher",
-      "url": "https://www.staatsoper.de/stuecke/1-kammerkonzert-2026-27-neues-fuer-mallets-und-streicher/2026-10-18-1100-16113"
-    },
-    {
-      "date": "2026-10-18",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "Gaetano Donizetti Lucrezia Borgia (Gaetano Donizetti)",
-      "url": "https://www.staatsoper.de/stuecke/lucrezia-borgia/2026-10-18-1900-16114"
-    },
-    {
-      "date": "2026-10-18",
-      "house": "苏黎世歌剧院",
-      "title": "Wolfgang Amadeus Mozart Die Zauberflöte (Wolfgang Amadeus Mozart)",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/die-zauberfloete-1/"
-    },
-    {
-      "date": "2026-10-18",
-      "house": "苏黎世歌剧院",
-      "title": "Cathy Marston Ein Sommer­nachtstraum (Cathy Marston)",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/ein-sommernachtstraum/"
-    },
-    {
-      "date": "2026-10-18",
-      "house": "芝加哥抒情歌剧院",
-      "title": "Don Giovanni",
-      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/don-giovanni/"
-    },
-    {
-      "date": "2026-10-18",
-      "house": "旧金山歌剧院",
-      "title": "Jules Massenet Manon (Jules Massenet)",
-      "url": "https://www.sfopera.com/operas/manon/"
-    },
-    {
-      "date": "2026-10-18",
-      "house": "悉尼歌剧院",
-      "title": "Pekka Kuusisto",
-      "url": "https://www.sydneyoperahouse.com/australian-chamber-orchestra/2026-season/pekka-kuusisto"
-    },
-    {
-      "date": "2026-10-18",
-      "house": "悉尼歌剧院",
-      "title": "Great Opera Hits 2026",
-      "url": "https://www.sydneyoperahouse.com/opera-australia/2026-season/great-opera-hits-2026"
-    },
     {
       "date": "2026-10-19",
       "house": "伦敦皇家歌剧院",
@@ -120,12 +42,6 @@
       "house": "米兰斯卡拉歌剧院",
       "title": "Jean Coralli – Jules Perrot Giselle (Jean Coralli – Jules Perrot)",
       "url": "https://www.teatroallascala.org/en/season/2025-2026/ballet/giselle.html"
-    },
-    {
-      "date": "2026-10-19",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "Richard Strauss ARIADNE AUF NAXOS (Richard Strauss)",
-      "url": "https://www.staatsoper.de/stuecke/ariadne-auf-naxos/2026-10-19-1900-16115"
     },
     {
       "date": "2026-10-19",
@@ -198,12 +114,6 @@
       "house": "米兰斯卡拉歌剧院",
       "title": "Jean Coralli – Jules Perrot Giselle (Jean Coralli – Jules Perrot)",
       "url": "https://www.teatroallascala.org/en/season/2025-2026/ballet/giselle.html"
-    },
-    {
-      "date": "2026-10-21",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "Gaetano Donizetti Lucrezia Borgia (Gaetano Donizetti)",
-      "url": "https://www.staatsoper.de/stuecke/lucrezia-borgia/2026-10-21-1900-16116"
     },
     {
       "date": "2026-10-21",
@@ -297,12 +207,6 @@
     },
     {
       "date": "2026-10-23",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "Richard Strauss ARIADNE AUF NAXOS (Richard Strauss)",
-      "url": "https://www.staatsoper.de/stuecke/ariadne-auf-naxos/2026-10-23-1900-16117"
-    },
-    {
-      "date": "2026-10-23",
       "house": "苏黎世歌剧院",
       "title": "Die Fledermaus",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/die-fledermaus-1/"
@@ -366,18 +270,6 @@
       "house": "巴黎歌剧院",
       "title": "Méditerranée",
       "url": "https://www.operadeparis.fr/saison-26-27/concert-et-recital/mediterranee"
-    },
-    {
-      "date": "2026-10-24",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "Gaetano Donizetti Lucrezia Borgia (Gaetano Donizetti)",
-      "url": "https://www.staatsoper.de/stuecke/lucrezia-borgia/2026-10-24-1900-16118"
-    },
-    {
-      "date": "2026-10-24",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "MVHS-Workshop zu \"IMPASSE\"",
-      "url": "https://www.staatsoper.de/stuecke/mvhs-workshop-ballett/2026-10-24-1900-16732"
     },
     {
       "date": "2026-10-24",
@@ -459,12 +351,6 @@
     },
     {
       "date": "2026-10-25",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "Alexander Ekman, Johan Inger, Jiří Kylián COMMON GROUND (Alexander Ekman, Johan Inger, Jiří Kylián)",
-      "url": "https://www.staatsoper.de/stuecke/common-ground/2026-10-25-1930-16120"
-    },
-    {
-      "date": "2026-10-25",
       "house": "苏黎世歌剧院",
       "title": "Die Fledermaus",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/die-fledermaus-1/"
@@ -486,6 +372,120 @@
       "house": "悉尼歌剧院",
       "title": "Musical Wanderlust",
       "url": "https://www.sydneyoperahouse.com/classical-music/musical-wanderlust"
+    },
+    {
+      "date": "2026-10-26",
+      "house": "伦敦皇家歌剧院",
+      "title": "Manon",
+      "url": "https://www.rbo.org.uk/production/manon-kenneth-macmillan"
+    },
+    {
+      "date": "2026-10-26",
+      "house": "伦敦皇家歌剧院",
+      "title": "Recitals at Lunch",
+      "url": "https://www.rbo.org.uk/production/recitals-at-lunch"
+    },
+    {
+      "date": "2026-10-26",
+      "house": "维也纳国家歌剧院",
+      "title": "Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-26/"
+    },
+    {
+      "date": "2026-10-26",
+      "house": "维也纳国家歌剧院",
+      "title": "Giuseppe Verdi Otello (Giuseppe Verdi)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/otello/2026-10-26/"
+    },
+    {
+      "date": "2026-10-26",
+      "house": "苏黎世歌剧院",
+      "title": "Schulworkshop «Alice im Wunderland»",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/"
+    },
+    {
+      "date": "2026-10-26",
+      "house": "悉尼歌剧院",
+      "title": "The Voice of Bryn Terfel",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/voice-bryn-terfel"
+    },
+    {
+      "date": "2026-10-27",
+      "house": "伦敦皇家歌剧院",
+      "title": "Friends Rehearsals",
+      "url": "https://www.rbo.org.uk/production/friends-rehearsals"
+    },
+    {
+      "date": "2026-10-27",
+      "house": "伦敦皇家歌剧院",
+      "title": "Manon",
+      "url": "https://www.rbo.org.uk/production/manon-kenneth-macmillan"
+    },
+    {
+      "date": "2026-10-27",
+      "house": "维也纳国家歌剧院",
+      "title": "John Neumeier Nijinsky (John Neumeier)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/nijinsky/2026-10-27/"
+    },
+    {
+      "date": "2026-10-27",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Charles Gounod Faust (Charles Gounod)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/faust.html"
+    },
+    {
+      "date": "2026-10-27",
+      "house": "巴黎歌剧院",
+      "title": "« Rire et pleurer avec la musique d’Isabelle Aboulker »",
+      "url": "https://www.operadeparis.fr/saison-26-27/concert-et-recital/rire-et-pleurer-avec-la-musique-disabelle-aboulker"
+    },
+    {
+      "date": "2026-10-27",
+      "house": "苏黎世歌剧院",
+      "title": "Schulworkshop «Alice im Wunderland»",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/"
+    },
+    {
+      "date": "2026-10-27",
+      "house": "苏黎世歌剧院",
+      "title": "open space stimme",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/open-space-stimme/"
+    },
+    {
+      "date": "2026-10-27",
+      "house": "旧金山歌剧院",
+      "title": "Jules Massenet Manon (Jules Massenet)",
+      "url": "https://www.sfopera.com/operas/manon/"
+    },
+    {
+      "date": "2026-10-27",
+      "house": "悉尼歌剧院",
+      "title": "Masterclass with Bryn Terfel",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/masterclass-bryn-terfel"
+    },
+    {
+      "date": "2026-10-28",
+      "house": "伦敦皇家歌剧院",
+      "title": "Manon",
+      "url": "https://www.rbo.org.uk/production/manon-kenneth-macmillan"
+    },
+    {
+      "date": "2026-10-28",
+      "house": "伦敦皇家歌剧院",
+      "title": "Barbie | Royal Ballet Pop Up",
+      "url": "https://www.rbo.org.uk/tickets-and-events/festival/barbie-royal-ballet-pop-up-details"
+    },
+    {
+      "date": "2026-10-28",
+      "house": "维也纳国家歌剧院",
+      "title": "Claudio Monteverdi L'Orfeo (Claudio Monteverdi)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/lorfeo/2026-10-28/"
+    },
+    {
+      "date": "2026-10-28",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "L'elisir d'amore for children",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/great-performances-for-children-and-family/great-operas-for-children/l-elisir-d-amore-for-children.html"
     }
   ]
 }
