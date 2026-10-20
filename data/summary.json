@@ -1,54 +1,12 @@
 {
-  "updated_at": "2026-10-19T05:39:58+00:00",
+  "updated_at": "2026-10-20T05:40:52+00:00",
   "stats": {
     "houses": 14,
-    "performances": 947,
+    "performances": 951,
     "news": 300,
     "artists": 8
   },
   "upcoming_30": [
-    {
-      "date": "2026-10-19",
-      "house": "伦敦皇家歌剧院",
-      "title": "4.48 Psychosis",
-      "url": "https://www.rbo.org.uk/production/448-psychosis-ted-huffman"
-    },
-    {
-      "date": "2026-10-19",
-      "house": "伦敦皇家歌剧院",
-      "title": "Manon",
-      "url": "https://www.rbo.org.uk/production/manon-kenneth-macmillan"
-    },
-    {
-      "date": "2026-10-19",
-      "house": "维也纳国家歌剧院",
-      "title": "John Neumeier Nijinsky (John Neumeier)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/nijinsky/2026-10-19/"
-    },
-    {
-      "date": "2026-10-19",
-      "house": "维也纳国家歌剧院",
-      "title": "Gioachino Rossini Il Barbiere di Siviglia (Gioachino Rossini)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/il-barbiere-di-siviglia/2026-10-19/"
-    },
-    {
-      "date": "2026-10-19",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Impressions… on Ravel and Debussy",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/concerts/invitation-to-la-scala/impressions-on-ravel-debussy-20261019.html"
-    },
-    {
-      "date": "2026-10-19",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Jean Coralli – Jules Perrot Giselle (Jean Coralli – Jules Perrot)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/ballet/giselle.html"
-    },
-    {
-      "date": "2026-10-19",
-      "house": "苏黎世歌剧院",
-      "title": "1. La Scintilla Konzert",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/scintilla-konzert-1/"
-    },
     {
       "date": "2026-10-20",
       "house": "伦敦皇家歌剧院",
@@ -114,6 +72,12 @@
       "house": "米兰斯卡拉歌剧院",
       "title": "Jean Coralli – Jules Perrot Giselle (Jean Coralli – Jules Perrot)",
       "url": "https://www.teatroallascala.org/en/season/2025-2026/ballet/giselle.html"
+    },
+    {
+      "date": "2026-10-21",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "Gaetano Donizetti Lucrezia Borgia (Gaetano Donizetti)",
+      "url": "https://www.staatsoper.de/stuecke/lucrezia-borgia/2026-10-21-1900-16116"
     },
     {
       "date": "2026-10-21",
@@ -207,6 +171,12 @@
     },
     {
       "date": "2026-10-23",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "Richard Strauss ARIADNE AUF NAXOS (Richard Strauss)",
+      "url": "https://www.staatsoper.de/stuecke/ariadne-auf-naxos/2026-10-23-1900-16117"
+    },
+    {
+      "date": "2026-10-23",
       "house": "苏黎世歌剧院",
       "title": "Die Fledermaus",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/die-fledermaus-1/"
@@ -270,6 +240,18 @@
       "house": "巴黎歌剧院",
       "title": "Méditerranée",
       "url": "https://www.operadeparis.fr/saison-26-27/concert-et-recital/mediterranee"
+    },
+    {
+      "date": "2026-10-24",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "Gaetano Donizetti Lucrezia Borgia (Gaetano Donizetti)",
+      "url": "https://www.staatsoper.de/stuecke/lucrezia-borgia/2026-10-24-1900-16118"
+    },
+    {
+      "date": "2026-10-24",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "MVHS-Workshop zu \"IMPASSE\"",
+      "url": "https://www.staatsoper.de/stuecke/mvhs-workshop-ballett/2026-10-24-1900-16732"
     },
     {
       "date": "2026-10-24",
@@ -348,6 +330,12 @@
       "house": "米兰斯卡拉歌剧院",
       "title": "Filarmonica della Scala / Gustavo Gimeno / Jörgen van Rijen",
       "url": "https://www.filarmonica.it/en/eventi/stagione-2026-gustavo-gimeno-van-rijen---teatro-alla-scala---25-ottobre-2026"
+    },
+    {
+      "date": "2026-10-25",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "Alexander Ekman, Johan Inger, Jiří Kylián COMMON GROUND (Alexander Ekman, Johan Inger, Jiří Kylián)",
+      "url": "https://www.staatsoper.de/stuecke/common-ground/2026-10-25-1930-16120"
     },
     {
       "date": "2026-10-25",
@@ -441,6 +429,12 @@
     },
     {
       "date": "2026-10-27",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "Gaetano Donizetti Lucrezia Borgia (Gaetano Donizetti)",
+      "url": "https://www.staatsoper.de/stuecke/lucrezia-borgia/2026-10-27-1900-16121"
+    },
+    {
+      "date": "2026-10-27",
       "house": "苏黎世歌剧院",
       "title": "Schulworkshop «Alice im Wunderland»",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/"
@@ -486,6 +480,12 @@
       "house": "米兰斯卡拉歌剧院",
       "title": "L'elisir d'amore for children",
       "url": "https://www.teatroallascala.org/en/season/2025-2026/great-performances-for-children-and-family/great-operas-for-children/l-elisir-d-amore-for-children.html"
+    },
+    {
+      "date": "2026-10-28",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Verdi: Requiem Mass / Riccardo Chailly",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/concerts/exceptional-concerts/teatro-alla-scala-orchestra-chorus-requiem-verdi-chailly.html"
     }
   ]
 }
