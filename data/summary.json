@@ -1,60 +1,12 @@
 {
-  "updated_at": "2026-10-20T05:40:52+00:00",
+  "updated_at": "2026-10-21T05:40:29+00:00",
   "stats": {
     "houses": 14,
-    "performances": 951,
+    "performances": 948,
     "news": 300,
     "artists": 8
   },
   "upcoming_30": [
-    {
-      "date": "2026-10-20",
-      "house": "伦敦皇家歌剧院",
-      "title": "4.48 Psychosis",
-      "url": "https://www.rbo.org.uk/production/448-psychosis-ted-huffman"
-    },
-    {
-      "date": "2026-10-20",
-      "house": "伦敦皇家歌剧院",
-      "title": "Manon",
-      "url": "https://www.rbo.org.uk/production/manon-kenneth-macmillan"
-    },
-    {
-      "date": "2026-10-20",
-      "house": "维也纳国家歌剧院",
-      "title": "Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-20/"
-    },
-    {
-      "date": "2026-10-20",
-      "house": "维也纳国家歌剧院",
-      "title": "John Neumeier Nijinsky (John Neumeier)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/nijinsky/2026-10-20/"
-    },
-    {
-      "date": "2026-10-20",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Charles Gounod Faust (Charles Gounod)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/faust.html"
-    },
-    {
-      "date": "2026-10-20",
-      "house": "苏黎世歌剧院",
-      "title": "Nachhall",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/nachhall/"
-    },
-    {
-      "date": "2026-10-20",
-      "house": "苏黎世歌剧院",
-      "title": "open space stimme",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/open-space-stimme/"
-    },
-    {
-      "date": "2026-10-20",
-      "house": "悉尼歌剧院",
-      "title": "Voyager",
-      "url": "https://www.sydneyoperahouse.com/classical-music/voyager"
-    },
     {
       "date": "2026-10-21",
       "house": "维也纳国家歌剧院",
@@ -138,6 +90,12 @@
       "house": "巴黎歌剧院",
       "title": "Une Nuit dansée à l'Opéra",
       "url": "https://www.operadeparis.fr/saison-26-27/concert-et-recital/une-nuit-dansee-a-lopera"
+    },
+    {
+      "date": "2026-10-22",
+      "house": "芝加哥抒情歌剧院",
+      "title": "Omar Gen Z Opera Insights Round Table",
+      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/Omar/omar-gen-z-oi-round-table/"
     },
     {
       "date": "2026-10-22",
@@ -393,6 +351,12 @@
     },
     {
       "date": "2026-10-26",
+      "house": "芝加哥抒情歌剧院",
+      "title": "Don Pasquale Opera Insights",
+      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/don-pasquale/don-pasquale-opera-insights/"
+    },
+    {
+      "date": "2026-10-26",
       "house": "悉尼歌剧院",
       "title": "The Voice of Bryn Terfel",
       "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/voice-bryn-terfel"
@@ -486,6 +450,42 @@
       "house": "米兰斯卡拉歌剧院",
       "title": "Verdi: Requiem Mass / Riccardo Chailly",
       "url": "https://www.teatroallascala.org/en/season/2025-2026/concerts/exceptional-concerts/teatro-alla-scala-orchestra-chorus-requiem-verdi-chailly.html"
+    },
+    {
+      "date": "2026-10-28",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "Alexander Ekman, Johan Inger, Jiří Kylián COMMON GROUND (Alexander Ekman, Johan Inger, Jiří Kylián)",
+      "url": "https://www.staatsoper.de/stuecke/common-ground/2026-10-28-1930-16122"
+    },
+    {
+      "date": "2026-10-28",
+      "house": "苏黎世歌剧院",
+      "title": "Schulworkshop «Alice im Wunderland»",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/"
+    },
+    {
+      "date": "2026-10-28",
+      "house": "苏黎世歌剧院",
+      "title": "open space tanz",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/open-space-tanz/"
+    },
+    {
+      "date": "2026-10-28",
+      "house": "苏黎世歌剧院",
+      "title": "Cathy Marston Ein Sommer­nachtstraum (Cathy Marston)",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/ein-sommernachtstraum/"
+    },
+    {
+      "date": "2026-10-28",
+      "house": "芝加哥抒情歌剧院",
+      "title": "Omar",
+      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/Omar/"
+    },
+    {
+      "date": "2026-10-28",
+      "house": "悉尼歌剧院",
+      "title": "Open Rehearsal with Simone Young",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/open-rehearsal-simone-young"
     }
   ]
 }

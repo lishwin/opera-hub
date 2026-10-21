@@ -1,34 +1,21 @@
-📰 歌剧日报 · 2026-10-20
+📰 歌剧日报 · 2026-10-21
 
 ▍今日要闻
-- Dua Lipa Attends Metropolitan Opera’s ‘Lincoln in the Bardo’ ｜ OperaWire  https://operawire.com/dua-lipa-attends-metropolitan-operas-lincoln-in-bardo/
-- Final concert of well-travelled conductor, 87 ｜ Slipped Disc  https://slippedisc.com/2026/10/final-concert-of-eminent-conductor-87/?utm_source=rss&utm_medium=rss&utm_campaign=final-concert-of-eminent-conductor-87
-- A Monumental Resurrection from Pappano and the LSO ｜ Opera Today  https://operatoday.com/2026/10/a-monumental-resurrection-from-pappano-and-the-lso/
-- Boston Lyric Opera 2026-27 Review: William Tell ｜ OperaWire  https://operawire.com/boston-lyric-opera-2026-27-review-william-tell/
-- Livermore Valley Opera to Honor Erie Mill with Tribute Concert ｜ OperaWire  https://operawire.com/livermore-valley-opera-to-honor-erie-mill-with-tribute-concert/
-- Oper Frankfurt 2026-27 Review: Turandot ｜ OperaWire  https://operawire.com/oper-frankfurt-2026-27-review-turandot/
-- Opera Theatre of Saint Louis Reveals Cast & Creative Team for ‘La Traviata’ ｜ OperaWire  https://operawire.com/opera-theatre-of-saint-louis-reveals-cast-creative-team-for-la-traviata/
-- Cast Change: Michael Chioldi Joins Pittsburgh Festival Opera’s ‘Un Ballo in Maschera’ ｜ OperaWire  https://operawire.com/cast-change-michael-chioldi-joins-pittsburgh-festival-operas-un-ballo-in-maschera/
-- Maria Callas Brazilian Singing Competition Announces 2027 Jury ｜ OperaWire  https://operawire.com/maria-callas-brazilian-singing-competition-announces-2027-jury/
-- A favorite mezzo performance from Bianca Castafiore ｜ Parterre Box  https://parterre.com/2026/10/19/a-favorite-mezzo-performance-from-bianca-castafiore/
-- So now J-Lo goes to the opera ｜ Slipped Disc  https://slippedisc.com/2026/10/so-now-j-lo-goes-to-the-opera/?utm_source=rss&utm_medium=rss&utm_campaign=so-now-j-lo-goes-to-the-opera
-- German audience greets dick-pic condutor with lusty boos ｜ Slipped Disc  https://slippedisc.com/2026/10/german-audience-greets-dick-pic-condutor-with-lusty-boos/?utm_source=rss&utm_medium=rss&utm_campaign=german-audience-greets-dick-pic-condutor-with-lusty-boos
+- Brooklyn Art Song Society  to Present Passions II: Chausson and Duparc ｜ OperaWire  https://operawire.com/brooklyn-art-song-society-to-present-passions-ii-chausson-and-duparc/
+- The Quarrel of the Buffons – An 18th-Century ‘Culture War’ ｜ OperaWire  https://operawire.com/the-quarrel-of-the-buffons-an-18th-century-culture-war/
+- Jamie Barton to Perform Recital at LA Opera ｜ OperaWire  https://operawire.com/jamie-barton-to-perform-recital-at-la-opera/
+- Metropolitan Opera 2026-27 Review: Lincoln in the Bardo ｜ OperaWire  https://operawire.com/metropolitan-opera-2026-27-review-lincoln-in-the-bardo/
+- Teatro alla Scala to Stream New Production of ‘Faust’ with Marina Rebeka & Alex Esposito ｜ OperaWire  https://operawire.com/teatro-alla-scala-to-stream-new-production-of-faust-with-marina-rebeka-alex-esposito/
+- Phoenix Symphony To Suspend Season Following November 1 Performance ｜ OperaWire  https://operawire.com/phoenix-symphony-to-suspends-season-following-november-1-performance/
+- Opera Australia Ends Association with Japanese Billionaire Haruhisa Handa ｜ OperaWire  https://operawire.com/opera-australia-ends-association-with-japanese-billionaire-haruhisa-handa/
+- Cast Change: Lidia Fridman Takes Over ‘Un Ballo in Maschera’ in Dresden ｜ OperaWire  https://operawire.com/cast-change-lidia-fridman-takes-over-un-ballo-in-maschera-in-dresden/
+- Peter Gelb Calls Anna Netrebko ‘Dishonest’ in Latest Verbal Dispute ｜ OperaWire  https://operawire.com/peter-gelb-calls-anna-netrebko-dishonest-in-latest-verbal-dispute/
+- Dua Lipa’s Service95 Releases Mini Documentary on the Making of ‘Lincoln in the Bardo’ ｜ OperaWire  https://operawire.com/dua-lipas-service95-releases-mini-documentary-on-the-making-of-lincoln-in-the-bardo/
+- Never sing louder than beautiful ｜ Parterre Box  https://parterre.com/2026/10/20/never-sing-louder-than-beautiful/
+- A favorite mezzo performance from Peter Russell ｜ Parterre Box  https://parterre.com/2026/10/20/a-favorite-mezzo-performance-from-peter-russell/
+- Sydney loses its main opera donor ｜ Slipped Disc  https://slippedisc.com/2026/10/sydney-loses-its-main-opera-donor/?utm_source=rss&utm_medium=rss&utm_campaign=sydney-loses-its-main-opera-donor
 
 ▍排期更新
-- 2026-10-20 伦敦皇家歌剧院：4.48 Psychosis  https://www.rbo.org.uk/production/448-psychosis-ted-huffman
-- 2026-10-20 伦敦皇家歌剧院：Manon  https://www.rbo.org.uk/production/manon-kenneth-macmillan
-- 2026-10-20 维也纳国家歌剧院：Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,
-        
-    
-
-    
-        
-            Gerald  Resch)  https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-20/
-- 2026-10-20 维也纳国家歌剧院：Nijinsky (John Neumeier)  https://www.wiener-staatsoper.at/en/calendar/detail/nijinsky/2026-10-20/
-- 2026-10-20 米兰斯卡拉歌剧院：Faust (Charles Gounod)  https://www.teatroallascala.org/en/season/2025-2026/opera/faust.html
-- 2026-10-20 苏黎世歌剧院：Nachhall  https://www.opernhaus.ch/spielplan/kalendarium/nachhall/
-- 2026-10-20 苏黎世歌剧院：open space stimme  https://www.opernhaus.ch/spielplan/kalendarium/open-space-stimme/
-- 2026-10-20 悉尼歌剧院：Voyager  https://www.sydneyoperahouse.com/classical-music/voyager
 - 2026-10-21 维也纳国家歌剧院：Lunch break with Rolando Villazón  https://www.wiener-staatsoper.at/en/calendar/detail/mittagspause-mit/2026-10-21/
 - 2026-10-21 维也纳国家歌剧院：Die Entführung aus dem Serail (Wolfgang Amadeus Mozart)  https://www.wiener-staatsoper.at/en/calendar/detail/die-entfuehrung-aus-dem-serail/2026-10-21/
 - 2026-10-21 米兰斯卡拉歌剧院：Giselle (Jean Coralli – Jules Perrot)  https://www.teatroallascala.org/en/season/2025-2026/ballet/giselle.html
@@ -36,14 +23,22 @@
 - 2026-10-21 苏黎世歌剧院：open space tanz  https://www.opernhaus.ch/spielplan/kalendarium/open-space-tanz/
 - 2026-10-21 苏黎世歌剧院：Die Zauberflöte (Wolfgang Amadeus Mozart)  https://www.opernhaus.ch/spielplan/kalendarium/die-zauberfloete-1/
 - 2026-10-21 芝加哥抒情歌剧院：Don Giovanni  https://www.lyricopera.org/shows/upcoming/2026-27/don-giovanni/
+- 2026-10-21 旧金山歌剧院：Manon (Jules Massenet)  https://www.sfopera.com/operas/manon/
+- 2026-10-21 悉尼歌剧院：Star Wars: The Empire Strikes Back in Concert  https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/star-wars-empire-strikes-back-concert
+- 2026-10-22 伦敦皇家歌剧院：4.48 Psychosis  https://www.rbo.org.uk/production/448-psychosis-ted-huffman
+- 2026-10-22 伦敦皇家歌剧院：Manon  https://www.rbo.org.uk/production/manon-kenneth-macmillan
+- 2026-10-22 维也纳国家歌剧院：Nijinsky (John Neumeier)  https://www.wiener-staatsoper.at/en/calendar/detail/nijinsky/2026-10-22/
+- 2026-10-22 米兰斯卡拉歌剧院：Giselle (Jean Coralli – Jules Perrot)  https://www.teatroallascala.org/en/season/2025-2026/ballet/giselle.html
+- 2026-10-22 巴黎歌剧院：Une Nuit dansée à l'Opéra  https://www.operadeparis.fr/saison-26-27/concert-et-recital/une-nuit-dansee-a-lopera
+- 2026-10-22 芝加哥抒情歌剧院：Omar Gen Z Opera Insights Round Table  https://www.lyricopera.org/shows/upcoming/2026-27/Omar/omar-gen-z-oi-round-table/
 
 ▍艺术家动态
-- 安东尼奥·帕帕诺（指挥）
-  · A Monumental Resurrection from Pappano and the LSO  https://operatoday.com/2026/10/a-monumental-resurrection-from-pappano-and-the-lso/
 - 基里尔·别特连科（指挥）
   · Kirill Petrenko / Le Sacre du Printemps (Symphony Concerts B)  https://www.teatroallascala.org/en/season/2026-2027/concerts/symphony-concerts/kirill-petrenko-le-sacre-du-printemps.html
   · Kirill Petrenko / Le Sacre du Printemps (Symphony Concerts C)  https://www.teatroallascala.org/en/season/2026-2027/concerts/symphony-concerts/kirill-petrenko-le-sacre-du-printemps.html
   · Kirill Petrenko / Berliner Philharmoniker (Guest orchestras subscritpion)  https://www.teatroallascala.org/en/season/2026-2027/concerts/guest-orchestras/berliner-philharmoniker-kirill-petrenko.html
+- 安娜·奈瑞贝科（歌唱家）
+  · Peter Gelb Calls Anna Netrebko ‘Dishonest’ in Latest Verbal Dispute  https://operawire.com/peter-gelb-calls-anna-netrebko-dishonest-in-latest-verbal-dispute/
 - 乔纳斯·考夫曼（歌唱家）
   · Otello (Giuseppe Verdi)  https://www.wiener-staatsoper.at/en/calendar/detail/otello/2026-11-02/
   · Otello (Giuseppe Verdi)  https://www.wiener-staatsoper.at/en/calendar/detail/otello/2026-11-05/
@@ -55,20 +50,6 @@
   · Piotr Beczała  https://www.operadeparis.fr/saison-26-27/concert-et-recital/recital-piotr-beczala
 
 ▍未来 7 天值得关注
-- 2026-10-20 伦敦皇家歌剧院：4.48 Psychosis  https://www.rbo.org.uk/production/448-psychosis-ted-huffman
-- 2026-10-20 伦敦皇家歌剧院：Manon  https://www.rbo.org.uk/production/manon-kenneth-macmillan
-- 2026-10-20 维也纳国家歌剧院：Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,
-        
-    
-
-    
-        
-            Gerald  Resch)  https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-20/
-- 2026-10-20 维也纳国家歌剧院：Nijinsky (John Neumeier)  https://www.wiener-staatsoper.at/en/calendar/detail/nijinsky/2026-10-20/
-- 2026-10-20 米兰斯卡拉歌剧院：Faust (Charles Gounod)  https://www.teatroallascala.org/en/season/2025-2026/opera/faust.html
-- 2026-10-20 苏黎世歌剧院：Nachhall  https://www.opernhaus.ch/spielplan/kalendarium/nachhall/
-- 2026-10-20 苏黎世歌剧院：open space stimme  https://www.opernhaus.ch/spielplan/kalendarium/open-space-stimme/
-- 2026-10-20 悉尼歌剧院：Voyager  https://www.sydneyoperahouse.com/classical-music/voyager
 - 2026-10-21 维也纳国家歌剧院：Lunch break with Rolando Villazón  https://www.wiener-staatsoper.at/en/calendar/detail/mittagspause-mit/2026-10-21/
 - 2026-10-21 维也纳国家歌剧院：Die Entführung aus dem Serail (Wolfgang Amadeus Mozart)  https://www.wiener-staatsoper.at/en/calendar/detail/die-entfuehrung-aus-dem-serail/2026-10-21/
 - 2026-10-21 米兰斯卡拉歌剧院：Giselle (Jean Coralli – Jules Perrot)  https://www.teatroallascala.org/en/season/2025-2026/ballet/giselle.html
@@ -76,3 +57,11 @@
 - 2026-10-21 苏黎世歌剧院：open space tanz  https://www.opernhaus.ch/spielplan/kalendarium/open-space-tanz/
 - 2026-10-21 苏黎世歌剧院：Die Zauberflöte (Wolfgang Amadeus Mozart)  https://www.opernhaus.ch/spielplan/kalendarium/die-zauberfloete-1/
 - 2026-10-21 芝加哥抒情歌剧院：Don Giovanni  https://www.lyricopera.org/shows/upcoming/2026-27/don-giovanni/
+- 2026-10-21 旧金山歌剧院：Manon (Jules Massenet)  https://www.sfopera.com/operas/manon/
+- 2026-10-21 悉尼歌剧院：Star Wars: The Empire Strikes Back in Concert  https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/star-wars-empire-strikes-back-concert
+- 2026-10-22 伦敦皇家歌剧院：4.48 Psychosis  https://www.rbo.org.uk/production/448-psychosis-ted-huffman
+- 2026-10-22 伦敦皇家歌剧院：Manon  https://www.rbo.org.uk/production/manon-kenneth-macmillan
+- 2026-10-22 维也纳国家歌剧院：Nijinsky (John Neumeier)  https://www.wiener-staatsoper.at/en/calendar/detail/nijinsky/2026-10-22/
+- 2026-10-22 米兰斯卡拉歌剧院：Giselle (Jean Coralli – Jules Perrot)  https://www.teatroallascala.org/en/season/2025-2026/ballet/giselle.html
+- 2026-10-22 巴黎歌剧院：Une Nuit dansée à l'Opéra  https://www.operadeparis.fr/saison-26-27/concert-et-recital/une-nuit-dansee-a-lopera
+- 2026-10-22 芝加哥抒情歌剧院：Omar Gen Z Opera Insights Round Table  https://www.lyricopera.org/shows/upcoming/2026-27/Omar/omar-gen-z-oi-round-table/
