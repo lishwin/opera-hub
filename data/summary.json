@@ -1,66 +1,12 @@
 {
-  "updated_at": "2026-10-21T05:40:29+00:00",
+  "updated_at": "2026-10-22T05:44:33+00:00",
   "stats": {
     "houses": 14,
-    "performances": 948,
+    "performances": 930,
     "news": 300,
     "artists": 8
   },
   "upcoming_30": [
-    {
-      "date": "2026-10-21",
-      "house": "维也纳国家歌剧院",
-      "title": "Lunch break with Rolando Villazón",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/mittagspause-mit/2026-10-21/"
-    },
-    {
-      "date": "2026-10-21",
-      "house": "维也纳国家歌剧院",
-      "title": "Wolfgang Amadeus Mozart Die Entführung aus dem Serail (Wolfgang Amadeus Mozart)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/die-entfuehrung-aus-dem-serail/2026-10-21/"
-    },
-    {
-      "date": "2026-10-21",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Jean Coralli – Jules Perrot Giselle (Jean Coralli – Jules Perrot)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/ballet/giselle.html"
-    },
-    {
-      "date": "2026-10-21",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "Gaetano Donizetti Lucrezia Borgia (Gaetano Donizetti)",
-      "url": "https://www.staatsoper.de/stuecke/lucrezia-borgia/2026-10-21-1900-16116"
-    },
-    {
-      "date": "2026-10-21",
-      "house": "苏黎世歌剧院",
-      "title": "open space tanz",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/open-space-tanz/"
-    },
-    {
-      "date": "2026-10-21",
-      "house": "苏黎世歌剧院",
-      "title": "Wolfgang Amadeus Mozart Die Zauberflöte (Wolfgang Amadeus Mozart)",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/die-zauberfloete-1/"
-    },
-    {
-      "date": "2026-10-21",
-      "house": "芝加哥抒情歌剧院",
-      "title": "Don Giovanni",
-      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/don-giovanni/"
-    },
-    {
-      "date": "2026-10-21",
-      "house": "旧金山歌剧院",
-      "title": "Jules Massenet Manon (Jules Massenet)",
-      "url": "https://www.sfopera.com/operas/manon/"
-    },
-    {
-      "date": "2026-10-21",
-      "house": "悉尼歌剧院",
-      "title": "Star Wars: The Empire Strikes Back in Concert",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/star-wars-empire-strikes-back-concert"
-    },
     {
       "date": "2026-10-22",
       "house": "伦敦皇家歌剧院",
@@ -129,12 +75,6 @@
     },
     {
       "date": "2026-10-23",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "Richard Strauss ARIADNE AUF NAXOS (Richard Strauss)",
-      "url": "https://www.staatsoper.de/stuecke/ariadne-auf-naxos/2026-10-23-1900-16117"
-    },
-    {
-      "date": "2026-10-23",
       "house": "苏黎世歌剧院",
       "title": "Die Fledermaus",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/die-fledermaus-1/"
@@ -198,18 +138,6 @@
       "house": "巴黎歌剧院",
       "title": "Méditerranée",
       "url": "https://www.operadeparis.fr/saison-26-27/concert-et-recital/mediterranee"
-    },
-    {
-      "date": "2026-10-24",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "Gaetano Donizetti Lucrezia Borgia (Gaetano Donizetti)",
-      "url": "https://www.staatsoper.de/stuecke/lucrezia-borgia/2026-10-24-1900-16118"
-    },
-    {
-      "date": "2026-10-24",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "MVHS-Workshop zu \"IMPASSE\"",
-      "url": "https://www.staatsoper.de/stuecke/mvhs-workshop-ballett/2026-10-24-1900-16732"
     },
     {
       "date": "2026-10-24",
@@ -288,12 +216,6 @@
       "house": "米兰斯卡拉歌剧院",
       "title": "Filarmonica della Scala / Gustavo Gimeno / Jörgen van Rijen",
       "url": "https://www.filarmonica.it/en/eventi/stagione-2026-gustavo-gimeno-van-rijen---teatro-alla-scala---25-ottobre-2026"
-    },
-    {
-      "date": "2026-10-25",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "Alexander Ekman, Johan Inger, Jiří Kylián COMMON GROUND (Alexander Ekman, Johan Inger, Jiří Kylián)",
-      "url": "https://www.staatsoper.de/stuecke/common-ground/2026-10-25-1930-16120"
     },
     {
       "date": "2026-10-25",
@@ -393,12 +315,6 @@
     },
     {
       "date": "2026-10-27",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "Gaetano Donizetti Lucrezia Borgia (Gaetano Donizetti)",
-      "url": "https://www.staatsoper.de/stuecke/lucrezia-borgia/2026-10-27-1900-16121"
-    },
-    {
-      "date": "2026-10-27",
       "house": "苏黎世歌剧院",
       "title": "Schulworkshop «Alice im Wunderland»",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/"
@@ -453,12 +369,6 @@
     },
     {
       "date": "2026-10-28",
-      "house": "慕尼黑巴伐利亚国家歌剧院",
-      "title": "Alexander Ekman, Johan Inger, Jiří Kylián COMMON GROUND (Alexander Ekman, Johan Inger, Jiří Kylián)",
-      "url": "https://www.staatsoper.de/stuecke/common-ground/2026-10-28-1930-16122"
-    },
-    {
-      "date": "2026-10-28",
       "house": "苏黎世歌剧院",
       "title": "Schulworkshop «Alice im Wunderland»",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/"
@@ -486,6 +396,96 @@
       "house": "悉尼歌剧院",
       "title": "Open Rehearsal with Simone Young",
       "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/open-rehearsal-simone-young"
+    },
+    {
+      "date": "2026-10-28",
+      "house": "悉尼歌剧院",
+      "title": "Sarah Grunstein",
+      "url": "https://www.sydneyoperahouse.com/classical-music/sarah-grunstein-bach-goldberg-variations"
+    },
+    {
+      "date": "2026-10-29",
+      "house": "伦敦皇家歌剧院",
+      "title": "Carmen",
+      "url": "https://www.rbo.org.uk/production/carmen-damiano-michieletto"
+    },
+    {
+      "date": "2026-10-29",
+      "house": "伦敦皇家歌剧院",
+      "title": "Insights: The Royal Ballet in Rehearsal",
+      "url": "https://www.rbo.org.uk/production/insights-the-royal-ballet-in-rehearsal"
+    },
+    {
+      "date": "2026-10-29",
+      "house": "伦敦皇家歌剧院",
+      "title": "World Ballet Day",
+      "url": "https://www.rbo.org.uk/tickets-and-events/world-ballet-day-details"
+    },
+    {
+      "date": "2026-10-29",
+      "house": "伦敦皇家歌剧院",
+      "title": "Barbie | Royal Ballet Pop Up",
+      "url": "https://www.rbo.org.uk/tickets-and-events/festival/barbie-royal-ballet-pop-up-details"
+    },
+    {
+      "date": "2026-10-29",
+      "house": "维也纳国家歌剧院",
+      "title": "Giuseppe Verdi Otello (Giuseppe Verdi)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/otello/2026-10-29/"
+    },
+    {
+      "date": "2026-10-29",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Charles Gounod Faust (Charles Gounod)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/faust.html"
+    },
+    {
+      "date": "2026-10-29",
+      "house": "苏黎世歌剧院",
+      "title": "Schulworkshop «Alice im Wunderland»",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/"
+    },
+    {
+      "date": "2026-10-29",
+      "house": "苏黎世歌剧院",
+      "title": "Cathy Marston Ein Sommer­nachtstraum (Cathy Marston)",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/ein-sommernachtstraum/"
+    },
+    {
+      "date": "2026-10-29",
+      "house": "悉尼歌剧院",
+      "title": "Particles of Light",
+      "url": "https://www.sydneyoperahouse.com/classical-music/particles-light"
+    },
+    {
+      "date": "2026-10-30",
+      "house": "伦敦皇家歌剧院",
+      "title": "Manon",
+      "url": "https://www.rbo.org.uk/production/manon-kenneth-macmillan"
+    },
+    {
+      "date": "2026-10-30",
+      "house": "伦敦皇家歌剧院",
+      "title": "Barbie | Royal Ballet Pop Up",
+      "url": "https://www.rbo.org.uk/tickets-and-events/festival/barbie-royal-ballet-pop-up-details"
+    },
+    {
+      "date": "2026-10-30",
+      "house": "维也纳国家歌剧院",
+      "title": "John Neumeier Nijinsky (John Neumeier)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/nijinsky/2026-10-30/"
+    },
+    {
+      "date": "2026-10-30",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Verdi: Requiem Mass / Riccardo Chailly",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/concerts/exceptional-concerts/teatro-alla-scala-orchestra-chorus-requiem-verdi-chailly.html"
+    },
+    {
+      "date": "2026-10-30",
+      "house": "苏黎世歌剧院",
+      "title": "Schulworkshop «Alice im Wunderland»",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/"
     }
   ]
 }
