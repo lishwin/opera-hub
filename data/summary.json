@@ -1,54 +1,12 @@
 {
-  "updated_at": "2026-10-22T05:44:33+00:00",
+  "updated_at": "2026-10-23T05:43:47+00:00",
   "stats": {
     "houses": 14,
-    "performances": 930,
+    "performances": 924,
     "news": 300,
     "artists": 8
   },
   "upcoming_30": [
-    {
-      "date": "2026-10-22",
-      "house": "伦敦皇家歌剧院",
-      "title": "4.48 Psychosis",
-      "url": "https://www.rbo.org.uk/production/448-psychosis-ted-huffman"
-    },
-    {
-      "date": "2026-10-22",
-      "house": "伦敦皇家歌剧院",
-      "title": "Manon",
-      "url": "https://www.rbo.org.uk/production/manon-kenneth-macmillan"
-    },
-    {
-      "date": "2026-10-22",
-      "house": "维也纳国家歌剧院",
-      "title": "John Neumeier Nijinsky (John Neumeier)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/nijinsky/2026-10-22/"
-    },
-    {
-      "date": "2026-10-22",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Jean Coralli – Jules Perrot Giselle (Jean Coralli – Jules Perrot)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/ballet/giselle.html"
-    },
-    {
-      "date": "2026-10-22",
-      "house": "巴黎歌剧院",
-      "title": "Une Nuit dansée à l'Opéra",
-      "url": "https://www.operadeparis.fr/saison-26-27/concert-et-recital/une-nuit-dansee-a-lopera"
-    },
-    {
-      "date": "2026-10-22",
-      "house": "芝加哥抒情歌剧院",
-      "title": "Omar Gen Z Opera Insights Round Table",
-      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/Omar/omar-gen-z-oi-round-table/"
-    },
-    {
-      "date": "2026-10-22",
-      "house": "悉尼歌剧院",
-      "title": "Star Wars: The Empire Strikes Back in Concert",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/star-wars-empire-strikes-back-concert"
-    },
     {
       "date": "2026-10-23",
       "house": "伦敦皇家歌剧院",
@@ -88,14 +46,14 @@
     {
       "date": "2026-10-23",
       "house": "悉尼歌剧院",
-      "title": "Star Wars: The Empire Strikes Back in Concert",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/star-wars-empire-strikes-back-concert"
+      "title": "Cocktail Hour with David Campbell",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/cocktail-hour-david-campbell"
     },
     {
       "date": "2026-10-23",
       "house": "悉尼歌剧院",
-      "title": "Cocktail Hour with David Campbell",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/cocktail-hour-david-campbell"
+      "title": "Star Wars: The Empire Strikes Back in Concert",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/star-wars-empire-strikes-back-concert"
     },
     {
       "date": "2026-10-24",
@@ -178,14 +136,14 @@
     {
       "date": "2026-10-24",
       "house": "悉尼歌剧院",
-      "title": "Star Wars: The Empire Strikes Back in Concert",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/star-wars-empire-strikes-back-concert"
+      "title": "Cocktail Hour with David Campbell",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/cocktail-hour-david-campbell"
     },
     {
       "date": "2026-10-24",
       "house": "悉尼歌剧院",
-      "title": "Cocktail Hour with David Campbell",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/cocktail-hour-david-campbell"
+      "title": "Star Wars: The Empire Strikes Back in Concert",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/star-wars-empire-strikes-back-concert"
     },
     {
       "date": "2026-10-25",
@@ -486,6 +444,48 @@
       "house": "苏黎世歌剧院",
       "title": "Schulworkshop «Alice im Wunderland»",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/"
+    },
+    {
+      "date": "2026-10-30",
+      "house": "苏黎世歌剧院",
+      "title": "Wolfgang Amadeus Mozart Die Zauberflöte (Wolfgang Amadeus Mozart)",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/die-zauberfloete-1/"
+    },
+    {
+      "date": "2026-10-30",
+      "house": "芝加哥抒情歌剧院",
+      "title": "Don Giovanni",
+      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/don-giovanni/"
+    },
+    {
+      "date": "2026-10-30",
+      "house": "旧金山歌剧院",
+      "title": "Jules Massenet Manon (Jules Massenet)",
+      "url": "https://www.sfopera.com/operas/manon/"
+    },
+    {
+      "date": "2026-10-30",
+      "house": "悉尼歌剧院",
+      "title": "Mendelssohn’s Elijah with Bryn Terfel",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/mendelssohn-elijah-bryn-terfel"
+    },
+    {
+      "date": "2026-10-31",
+      "house": "伦敦皇家歌剧院",
+      "title": "Carmen",
+      "url": "https://www.rbo.org.uk/production/carmen-damiano-michieletto"
+    },
+    {
+      "date": "2026-10-31",
+      "house": "伦敦皇家歌剧院",
+      "title": "Barbie | Royal Ballet Pop Up",
+      "url": "https://www.rbo.org.uk/tickets-and-events/festival/barbie-royal-ballet-pop-up-details"
+    },
+    {
+      "date": "2026-10-31",
+      "house": "维也纳国家歌剧院",
+      "title": "Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-31/"
     }
   ]
 }
