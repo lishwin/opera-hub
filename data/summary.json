@@ -1,60 +1,12 @@
 {
-  "updated_at": "2026-10-23T05:43:47+00:00",
+  "updated_at": "2026-10-24T05:21:22+00:00",
   "stats": {
     "houses": 14,
-    "performances": 924,
+    "performances": 918,
     "news": 300,
     "artists": 8
   },
   "upcoming_30": [
-    {
-      "date": "2026-10-23",
-      "house": "伦敦皇家歌剧院",
-      "title": "Live at Lunch",
-      "url": "https://www.rbo.org.uk/production/live-at-lunch"
-    },
-    {
-      "date": "2026-10-23",
-      "house": "伦敦皇家歌剧院",
-      "title": "Manon",
-      "url": "https://www.rbo.org.uk/production/manon-kenneth-macmillan"
-    },
-    {
-      "date": "2026-10-23",
-      "house": "维也纳国家歌剧院",
-      "title": "Wolfgang Amadeus Mozart Die Entführung aus dem Serail (Wolfgang Amadeus Mozart)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/die-entfuehrung-aus-dem-serail/2026-10-23/"
-    },
-    {
-      "date": "2026-10-23",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Jean Coralli – Jules Perrot Giselle (Jean Coralli – Jules Perrot)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/ballet/giselle.html"
-    },
-    {
-      "date": "2026-10-23",
-      "house": "苏黎世歌剧院",
-      "title": "Die Fledermaus",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/die-fledermaus-1/"
-    },
-    {
-      "date": "2026-10-23",
-      "house": "芝加哥抒情歌剧院",
-      "title": "Omar",
-      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/Omar/"
-    },
-    {
-      "date": "2026-10-23",
-      "house": "悉尼歌剧院",
-      "title": "Cocktail Hour with David Campbell",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/cocktail-hour-david-campbell"
-    },
-    {
-      "date": "2026-10-23",
-      "house": "悉尼歌剧院",
-      "title": "Star Wars: The Empire Strikes Back in Concert",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/star-wars-empire-strikes-back-concert"
-    },
     {
       "date": "2026-10-24",
       "house": "伦敦皇家歌剧院",
@@ -136,14 +88,14 @@
     {
       "date": "2026-10-24",
       "house": "悉尼歌剧院",
-      "title": "Cocktail Hour with David Campbell",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/cocktail-hour-david-campbell"
+      "title": "Star Wars: The Empire Strikes Back in Concert",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/star-wars-empire-strikes-back-concert"
     },
     {
       "date": "2026-10-24",
       "house": "悉尼歌剧院",
-      "title": "Star Wars: The Empire Strikes Back in Concert",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/star-wars-empire-strikes-back-concert"
+      "title": "Cocktail Hour with David Campbell",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/cocktail-hour-david-campbell"
     },
     {
       "date": "2026-10-25",
@@ -486,6 +438,54 @@
       "house": "维也纳国家歌剧院",
       "title": "Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch)",
       "url": "https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-31/"
+    },
+    {
+      "date": "2026-10-31",
+      "house": "维也纳国家歌剧院",
+      "title": "Claudio Monteverdi L'Orfeo (Claudio Monteverdi)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/lorfeo/2026-10-31/"
+    },
+    {
+      "date": "2026-10-31",
+      "house": "巴黎歌剧院",
+      "title": "Répétition publique : Junior Ballet",
+      "url": "https://www.operadeparis.fr/saison-26-27/repetition/repetition-publique-junior-ballet-1"
+    },
+    {
+      "date": "2026-10-31",
+      "house": "苏黎世歌剧院",
+      "title": "Workshop für Familien «Alice im Wunderland»",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/familien-workshop-alice-im-wunderland/"
+    },
+    {
+      "date": "2026-10-31",
+      "house": "苏黎世歌剧院",
+      "title": "Cathy Marston Ein Sommer­nachtstraum (Cathy Marston)",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/ein-sommernachtstraum/"
+    },
+    {
+      "date": "2026-10-31",
+      "house": "苏黎世歌剧院",
+      "title": "Konzert Opera Nova",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/for-trained-and-untrained-musicians/"
+    },
+    {
+      "date": "2026-10-31",
+      "house": "旧金山歌剧院",
+      "title": "Wolfgang Amadeus Mozart The Marriage of Figaro (Wolfgang Amadeus Mozart)",
+      "url": "https://www.sfopera.com/operas/the-marriage-of-figaro/"
+    },
+    {
+      "date": "2026-10-31",
+      "house": "悉尼歌剧院",
+      "title": "Mendelssohn’s Elijah with Bryn Terfel",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/mendelssohn-elijah-bryn-terfel"
+    },
+    {
+      "date": "2026-11-01",
+      "house": "伦敦皇家歌剧院",
+      "title": "Dish from Waitrose",
+      "url": "https://www.rbo.org.uk/production/dish-from-waitrose"
     }
   ]
 }

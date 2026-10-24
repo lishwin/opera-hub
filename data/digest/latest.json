@@ -1,135 +1,81 @@
 {
-  "date": "2026-10-23",
-  "generated_at": "2026-10-23T05:43:47+00:00",
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T05:21:22+00:00",
   "news": [
     {
-      "source": "Slipped Disc",
-      "title": "A revealing documentary on the mysterious Maria Yudina",
-      "url": "https://slippedisc.com/2026/10/a-revealing-documentary-on-the-mysterious-maria-yudina/?utm_source=rss&utm_medium=rss&utm_campaign=a-revealing-documentary-on-the-mysterious-maria-yudina",
+      "source": "OperaWire",
+      "title": "Bayreuth Festival 2026 Review: Götterdämmerung",
+      "url": "https://operawire.com/bayreuth-festival-2026-review-gotterdammerung/",
+      "date": "2026-10-24"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Osvaldo Golijov’s ‘Creation’ Premieres with Boston Symphony Orchestra",
+      "url": "https://operawire.com/osvaldo-golijovs-creation-premieres-with-boston-symphony-orchestra/",
+      "date": "2026-10-24"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Garsington Opera Announces Cast & Creative Team for 2027 Season",
+      "url": "https://operawire.com/garsington-opera-announces-cast-creative-team-for-2027-season/",
+      "date": "2026-10-24"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Staatstheater Kassel to Showcase New Staging of ‘Elias’",
+      "url": "https://operawire.com/staatstheater-kassel-to-showcase-new-staging-of-elias/",
       "date": "2026-10-23"
     },
     {
       "source": "OperaWire",
-      "title": "Opera på Skäret Announces Conductor for ‘Macbeth’ Production",
-      "url": "https://operawire.com/opera-pa-skaret-announces-conductor-for-macbeth-production/",
+      "title": "The Dallas Opera Announces 2026-27 Participants of Linda & Mitch Hart Institute for Women Conductors",
+      "url": "https://operawire.com/the-dallas-opera-announces-2026-27-participants-of-linda-mitch-hart-institute-for-women-conductors/",
       "date": "2026-10-23"
     },
     {
       "source": "OperaWire",
-      "title": "Bayreuth Festival 2026 Review – Siegfried",
-      "url": "https://operawire.com/bayreuth-festival-2026-review-siegfried/",
+      "title": "Oper Frankfurt Extends Contracts for Intendant Loebe & General Music Director Guggeis",
+      "url": "https://operawire.com/oper-frankfurt-extends-contracts-for-intendant-loebe-general-music-director-guggeis/",
       "date": "2026-10-23"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Sarasota Opera Receives Two Grants from The Exchange",
-      "url": "https://operawire.com/sarasota-opera-receives-two-grants-from-the-exchange/",
-      "date": "2026-10-22"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Sofija Petrović & Emilia Rukavina to Headline Croatian National Theatre in Zagreb’s ‘Carmen’",
-      "url": "https://operawire.com/sofija-petrovic-emilia-rukavina-to-headline-croatian-national-theatre-in-zagrebs-carmen/",
-      "date": "2026-10-22"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Austin Symphony Orchestra to Present ‘To Have and to Hold’",
-      "url": "https://operawire.com/austin-symphony-orchestra-to-present-to-have-and-to-hold/",
-      "date": "2026-10-22"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Q & A: Adriana González on Her Royal Opera Debut, Expanding Her Repertoire & Being a Young Artist",
-      "url": "https://operawire.com/q-a-adriana-gonzalez-on-her-royal-opera-debut-expanding-her-repertoire-being-a-young-artist/",
-      "date": "2026-10-22"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Sonya Yoncheva Headlines Metropolitan Opera’s Revival of ‘Medea’",
-      "url": "https://operawire.com/sonya-yoncheva-headlines-metropolitan-operas-revival-of-medea/",
-      "date": "2026-10-22"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Dean Murphy, Federica Vitali, Dominic Sedgwick & Mirjam Mesak Lead Grange Festival’s 2027 Season",
-      "url": "https://operawire.com/dean-murphy-federica-vitali-dominic-sedgwick-mirjam-mesak-lead-grange-festivals-2027-season/",
-      "date": "2026-10-22"
-    },
-    {
-      "source": "Opera Today",
-      "title": "Moral Bankruptcy at the Heart of Du Yun’s Angel’s Bone at English National Opera",
-      "url": "https://operatoday.com/2026/10/moral-bankruptcy-at-the-heart-of-du-yuns-angels-bone-at-english-national-opera/",
-      "date": "2026-10-22"
     },
     {
       "source": "Parterre Box",
-      "title": "The pleasure principle",
-      "url": "https://parterre.com/2026/10/22/the-pleasure-principle/",
-      "date": "2026-10-22"
+      "title": "A favorite mezzo performance from TildyDiva",
+      "url": "https://parterre.com/2026/10/23/a-favorite-mezzo-performance-from-tildydiva/",
+      "date": "2026-10-23"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Wexford Festival Opera Unveils 2027 Season",
+      "url": "https://operawire.com/wexford-festival-opera-unveils-2027-season/",
+      "date": "2026-10-23"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Academy of Vocal Arts Announces ‘L’Elisir d’Amore’ Cast",
+      "url": "https://operawire.com/academy-of-vocal-arts-announces-lelisir-damore-cast/",
+      "date": "2026-10-23"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Beth Taylor, Nikola Hillebrand, Xabier Anduaga, & Le Bu Star in Park Avenue Armory’s 2027 Season",
+      "url": "https://operawire.com/beth-taylor-nikola-hillebrand-xabier-anduaga-le-bu-star-in-park-avenue-armorys-2027-season/",
+      "date": "2026-10-23"
     },
     {
       "source": "Parterre Box",
-      "title": "A favorite mezzo performance from Rick",
-      "url": "https://parterre.com/2026/10/22/a-favorite-mezzo-performance-from-rick/",
-      "date": "2026-10-22"
+      "title": "A little slice of death",
+      "url": "https://parterre.com/2026/10/23/a-little-slice-of-death/",
+      "date": "2026-10-23"
     },
     {
-      "source": "Slipped Disc",
-      "title": "Two Warsaw Ghetto premieres at Carnegie Hall",
-      "url": "https://slippedisc.com/2026/10/two-warsaw-ghetto-premieres-at-carnegie-hall/?utm_source=rss&utm_medium=rss&utm_campaign=two-warsaw-ghetto-premieres-at-carnegie-hall",
-      "date": "2026-10-22"
+      "source": "OperaWire",
+      "title": "Croatian Bass Marko Mimica Joins Intermusica for Worldwide General Management",
+      "url": "https://operawire.com/croatian-bass-marko-mimica-joins-intermusica-for-worldwide-general-management/",
+      "date": "2026-10-23"
     }
   ],
   "schedule_updates": [
-    {
-      "date": "2026-10-23",
-      "house": "伦敦皇家歌剧院",
-      "title": "Live at Lunch",
-      "url": "https://www.rbo.org.uk/production/live-at-lunch"
-    },
-    {
-      "date": "2026-10-23",
-      "house": "伦敦皇家歌剧院",
-      "title": "Manon",
-      "url": "https://www.rbo.org.uk/production/manon-kenneth-macmillan"
-    },
-    {
-      "date": "2026-10-23",
-      "house": "维也纳国家歌剧院",
-      "title": "Die Entführung aus dem Serail (Wolfgang Amadeus Mozart)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/die-entfuehrung-aus-dem-serail/2026-10-23/"
-    },
-    {
-      "date": "2026-10-23",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Giselle (Jean Coralli – Jules Perrot)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/ballet/giselle.html"
-    },
-    {
-      "date": "2026-10-23",
-      "house": "苏黎世歌剧院",
-      "title": "Die Fledermaus",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/die-fledermaus-1/"
-    },
-    {
-      "date": "2026-10-23",
-      "house": "芝加哥抒情歌剧院",
-      "title": "Omar",
-      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/Omar/"
-    },
-    {
-      "date": "2026-10-23",
-      "house": "悉尼歌剧院",
-      "title": "Cocktail Hour with David Campbell",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/cocktail-hour-david-campbell"
-    },
-    {
-      "date": "2026-10-23",
-      "house": "悉尼歌剧院",
-      "title": "Star Wars: The Empire Strikes Back in Concert",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/star-wars-empire-strikes-back-concert"
-    },
     {
       "date": "2026-10-24",
       "house": "伦敦皇家歌剧院",
@@ -171,6 +117,54 @@
       "house": "巴黎歌剧院",
       "title": "Méditerranée",
       "url": "https://www.operadeparis.fr/saison-26-27/concert-et-recital/mediterranee"
+    },
+    {
+      "date": "2026-10-24",
+      "house": "苏黎世歌剧院",
+      "title": "Preview «Rachmaninow - Die drei Opern»",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/preview-rachmaninov-die-drei-opern/"
+    },
+    {
+      "date": "2026-10-24",
+      "house": "苏黎世歌剧院",
+      "title": "Mit Squillo ins Zauberland Oper",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/ohrwurm-squillo/"
+    },
+    {
+      "date": "2026-10-24",
+      "house": "苏黎世歌剧院",
+      "title": "Die Zauberflöte (Wolfgang Amadeus Mozart)",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/die-zauberfloete-1/"
+    },
+    {
+      "date": "2026-10-24",
+      "house": "芝加哥抒情歌剧院",
+      "title": "Earth to Kenzie",
+      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/earth-to-kenzie/"
+    },
+    {
+      "date": "2026-10-24",
+      "house": "芝加哥抒情歌剧院",
+      "title": "Don Giovanni",
+      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/don-giovanni/"
+    },
+    {
+      "date": "2026-10-24",
+      "house": "旧金山歌剧院",
+      "title": "Manon (Jules Massenet)",
+      "url": "https://www.sfopera.com/operas/manon/"
+    },
+    {
+      "date": "2026-10-24",
+      "house": "悉尼歌剧院",
+      "title": "Star Wars: The Empire Strikes Back in Concert",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/star-wars-empire-strikes-back-concert"
+    },
+    {
+      "date": "2026-10-24",
+      "house": "悉尼歌剧院",
+      "title": "Cocktail Hour with David Campbell",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/cocktail-hour-david-campbell"
     }
   ],
   "artists": [
@@ -255,54 +249,6 @@
   ],
   "upcoming_7": [
     {
-      "date": "2026-10-23",
-      "house": "伦敦皇家歌剧院",
-      "title": "Live at Lunch",
-      "url": "https://www.rbo.org.uk/production/live-at-lunch"
-    },
-    {
-      "date": "2026-10-23",
-      "house": "伦敦皇家歌剧院",
-      "title": "Manon",
-      "url": "https://www.rbo.org.uk/production/manon-kenneth-macmillan"
-    },
-    {
-      "date": "2026-10-23",
-      "house": "维也纳国家歌剧院",
-      "title": "Die Entführung aus dem Serail (Wolfgang Amadeus Mozart)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/die-entfuehrung-aus-dem-serail/2026-10-23/"
-    },
-    {
-      "date": "2026-10-23",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Giselle (Jean Coralli – Jules Perrot)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/ballet/giselle.html"
-    },
-    {
-      "date": "2026-10-23",
-      "house": "苏黎世歌剧院",
-      "title": "Die Fledermaus",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/die-fledermaus-1/"
-    },
-    {
-      "date": "2026-10-23",
-      "house": "芝加哥抒情歌剧院",
-      "title": "Omar",
-      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/Omar/"
-    },
-    {
-      "date": "2026-10-23",
-      "house": "悉尼歌剧院",
-      "title": "Cocktail Hour with David Campbell",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/cocktail-hour-david-campbell"
-    },
-    {
-      "date": "2026-10-23",
-      "house": "悉尼歌剧院",
-      "title": "Star Wars: The Empire Strikes Back in Concert",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/star-wars-empire-strikes-back-concert"
-    },
-    {
       "date": "2026-10-24",
       "house": "伦敦皇家歌剧院",
       "title": "4.48 Psychosis",
@@ -343,6 +289,54 @@
       "house": "巴黎歌剧院",
       "title": "Méditerranée",
       "url": "https://www.operadeparis.fr/saison-26-27/concert-et-recital/mediterranee"
+    },
+    {
+      "date": "2026-10-24",
+      "house": "苏黎世歌剧院",
+      "title": "Preview «Rachmaninow - Die drei Opern»",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/preview-rachmaninov-die-drei-opern/"
+    },
+    {
+      "date": "2026-10-24",
+      "house": "苏黎世歌剧院",
+      "title": "Mit Squillo ins Zauberland Oper",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/ohrwurm-squillo/"
+    },
+    {
+      "date": "2026-10-24",
+      "house": "苏黎世歌剧院",
+      "title": "Die Zauberflöte (Wolfgang Amadeus Mozart)",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/die-zauberfloete-1/"
+    },
+    {
+      "date": "2026-10-24",
+      "house": "芝加哥抒情歌剧院",
+      "title": "Earth to Kenzie",
+      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/earth-to-kenzie/"
+    },
+    {
+      "date": "2026-10-24",
+      "house": "芝加哥抒情歌剧院",
+      "title": "Don Giovanni",
+      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/don-giovanni/"
+    },
+    {
+      "date": "2026-10-24",
+      "house": "旧金山歌剧院",
+      "title": "Manon (Jules Massenet)",
+      "url": "https://www.sfopera.com/operas/manon/"
+    },
+    {
+      "date": "2026-10-24",
+      "house": "悉尼歌剧院",
+      "title": "Star Wars: The Empire Strikes Back in Concert",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/star-wars-empire-strikes-back-concert"
+    },
+    {
+      "date": "2026-10-24",
+      "house": "悉尼歌剧院",
+      "title": "Cocktail Hour with David Campbell",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/cocktail-hour-david-campbell"
     }
   ]
 }
