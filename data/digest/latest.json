@@ -1,170 +1,128 @@
 {
-  "date": "2026-10-24",
-  "generated_at": "2026-10-24T05:21:22+00:00",
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T05:42:12+00:00",
   "news": [
     {
       "source": "OperaWire",
-      "title": "Bayreuth Festival 2026 Review: Götterdämmerung",
-      "url": "https://operawire.com/bayreuth-festival-2026-review-gotterdammerung/",
+      "title": "Orchestra of The Bronx to Perform Händel’s ‘Messiah’",
+      "url": "https://operawire.com/orchestra-of-the-bronx-to-perform-handels-messiah-2/",
+      "date": "2026-10-25"
+    },
+    {
+      "source": "Slipped Disc",
+      "title": "Top Met soprano dies",
+      "url": "https://slippedisc.com/2026/10/top-met-soprano-dies/?utm_source=rss&utm_medium=rss&utm_campaign=top-met-soprano-dies",
       "date": "2026-10-24"
     },
     {
       "source": "OperaWire",
-      "title": "Osvaldo Golijov’s ‘Creation’ Premieres with Boston Symphony Orchestra",
-      "url": "https://operawire.com/osvaldo-golijovs-creation-premieres-with-boston-symphony-orchestra/",
+      "title": "Obituary: Legendary American Soprano Judith Blegen Dies at 85",
+      "url": "https://operawire.com/obituary-legendary-american-soprano-judith-blegen-dies-at-85/",
       "date": "2026-10-24"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Garsington Opera Announces Cast & Creative Team for 2027 Season",
-      "url": "https://operawire.com/garsington-opera-announces-cast-creative-team-for-2027-season/",
-      "date": "2026-10-24"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Staatstheater Kassel to Showcase New Staging of ‘Elias’",
-      "url": "https://operawire.com/staatstheater-kassel-to-showcase-new-staging-of-elias/",
-      "date": "2026-10-23"
-    },
-    {
-      "source": "OperaWire",
-      "title": "The Dallas Opera Announces 2026-27 Participants of Linda & Mitch Hart Institute for Women Conductors",
-      "url": "https://operawire.com/the-dallas-opera-announces-2026-27-participants-of-linda-mitch-hart-institute-for-women-conductors/",
-      "date": "2026-10-23"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Oper Frankfurt Extends Contracts for Intendant Loebe & General Music Director Guggeis",
-      "url": "https://operawire.com/oper-frankfurt-extends-contracts-for-intendant-loebe-general-music-director-guggeis/",
-      "date": "2026-10-23"
     },
     {
       "source": "Parterre Box",
-      "title": "A favorite mezzo performance from TildyDiva",
-      "url": "https://parterre.com/2026/10/23/a-favorite-mezzo-performance-from-tildydiva/",
-      "date": "2026-10-23"
+      "title": "A favorite mezzo performance from Ivy Lin",
+      "url": "https://parterre.com/2026/10/24/a-favorite-mezzo-performance-from-ivy-lin/",
+      "date": "2026-10-24"
     },
     {
       "source": "OperaWire",
-      "title": "Wexford Festival Opera Unveils 2027 Season",
-      "url": "https://operawire.com/wexford-festival-opera-unveils-2027-season/",
-      "date": "2026-10-23"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Academy of Vocal Arts Announces ‘L’Elisir d’Amore’ Cast",
-      "url": "https://operawire.com/academy-of-vocal-arts-announces-lelisir-damore-cast/",
-      "date": "2026-10-23"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Beth Taylor, Nikola Hillebrand, Xabier Anduaga, & Le Bu Star in Park Avenue Armory’s 2027 Season",
-      "url": "https://operawire.com/beth-taylor-nikola-hillebrand-xabier-anduaga-le-bu-star-in-park-avenue-armorys-2027-season/",
-      "date": "2026-10-23"
-    },
-    {
-      "source": "Parterre Box",
-      "title": "A little slice of death",
-      "url": "https://parterre.com/2026/10/23/a-little-slice-of-death/",
-      "date": "2026-10-23"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Croatian Bass Marko Mimica Joins Intermusica for Worldwide General Management",
-      "url": "https://operawire.com/croatian-bass-marko-mimica-joins-intermusica-for-worldwide-general-management/",
-      "date": "2026-10-23"
+      "title": "Marigona Qerkezi Joins Ariosi Management",
+      "url": "https://operawire.com/marigona-qerkezi-joins-ariosi-management/",
+      "date": "2026-10-24"
     }
   ],
   "schedule_updates": [
     {
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "house": "伦敦皇家歌剧院",
       "title": "4.48 Psychosis",
       "url": "https://www.rbo.org.uk/production/448-psychosis-ted-huffman"
     },
     {
-      "date": "2026-10-24",
+      "date": "2026-10-25",
+      "house": "维也纳国家歌剧院",
+      "title": "Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-25/"
+    },
+    {
+      "date": "2026-10-25",
+      "house": "维也纳国家歌剧院",
+      "title": "L'Orfeo (Claudio Monteverdi)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/lorfeo/2026-10-25/"
+    },
+    {
+      "date": "2026-10-25",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Mimì & Teo and… The Jazz Robot!",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/great-performances-for-children-and-family/concerts-for-children/mimi-and-teo-and-the-jazz-robot.html"
+    },
+    {
+      "date": "2026-10-25",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Filarmonica della Scala / Gustavo Gimeno / Jörgen van Rijen",
+      "url": "https://www.filarmonica.it/en/eventi/stagione-2026-gustavo-gimeno-van-rijen---teatro-alla-scala---25-ottobre-2026"
+    },
+    {
+      "date": "2026-10-25",
+      "house": "苏黎世歌剧院",
+      "title": "Die Fledermaus",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/die-fledermaus-1/"
+    },
+    {
+      "date": "2026-10-25",
+      "house": "苏黎世歌剧院",
+      "title": "Ein Sommer­nachtstraum (Cathy Marston)",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/ein-sommernachtstraum/"
+    },
+    {
+      "date": "2026-10-25",
+      "house": "芝加哥抒情歌剧院",
+      "title": "Omar",
+      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/Omar/"
+    },
+    {
+      "date": "2026-10-25",
+      "house": "悉尼歌剧院",
+      "title": "Musical Wanderlust",
+      "url": "https://www.sydneyoperahouse.com/classical-music/musical-wanderlust"
+    },
+    {
+      "date": "2026-10-26",
       "house": "伦敦皇家歌剧院",
       "title": "Manon",
       "url": "https://www.rbo.org.uk/production/manon-kenneth-macmillan"
     },
     {
-      "date": "2026-10-24",
+      "date": "2026-10-26",
+      "house": "伦敦皇家歌剧院",
+      "title": "Recitals at Lunch",
+      "url": "https://www.rbo.org.uk/production/recitals-at-lunch"
+    },
+    {
+      "date": "2026-10-26",
       "house": "维也纳国家歌剧院",
-      "title": "Open Adult Ballet Class",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/open-adult-ballet-class/2026-10-24/"
+      "title": "Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-26/"
     },
     {
-      "date": "2026-10-24",
+      "date": "2026-10-26",
       "house": "维也纳国家歌剧院",
-      "title": "Nijinsky (John Neumeier)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/nijinsky/2026-10-24/"
+      "title": "Otello (Giuseppe Verdi)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/otello/2026-10-26/"
     },
     {
-      "date": "2026-10-24",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "L'elisir d'amore for children",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/great-performances-for-children-and-family/great-operas-for-children/l-elisir-d-amore-for-children.html"
-    },
-    {
-      "date": "2026-10-24",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Faust (Charles Gounod)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/faust.html"
-    },
-    {
-      "date": "2026-10-24",
-      "house": "巴黎歌剧院",
-      "title": "Méditerranée",
-      "url": "https://www.operadeparis.fr/saison-26-27/concert-et-recital/mediterranee"
-    },
-    {
-      "date": "2026-10-24",
+      "date": "2026-10-26",
       "house": "苏黎世歌剧院",
-      "title": "Preview «Rachmaninow - Die drei Opern»",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/preview-rachmaninov-die-drei-opern/"
+      "title": "Schulworkshop «Alice im Wunderland»",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/"
     },
     {
-      "date": "2026-10-24",
-      "house": "苏黎世歌剧院",
-      "title": "Mit Squillo ins Zauberland Oper",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/ohrwurm-squillo/"
-    },
-    {
-      "date": "2026-10-24",
-      "house": "苏黎世歌剧院",
-      "title": "Die Zauberflöte (Wolfgang Amadeus Mozart)",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/die-zauberfloete-1/"
-    },
-    {
-      "date": "2026-10-24",
+      "date": "2026-10-26",
       "house": "芝加哥抒情歌剧院",
-      "title": "Earth to Kenzie",
-      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/earth-to-kenzie/"
-    },
-    {
-      "date": "2026-10-24",
-      "house": "芝加哥抒情歌剧院",
-      "title": "Don Giovanni",
-      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/don-giovanni/"
-    },
-    {
-      "date": "2026-10-24",
-      "house": "旧金山歌剧院",
-      "title": "Manon (Jules Massenet)",
-      "url": "https://www.sfopera.com/operas/manon/"
-    },
-    {
-      "date": "2026-10-24",
-      "house": "悉尼歌剧院",
-      "title": "Star Wars: The Empire Strikes Back in Concert",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/star-wars-empire-strikes-back-concert"
-    },
-    {
-      "date": "2026-10-24",
-      "house": "悉尼歌剧院",
-      "title": "Cocktail Hour with David Campbell",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/cocktail-hour-david-campbell"
+      "title": "Don Pasquale Opera Insights",
+      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/don-pasquale/don-pasquale-opera-insights/"
     }
   ],
   "artists": [
@@ -249,94 +207,94 @@
   ],
   "upcoming_7": [
     {
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "house": "伦敦皇家歌剧院",
       "title": "4.48 Psychosis",
       "url": "https://www.rbo.org.uk/production/448-psychosis-ted-huffman"
     },
     {
-      "date": "2026-10-24",
+      "date": "2026-10-25",
+      "house": "维也纳国家歌剧院",
+      "title": "Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-25/"
+    },
+    {
+      "date": "2026-10-25",
+      "house": "维也纳国家歌剧院",
+      "title": "L'Orfeo (Claudio Monteverdi)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/lorfeo/2026-10-25/"
+    },
+    {
+      "date": "2026-10-25",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Mimì & Teo and… The Jazz Robot!",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/great-performances-for-children-and-family/concerts-for-children/mimi-and-teo-and-the-jazz-robot.html"
+    },
+    {
+      "date": "2026-10-25",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Filarmonica della Scala / Gustavo Gimeno / Jörgen van Rijen",
+      "url": "https://www.filarmonica.it/en/eventi/stagione-2026-gustavo-gimeno-van-rijen---teatro-alla-scala---25-ottobre-2026"
+    },
+    {
+      "date": "2026-10-25",
+      "house": "苏黎世歌剧院",
+      "title": "Die Fledermaus",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/die-fledermaus-1/"
+    },
+    {
+      "date": "2026-10-25",
+      "house": "苏黎世歌剧院",
+      "title": "Ein Sommer­nachtstraum (Cathy Marston)",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/ein-sommernachtstraum/"
+    },
+    {
+      "date": "2026-10-25",
+      "house": "芝加哥抒情歌剧院",
+      "title": "Omar",
+      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/Omar/"
+    },
+    {
+      "date": "2026-10-25",
+      "house": "悉尼歌剧院",
+      "title": "Musical Wanderlust",
+      "url": "https://www.sydneyoperahouse.com/classical-music/musical-wanderlust"
+    },
+    {
+      "date": "2026-10-26",
       "house": "伦敦皇家歌剧院",
       "title": "Manon",
       "url": "https://www.rbo.org.uk/production/manon-kenneth-macmillan"
     },
     {
-      "date": "2026-10-24",
+      "date": "2026-10-26",
+      "house": "伦敦皇家歌剧院",
+      "title": "Recitals at Lunch",
+      "url": "https://www.rbo.org.uk/production/recitals-at-lunch"
+    },
+    {
+      "date": "2026-10-26",
       "house": "维也纳国家歌剧院",
-      "title": "Open Adult Ballet Class",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/open-adult-ballet-class/2026-10-24/"
+      "title": "Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-26/"
     },
     {
-      "date": "2026-10-24",
+      "date": "2026-10-26",
       "house": "维也纳国家歌剧院",
-      "title": "Nijinsky (John Neumeier)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/nijinsky/2026-10-24/"
+      "title": "Otello (Giuseppe Verdi)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/otello/2026-10-26/"
     },
     {
-      "date": "2026-10-24",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "L'elisir d'amore for children",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/great-performances-for-children-and-family/great-operas-for-children/l-elisir-d-amore-for-children.html"
-    },
-    {
-      "date": "2026-10-24",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Faust (Charles Gounod)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/faust.html"
-    },
-    {
-      "date": "2026-10-24",
-      "house": "巴黎歌剧院",
-      "title": "Méditerranée",
-      "url": "https://www.operadeparis.fr/saison-26-27/concert-et-recital/mediterranee"
-    },
-    {
-      "date": "2026-10-24",
+      "date": "2026-10-26",
       "house": "苏黎世歌剧院",
-      "title": "Preview «Rachmaninow - Die drei Opern»",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/preview-rachmaninov-die-drei-opern/"
+      "title": "Schulworkshop «Alice im Wunderland»",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/"
     },
     {
-      "date": "2026-10-24",
-      "house": "苏黎世歌剧院",
-      "title": "Mit Squillo ins Zauberland Oper",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/ohrwurm-squillo/"
-    },
-    {
-      "date": "2026-10-24",
-      "house": "苏黎世歌剧院",
-      "title": "Die Zauberflöte (Wolfgang Amadeus Mozart)",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/die-zauberfloete-1/"
-    },
-    {
-      "date": "2026-10-24",
+      "date": "2026-10-26",
       "house": "芝加哥抒情歌剧院",
-      "title": "Earth to Kenzie",
-      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/earth-to-kenzie/"
-    },
-    {
-      "date": "2026-10-24",
-      "house": "芝加哥抒情歌剧院",
-      "title": "Don Giovanni",
-      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/don-giovanni/"
-    },
-    {
-      "date": "2026-10-24",
-      "house": "旧金山歌剧院",
-      "title": "Manon (Jules Massenet)",
-      "url": "https://www.sfopera.com/operas/manon/"
-    },
-    {
-      "date": "2026-10-24",
-      "house": "悉尼歌剧院",
-      "title": "Star Wars: The Empire Strikes Back in Concert",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/star-wars-empire-strikes-back-concert"
-    },
-    {
-      "date": "2026-10-24",
-      "house": "悉尼歌剧院",
-      "title": "Cocktail Hour with David Campbell",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/cocktail-hour-david-campbell"
+      "title": "Don Pasquale Opera Insights",
+      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/don-pasquale/don-pasquale-opera-insights/"
     }
   ]
 }

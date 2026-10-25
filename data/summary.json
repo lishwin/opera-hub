@@ -1,102 +1,12 @@
 {
-  "updated_at": "2026-10-24T05:21:22+00:00",
+  "updated_at": "2026-10-25T05:42:12+00:00",
   "stats": {
     "houses": 14,
-    "performances": 918,
+    "performances": 905,
     "news": 300,
     "artists": 8
   },
   "upcoming_30": [
-    {
-      "date": "2026-10-24",
-      "house": "伦敦皇家歌剧院",
-      "title": "4.48 Psychosis",
-      "url": "https://www.rbo.org.uk/production/448-psychosis-ted-huffman"
-    },
-    {
-      "date": "2026-10-24",
-      "house": "伦敦皇家歌剧院",
-      "title": "Manon",
-      "url": "https://www.rbo.org.uk/production/manon-kenneth-macmillan"
-    },
-    {
-      "date": "2026-10-24",
-      "house": "维也纳国家歌剧院",
-      "title": "Open Adult Ballet Class",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/open-adult-ballet-class/2026-10-24/"
-    },
-    {
-      "date": "2026-10-24",
-      "house": "维也纳国家歌剧院",
-      "title": "John Neumeier Nijinsky (John Neumeier)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/nijinsky/2026-10-24/"
-    },
-    {
-      "date": "2026-10-24",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "L'elisir d'amore for children",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/great-performances-for-children-and-family/great-operas-for-children/l-elisir-d-amore-for-children.html"
-    },
-    {
-      "date": "2026-10-24",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Charles Gounod Faust (Charles Gounod)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/faust.html"
-    },
-    {
-      "date": "2026-10-24",
-      "house": "巴黎歌剧院",
-      "title": "Méditerranée",
-      "url": "https://www.operadeparis.fr/saison-26-27/concert-et-recital/mediterranee"
-    },
-    {
-      "date": "2026-10-24",
-      "house": "苏黎世歌剧院",
-      "title": "Preview «Rachmaninow - Die drei Opern»",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/preview-rachmaninov-die-drei-opern/"
-    },
-    {
-      "date": "2026-10-24",
-      "house": "苏黎世歌剧院",
-      "title": "Mit Squillo ins Zauberland Oper",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/ohrwurm-squillo/"
-    },
-    {
-      "date": "2026-10-24",
-      "house": "苏黎世歌剧院",
-      "title": "Wolfgang Amadeus Mozart Die Zauberflöte (Wolfgang Amadeus Mozart)",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/die-zauberfloete-1/"
-    },
-    {
-      "date": "2026-10-24",
-      "house": "芝加哥抒情歌剧院",
-      "title": "Earth to Kenzie",
-      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/earth-to-kenzie/"
-    },
-    {
-      "date": "2026-10-24",
-      "house": "芝加哥抒情歌剧院",
-      "title": "Don Giovanni",
-      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/don-giovanni/"
-    },
-    {
-      "date": "2026-10-24",
-      "house": "旧金山歌剧院",
-      "title": "Jules Massenet Manon (Jules Massenet)",
-      "url": "https://www.sfopera.com/operas/manon/"
-    },
-    {
-      "date": "2026-10-24",
-      "house": "悉尼歌剧院",
-      "title": "Star Wars: The Empire Strikes Back in Concert",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/star-wars-empire-strikes-back-concert"
-    },
-    {
-      "date": "2026-10-24",
-      "house": "悉尼歌剧院",
-      "title": "Cocktail Hour with David Campbell",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/cocktail-hour-david-campbell"
-    },
     {
       "date": "2026-10-25",
       "house": "伦敦皇家歌剧院",
@@ -486,6 +396,96 @@
       "house": "伦敦皇家歌剧院",
       "title": "Dish from Waitrose",
       "url": "https://www.rbo.org.uk/production/dish-from-waitrose"
+    },
+    {
+      "date": "2026-11-01",
+      "house": "维也纳国家歌剧院",
+      "title": "Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-11-01/"
+    },
+    {
+      "date": "2026-11-01",
+      "house": "维也纳国家歌剧院",
+      "title": "Gaetano Donizetti La Fille du régiment (Gaetano Donizetti)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/la-fille-du-regiment/2026-11-01/"
+    },
+    {
+      "date": "2026-11-01",
+      "house": "苏黎世歌剧院",
+      "title": "3. Kammerkonzert",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/kammerkonzert-3/"
+    },
+    {
+      "date": "2026-11-01",
+      "house": "苏黎世歌剧院",
+      "title": "Workshop für Familien «Alice im Wunderland»",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/familien-workshop-alice-im-wunderland/"
+    },
+    {
+      "date": "2026-11-01",
+      "house": "苏黎世歌剧院",
+      "title": "Rachmaninow – Die drei Opern",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/rachmaninov-die-drei-opern/"
+    },
+    {
+      "date": "2026-11-01",
+      "house": "芝加哥抒情歌剧院",
+      "title": "Don Giovanni",
+      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/don-giovanni/"
+    },
+    {
+      "date": "2026-11-01",
+      "house": "芝加哥抒情歌剧院",
+      "title": "Earth to Kenzie",
+      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/earth-to-kenzie/"
+    },
+    {
+      "date": "2026-11-01",
+      "house": "旧金山歌剧院",
+      "title": "Jules Massenet Manon (Jules Massenet)",
+      "url": "https://www.sfopera.com/operas/manon/"
+    },
+    {
+      "date": "2026-11-01",
+      "house": "悉尼歌剧院",
+      "title": "Suzuki 48th Annual Graduation Concert",
+      "url": "https://www.sydneyoperahouse.com/classical-music/suzuki-48th-annual-graduation-concert"
+    },
+    {
+      "date": "2026-11-01",
+      "house": "悉尼歌剧院",
+      "title": "Australian Guitar Quartet",
+      "url": "https://www.sydneyoperahouse.com/utzon-music-2026/australian-guitar-quartet"
+    },
+    {
+      "date": "2026-11-02",
+      "house": "伦敦皇家歌剧院",
+      "title": "Carmen",
+      "url": "https://www.rbo.org.uk/production/carmen-damiano-michieletto"
+    },
+    {
+      "date": "2026-11-02",
+      "house": "伦敦皇家歌剧院",
+      "title": "Recitals at Lunch",
+      "url": "https://www.rbo.org.uk/production/recitals-at-lunch"
+    },
+    {
+      "date": "2026-11-02",
+      "house": "伦敦皇家歌剧院",
+      "title": "Tea Dance",
+      "url": "https://www.rbo.org.uk/tickets-and-events/tea-dance-dates"
+    },
+    {
+      "date": "2026-11-02",
+      "house": "维也纳国家歌剧院",
+      "title": "Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-11-02/"
+    },
+    {
+      "date": "2026-11-02",
+      "house": "维也纳国家歌剧院",
+      "title": "Giuseppe Verdi Otello (Giuseppe Verdi)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/otello/2026-11-02/"
     }
   ]
 }
