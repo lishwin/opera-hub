@@ -1,28 +1,14 @@
-📰 歌剧日报 · 2026-10-25
+📰 歌剧日报 · 2026-10-26
 
 ▍今日要闻
-- Orchestra of The Bronx to Perform Händel’s ‘Messiah’ ｜ OperaWire  https://operawire.com/orchestra-of-the-bronx-to-perform-handels-messiah-2/
-- Top Met soprano dies ｜ Slipped Disc  https://slippedisc.com/2026/10/top-met-soprano-dies/?utm_source=rss&utm_medium=rss&utm_campaign=top-met-soprano-dies
-- Obituary: Legendary American Soprano Judith Blegen Dies at 85 ｜ OperaWire  https://operawire.com/obituary-legendary-american-soprano-judith-blegen-dies-at-85/
-- A favorite mezzo performance from Ivy Lin ｜ Parterre Box  https://parterre.com/2026/10/24/a-favorite-mezzo-performance-from-ivy-lin/
-- Marigona Qerkezi Joins Ariosi Management ｜ OperaWire  https://operawire.com/marigona-qerkezi-joins-ariosi-management/
+- Compañía de Ópera del Departamento de Artes Musicales y Sonoras to Present ‘The Medium’ ｜ OperaWire  https://operawire.com/compania-de-opera-del-departamento-de-artes-musicales-y-sonoras-to-present-the-medium/
+- Cast Change: Francesca Pia Vitale Joins Oper Frankfurt’s ‘Tancredi’ ｜ OperaWire  https://operawire.com/cast-change-francesca-pia-vitale-joins-oper-frankfurts-tancredi/
+- Would you say I have a plethora of piñatas? ｜ Parterre Box  https://parterre.com/2026/10/25/would-you-say-i-have-a-plethora-of-pinatas/
+- A favorite mezzo performance from Carmen Paddock ｜ Parterre Box  https://parterre.com/2026/10/25/a-favorite-mezzo-performance-from-carmen-paddock/
+- Aida goes home to Africa ｜ Slipped Disc  https://slippedisc.com/2026/10/aida-verdi-south-africa/?utm_source=rss&utm_medium=rss&utm_campaign=aida-verdi-south-africa
+- Isabel Leonard & Paulo Szot Lead Carnegie Hall’s ‘On the Town’ Cast ｜ OperaWire  https://operawire.com/isabel-leonard-paulo-szot-lead-carnegie-halls-on-the-town-cast/
 
 ▍排期更新
-- 2026-10-25 伦敦皇家歌剧院：4.48 Psychosis  https://www.rbo.org.uk/production/448-psychosis-ted-huffman
-- 2026-10-25 维也纳国家歌剧院：Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,
-        
-    
-
-    
-        
-            Gerald  Resch)  https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-25/
-- 2026-10-25 维也纳国家歌剧院：L'Orfeo (Claudio Monteverdi)  https://www.wiener-staatsoper.at/en/calendar/detail/lorfeo/2026-10-25/
-- 2026-10-25 米兰斯卡拉歌剧院：Mimì & Teo and… The Jazz Robot!  https://www.teatroallascala.org/en/season/2025-2026/great-performances-for-children-and-family/concerts-for-children/mimi-and-teo-and-the-jazz-robot.html
-- 2026-10-25 米兰斯卡拉歌剧院：Filarmonica della Scala / Gustavo Gimeno / Jörgen van Rijen  https://www.filarmonica.it/en/eventi/stagione-2026-gustavo-gimeno-van-rijen---teatro-alla-scala---25-ottobre-2026
-- 2026-10-25 苏黎世歌剧院：Die Fledermaus  https://www.opernhaus.ch/spielplan/kalendarium/die-fledermaus-1/
-- 2026-10-25 苏黎世歌剧院：Ein Sommer­nachtstraum (Cathy Marston)  https://www.opernhaus.ch/spielplan/kalendarium/ein-sommernachtstraum/
-- 2026-10-25 芝加哥抒情歌剧院：Omar  https://www.lyricopera.org/shows/upcoming/2026-27/Omar/
-- 2026-10-25 悉尼歌剧院：Musical Wanderlust  https://www.sydneyoperahouse.com/classical-music/musical-wanderlust
 - 2026-10-26 伦敦皇家歌剧院：Manon  https://www.rbo.org.uk/production/manon-kenneth-macmillan
 - 2026-10-26 伦敦皇家歌剧院：Recitals at Lunch  https://www.rbo.org.uk/production/recitals-at-lunch
 - 2026-10-26 维也纳国家歌剧院：Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,
@@ -35,6 +21,15 @@
 - 2026-10-26 维也纳国家歌剧院：Otello (Giuseppe Verdi)  https://www.wiener-staatsoper.at/en/calendar/detail/otello/2026-10-26/
 - 2026-10-26 苏黎世歌剧院：Schulworkshop «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/
 - 2026-10-26 芝加哥抒情歌剧院：Don Pasquale Opera Insights  https://www.lyricopera.org/shows/upcoming/2026-27/don-pasquale/don-pasquale-opera-insights/
+- 2026-10-26 悉尼歌剧院：The Voice of Bryn Terfel  https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/voice-bryn-terfel
+- 2026-10-27 伦敦皇家歌剧院：Friends Rehearsals  https://www.rbo.org.uk/production/friends-rehearsals
+- 2026-10-27 伦敦皇家歌剧院：Manon  https://www.rbo.org.uk/production/manon-kenneth-macmillan
+- 2026-10-27 维也纳国家歌剧院：Nijinsky (John Neumeier)  https://www.wiener-staatsoper.at/en/calendar/detail/nijinsky/2026-10-27/
+- 2026-10-27 米兰斯卡拉歌剧院：Faust (Charles Gounod)  https://www.teatroallascala.org/en/season/2025-2026/opera/faust.html
+- 2026-10-27 巴黎歌剧院：« Rire et pleurer avec la musique d’Isabelle Aboulker »  https://www.operadeparis.fr/saison-26-27/concert-et-recital/rire-et-pleurer-avec-la-musique-disabelle-aboulker
+- 2026-10-27 苏黎世歌剧院：Schulworkshop «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/
+- 2026-10-27 苏黎世歌剧院：open space stimme  https://www.opernhaus.ch/spielplan/kalendarium/open-space-stimme/
+- 2026-10-27 旧金山歌剧院：Manon (Jules Massenet)  https://www.sfopera.com/operas/manon/
 
 ▍艺术家动态
 - 基里尔·别特连科（指挥）
@@ -52,21 +47,6 @@
   · Piotr Beczała  https://www.operadeparis.fr/saison-26-27/concert-et-recital/recital-piotr-beczala
 
 ▍未来 7 天值得关注
-- 2026-10-25 伦敦皇家歌剧院：4.48 Psychosis  https://www.rbo.org.uk/production/448-psychosis-ted-huffman
-- 2026-10-25 维也纳国家歌剧院：Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,
-        
-    
-
-    
-        
-            Gerald  Resch)  https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-25/
-- 2026-10-25 维也纳国家歌剧院：L'Orfeo (Claudio Monteverdi)  https://www.wiener-staatsoper.at/en/calendar/detail/lorfeo/2026-10-25/
-- 2026-10-25 米兰斯卡拉歌剧院：Mimì & Teo and… The Jazz Robot!  https://www.teatroallascala.org/en/season/2025-2026/great-performances-for-children-and-family/concerts-for-children/mimi-and-teo-and-the-jazz-robot.html
-- 2026-10-25 米兰斯卡拉歌剧院：Filarmonica della Scala / Gustavo Gimeno / Jörgen van Rijen  https://www.filarmonica.it/en/eventi/stagione-2026-gustavo-gimeno-van-rijen---teatro-alla-scala---25-ottobre-2026
-- 2026-10-25 苏黎世歌剧院：Die Fledermaus  https://www.opernhaus.ch/spielplan/kalendarium/die-fledermaus-1/
-- 2026-10-25 苏黎世歌剧院：Ein Sommer­nachtstraum (Cathy Marston)  https://www.opernhaus.ch/spielplan/kalendarium/ein-sommernachtstraum/
-- 2026-10-25 芝加哥抒情歌剧院：Omar  https://www.lyricopera.org/shows/upcoming/2026-27/Omar/
-- 2026-10-25 悉尼歌剧院：Musical Wanderlust  https://www.sydneyoperahouse.com/classical-music/musical-wanderlust
 - 2026-10-26 伦敦皇家歌剧院：Manon  https://www.rbo.org.uk/production/manon-kenneth-macmillan
 - 2026-10-26 伦敦皇家歌剧院：Recitals at Lunch  https://www.rbo.org.uk/production/recitals-at-lunch
 - 2026-10-26 维也纳国家歌剧院：Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,
@@ -79,3 +59,12 @@
 - 2026-10-26 维也纳国家歌剧院：Otello (Giuseppe Verdi)  https://www.wiener-staatsoper.at/en/calendar/detail/otello/2026-10-26/
 - 2026-10-26 苏黎世歌剧院：Schulworkshop «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/
 - 2026-10-26 芝加哥抒情歌剧院：Don Pasquale Opera Insights  https://www.lyricopera.org/shows/upcoming/2026-27/don-pasquale/don-pasquale-opera-insights/
+- 2026-10-26 悉尼歌剧院：The Voice of Bryn Terfel  https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/voice-bryn-terfel
+- 2026-10-27 伦敦皇家歌剧院：Friends Rehearsals  https://www.rbo.org.uk/production/friends-rehearsals
+- 2026-10-27 伦敦皇家歌剧院：Manon  https://www.rbo.org.uk/production/manon-kenneth-macmillan
+- 2026-10-27 维也纳国家歌剧院：Nijinsky (John Neumeier)  https://www.wiener-staatsoper.at/en/calendar/detail/nijinsky/2026-10-27/
+- 2026-10-27 米兰斯卡拉歌剧院：Faust (Charles Gounod)  https://www.teatroallascala.org/en/season/2025-2026/opera/faust.html
+- 2026-10-27 巴黎歌剧院：« Rire et pleurer avec la musique d’Isabelle Aboulker »  https://www.operadeparis.fr/saison-26-27/concert-et-recital/rire-et-pleurer-avec-la-musique-disabelle-aboulker
+- 2026-10-27 苏黎世歌剧院：Schulworkshop «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/
+- 2026-10-27 苏黎世歌剧院：open space stimme  https://www.opernhaus.ch/spielplan/kalendarium/open-space-stimme/
+- 2026-10-27 旧金山歌剧院：Manon (Jules Massenet)  https://www.sfopera.com/operas/manon/
