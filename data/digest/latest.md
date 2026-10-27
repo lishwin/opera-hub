@@ -1,27 +1,20 @@
-📰 歌剧日报 · 2026-10-26
+📰 歌剧日报 · 2026-10-27
 
 ▍今日要闻
-- Compañía de Ópera del Departamento de Artes Musicales y Sonoras to Present ‘The Medium’ ｜ OperaWire  https://operawire.com/compania-de-opera-del-departamento-de-artes-musicales-y-sonoras-to-present-the-medium/
-- Cast Change: Francesca Pia Vitale Joins Oper Frankfurt’s ‘Tancredi’ ｜ OperaWire  https://operawire.com/cast-change-francesca-pia-vitale-joins-oper-frankfurts-tancredi/
-- Would you say I have a plethora of piñatas? ｜ Parterre Box  https://parterre.com/2026/10/25/would-you-say-i-have-a-plethora-of-pinatas/
-- A favorite mezzo performance from Carmen Paddock ｜ Parterre Box  https://parterre.com/2026/10/25/a-favorite-mezzo-performance-from-carmen-paddock/
-- Aida goes home to Africa ｜ Slipped Disc  https://slippedisc.com/2026/10/aida-verdi-south-africa/?utm_source=rss&utm_medium=rss&utm_campaign=aida-verdi-south-africa
-- Isabel Leonard & Paulo Szot Lead Carnegie Hall’s ‘On the Town’ Cast ｜ OperaWire  https://operawire.com/isabel-leonard-paulo-szot-lead-carnegie-halls-on-the-town-cast/
+- Minnesota Opera Postpones World Premiere of ‘The Many Deaths of Laila Starr’ ｜ OperaWire  https://operawire.com/minnesota-opera-postpones-world-premiere-of-the-many-deaths-of-laila-starr/
+- Q & A: Tenor Elliott Brown on Being a Young Artist & Being Part of the Denyce Graves Foundation ｜ OperaWire  https://operawire.com/q-a-tenor-elliott-brown-on-being-a-young-artist-being-part-of-the-denyce-graves-foundation/
+- Q & A: Ed Lyon on Monteverdi, ‘L’Incoronazione di Poppea’ & His Love for Early music ｜ OperaWire  https://operawire.com/q-a-ed-lyon-on-monteverdi-lincoronazione-di-poppea-his-love-for-early-music/
+- Cast Change: Antonio Poli & Caterina Piva Join Teatro alla Scala’s Verdi Requiem ｜ OperaWire  https://operawire.com/cast-change-antonio-poli-caterina-piva-join-teatro-alla-scalas-verdi-requiem/
+- Artist of the Week: Mirjam Mesak ｜ OperaWire  https://operawire.com/artist-of-the-week-mirjam-mesak/
+- Daniela Mack to Perform Debut Solo Album at National Sawdust ｜ OperaWire  https://operawire.com/daniela-mack-to-perform-debut-solo-album-at-national-sawdust/
+- Wagner disaster at Deutsche Oper ｜ Slipped Disc  https://slippedisc.com/2026/10/wagner-disaster-at-deutsche-oper/?utm_source=rss&utm_medium=rss&utm_campaign=wagner-disaster-at-deutsche-oper
+- Saioa Hernández, Roberto Alagna, Aleksandra Kurzak, Natalya Romaniw, Eleonora Buratto & Sondra Radvanovsky Lead Metropolitan Opera’s ‘Tosca’ Revival ｜ OperaWire  https://operawire.com/saioa-hernandez-roberto-alagna-aleksandra-kurzak-natalya-romaniw-eleonora-buratto-sondra-radvanovsky-lead-metropolitan-operas-tosca-revival/
+- Liceu + to Stream ‘I Capuleti e I Montecchi’ with Lisette Oropesa & Raffaella Lupinacci ｜ OperaWire  https://operawire.com/liceu-to-stream-i-capuleti-e-i-montecchi-with-lisette-oropesa-raffaella-lupinacci/
+- Wait, wait, don’t tell me ｜ Parterre Box  https://parterre.com/2026/10/26/wait-wait-dont-tell-me/
+- A favorite mezzo performance from Ben Miller ｜ Parterre Box  https://parterre.com/2026/10/26/a-favorite-mezzo-performance-from-ben-miller/
+- A favorite mezzo performance from Camille ｜ Parterre Box  https://parterre.com/2026/10/26/a-favorite-mezzo-performance-from-camille/
 
 ▍排期更新
-- 2026-10-26 伦敦皇家歌剧院：Manon  https://www.rbo.org.uk/production/manon-kenneth-macmillan
-- 2026-10-26 伦敦皇家歌剧院：Recitals at Lunch  https://www.rbo.org.uk/production/recitals-at-lunch
-- 2026-10-26 维也纳国家歌剧院：Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,
-        
-    
-
-    
-        
-            Gerald  Resch)  https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-26/
-- 2026-10-26 维也纳国家歌剧院：Otello (Giuseppe Verdi)  https://www.wiener-staatsoper.at/en/calendar/detail/otello/2026-10-26/
-- 2026-10-26 苏黎世歌剧院：Schulworkshop «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/
-- 2026-10-26 芝加哥抒情歌剧院：Don Pasquale Opera Insights  https://www.lyricopera.org/shows/upcoming/2026-27/don-pasquale/don-pasquale-opera-insights/
-- 2026-10-26 悉尼歌剧院：The Voice of Bryn Terfel  https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/voice-bryn-terfel
 - 2026-10-27 伦敦皇家歌剧院：Friends Rehearsals  https://www.rbo.org.uk/production/friends-rehearsals
 - 2026-10-27 伦敦皇家歌剧院：Manon  https://www.rbo.org.uk/production/manon-kenneth-macmillan
 - 2026-10-27 维也纳国家歌剧院：Nijinsky (John Neumeier)  https://www.wiener-staatsoper.at/en/calendar/detail/nijinsky/2026-10-27/
@@ -30,6 +23,13 @@
 - 2026-10-27 苏黎世歌剧院：Schulworkshop «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/
 - 2026-10-27 苏黎世歌剧院：open space stimme  https://www.opernhaus.ch/spielplan/kalendarium/open-space-stimme/
 - 2026-10-27 旧金山歌剧院：Manon (Jules Massenet)  https://www.sfopera.com/operas/manon/
+- 2026-10-27 悉尼歌剧院：Masterclass with Bryn Terfel  https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/masterclass-bryn-terfel
+- 2026-10-28 伦敦皇家歌剧院：Manon  https://www.rbo.org.uk/production/manon-kenneth-macmillan
+- 2026-10-28 伦敦皇家歌剧院：Barbie | Royal Ballet Pop Up  https://www.rbo.org.uk/tickets-and-events/festival/barbie-royal-ballet-pop-up-details
+- 2026-10-28 维也纳国家歌剧院：L'Orfeo (Claudio Monteverdi)  https://www.wiener-staatsoper.at/en/calendar/detail/lorfeo/2026-10-28/
+- 2026-10-28 米兰斯卡拉歌剧院：L'elisir d'amore for children  https://www.teatroallascala.org/en/season/2025-2026/great-performances-for-children-and-family/great-operas-for-children/l-elisir-d-amore-for-children.html
+- 2026-10-28 米兰斯卡拉歌剧院：Verdi: Requiem Mass / Riccardo Chailly  https://www.teatroallascala.org/en/season/2025-2026/concerts/exceptional-concerts/teatro-alla-scala-orchestra-chorus-requiem-verdi-chailly.html
+- 2026-10-28 苏黎世歌剧院：Schulworkshop «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/
 
 ▍艺术家动态
 - 基里尔·别特连科（指挥）
@@ -47,19 +47,6 @@
   · Piotr Beczała  https://www.operadeparis.fr/saison-26-27/concert-et-recital/recital-piotr-beczala
 
 ▍未来 7 天值得关注
-- 2026-10-26 伦敦皇家歌剧院：Manon  https://www.rbo.org.uk/production/manon-kenneth-macmillan
-- 2026-10-26 伦敦皇家歌剧院：Recitals at Lunch  https://www.rbo.org.uk/production/recitals-at-lunch
-- 2026-10-26 维也纳国家歌剧院：Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,
-        
-    
-
-    
-        
-            Gerald  Resch)  https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-26/
-- 2026-10-26 维也纳国家歌剧院：Otello (Giuseppe Verdi)  https://www.wiener-staatsoper.at/en/calendar/detail/otello/2026-10-26/
-- 2026-10-26 苏黎世歌剧院：Schulworkshop «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/
-- 2026-10-26 芝加哥抒情歌剧院：Don Pasquale Opera Insights  https://www.lyricopera.org/shows/upcoming/2026-27/don-pasquale/don-pasquale-opera-insights/
-- 2026-10-26 悉尼歌剧院：The Voice of Bryn Terfel  https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/voice-bryn-terfel
 - 2026-10-27 伦敦皇家歌剧院：Friends Rehearsals  https://www.rbo.org.uk/production/friends-rehearsals
 - 2026-10-27 伦敦皇家歌剧院：Manon  https://www.rbo.org.uk/production/manon-kenneth-macmillan
 - 2026-10-27 维也纳国家歌剧院：Nijinsky (John Neumeier)  https://www.wiener-staatsoper.at/en/calendar/detail/nijinsky/2026-10-27/
@@ -68,3 +55,10 @@
 - 2026-10-27 苏黎世歌剧院：Schulworkshop «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/
 - 2026-10-27 苏黎世歌剧院：open space stimme  https://www.opernhaus.ch/spielplan/kalendarium/open-space-stimme/
 - 2026-10-27 旧金山歌剧院：Manon (Jules Massenet)  https://www.sfopera.com/operas/manon/
+- 2026-10-27 悉尼歌剧院：Masterclass with Bryn Terfel  https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/masterclass-bryn-terfel
+- 2026-10-28 伦敦皇家歌剧院：Manon  https://www.rbo.org.uk/production/manon-kenneth-macmillan
+- 2026-10-28 伦敦皇家歌剧院：Barbie | Royal Ballet Pop Up  https://www.rbo.org.uk/tickets-and-events/festival/barbie-royal-ballet-pop-up-details
+- 2026-10-28 维也纳国家歌剧院：L'Orfeo (Claudio Monteverdi)  https://www.wiener-staatsoper.at/en/calendar/detail/lorfeo/2026-10-28/
+- 2026-10-28 米兰斯卡拉歌剧院：L'elisir d'amore for children  https://www.teatroallascala.org/en/season/2025-2026/great-performances-for-children-and-family/great-operas-for-children/l-elisir-d-amore-for-children.html
+- 2026-10-28 米兰斯卡拉歌剧院：Verdi: Requiem Mass / Riccardo Chailly  https://www.teatroallascala.org/en/season/2025-2026/concerts/exceptional-concerts/teatro-alla-scala-orchestra-chorus-requiem-verdi-chailly.html
+- 2026-10-28 苏黎世歌剧院：Schulworkshop «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/

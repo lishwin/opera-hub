@@ -1,87 +1,81 @@
 {
-  "date": "2026-10-26",
-  "generated_at": "2026-10-26T05:45:15+00:00",
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T05:57:48+00:00",
   "news": [
     {
       "source": "OperaWire",
-      "title": "Compañía de Ópera del Departamento de Artes Musicales y Sonoras to Present ‘The Medium’",
-      "url": "https://operawire.com/compania-de-opera-del-departamento-de-artes-musicales-y-sonoras-to-present-the-medium/",
-      "date": "2026-10-25"
+      "title": "Minnesota Opera Postpones World Premiere of ‘The Many Deaths of Laila Starr’",
+      "url": "https://operawire.com/minnesota-opera-postpones-world-premiere-of-the-many-deaths-of-laila-starr/",
+      "date": "2026-10-27"
     },
     {
       "source": "OperaWire",
-      "title": "Cast Change: Francesca Pia Vitale Joins Oper Frankfurt’s ‘Tancredi’",
-      "url": "https://operawire.com/cast-change-francesca-pia-vitale-joins-oper-frankfurts-tancredi/",
-      "date": "2026-10-25"
+      "title": "Q & A: Tenor Elliott Brown on Being a Young Artist & Being Part of the Denyce Graves Foundation",
+      "url": "https://operawire.com/q-a-tenor-elliott-brown-on-being-a-young-artist-being-part-of-the-denyce-graves-foundation/",
+      "date": "2026-10-27"
     },
     {
-      "source": "Parterre Box",
-      "title": "Would you say I have a plethora of piñatas?",
-      "url": "https://parterre.com/2026/10/25/would-you-say-i-have-a-plethora-of-pinatas/",
-      "date": "2026-10-25"
+      "source": "OperaWire",
+      "title": "Q & A: Ed Lyon on Monteverdi, ‘L’Incoronazione di Poppea’ & His Love for Early music",
+      "url": "https://operawire.com/q-a-ed-lyon-on-monteverdi-lincoronazione-di-poppea-his-love-for-early-music/",
+      "date": "2026-10-27"
     },
     {
-      "source": "Parterre Box",
-      "title": "A favorite mezzo performance from Carmen Paddock",
-      "url": "https://parterre.com/2026/10/25/a-favorite-mezzo-performance-from-carmen-paddock/",
-      "date": "2026-10-25"
+      "source": "OperaWire",
+      "title": "Cast Change: Antonio Poli & Caterina Piva Join Teatro alla Scala’s Verdi Requiem",
+      "url": "https://operawire.com/cast-change-antonio-poli-caterina-piva-join-teatro-alla-scalas-verdi-requiem/",
+      "date": "2026-10-27"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Artist of the Week: Mirjam Mesak",
+      "url": "https://operawire.com/artist-of-the-week-mirjam-mesak/",
+      "date": "2026-10-27"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Daniela Mack to Perform Debut Solo Album at National Sawdust",
+      "url": "https://operawire.com/daniela-mack-to-perform-debut-solo-album-at-national-sawdust/",
+      "date": "2026-10-26"
     },
     {
       "source": "Slipped Disc",
-      "title": "Aida goes home to Africa",
-      "url": "https://slippedisc.com/2026/10/aida-verdi-south-africa/?utm_source=rss&utm_medium=rss&utm_campaign=aida-verdi-south-africa",
-      "date": "2026-10-25"
+      "title": "Wagner disaster at Deutsche Oper",
+      "url": "https://slippedisc.com/2026/10/wagner-disaster-at-deutsche-oper/?utm_source=rss&utm_medium=rss&utm_campaign=wagner-disaster-at-deutsche-oper",
+      "date": "2026-10-26"
     },
     {
       "source": "OperaWire",
-      "title": "Isabel Leonard & Paulo Szot Lead Carnegie Hall’s ‘On the Town’ Cast",
-      "url": "https://operawire.com/isabel-leonard-paulo-szot-lead-carnegie-halls-on-the-town-cast/",
-      "date": "2026-10-25"
+      "title": "Saioa Hernández, Roberto Alagna, Aleksandra Kurzak, Natalya Romaniw, Eleonora Buratto & Sondra Radvanovsky Lead Metropolitan Opera’s ‘Tosca’ Revival",
+      "url": "https://operawire.com/saioa-hernandez-roberto-alagna-aleksandra-kurzak-natalya-romaniw-eleonora-buratto-sondra-radvanovsky-lead-metropolitan-operas-tosca-revival/",
+      "date": "2026-10-26"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Liceu + to Stream ‘I Capuleti e I Montecchi’ with Lisette Oropesa & Raffaella Lupinacci",
+      "url": "https://operawire.com/liceu-to-stream-i-capuleti-e-i-montecchi-with-lisette-oropesa-raffaella-lupinacci/",
+      "date": "2026-10-26"
+    },
+    {
+      "source": "Parterre Box",
+      "title": "Wait, wait, don’t tell me",
+      "url": "https://parterre.com/2026/10/26/wait-wait-dont-tell-me/",
+      "date": "2026-10-26"
+    },
+    {
+      "source": "Parterre Box",
+      "title": "A favorite mezzo performance from Ben Miller",
+      "url": "https://parterre.com/2026/10/26/a-favorite-mezzo-performance-from-ben-miller/",
+      "date": "2026-10-26"
+    },
+    {
+      "source": "Parterre Box",
+      "title": "A favorite mezzo performance from Camille",
+      "url": "https://parterre.com/2026/10/26/a-favorite-mezzo-performance-from-camille/",
+      "date": "2026-10-26"
     }
   ],
   "schedule_updates": [
-    {
-      "date": "2026-10-26",
-      "house": "伦敦皇家歌剧院",
-      "title": "Manon",
-      "url": "https://www.rbo.org.uk/production/manon-kenneth-macmillan"
-    },
-    {
-      "date": "2026-10-26",
-      "house": "伦敦皇家歌剧院",
-      "title": "Recitals at Lunch",
-      "url": "https://www.rbo.org.uk/production/recitals-at-lunch"
-    },
-    {
-      "date": "2026-10-26",
-      "house": "维也纳国家歌剧院",
-      "title": "Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-26/"
-    },
-    {
-      "date": "2026-10-26",
-      "house": "维也纳国家歌剧院",
-      "title": "Otello (Giuseppe Verdi)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/otello/2026-10-26/"
-    },
-    {
-      "date": "2026-10-26",
-      "house": "苏黎世歌剧院",
-      "title": "Schulworkshop «Alice im Wunderland»",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/"
-    },
-    {
-      "date": "2026-10-26",
-      "house": "芝加哥抒情歌剧院",
-      "title": "Don Pasquale Opera Insights",
-      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/don-pasquale/don-pasquale-opera-insights/"
-    },
-    {
-      "date": "2026-10-26",
-      "house": "悉尼歌剧院",
-      "title": "The Voice of Bryn Terfel",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/voice-bryn-terfel"
-    },
     {
       "date": "2026-10-27",
       "house": "伦敦皇家歌剧院",
@@ -129,6 +123,48 @@
       "house": "旧金山歌剧院",
       "title": "Manon (Jules Massenet)",
       "url": "https://www.sfopera.com/operas/manon/"
+    },
+    {
+      "date": "2026-10-27",
+      "house": "悉尼歌剧院",
+      "title": "Masterclass with Bryn Terfel",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/masterclass-bryn-terfel"
+    },
+    {
+      "date": "2026-10-28",
+      "house": "伦敦皇家歌剧院",
+      "title": "Manon",
+      "url": "https://www.rbo.org.uk/production/manon-kenneth-macmillan"
+    },
+    {
+      "date": "2026-10-28",
+      "house": "伦敦皇家歌剧院",
+      "title": "Barbie | Royal Ballet Pop Up",
+      "url": "https://www.rbo.org.uk/tickets-and-events/festival/barbie-royal-ballet-pop-up-details"
+    },
+    {
+      "date": "2026-10-28",
+      "house": "维也纳国家歌剧院",
+      "title": "L'Orfeo (Claudio Monteverdi)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/lorfeo/2026-10-28/"
+    },
+    {
+      "date": "2026-10-28",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "L'elisir d'amore for children",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/great-performances-for-children-and-family/great-operas-for-children/l-elisir-d-amore-for-children.html"
+    },
+    {
+      "date": "2026-10-28",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Verdi: Requiem Mass / Riccardo Chailly",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/concerts/exceptional-concerts/teatro-alla-scala-orchestra-chorus-requiem-verdi-chailly.html"
+    },
+    {
+      "date": "2026-10-28",
+      "house": "苏黎世歌剧院",
+      "title": "Schulworkshop «Alice im Wunderland»",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/"
     }
   ],
   "artists": [
@@ -213,48 +249,6 @@
   ],
   "upcoming_7": [
     {
-      "date": "2026-10-26",
-      "house": "伦敦皇家歌剧院",
-      "title": "Manon",
-      "url": "https://www.rbo.org.uk/production/manon-kenneth-macmillan"
-    },
-    {
-      "date": "2026-10-26",
-      "house": "伦敦皇家歌剧院",
-      "title": "Recitals at Lunch",
-      "url": "https://www.rbo.org.uk/production/recitals-at-lunch"
-    },
-    {
-      "date": "2026-10-26",
-      "house": "维也纳国家歌剧院",
-      "title": "Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-26/"
-    },
-    {
-      "date": "2026-10-26",
-      "house": "维也纳国家歌剧院",
-      "title": "Otello (Giuseppe Verdi)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/otello/2026-10-26/"
-    },
-    {
-      "date": "2026-10-26",
-      "house": "苏黎世歌剧院",
-      "title": "Schulworkshop «Alice im Wunderland»",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/"
-    },
-    {
-      "date": "2026-10-26",
-      "house": "芝加哥抒情歌剧院",
-      "title": "Don Pasquale Opera Insights",
-      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/don-pasquale/don-pasquale-opera-insights/"
-    },
-    {
-      "date": "2026-10-26",
-      "house": "悉尼歌剧院",
-      "title": "The Voice of Bryn Terfel",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/voice-bryn-terfel"
-    },
-    {
       "date": "2026-10-27",
       "house": "伦敦皇家歌剧院",
       "title": "Friends Rehearsals",
@@ -301,6 +295,48 @@
       "house": "旧金山歌剧院",
       "title": "Manon (Jules Massenet)",
       "url": "https://www.sfopera.com/operas/manon/"
+    },
+    {
+      "date": "2026-10-27",
+      "house": "悉尼歌剧院",
+      "title": "Masterclass with Bryn Terfel",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/masterclass-bryn-terfel"
+    },
+    {
+      "date": "2026-10-28",
+      "house": "伦敦皇家歌剧院",
+      "title": "Manon",
+      "url": "https://www.rbo.org.uk/production/manon-kenneth-macmillan"
+    },
+    {
+      "date": "2026-10-28",
+      "house": "伦敦皇家歌剧院",
+      "title": "Barbie | Royal Ballet Pop Up",
+      "url": "https://www.rbo.org.uk/tickets-and-events/festival/barbie-royal-ballet-pop-up-details"
+    },
+    {
+      "date": "2026-10-28",
+      "house": "维也纳国家歌剧院",
+      "title": "L'Orfeo (Claudio Monteverdi)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/lorfeo/2026-10-28/"
+    },
+    {
+      "date": "2026-10-28",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "L'elisir d'amore for children",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/great-performances-for-children-and-family/great-operas-for-children/l-elisir-d-amore-for-children.html"
+    },
+    {
+      "date": "2026-10-28",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Verdi: Requiem Mass / Riccardo Chailly",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/concerts/exceptional-concerts/teatro-alla-scala-orchestra-chorus-requiem-verdi-chailly.html"
+    },
+    {
+      "date": "2026-10-28",
+      "house": "苏黎世歌剧院",
+      "title": "Schulworkshop «Alice im Wunderland»",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/"
     }
   ]
 }
