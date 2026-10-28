@@ -1,66 +1,12 @@
 {
-  "updated_at": "2026-10-27T05:57:48+00:00",
+  "updated_at": "2026-10-28T06:35:38+00:00",
   "stats": {
     "houses": 14,
-    "performances": 988,
+    "performances": 980,
     "news": 300,
     "artists": 8
   },
   "upcoming_30": [
-    {
-      "date": "2026-10-27",
-      "house": "伦敦皇家歌剧院",
-      "title": "Friends Rehearsals",
-      "url": "https://www.rbo.org.uk/production/friends-rehearsals"
-    },
-    {
-      "date": "2026-10-27",
-      "house": "伦敦皇家歌剧院",
-      "title": "Manon",
-      "url": "https://www.rbo.org.uk/production/manon-kenneth-macmillan"
-    },
-    {
-      "date": "2026-10-27",
-      "house": "维也纳国家歌剧院",
-      "title": "John Neumeier Nijinsky (John Neumeier)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/nijinsky/2026-10-27/"
-    },
-    {
-      "date": "2026-10-27",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Charles Gounod Faust (Charles Gounod)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/faust.html"
-    },
-    {
-      "date": "2026-10-27",
-      "house": "巴黎歌剧院",
-      "title": "« Rire et pleurer avec la musique d’Isabelle Aboulker »",
-      "url": "https://www.operadeparis.fr/saison-26-27/concert-et-recital/rire-et-pleurer-avec-la-musique-disabelle-aboulker"
-    },
-    {
-      "date": "2026-10-27",
-      "house": "苏黎世歌剧院",
-      "title": "Schulworkshop «Alice im Wunderland»",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/"
-    },
-    {
-      "date": "2026-10-27",
-      "house": "苏黎世歌剧院",
-      "title": "open space stimme",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/open-space-stimme/"
-    },
-    {
-      "date": "2026-10-27",
-      "house": "旧金山歌剧院",
-      "title": "Jules Massenet Manon (Jules Massenet)",
-      "url": "https://www.sfopera.com/operas/manon/"
-    },
-    {
-      "date": "2026-10-27",
-      "house": "悉尼歌剧院",
-      "title": "Masterclass with Bryn Terfel",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/masterclass-bryn-terfel"
-    },
     {
       "date": "2026-10-28",
       "house": "伦敦皇家歌剧院",
@@ -486,6 +432,60 @@
       "house": "苏黎世歌剧院",
       "title": "Schulworkshop «Alice im Wunderland»",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/"
+    },
+    {
+      "date": "2026-11-04",
+      "house": "苏黎世歌剧院",
+      "title": "open space tanz",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/open-space-tanz/"
+    },
+    {
+      "date": "2026-11-04",
+      "house": "苏黎世歌剧院",
+      "title": "Rachmaninow – Die drei Opern",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/rachmaninov-die-drei-opern/"
+    },
+    {
+      "date": "2026-11-05",
+      "house": "伦敦皇家歌剧院",
+      "title": "Manon",
+      "url": "https://www.rbo.org.uk/production/manon-kenneth-macmillan"
+    },
+    {
+      "date": "2026-11-05",
+      "house": "维也纳国家歌剧院",
+      "title": "Giuseppe Verdi Otello (Giuseppe Verdi)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/otello/2026-11-05/"
+    },
+    {
+      "date": "2026-11-05",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Charles Gounod Faust (Charles Gounod)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/faust.html"
+    },
+    {
+      "date": "2026-11-05",
+      "house": "巴黎歌剧院",
+      "title": "Concert-rencontre du 5 novembre",
+      "url": "https://www.operadeparis.fr/saison-26-27/concert-et-recital/concert-rencontre-du-5-novembre"
+    },
+    {
+      "date": "2026-11-05",
+      "house": "苏黎世歌剧院",
+      "title": "Schulworkshop «Alice im Wunderland»",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/"
+    },
+    {
+      "date": "2026-11-06",
+      "house": "伦敦皇家歌剧院",
+      "title": "Manon",
+      "url": "https://www.rbo.org.uk/production/manon-kenneth-macmillan"
+    },
+    {
+      "date": "2026-11-06",
+      "house": "维也纳国家歌剧院",
+      "title": "Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-11-06/"
     }
   ]
 }
