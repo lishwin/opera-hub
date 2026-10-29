@@ -1,78 +1,12 @@
 {
-  "updated_at": "2026-10-28T06:35:38+00:00",
+  "updated_at": "2026-10-29T06:44:58+00:00",
   "stats": {
     "houses": 14,
-    "performances": 980,
+    "performances": 973,
     "news": 300,
     "artists": 8
   },
   "upcoming_30": [
-    {
-      "date": "2026-10-28",
-      "house": "伦敦皇家歌剧院",
-      "title": "Manon",
-      "url": "https://www.rbo.org.uk/production/manon-kenneth-macmillan"
-    },
-    {
-      "date": "2026-10-28",
-      "house": "伦敦皇家歌剧院",
-      "title": "Barbie | Royal Ballet Pop Up",
-      "url": "https://www.rbo.org.uk/tickets-and-events/festival/barbie-royal-ballet-pop-up-details"
-    },
-    {
-      "date": "2026-10-28",
-      "house": "维也纳国家歌剧院",
-      "title": "Claudio Monteverdi L'Orfeo (Claudio Monteverdi)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/lorfeo/2026-10-28/"
-    },
-    {
-      "date": "2026-10-28",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "L'elisir d'amore for children",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/great-performances-for-children-and-family/great-operas-for-children/l-elisir-d-amore-for-children.html"
-    },
-    {
-      "date": "2026-10-28",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Verdi: Requiem Mass / Riccardo Chailly",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/concerts/exceptional-concerts/teatro-alla-scala-orchestra-chorus-requiem-verdi-chailly.html"
-    },
-    {
-      "date": "2026-10-28",
-      "house": "苏黎世歌剧院",
-      "title": "Schulworkshop «Alice im Wunderland»",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/"
-    },
-    {
-      "date": "2026-10-28",
-      "house": "苏黎世歌剧院",
-      "title": "open space tanz",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/open-space-tanz/"
-    },
-    {
-      "date": "2026-10-28",
-      "house": "苏黎世歌剧院",
-      "title": "Cathy Marston Ein Sommer­nachtstraum (Cathy Marston)",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/ein-sommernachtstraum/"
-    },
-    {
-      "date": "2026-10-28",
-      "house": "芝加哥抒情歌剧院",
-      "title": "Omar",
-      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/Omar/"
-    },
-    {
-      "date": "2026-10-28",
-      "house": "悉尼歌剧院",
-      "title": "Open Rehearsal with Simone Young",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/open-rehearsal-simone-young"
-    },
-    {
-      "date": "2026-10-28",
-      "house": "悉尼歌剧院",
-      "title": "Sarah Grunstein",
-      "url": "https://www.sydneyoperahouse.com/classical-music/sarah-grunstein-bach-goldberg-variations"
-    },
     {
       "date": "2026-10-29",
       "house": "伦敦皇家歌剧院",
@@ -486,6 +420,72 @@
       "house": "维也纳国家歌剧院",
       "title": "Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch)",
       "url": "https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-11-06/"
+    },
+    {
+      "date": "2026-11-06",
+      "house": "维也纳国家歌剧院",
+      "title": "John Neumeier Nijinsky (John Neumeier)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/nijinsky/2026-11-06/"
+    },
+    {
+      "date": "2026-11-06",
+      "house": "巴黎歌剧院",
+      "title": "L’Or du Rhin (Festival RING) — Richard Wagner",
+      "url": "https://www.operadeparis.fr/saison-26-27/opera/lor-du-rhin"
+    },
+    {
+      "date": "2026-11-06",
+      "house": "苏黎世歌剧院",
+      "title": "Schulworkshop «Alice im Wunderland»",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/"
+    },
+    {
+      "date": "2026-11-06",
+      "house": "旧金山歌剧院",
+      "title": "Strauss in Concert",
+      "url": "https://www.sfopera.com/seasons/fall-concert/"
+    },
+    {
+      "date": "2026-11-06",
+      "house": "悉尼歌剧院",
+      "title": "Simone Young conducts Mozart & Bach",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/simone-young-mozart-bach"
+    },
+    {
+      "date": "2026-11-07",
+      "house": "伦敦皇家歌剧院",
+      "title": "Manon",
+      "url": "https://www.rbo.org.uk/production/manon-kenneth-macmillan"
+    },
+    {
+      "date": "2026-11-07",
+      "house": "维也纳国家歌剧院",
+      "title": "Open Adult Ballet Class",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/open-adult-ballet-class/2026-11-07/"
+    },
+    {
+      "date": "2026-11-07",
+      "house": "维也纳国家歌剧院",
+      "title": "Gaetano Donizetti La Fille du régiment (Gaetano Donizetti)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/la-fille-du-regiment/2026-11-07/"
+    },
+    {
+      "date": "2026-11-07",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "George Balanchine / Pina Bausch Balanchine Bausch Stravinsky (George Balanchine / Pina Bausch)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/ballet/balanchine-bausch-stravinsky.html"
+    },
+    {
+      "date": "2026-11-07",
+      "house": "巴黎歌剧院",
+      "title": "La Walkyrie (Festival RING) — Richard Wagner",
+      "url": "https://www.operadeparis.fr/saison-26-27/opera/la-walkyrie"
+    },
+    {
+      "date": "2026-11-07",
+      "house": "苏黎世歌剧院",
+      "title": "Workshop für Familien «Alice im Wunderland»",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/familien-workshop-alice-im-wunderland/"
     }
   ]
 }
