@@ -1,33 +1,43 @@
-📰 歌剧日报 · 2026-10-29
+📰 歌剧日报 · 2026-10-30
 
 ▍今日要闻
-- Julia Bullock Headlines Boston Modern Orchestra Project’s Opening Season Concert ｜ OperaWire  https://operawire.com/julia-bullock-headlines-boston-modern-orchestra-projects-opening-season-concert/
-- Irish National Opera 2026-27 Review: Testament ｜ OperaWire  https://operawire.com/irish-national-opera-2026-27-review-testament/
-- You Know Rossini and Bellini. What About Carolina Uccelli? ｜ OperaWire  https://operawire.com/you-know-rossini-and-bellini-what-about-carolina-uccelli/
-- Angelo Taddeo Named International Artistic Consultant of Florida Grand Opera ｜ OperaWire  https://operawire.com/angelo-taddeo-named-international-artistic-consultant-of-florida-grand-opera/
-- Kamala Sankaram Issues Statement Regarding Postponement of ‘The Many Deaths of Laila Starr’ ｜ OperaWire  https://operawire.com/kamala-sankaram-issues-statement-regarding-postponement-of-the-many-deaths-of-laila-starr/
-- Cast Change: Anna Pirozzi Joins Bayerische Staatsoper’s ‘Un Ballo in Maschera’ ｜ OperaWire  https://operawire.com/cast-change-anna-pirozzi-joins-bayerische-staatsopers-un-ballo-in-maschera/
-- Musicians of the Minnesota Opera Orchestra Release Statement Following Postponement of ‘The Many Deaths of Laila Starr’ ｜ OperaWire  https://operawire.com/musicians-of-the-minnesota-opera-orchestra-release-statement-following-postponement-of-the-many-deaths-of-laila-starr/
-- Lipsync for your life ｜ Parterre Box  https://parterre.com/2026/10/28/lipsync-for-your-life/
-- A favorite mezzo performance from Ryan Ellermann ｜ Parterre Box  https://parterre.com/2026/10/28/a-favorite-mezzo-performance-from-ryan-ellermann/
-- Conductor walks off in mid-symphony ｜ Slipped Disc  https://slippedisc.com/2026/10/conductor-walks-off-in-mid-symphony/?utm_source=rss&utm_medium=rss&utm_campaign=conductor-walks-off-in-mid-symphony
+- Unseen Rossini: Wexford’s bizarre misunderstanding ｜ Slipped Disc  https://slippedisc.com/2026/10/unseen-rossini-wexfords-bizarre-misunderstanding/?utm_source=rss&utm_medium=rss&utm_campaign=unseen-rossini-wexfords-bizarre-misunderstanding
+- Vancouver Opera 2026-27 Review: Tosca ｜ OperaWire  https://operawire.com/vancouver-opera-2026-27-review-tosca/
+- Italian maestro, 88 ｜ Slipped Disc  https://slippedisc.com/2026/10/italian-maestro-88/?utm_source=rss&utm_medium=rss&utm_campaign=italian-maestro-88
+- From Opera Greats to New Works, Here’s a Dia de Los Muertos Playlist of Classical Compositions for Grievers & Rememberers ｜ OperaWire  https://operawire.com/from-opera-greats-to-new-works-heres-a-dia-de-los-muertos-playlist-of-classical-compositions-for-grievers-rememberers/
+- Opera Index Announces 2026 Vocal Competition Winners ｜ OperaWire  https://operawire.com/opera-index-announces-2026-vocal-competition-winners/
+- Lyric Fest to Present ‘An die Nacht’ ｜ OperaWire  https://operawire.com/lyric-fest-to-present-an-die-nacht/
+- The Barbican to Present UK premiere of ‘Burmese Days’ ｜ OperaWire  https://operawire.com/the-barbican-to-present-uk-premiere-of-burmese-days/
+- The Mozartists Announce Five New Associate Artists ｜ OperaWire  https://operawire.com/the-mozartists-announce-five-new-associate-artists/
+- EastWest Artistry NYC to Present ‘Salon de Lumière’ ｜ OperaWire  https://operawire.com/eastwest-artistry-nyc-to-present-salon-de-lumiere/
+- The American Prize Announces 2026 Winners ｜ OperaWire  https://operawire.com/the-american-prize-announces-2026-winners/
+- Zoe McCormick Wins Top Prize at Canadian Opera Company’s Centre Stage: Ensemble Studio Competition ｜ OperaWire  https://operawire.com/zoe-mccormick-wins-top-prize-at-canadian-opera-companys-centre-stage-ensemble-studio-competition/
+- Artists in residence ｜ Parterre Box  https://parterre.com/2026/10/29/artists-in-residence/
+- Mother courage ｜ Parterre Box  https://parterre.com/2026/10/29/mother-courage/
+- Another favorite mezzo performance from Mr. Portafiori ｜ Parterre Box  https://parterre.com/2026/10/29/109448/
 
 ▍排期更新
-- 2026-10-29 伦敦皇家歌剧院：Carmen  https://www.rbo.org.uk/production/carmen-damiano-michieletto
-- 2026-10-29 伦敦皇家歌剧院：Insights: The Royal Ballet in Rehearsal  https://www.rbo.org.uk/production/insights-the-royal-ballet-in-rehearsal
-- 2026-10-29 伦敦皇家歌剧院：World Ballet Day  https://www.rbo.org.uk/tickets-and-events/world-ballet-day-details
-- 2026-10-29 伦敦皇家歌剧院：Barbie | Royal Ballet Pop Up  https://www.rbo.org.uk/tickets-and-events/festival/barbie-royal-ballet-pop-up-details
-- 2026-10-29 维也纳国家歌剧院：Otello (Giuseppe Verdi)  https://www.wiener-staatsoper.at/en/calendar/detail/otello/2026-10-29/
-- 2026-10-29 米兰斯卡拉歌剧院：Faust (Charles Gounod)  https://www.teatroallascala.org/en/season/2025-2026/opera/faust.html
-- 2026-10-29 苏黎世歌剧院：Schulworkshop «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/
-- 2026-10-29 苏黎世歌剧院：Ein Sommer­nachtstraum (Cathy Marston)  https://www.opernhaus.ch/spielplan/kalendarium/ein-sommernachtstraum/
-- 2026-10-29 悉尼歌剧院：Particles of Light  https://www.sydneyoperahouse.com/classical-music/particles-light
 - 2026-10-30 伦敦皇家歌剧院：Manon  https://www.rbo.org.uk/production/manon-kenneth-macmillan
 - 2026-10-30 伦敦皇家歌剧院：Barbie | Royal Ballet Pop Up  https://www.rbo.org.uk/tickets-and-events/festival/barbie-royal-ballet-pop-up-details
 - 2026-10-30 维也纳国家歌剧院：Nijinsky (John Neumeier)  https://www.wiener-staatsoper.at/en/calendar/detail/nijinsky/2026-10-30/
 - 2026-10-30 米兰斯卡拉歌剧院：Verdi: Requiem Mass / Riccardo Chailly  https://www.teatroallascala.org/en/season/2025-2026/concerts/exceptional-concerts/teatro-alla-scala-orchestra-chorus-requiem-verdi-chailly.html
 - 2026-10-30 苏黎世歌剧院：Schulworkshop «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/
 - 2026-10-30 苏黎世歌剧院：Die Zauberflöte (Wolfgang Amadeus Mozart)  https://www.opernhaus.ch/spielplan/kalendarium/die-zauberfloete-1/
+- 2026-10-30 芝加哥抒情歌剧院：Don Giovanni  https://www.lyricopera.org/shows/upcoming/2026-27/don-giovanni/
+- 2026-10-30 旧金山歌剧院：Manon (Jules Massenet)  https://www.sfopera.com/operas/manon/
+- 2026-10-30 悉尼歌剧院：Mendelssohn’s Elijah with Bryn Terfel  https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/mendelssohn-elijah-bryn-terfel
+- 2026-10-31 伦敦皇家歌剧院：Carmen  https://www.rbo.org.uk/production/carmen-damiano-michieletto
+- 2026-10-31 伦敦皇家歌剧院：Barbie | Royal Ballet Pop Up  https://www.rbo.org.uk/tickets-and-events/festival/barbie-royal-ballet-pop-up-details
+- 2026-10-31 维也纳国家歌剧院：Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,
+        
+    
+
+    
+        
+            Gerald  Resch)  https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-31/
+- 2026-10-31 维也纳国家歌剧院：L'Orfeo (Claudio Monteverdi)  https://www.wiener-staatsoper.at/en/calendar/detail/lorfeo/2026-10-31/
+- 2026-10-31 巴黎歌剧院：Répétition publique : Junior Ballet  https://www.operadeparis.fr/saison-26-27/repetition/repetition-publique-junior-ballet-1
+- 2026-10-31 苏黎世歌剧院：Workshop für Familien «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/familien-workshop-alice-im-wunderland/
 
 ▍艺术家动态
 - 基里尔·别特连科（指挥）
@@ -45,18 +55,24 @@
   · Piotr Beczała  https://www.operadeparis.fr/saison-26-27/concert-et-recital/recital-piotr-beczala
 
 ▍未来 7 天值得关注
-- 2026-10-29 伦敦皇家歌剧院：Carmen  https://www.rbo.org.uk/production/carmen-damiano-michieletto
-- 2026-10-29 伦敦皇家歌剧院：Insights: The Royal Ballet in Rehearsal  https://www.rbo.org.uk/production/insights-the-royal-ballet-in-rehearsal
-- 2026-10-29 伦敦皇家歌剧院：World Ballet Day  https://www.rbo.org.uk/tickets-and-events/world-ballet-day-details
-- 2026-10-29 伦敦皇家歌剧院：Barbie | Royal Ballet Pop Up  https://www.rbo.org.uk/tickets-and-events/festival/barbie-royal-ballet-pop-up-details
-- 2026-10-29 维也纳国家歌剧院：Otello (Giuseppe Verdi)  https://www.wiener-staatsoper.at/en/calendar/detail/otello/2026-10-29/
-- 2026-10-29 米兰斯卡拉歌剧院：Faust (Charles Gounod)  https://www.teatroallascala.org/en/season/2025-2026/opera/faust.html
-- 2026-10-29 苏黎世歌剧院：Schulworkshop «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/
-- 2026-10-29 苏黎世歌剧院：Ein Sommer­nachtstraum (Cathy Marston)  https://www.opernhaus.ch/spielplan/kalendarium/ein-sommernachtstraum/
-- 2026-10-29 悉尼歌剧院：Particles of Light  https://www.sydneyoperahouse.com/classical-music/particles-light
 - 2026-10-30 伦敦皇家歌剧院：Manon  https://www.rbo.org.uk/production/manon-kenneth-macmillan
 - 2026-10-30 伦敦皇家歌剧院：Barbie | Royal Ballet Pop Up  https://www.rbo.org.uk/tickets-and-events/festival/barbie-royal-ballet-pop-up-details
 - 2026-10-30 维也纳国家歌剧院：Nijinsky (John Neumeier)  https://www.wiener-staatsoper.at/en/calendar/detail/nijinsky/2026-10-30/
 - 2026-10-30 米兰斯卡拉歌剧院：Verdi: Requiem Mass / Riccardo Chailly  https://www.teatroallascala.org/en/season/2025-2026/concerts/exceptional-concerts/teatro-alla-scala-orchestra-chorus-requiem-verdi-chailly.html
 - 2026-10-30 苏黎世歌剧院：Schulworkshop «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/
 - 2026-10-30 苏黎世歌剧院：Die Zauberflöte (Wolfgang Amadeus Mozart)  https://www.opernhaus.ch/spielplan/kalendarium/die-zauberfloete-1/
+- 2026-10-30 芝加哥抒情歌剧院：Don Giovanni  https://www.lyricopera.org/shows/upcoming/2026-27/don-giovanni/
+- 2026-10-30 旧金山歌剧院：Manon (Jules Massenet)  https://www.sfopera.com/operas/manon/
+- 2026-10-30 悉尼歌剧院：Mendelssohn’s Elijah with Bryn Terfel  https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/mendelssohn-elijah-bryn-terfel
+- 2026-10-31 伦敦皇家歌剧院：Carmen  https://www.rbo.org.uk/production/carmen-damiano-michieletto
+- 2026-10-31 伦敦皇家歌剧院：Barbie | Royal Ballet Pop Up  https://www.rbo.org.uk/tickets-and-events/festival/barbie-royal-ballet-pop-up-details
+- 2026-10-31 维也纳国家歌剧院：Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,
+        
+    
+
+    
+        
+            Gerald  Resch)  https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-10-31/
+- 2026-10-31 维也纳国家歌剧院：L'Orfeo (Claudio Monteverdi)  https://www.wiener-staatsoper.at/en/calendar/detail/lorfeo/2026-10-31/
+- 2026-10-31 巴黎歌剧院：Répétition publique : Junior Ballet  https://www.operadeparis.fr/saison-26-27/repetition/repetition-publique-junior-ballet-1
+- 2026-10-31 苏黎世歌剧院：Workshop für Familien «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/familien-workshop-alice-im-wunderland/
