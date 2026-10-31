@@ -1,66 +1,12 @@
 {
-  "updated_at": "2026-10-30T06:46:09+00:00",
+  "updated_at": "2026-10-31T06:34:13+00:00",
   "stats": {
     "houses": 14,
-    "performances": 966,
+    "performances": 959,
     "news": 300,
     "artists": 8
   },
   "upcoming_30": [
-    {
-      "date": "2026-10-30",
-      "house": "伦敦皇家歌剧院",
-      "title": "Manon",
-      "url": "https://www.rbo.org.uk/production/manon-kenneth-macmillan"
-    },
-    {
-      "date": "2026-10-30",
-      "house": "伦敦皇家歌剧院",
-      "title": "Barbie | Royal Ballet Pop Up",
-      "url": "https://www.rbo.org.uk/tickets-and-events/festival/barbie-royal-ballet-pop-up-details"
-    },
-    {
-      "date": "2026-10-30",
-      "house": "维也纳国家歌剧院",
-      "title": "John Neumeier Nijinsky (John Neumeier)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/nijinsky/2026-10-30/"
-    },
-    {
-      "date": "2026-10-30",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Verdi: Requiem Mass / Riccardo Chailly",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/concerts/exceptional-concerts/teatro-alla-scala-orchestra-chorus-requiem-verdi-chailly.html"
-    },
-    {
-      "date": "2026-10-30",
-      "house": "苏黎世歌剧院",
-      "title": "Schulworkshop «Alice im Wunderland»",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/"
-    },
-    {
-      "date": "2026-10-30",
-      "house": "苏黎世歌剧院",
-      "title": "Wolfgang Amadeus Mozart Die Zauberflöte (Wolfgang Amadeus Mozart)",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/die-zauberfloete-1/"
-    },
-    {
-      "date": "2026-10-30",
-      "house": "芝加哥抒情歌剧院",
-      "title": "Don Giovanni",
-      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/don-giovanni/"
-    },
-    {
-      "date": "2026-10-30",
-      "house": "旧金山歌剧院",
-      "title": "Jules Massenet Manon (Jules Massenet)",
-      "url": "https://www.sfopera.com/operas/manon/"
-    },
-    {
-      "date": "2026-10-30",
-      "house": "悉尼歌剧院",
-      "title": "Mendelssohn’s Elijah with Bryn Terfel",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/mendelssohn-elijah-bryn-terfel"
-    },
     {
       "date": "2026-10-31",
       "house": "伦敦皇家歌剧院",
@@ -90,6 +36,12 @@
       "house": "巴黎歌剧院",
       "title": "Répétition publique : Junior Ballet",
       "url": "https://www.operadeparis.fr/saison-26-27/repetition/repetition-publique-junior-ballet-1"
+    },
+    {
+      "date": "2026-10-31",
+      "house": "慕尼黑巴伐利亚国家歌剧院",
+      "title": "Giuseppe Verdi UN BALLO IN MASCHERA (Giuseppe Verdi)",
+      "url": "https://www.staatsoper.de/stuecke/un-ballo-in-maschera/2026-10-31-1900-16125"
     },
     {
       "date": "2026-10-31",
@@ -486,6 +438,54 @@
       "house": "维也纳国家歌剧院",
       "title": "Giuseppe Verdi Otello (Giuseppe Verdi)",
       "url": "https://www.wiener-staatsoper.at/en/calendar/detail/otello/2026-11-08/"
+    },
+    {
+      "date": "2026-11-08",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Charles Gounod Faust (Charles Gounod)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/faust.html"
+    },
+    {
+      "date": "2026-11-08",
+      "house": "苏黎世歌剧院",
+      "title": "Pierangelo Valtinoni Alice im Wunderland (Pierangelo Valtinoni)",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/alice-im-wunderland/"
+    },
+    {
+      "date": "2026-11-08",
+      "house": "苏黎世歌剧院",
+      "title": "Workshop für Familien «Alice im Wunderland»",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/familien-workshop-alice-im-wunderland/"
+    },
+    {
+      "date": "2026-11-08",
+      "house": "苏黎世歌剧院",
+      "title": "Rachmaninow – Die drei Opern",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/rachmaninov-die-drei-opern/"
+    },
+    {
+      "date": "2026-11-08",
+      "house": "萨尔茨堡音乐节",
+      "title": "La nuda voce — Klangforum Wien · Pomàrico (2026)",
+      "url": "https://www.salzburgerfestspiele.at/p/la-nuda-voce-pomarico-2026"
+    },
+    {
+      "date": "2026-11-08",
+      "house": "悉尼歌剧院",
+      "title": "Simone Young conducts Mozart & Bach",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/simone-young-mozart-bach"
+    },
+    {
+      "date": "2026-11-08",
+      "house": "悉尼歌剧院",
+      "title": "48th Suzuki Graduation Piano Recitals",
+      "url": "https://www.sydneyoperahouse.com/classical-music/48th-suzuki-graduation-piano-recitals"
+    },
+    {
+      "date": "2026-11-08",
+      "house": "悉尼歌剧院",
+      "title": "Mischa Maisky",
+      "url": "https://www.sydneyoperahouse.com/classical-music/mischa-maisky"
     }
   ]
 }
