@@ -1,33 +1,16 @@
-📰 歌剧日报 · 2026-11-01
+📰 歌剧日报 · 2026-11-02
 
 ▍今日要闻
-- Resonance Works to Present ‘The Little Prince’ ｜ OperaWire  https://operawire.com/resonance-works-to-present-the-little-prince/
-- Juilliard Opera to Present a Double Bill of Rossini’s ‘La scala di seta’ & Rota’s ‘I due timidi’ ｜ OperaWire  https://operawire.com/juilliard-opera-to-present-a-double-bill-of-rossinis-la-scala-di-seta-rotas-i-due-timidi/
-- Cast Change: Maria Teresa Leva joins Lucerne’s Verdi Requiem ｜ OperaWire  https://operawire.com/cast-change-maria-teresa-leva-joins-lucernes-verdi-requiem/
-- Obituary: Spanish Composer Marisa Manchado Dies at 70 ｜ OperaWire  https://operawire.com/obituary-spanish-composer-marisa-manchado-dies-at-70/
-- Nuova Consonanza Festival Unveils 2026 Season ｜ OperaWire  https://operawire.com/nuova-consonanza-festival-unveils-2026-season/
-- Cast Change: Santiago Ballerini Replaces Pavel Breslik as Romeo in Teatro de La Maestranza in Sevilla’s ‘Romeo et Juliette’ ｜ OperaWire  https://operawire.com/cast-change-santiago-ballerini-replaces-pavel-breslik-as-romeo-in-teatro-de-la-maestranza-in-sevillas-romeo-et-juliette/
-- A favorite mezzo performance from Damian ｜ Parterre Box  https://parterre.com/2026/10/31/a-favorite-mezzo-performance-from-damian/
-- The BBC Symphony and Stasevska Deliver a London Premiere at the Barbican ｜ Opera Today  https://operatoday.com/2026/10/the-bbc-symphony-and-stasevska-deliver-a-london-premiere-at-the-barbican/
+- Zachary Fisher Wins 13th Biennial Bach Vocal Competition for American Singers ｜ OperaWire  https://operawire.com/zachary-fisher-wins-13th-biennial-bach-vocal-competition-for-american-singers/
+- Cape Town Opera Announces 2027 Season ｜ OperaWire  https://operawire.com/cape-town-opera-announces-2027-season/
+- Cast Change: Kathleen O’Mara to Perform in San Francisco Opera’s ‘Strauss in Concert’ ｜ OperaWire  https://operawire.com/cast-change-kathleen-omara-to-perform-in-san-francisco-operas-strauss-in-concert/
+- Teatr Wielki Warsaw 2026-27 Review: The Mothers of Kherson ｜ OperaWire  https://operawire.com/teatr-wielki-warsaw-2026-27-review-the-mothers-of-kherson/
+- Emma Marhefka & Vladyslav Buialskyi Win Top Prizes at Operalia Competition ｜ OperaWire  https://operawire.com/emma-marhefka-vladyslav-buialskyi-win-top-prizes-at-operalia-competition/
+- Metropolitan Opera 2026-27 Review: Medea ｜ OperaWire  https://operawire.com/metropolitan-opera-2026-27-review-medea/
+- Mantua man ｜ Parterre Box  https://parterre.com/2026/11/01/mantua-man/
+- La bohème is better in translation ｜ Parterre Box  https://parterre.com/2026/11/01/la-boheme-is-better-in-translation/
 
 ▍排期更新
-- 2026-11-01 伦敦皇家歌剧院：Dish from Waitrose  https://www.rbo.org.uk/production/dish-from-waitrose
-- 2026-11-01 维也纳国家歌剧院：Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,
-        
-    
-
-    
-        
-            Gerald  Resch)  https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-11-01/
-- 2026-11-01 维也纳国家歌剧院：La Fille du régiment (Gaetano Donizetti)  https://www.wiener-staatsoper.at/en/calendar/detail/la-fille-du-regiment/2026-11-01/
-- 2026-11-01 苏黎世歌剧院：3. Kammerkonzert  https://www.opernhaus.ch/spielplan/kalendarium/kammerkonzert-3/
-- 2026-11-01 苏黎世歌剧院：Workshop für Familien «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/familien-workshop-alice-im-wunderland/
-- 2026-11-01 苏黎世歌剧院：Rachmaninow – Die drei Opern  https://www.opernhaus.ch/spielplan/kalendarium/rachmaninov-die-drei-opern/
-- 2026-11-01 芝加哥抒情歌剧院：Don Giovanni  https://www.lyricopera.org/shows/upcoming/2026-27/don-giovanni/
-- 2026-11-01 芝加哥抒情歌剧院：Earth to Kenzie  https://www.lyricopera.org/shows/upcoming/2026-27/earth-to-kenzie/
-- 2026-11-01 旧金山歌剧院：Manon (Jules Massenet)  https://www.sfopera.com/operas/manon/
-- 2026-11-01 悉尼歌剧院：Suzuki 48th Annual Graduation Concert  https://www.sydneyoperahouse.com/classical-music/suzuki-48th-annual-graduation-concert
-- 2026-11-01 悉尼歌剧院：Australian Guitar Quartet  https://www.sydneyoperahouse.com/utzon-music-2026/australian-guitar-quartet
 - 2026-11-02 伦敦皇家歌剧院：Carmen  https://www.rbo.org.uk/production/carmen-damiano-michieletto
 - 2026-11-02 伦敦皇家歌剧院：Recitals at Lunch  https://www.rbo.org.uk/production/recitals-at-lunch
 - 2026-11-02 伦敦皇家歌剧院：Tea Dance  https://www.rbo.org.uk/tickets-and-events/tea-dance-dates
@@ -38,6 +21,17 @@
     
         
             Gerald  Resch)  https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-11-02/
+- 2026-11-02 维也纳国家歌剧院：Otello (Giuseppe Verdi)  https://www.wiener-staatsoper.at/en/calendar/detail/otello/2026-11-02/
+- 2026-11-02 米兰斯卡拉歌剧院：Stelle di oggi e di domani - Fondazione Francesca Rava N.P.H. Italia Onlus  https://www.teatroallascala.org/en/season/2026-2027/concerts/charity-events/stelle-di-oggi-e-di-domani-fondazione-francesca-rava-n-p-h-italia-onlus.html
+- 2026-11-02 苏黎世歌剧院：Schulworkshop «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/
+- 2026-11-02 苏黎世歌剧院：3. Kammerkonzert  https://www.opernhaus.ch/spielplan/kalendarium/kammerkonzert-3/
+- 2026-11-03 伦敦皇家歌剧院：Carmen  https://www.rbo.org.uk/production/carmen-damiano-michieletto
+- 2026-11-03 伦敦皇家歌剧院：Madam  https://www.rbo.org.uk/production/madam
+- 2026-11-03 维也纳国家歌剧院：L'Orfeo (Claudio Monteverdi)  https://www.wiener-staatsoper.at/en/calendar/detail/lorfeo/2026-11-03/
+- 2026-11-03 米兰斯卡拉歌剧院：Faust (Charles Gounod)  https://www.teatroallascala.org/en/season/2025-2026/opera/faust.html
+- 2026-11-03 苏黎世歌剧院：Schulworkshop «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/
+- 2026-11-03 苏黎世歌剧院：open space stimme  https://www.opernhaus.ch/spielplan/kalendarium/open-space-stimme/
+- 2026-11-03 旧金山歌剧院：The Marriage of Figaro (Wolfgang Amadeus Mozart)  https://www.sfopera.com/operas/the-marriage-of-figaro/
 
 ▍艺术家动态
 - 基里尔·别特连科（指挥）
@@ -55,23 +49,6 @@
   · Piotr Beczała  https://www.operadeparis.fr/saison-26-27/concert-et-recital/recital-piotr-beczala
 
 ▍未来 7 天值得关注
-- 2026-11-01 伦敦皇家歌剧院：Dish from Waitrose  https://www.rbo.org.uk/production/dish-from-waitrose
-- 2026-11-01 维也纳国家歌剧院：Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,
-        
-    
-
-    
-        
-            Gerald  Resch)  https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-11-01/
-- 2026-11-01 维也纳国家歌剧院：La Fille du régiment (Gaetano Donizetti)  https://www.wiener-staatsoper.at/en/calendar/detail/la-fille-du-regiment/2026-11-01/
-- 2026-11-01 苏黎世歌剧院：3. Kammerkonzert  https://www.opernhaus.ch/spielplan/kalendarium/kammerkonzert-3/
-- 2026-11-01 苏黎世歌剧院：Workshop für Familien «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/familien-workshop-alice-im-wunderland/
-- 2026-11-01 苏黎世歌剧院：Rachmaninow – Die drei Opern  https://www.opernhaus.ch/spielplan/kalendarium/rachmaninov-die-drei-opern/
-- 2026-11-01 芝加哥抒情歌剧院：Don Giovanni  https://www.lyricopera.org/shows/upcoming/2026-27/don-giovanni/
-- 2026-11-01 芝加哥抒情歌剧院：Earth to Kenzie  https://www.lyricopera.org/shows/upcoming/2026-27/earth-to-kenzie/
-- 2026-11-01 旧金山歌剧院：Manon (Jules Massenet)  https://www.sfopera.com/operas/manon/
-- 2026-11-01 悉尼歌剧院：Suzuki 48th Annual Graduation Concert  https://www.sydneyoperahouse.com/classical-music/suzuki-48th-annual-graduation-concert
-- 2026-11-01 悉尼歌剧院：Australian Guitar Quartet  https://www.sydneyoperahouse.com/utzon-music-2026/australian-guitar-quartet
 - 2026-11-02 伦敦皇家歌剧院：Carmen  https://www.rbo.org.uk/production/carmen-damiano-michieletto
 - 2026-11-02 伦敦皇家歌剧院：Recitals at Lunch  https://www.rbo.org.uk/production/recitals-at-lunch
 - 2026-11-02 伦敦皇家歌剧院：Tea Dance  https://www.rbo.org.uk/tickets-and-events/tea-dance-dates
@@ -82,3 +59,14 @@
     
         
             Gerald  Resch)  https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-11-02/
+- 2026-11-02 维也纳国家歌剧院：Otello (Giuseppe Verdi)  https://www.wiener-staatsoper.at/en/calendar/detail/otello/2026-11-02/
+- 2026-11-02 米兰斯卡拉歌剧院：Stelle di oggi e di domani - Fondazione Francesca Rava N.P.H. Italia Onlus  https://www.teatroallascala.org/en/season/2026-2027/concerts/charity-events/stelle-di-oggi-e-di-domani-fondazione-francesca-rava-n-p-h-italia-onlus.html
+- 2026-11-02 苏黎世歌剧院：Schulworkshop «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/
+- 2026-11-02 苏黎世歌剧院：3. Kammerkonzert  https://www.opernhaus.ch/spielplan/kalendarium/kammerkonzert-3/
+- 2026-11-03 伦敦皇家歌剧院：Carmen  https://www.rbo.org.uk/production/carmen-damiano-michieletto
+- 2026-11-03 伦敦皇家歌剧院：Madam  https://www.rbo.org.uk/production/madam
+- 2026-11-03 维也纳国家歌剧院：L'Orfeo (Claudio Monteverdi)  https://www.wiener-staatsoper.at/en/calendar/detail/lorfeo/2026-11-03/
+- 2026-11-03 米兰斯卡拉歌剧院：Faust (Charles Gounod)  https://www.teatroallascala.org/en/season/2025-2026/opera/faust.html
+- 2026-11-03 苏黎世歌剧院：Schulworkshop «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/
+- 2026-11-03 苏黎世歌剧院：open space stimme  https://www.opernhaus.ch/spielplan/kalendarium/open-space-stimme/
+- 2026-11-03 旧金山歌剧院：The Marriage of Figaro (Wolfgang Amadeus Mozart)  https://www.sfopera.com/operas/the-marriage-of-figaro/

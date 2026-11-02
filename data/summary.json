@@ -1,78 +1,12 @@
 {
-  "updated_at": "2026-11-01T07:06:19+00:00",
+  "updated_at": "2026-11-02T07:09:04+00:00",
   "stats": {
     "houses": 14,
-    "performances": 1029,
+    "performances": 1021,
     "news": 300,
     "artists": 8
   },
   "upcoming_30": [
-    {
-      "date": "2026-11-01",
-      "house": "伦敦皇家歌剧院",
-      "title": "Dish from Waitrose",
-      "url": "https://www.rbo.org.uk/production/dish-from-waitrose"
-    },
-    {
-      "date": "2026-11-01",
-      "house": "维也纳国家歌剧院",
-      "title": "Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-11-01/"
-    },
-    {
-      "date": "2026-11-01",
-      "house": "维也纳国家歌剧院",
-      "title": "Gaetano Donizetti La Fille du régiment (Gaetano Donizetti)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/la-fille-du-regiment/2026-11-01/"
-    },
-    {
-      "date": "2026-11-01",
-      "house": "苏黎世歌剧院",
-      "title": "3. Kammerkonzert",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/kammerkonzert-3/"
-    },
-    {
-      "date": "2026-11-01",
-      "house": "苏黎世歌剧院",
-      "title": "Workshop für Familien «Alice im Wunderland»",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/familien-workshop-alice-im-wunderland/"
-    },
-    {
-      "date": "2026-11-01",
-      "house": "苏黎世歌剧院",
-      "title": "Rachmaninow – Die drei Opern",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/rachmaninov-die-drei-opern/"
-    },
-    {
-      "date": "2026-11-01",
-      "house": "芝加哥抒情歌剧院",
-      "title": "Don Giovanni",
-      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/don-giovanni/"
-    },
-    {
-      "date": "2026-11-01",
-      "house": "芝加哥抒情歌剧院",
-      "title": "Earth to Kenzie",
-      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/earth-to-kenzie/"
-    },
-    {
-      "date": "2026-11-01",
-      "house": "旧金山歌剧院",
-      "title": "Jules Massenet Manon (Jules Massenet)",
-      "url": "https://www.sfopera.com/operas/manon/"
-    },
-    {
-      "date": "2026-11-01",
-      "house": "悉尼歌剧院",
-      "title": "Suzuki 48th Annual Graduation Concert",
-      "url": "https://www.sydneyoperahouse.com/classical-music/suzuki-48th-annual-graduation-concert"
-    },
-    {
-      "date": "2026-11-01",
-      "house": "悉尼歌剧院",
-      "title": "Australian Guitar Quartet",
-      "url": "https://www.sydneyoperahouse.com/utzon-music-2026/australian-guitar-quartet"
-    },
     {
       "date": "2026-11-02",
       "house": "伦敦皇家歌剧院",
@@ -486,6 +420,72 @@
       "house": "巴黎歌剧院",
       "title": "Siegfried (Festival RING) — Richard Wagner",
       "url": "https://www.operadeparis.fr/saison-26-27/opera/siegfried-festival-ring"
+    },
+    {
+      "date": "2026-11-10",
+      "house": "苏黎世歌剧院",
+      "title": "Schulworkshop «Alice im Wunderland»",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/"
+    },
+    {
+      "date": "2026-11-10",
+      "house": "苏黎世歌剧院",
+      "title": "Liederabend Lise Davidsen",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/liederabend-lise-davidsen-1/"
+    },
+    {
+      "date": "2026-11-10",
+      "house": "苏黎世歌剧院",
+      "title": "open space stimme",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/open-space-stimme/"
+    },
+    {
+      "date": "2026-11-10",
+      "house": "旧金山歌剧院",
+      "title": "Wolfgang Amadeus Mozart The Marriage of Figaro (Wolfgang Amadeus Mozart)",
+      "url": "https://www.sfopera.com/operas/the-marriage-of-figaro/"
+    },
+    {
+      "date": "2026-11-10",
+      "house": "悉尼歌剧院",
+      "title": "48th Suzuki Graduation Piano Recitals",
+      "url": "https://www.sydneyoperahouse.com/classical-music/48th-suzuki-graduation-piano-recitals"
+    },
+    {
+      "date": "2026-11-11",
+      "house": "伦敦皇家歌剧院",
+      "title": "Carmen",
+      "url": "https://www.rbo.org.uk/production/carmen-damiano-michieletto"
+    },
+    {
+      "date": "2026-11-11",
+      "house": "伦敦皇家歌剧院",
+      "title": "Insights: Un ballo in maschera",
+      "url": "https://www.rbo.org.uk/production/insights-un-ballo-in-maschera"
+    },
+    {
+      "date": "2026-11-11",
+      "house": "伦敦皇家歌剧院",
+      "title": "Manon",
+      "url": "https://www.rbo.org.uk/production/manon-kenneth-macmillan"
+    },
+    {
+      "date": "2026-11-11",
+      "house": "维也纳国家歌剧院",
+      "title": "Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-11-11/"
+    },
+    {
+      "date": "2026-11-11",
+      "house": "维也纳国家歌剧院",
+      "title": "No Evening Performance",
+      "url": ""
+    },
+    {
+      "date": "2026-11-11",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "George Balanchine / Pina Bausch Balanchine Bausch Stravinsky (George Balanchine / Pina Bausch)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/ballet/balanchine-bausch-stravinsky.html"
     }
   ]
 }

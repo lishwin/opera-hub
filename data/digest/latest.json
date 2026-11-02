@@ -1,123 +1,57 @@
 {
-  "date": "2026-11-01",
-  "generated_at": "2026-11-01T07:06:19+00:00",
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T07:09:04+00:00",
   "news": [
     {
       "source": "OperaWire",
-      "title": "Resonance Works to Present ‘The Little Prince’",
-      "url": "https://operawire.com/resonance-works-to-present-the-little-prince/",
+      "title": "Zachary Fisher Wins 13th Biennial Bach Vocal Competition for American Singers",
+      "url": "https://operawire.com/zachary-fisher-wins-13th-biennial-bach-vocal-competition-for-american-singers/",
+      "date": "2026-11-02"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Cape Town Opera Announces 2027 Season",
+      "url": "https://operawire.com/cape-town-opera-announces-2027-season/",
+      "date": "2026-11-02"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Cast Change: Kathleen O’Mara to Perform in San Francisco Opera’s ‘Strauss in Concert’",
+      "url": "https://operawire.com/cast-change-kathleen-omara-to-perform-in-san-francisco-operas-strauss-in-concert/",
+      "date": "2026-11-02"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Teatr Wielki Warsaw 2026-27 Review: The Mothers of Kherson",
+      "url": "https://operawire.com/teatr-wielki-warsaw-2026-27-review-the-mothers-of-kherson/",
+      "date": "2026-11-02"
+    },
+    {
+      "source": "OperaWire",
+      "title": "Emma Marhefka & Vladyslav Buialskyi Win Top Prizes at Operalia Competition",
+      "url": "https://operawire.com/emma-marhefka-vladyslav-buialskyi-win-top-prizes-at-operalia-competition/",
       "date": "2026-11-01"
     },
     {
       "source": "OperaWire",
-      "title": "Juilliard Opera to Present a Double Bill of Rossini’s ‘La scala di seta’ & Rota’s ‘I due timidi’",
-      "url": "https://operawire.com/juilliard-opera-to-present-a-double-bill-of-rossinis-la-scala-di-seta-rotas-i-due-timidi/",
+      "title": "Metropolitan Opera 2026-27 Review: Medea",
+      "url": "https://operawire.com/metropolitan-opera-2026-27-review-medea/",
       "date": "2026-11-01"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Cast Change: Maria Teresa Leva joins Lucerne’s Verdi Requiem",
-      "url": "https://operawire.com/cast-change-maria-teresa-leva-joins-lucernes-verdi-requiem/",
-      "date": "2026-10-31"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Obituary: Spanish Composer Marisa Manchado Dies at 70",
-      "url": "https://operawire.com/obituary-spanish-composer-marisa-manchado-dies-at-70/",
-      "date": "2026-10-31"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Nuova Consonanza Festival Unveils 2026 Season",
-      "url": "https://operawire.com/nuova-consonanza-festival-unveils-2026-season/",
-      "date": "2026-10-31"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Cast Change: Santiago Ballerini Replaces Pavel Breslik as Romeo in Teatro de La Maestranza in Sevilla’s ‘Romeo et Juliette’",
-      "url": "https://operawire.com/cast-change-santiago-ballerini-replaces-pavel-breslik-as-romeo-in-teatro-de-la-maestranza-in-sevillas-romeo-et-juliette/",
-      "date": "2026-10-31"
     },
     {
       "source": "Parterre Box",
-      "title": "A favorite mezzo performance from Damian",
-      "url": "https://parterre.com/2026/10/31/a-favorite-mezzo-performance-from-damian/",
-      "date": "2026-10-31"
+      "title": "Mantua man",
+      "url": "https://parterre.com/2026/11/01/mantua-man/",
+      "date": "2026-11-01"
     },
     {
-      "source": "Opera Today",
-      "title": "The BBC Symphony and Stasevska Deliver a London Premiere at the Barbican",
-      "url": "https://operatoday.com/2026/10/the-bbc-symphony-and-stasevska-deliver-a-london-premiere-at-the-barbican/",
-      "date": "2026-10-31"
+      "source": "Parterre Box",
+      "title": "La bohème is better in translation",
+      "url": "https://parterre.com/2026/11/01/la-boheme-is-better-in-translation/",
+      "date": "2026-11-01"
     }
   ],
   "schedule_updates": [
-    {
-      "date": "2026-11-01",
-      "house": "伦敦皇家歌剧院",
-      "title": "Dish from Waitrose",
-      "url": "https://www.rbo.org.uk/production/dish-from-waitrose"
-    },
-    {
-      "date": "2026-11-01",
-      "house": "维也纳国家歌剧院",
-      "title": "Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-11-01/"
-    },
-    {
-      "date": "2026-11-01",
-      "house": "维也纳国家歌剧院",
-      "title": "La Fille du régiment (Gaetano Donizetti)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/la-fille-du-regiment/2026-11-01/"
-    },
-    {
-      "date": "2026-11-01",
-      "house": "苏黎世歌剧院",
-      "title": "3. Kammerkonzert",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/kammerkonzert-3/"
-    },
-    {
-      "date": "2026-11-01",
-      "house": "苏黎世歌剧院",
-      "title": "Workshop für Familien «Alice im Wunderland»",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/familien-workshop-alice-im-wunderland/"
-    },
-    {
-      "date": "2026-11-01",
-      "house": "苏黎世歌剧院",
-      "title": "Rachmaninow – Die drei Opern",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/rachmaninov-die-drei-opern/"
-    },
-    {
-      "date": "2026-11-01",
-      "house": "芝加哥抒情歌剧院",
-      "title": "Don Giovanni",
-      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/don-giovanni/"
-    },
-    {
-      "date": "2026-11-01",
-      "house": "芝加哥抒情歌剧院",
-      "title": "Earth to Kenzie",
-      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/earth-to-kenzie/"
-    },
-    {
-      "date": "2026-11-01",
-      "house": "旧金山歌剧院",
-      "title": "Manon (Jules Massenet)",
-      "url": "https://www.sfopera.com/operas/manon/"
-    },
-    {
-      "date": "2026-11-01",
-      "house": "悉尼歌剧院",
-      "title": "Suzuki 48th Annual Graduation Concert",
-      "url": "https://www.sydneyoperahouse.com/classical-music/suzuki-48th-annual-graduation-concert"
-    },
-    {
-      "date": "2026-11-01",
-      "house": "悉尼歌剧院",
-      "title": "Australian Guitar Quartet",
-      "url": "https://www.sydneyoperahouse.com/utzon-music-2026/australian-guitar-quartet"
-    },
     {
       "date": "2026-11-02",
       "house": "伦敦皇家歌剧院",
@@ -141,6 +75,72 @@
       "house": "维也纳国家歌剧院",
       "title": "Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch)",
       "url": "https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-11-02/"
+    },
+    {
+      "date": "2026-11-02",
+      "house": "维也纳国家歌剧院",
+      "title": "Otello (Giuseppe Verdi)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/otello/2026-11-02/"
+    },
+    {
+      "date": "2026-11-02",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Stelle di oggi e di domani - Fondazione Francesca Rava N.P.H. Italia Onlus",
+      "url": "https://www.teatroallascala.org/en/season/2026-2027/concerts/charity-events/stelle-di-oggi-e-di-domani-fondazione-francesca-rava-n-p-h-italia-onlus.html"
+    },
+    {
+      "date": "2026-11-02",
+      "house": "苏黎世歌剧院",
+      "title": "Schulworkshop «Alice im Wunderland»",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/"
+    },
+    {
+      "date": "2026-11-02",
+      "house": "苏黎世歌剧院",
+      "title": "3. Kammerkonzert",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/kammerkonzert-3/"
+    },
+    {
+      "date": "2026-11-03",
+      "house": "伦敦皇家歌剧院",
+      "title": "Carmen",
+      "url": "https://www.rbo.org.uk/production/carmen-damiano-michieletto"
+    },
+    {
+      "date": "2026-11-03",
+      "house": "伦敦皇家歌剧院",
+      "title": "Madam",
+      "url": "https://www.rbo.org.uk/production/madam"
+    },
+    {
+      "date": "2026-11-03",
+      "house": "维也纳国家歌剧院",
+      "title": "L'Orfeo (Claudio Monteverdi)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/lorfeo/2026-11-03/"
+    },
+    {
+      "date": "2026-11-03",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Faust (Charles Gounod)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/faust.html"
+    },
+    {
+      "date": "2026-11-03",
+      "house": "苏黎世歌剧院",
+      "title": "Schulworkshop «Alice im Wunderland»",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/"
+    },
+    {
+      "date": "2026-11-03",
+      "house": "苏黎世歌剧院",
+      "title": "open space stimme",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/open-space-stimme/"
+    },
+    {
+      "date": "2026-11-03",
+      "house": "旧金山歌剧院",
+      "title": "The Marriage of Figaro (Wolfgang Amadeus Mozart)",
+      "url": "https://www.sfopera.com/operas/the-marriage-of-figaro/"
     }
   ],
   "artists": [
@@ -225,72 +225,6 @@
   ],
   "upcoming_7": [
     {
-      "date": "2026-11-01",
-      "house": "伦敦皇家歌剧院",
-      "title": "Dish from Waitrose",
-      "url": "https://www.rbo.org.uk/production/dish-from-waitrose"
-    },
-    {
-      "date": "2026-11-01",
-      "house": "维也纳国家歌剧院",
-      "title": "Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-11-01/"
-    },
-    {
-      "date": "2026-11-01",
-      "house": "维也纳国家歌剧院",
-      "title": "La Fille du régiment (Gaetano Donizetti)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/la-fille-du-regiment/2026-11-01/"
-    },
-    {
-      "date": "2026-11-01",
-      "house": "苏黎世歌剧院",
-      "title": "3. Kammerkonzert",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/kammerkonzert-3/"
-    },
-    {
-      "date": "2026-11-01",
-      "house": "苏黎世歌剧院",
-      "title": "Workshop für Familien «Alice im Wunderland»",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/familien-workshop-alice-im-wunderland/"
-    },
-    {
-      "date": "2026-11-01",
-      "house": "苏黎世歌剧院",
-      "title": "Rachmaninow – Die drei Opern",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/rachmaninov-die-drei-opern/"
-    },
-    {
-      "date": "2026-11-01",
-      "house": "芝加哥抒情歌剧院",
-      "title": "Don Giovanni",
-      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/don-giovanni/"
-    },
-    {
-      "date": "2026-11-01",
-      "house": "芝加哥抒情歌剧院",
-      "title": "Earth to Kenzie",
-      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/earth-to-kenzie/"
-    },
-    {
-      "date": "2026-11-01",
-      "house": "旧金山歌剧院",
-      "title": "Manon (Jules Massenet)",
-      "url": "https://www.sfopera.com/operas/manon/"
-    },
-    {
-      "date": "2026-11-01",
-      "house": "悉尼歌剧院",
-      "title": "Suzuki 48th Annual Graduation Concert",
-      "url": "https://www.sydneyoperahouse.com/classical-music/suzuki-48th-annual-graduation-concert"
-    },
-    {
-      "date": "2026-11-01",
-      "house": "悉尼歌剧院",
-      "title": "Australian Guitar Quartet",
-      "url": "https://www.sydneyoperahouse.com/utzon-music-2026/australian-guitar-quartet"
-    },
-    {
       "date": "2026-11-02",
       "house": "伦敦皇家歌剧院",
       "title": "Carmen",
@@ -313,6 +247,72 @@
       "house": "维也纳国家歌剧院",
       "title": "Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch)",
       "url": "https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-11-02/"
+    },
+    {
+      "date": "2026-11-02",
+      "house": "维也纳国家歌剧院",
+      "title": "Otello (Giuseppe Verdi)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/otello/2026-11-02/"
+    },
+    {
+      "date": "2026-11-02",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Stelle di oggi e di domani - Fondazione Francesca Rava N.P.H. Italia Onlus",
+      "url": "https://www.teatroallascala.org/en/season/2026-2027/concerts/charity-events/stelle-di-oggi-e-di-domani-fondazione-francesca-rava-n-p-h-italia-onlus.html"
+    },
+    {
+      "date": "2026-11-02",
+      "house": "苏黎世歌剧院",
+      "title": "Schulworkshop «Alice im Wunderland»",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/"
+    },
+    {
+      "date": "2026-11-02",
+      "house": "苏黎世歌剧院",
+      "title": "3. Kammerkonzert",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/kammerkonzert-3/"
+    },
+    {
+      "date": "2026-11-03",
+      "house": "伦敦皇家歌剧院",
+      "title": "Carmen",
+      "url": "https://www.rbo.org.uk/production/carmen-damiano-michieletto"
+    },
+    {
+      "date": "2026-11-03",
+      "house": "伦敦皇家歌剧院",
+      "title": "Madam",
+      "url": "https://www.rbo.org.uk/production/madam"
+    },
+    {
+      "date": "2026-11-03",
+      "house": "维也纳国家歌剧院",
+      "title": "L'Orfeo (Claudio Monteverdi)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/lorfeo/2026-11-03/"
+    },
+    {
+      "date": "2026-11-03",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Faust (Charles Gounod)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/faust.html"
+    },
+    {
+      "date": "2026-11-03",
+      "house": "苏黎世歌剧院",
+      "title": "Schulworkshop «Alice im Wunderland»",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/"
+    },
+    {
+      "date": "2026-11-03",
+      "house": "苏黎世歌剧院",
+      "title": "open space stimme",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/open-space-stimme/"
+    },
+    {
+      "date": "2026-11-03",
+      "house": "旧金山歌剧院",
+      "title": "The Marriage of Figaro (Wolfgang Amadeus Mozart)",
+      "url": "https://www.sfopera.com/operas/the-marriage-of-figaro/"
     }
   ]
 }
