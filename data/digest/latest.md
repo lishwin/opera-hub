@@ -1,37 +1,41 @@
-📰 歌剧日报 · 2026-11-02
+📰 歌剧日报 · 2026-11-03
 
 ▍今日要闻
-- Zachary Fisher Wins 13th Biennial Bach Vocal Competition for American Singers ｜ OperaWire  https://operawire.com/zachary-fisher-wins-13th-biennial-bach-vocal-competition-for-american-singers/
-- Cape Town Opera Announces 2027 Season ｜ OperaWire  https://operawire.com/cape-town-opera-announces-2027-season/
-- Cast Change: Kathleen O’Mara to Perform in San Francisco Opera’s ‘Strauss in Concert’ ｜ OperaWire  https://operawire.com/cast-change-kathleen-omara-to-perform-in-san-francisco-operas-strauss-in-concert/
-- Teatr Wielki Warsaw 2026-27 Review: The Mothers of Kherson ｜ OperaWire  https://operawire.com/teatr-wielki-warsaw-2026-27-review-the-mothers-of-kherson/
-- Emma Marhefka & Vladyslav Buialskyi Win Top Prizes at Operalia Competition ｜ OperaWire  https://operawire.com/emma-marhefka-vladyslav-buialskyi-win-top-prizes-at-operalia-competition/
-- Metropolitan Opera 2026-27 Review: Medea ｜ OperaWire  https://operawire.com/metropolitan-opera-2026-27-review-medea/
-- Mantua man ｜ Parterre Box  https://parterre.com/2026/11/01/mantua-man/
-- La bohème is better in translation ｜ Parterre Box  https://parterre.com/2026/11/01/la-boheme-is-better-in-translation/
+- CD Review: Hyperbaroq’s ‘Tripudiis Sonis Variis’ on Earshift Music ｜ OperaWire  https://operawire.com/cd-review-hyperbaroqs-tripudiis-sonis-variis-on-earshift-music/
+- Toledo Opera to Present ‘The Three Little Pigs’ ｜ OperaWire  https://operawire.com/toledo-opera-to-present-the-three-little-pigs/
+- The Fallen Youth: An Opera That Refuses to Let 1976 Fade Into Nostalgia ｜ OperaWire  https://operawire.com/the-fallen-youth-an-opera-that-refuses-to-let-1976-fade-into-nostalgia/
+- Works & Process to Present the Rotunda Holiday Concert ｜ OperaWire  https://operawire.com/works-process-to-present-the-rotunda-holiday-concert/
+- Ermonela Jaho, Missy Mazzoli, William Hite, Anthony Roth Costanzo, Cyrille Dubois Lead new CD/DVD Releases ｜ OperaWire  https://operawire.com/ermonela-jaho-missy-mazzoli-william-hite-anthony-roth-costanzo-cyrille-dubois-lead-new-cd-dvd-releases/
+- Diego Matheuz Appointed Principal Conductor of Teatro Massimo ｜ OperaWire  https://operawire.com/diego-matheuz-appointed-principal-conductor-of-teatro-massimo/
+- Cast Change: Vanessa Goikoetxea & Natalya Romaniw Join Semperoper Dresden’s ‘Tosca’ ｜ OperaWire  https://operawire.com/cast-change-vanessa-goikoetxea-natalya-romaniw-join-semperoper-dresdens-tosca/
+- Cast Change: Cecilia Violetta López Takes Over Portland Opera’s ‘La Traviata’ ｜ OperaWire  https://operawire.com/cast-change-cecilia-violetta-lopez-takes-over-portland-operas-la-traviata/
+- Katie Spencer on Fundraising, Marketing & Retaining Audiences on The OperaWire Podcast ｜ OperaWire  https://operawire.com/katie-spencer-on-fundraising-marketing-retaining-audiences-on-the-operawire-podcast/
+- Spotlight Artists to Headline Stage 14C Festival with ‘Dedication to the Muse’ ｜ OperaWire  https://operawire.com/spotlight-artists-to-headline-stage-14c-festival-with-dedication-to-the-muse/
+- Turn on, tune in, drop out ｜ Parterre Box  https://parterre.com/2026/11/02/turn-on-tune-in-drop-out/
+- Domingo’s Operalia is won by American and Ukrainian ｜ Slipped Disc  https://slippedisc.com/2026/11/domingos-operalia-is-won-by-american-and-ukrainian/?utm_source=rss&utm_medium=rss&utm_campaign=domingos-operalia-is-won-by-american-and-ukrainian
 
 ▍排期更新
-- 2026-11-02 伦敦皇家歌剧院：Carmen  https://www.rbo.org.uk/production/carmen-damiano-michieletto
-- 2026-11-02 伦敦皇家歌剧院：Recitals at Lunch  https://www.rbo.org.uk/production/recitals-at-lunch
-- 2026-11-02 伦敦皇家歌剧院：Tea Dance  https://www.rbo.org.uk/tickets-and-events/tea-dance-dates
-- 2026-11-02 维也纳国家歌剧院：Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,
-        
-    
-
-    
-        
-            Gerald  Resch)  https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-11-02/
-- 2026-11-02 维也纳国家歌剧院：Otello (Giuseppe Verdi)  https://www.wiener-staatsoper.at/en/calendar/detail/otello/2026-11-02/
-- 2026-11-02 米兰斯卡拉歌剧院：Stelle di oggi e di domani - Fondazione Francesca Rava N.P.H. Italia Onlus  https://www.teatroallascala.org/en/season/2026-2027/concerts/charity-events/stelle-di-oggi-e-di-domani-fondazione-francesca-rava-n-p-h-italia-onlus.html
-- 2026-11-02 苏黎世歌剧院：Schulworkshop «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/
-- 2026-11-02 苏黎世歌剧院：3. Kammerkonzert  https://www.opernhaus.ch/spielplan/kalendarium/kammerkonzert-3/
 - 2026-11-03 伦敦皇家歌剧院：Carmen  https://www.rbo.org.uk/production/carmen-damiano-michieletto
 - 2026-11-03 伦敦皇家歌剧院：Madam  https://www.rbo.org.uk/production/madam
 - 2026-11-03 维也纳国家歌剧院：L'Orfeo (Claudio Monteverdi)  https://www.wiener-staatsoper.at/en/calendar/detail/lorfeo/2026-11-03/
 - 2026-11-03 米兰斯卡拉歌剧院：Faust (Charles Gounod)  https://www.teatroallascala.org/en/season/2025-2026/opera/faust.html
+- 2026-11-03 慕尼黑巴伐利亚国家歌剧院：UN BALLO IN MASCHERA (Giuseppe Verdi)  https://www.staatsoper.de/stuecke/un-ballo-in-maschera/2026-11-03-1900-16127
 - 2026-11-03 苏黎世歌剧院：Schulworkshop «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/
 - 2026-11-03 苏黎世歌剧院：open space stimme  https://www.opernhaus.ch/spielplan/kalendarium/open-space-stimme/
 - 2026-11-03 旧金山歌剧院：The Marriage of Figaro (Wolfgang Amadeus Mozart)  https://www.sfopera.com/operas/the-marriage-of-figaro/
+- 2026-11-03 悉尼歌剧院：ABC Young Performers Award Grand Final  https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/abc-young-performers-award
+- 2026-11-04 伦敦皇家歌剧院：Carmen  https://www.rbo.org.uk/production/carmen-damiano-michieletto
+- 2026-11-04 伦敦皇家歌剧院：Madam  https://www.rbo.org.uk/production/madam
+- 2026-11-04 维也纳国家歌剧院：Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,
+        
+    
+
+    
+        
+            Gerald  Resch)  https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-11-04/
+- 2026-11-04 维也纳国家歌剧院：La Fille du régiment (Gaetano Donizetti)  https://www.wiener-staatsoper.at/en/calendar/detail/la-fille-du-regiment/2026-11-04/
+- 2026-11-04 慕尼黑巴伐利亚国家歌剧院：Siegfried (Richard Wagner)  https://www.staatsoper.de/stuecke/siegfried/2026-11-04-1600-16128
+- 2026-11-04 苏黎世歌剧院：Schulworkshop «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/
 
 ▍艺术家动态
 - 基里尔·别特连科（指挥）
@@ -49,24 +53,24 @@
   · Piotr Beczała  https://www.operadeparis.fr/saison-26-27/concert-et-recital/recital-piotr-beczala
 
 ▍未来 7 天值得关注
-- 2026-11-02 伦敦皇家歌剧院：Carmen  https://www.rbo.org.uk/production/carmen-damiano-michieletto
-- 2026-11-02 伦敦皇家歌剧院：Recitals at Lunch  https://www.rbo.org.uk/production/recitals-at-lunch
-- 2026-11-02 伦敦皇家歌剧院：Tea Dance  https://www.rbo.org.uk/tickets-and-events/tea-dance-dates
-- 2026-11-02 维也纳国家歌剧院：Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,
+- 2026-11-03 伦敦皇家歌剧院：Carmen  https://www.rbo.org.uk/production/carmen-damiano-michieletto
+- 2026-11-03 伦敦皇家歌剧院：Madam  https://www.rbo.org.uk/production/madam
+- 2026-11-03 维也纳国家歌剧院：L'Orfeo (Claudio Monteverdi)  https://www.wiener-staatsoper.at/en/calendar/detail/lorfeo/2026-11-03/
+- 2026-11-03 米兰斯卡拉歌剧院：Faust (Charles Gounod)  https://www.teatroallascala.org/en/season/2025-2026/opera/faust.html
+- 2026-11-03 慕尼黑巴伐利亚国家歌剧院：UN BALLO IN MASCHERA (Giuseppe Verdi)  https://www.staatsoper.de/stuecke/un-ballo-in-maschera/2026-11-03-1900-16127
+- 2026-11-03 苏黎世歌剧院：Schulworkshop «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/
+- 2026-11-03 苏黎世歌剧院：open space stimme  https://www.opernhaus.ch/spielplan/kalendarium/open-space-stimme/
+- 2026-11-03 旧金山歌剧院：The Marriage of Figaro (Wolfgang Amadeus Mozart)  https://www.sfopera.com/operas/the-marriage-of-figaro/
+- 2026-11-03 悉尼歌剧院：ABC Young Performers Award Grand Final  https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/abc-young-performers-award
+- 2026-11-04 伦敦皇家歌剧院：Carmen  https://www.rbo.org.uk/production/carmen-damiano-michieletto
+- 2026-11-04 伦敦皇家歌剧院：Madam  https://www.rbo.org.uk/production/madam
+- 2026-11-04 维也纳国家歌剧院：Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,
         
     
 
     
         
-            Gerald  Resch)  https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-11-02/
-- 2026-11-02 维也纳国家歌剧院：Otello (Giuseppe Verdi)  https://www.wiener-staatsoper.at/en/calendar/detail/otello/2026-11-02/
-- 2026-11-02 米兰斯卡拉歌剧院：Stelle di oggi e di domani - Fondazione Francesca Rava N.P.H. Italia Onlus  https://www.teatroallascala.org/en/season/2026-2027/concerts/charity-events/stelle-di-oggi-e-di-domani-fondazione-francesca-rava-n-p-h-italia-onlus.html
-- 2026-11-02 苏黎世歌剧院：Schulworkshop «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/
-- 2026-11-02 苏黎世歌剧院：3. Kammerkonzert  https://www.opernhaus.ch/spielplan/kalendarium/kammerkonzert-3/
-- 2026-11-03 伦敦皇家歌剧院：Carmen  https://www.rbo.org.uk/production/carmen-damiano-michieletto
-- 2026-11-03 伦敦皇家歌剧院：Madam  https://www.rbo.org.uk/production/madam
-- 2026-11-03 维也纳国家歌剧院：L'Orfeo (Claudio Monteverdi)  https://www.wiener-staatsoper.at/en/calendar/detail/lorfeo/2026-11-03/
-- 2026-11-03 米兰斯卡拉歌剧院：Faust (Charles Gounod)  https://www.teatroallascala.org/en/season/2025-2026/opera/faust.html
-- 2026-11-03 苏黎世歌剧院：Schulworkshop «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/
-- 2026-11-03 苏黎世歌剧院：open space stimme  https://www.opernhaus.ch/spielplan/kalendarium/open-space-stimme/
-- 2026-11-03 旧金山歌剧院：The Marriage of Figaro (Wolfgang Amadeus Mozart)  https://www.sfopera.com/operas/the-marriage-of-figaro/
+            Gerald  Resch)  https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-11-04/
+- 2026-11-04 维也纳国家歌剧院：La Fille du régiment (Gaetano Donizetti)  https://www.wiener-staatsoper.at/en/calendar/detail/la-fille-du-regiment/2026-11-04/
+- 2026-11-04 慕尼黑巴伐利亚国家歌剧院：Siegfried (Richard Wagner)  https://www.staatsoper.de/stuecke/siegfried/2026-11-04-1600-16128
+- 2026-11-04 苏黎世歌剧院：Schulworkshop «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/
