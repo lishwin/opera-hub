@@ -1,35 +1,20 @@
-📰 歌剧日报 · 2026-11-06
+📰 歌剧日报 · 2026-11-07
 
 ▍今日要闻
-- Wexford Festival Opera 2026 Review: The Rose Of Castile ｜ OperaWire  https://operawire.com/wexford-festival-opera-2026-review-the-rose-of-castile/
-- Essential Opera to Premiere ‘In Her Hands: The Tragedy of Lady Macbeth’ in Nova Scotia ｜ OperaWire  https://operawire.com/essential-opera-to-premiere-in-her-hands-the-tragedy-of-lady-macbeth-in-nova-scotia/
-- Gerda Lissner Foundation Announces Two Live Streams for November 2026 ｜ OperaWire  https://operawire.com/gerda-lissner-foundation-announces-two-live-streams-for-november-2026/
-- Central City Opera Announces ‘L’Esprit de Noël Holiday Home Tour’ & Golden Jubilee Dates ｜ OperaWire  https://operawire.com/central-city-opera-announces-lesprit-de-noel-holiday-home-tour-golden-jubilee-dates/
-- Columbia University School of the Arts Miller Theatre 2026-27 Review: Macabéa ｜ OperaWire  https://operawire.com/columbia-university-school-of-the-arts-miller-theatre-2026-review-macabea/
-- ‘Watershed: The Death of Dr Duncan’ Set for Melbourne Premiere ｜ OperaWire  https://operawire.com/watershed-the-death-of-dr-duncan-set-for-melbourne-premiere/
-- Not Nice…. the opera will go on strike next week ｜ Slipped Disc  https://slippedisc.com/2026/11/not-nice-the-opera-will-go-on-strike-next-week/?utm_source=rss&utm_medium=rss&utm_campaign=not-nice-the-opera-will-go-on-strike-next-week
-- Cast Change: Irene Roberts Joins Scotland National Orchestra’s Verdi Requiem ｜ OperaWire  https://operawire.com/cast-change-irene-roberts-joins-scotland-national-orchestras-verdi-requiem/
-- Teatro dell’Opera di Roma & Rome’s Mayor to Give Out Free Tickets ｜ OperaWire  https://operawire.com/teatro-dellopera-di-roma-romes-mayor-to-give-out-free-tickets/
-- English accents ｜ Parterre Box  https://parterre.com/2026/11/05/english-accents/
-- Just in: US Josh is BBC’s next chief conductor ｜ Slipped Disc  https://slippedisc.com/2026/11/just-in-josh-is-bbcs-next-chief-conductor/?utm_source=rss&utm_medium=rss&utm_campaign=just-in-josh-is-bbcs-next-chief-conductor
-- Organ failure at Musikverein recital ｜ Slipped Disc  https://slippedisc.com/2026/11/organ-failure-at-musikverein-recital/?utm_source=rss&utm_medium=rss&utm_campaign=organ-failure-at-musikverein-recital
-- Top soprano takes immediate sabbatical ｜ Slipped Disc  https://slippedisc.com/2026/11/top-soprano-takes-immediate-sabbatical/?utm_source=rss&utm_medium=rss&utm_campaign=top-soprano-takes-immediate-sabbatical
-- The runner-up also rises ｜ Slipped Disc  https://slippedisc.com/2026/11/the-runner-up-also-rises/?utm_source=rss&utm_medium=rss&utm_campaign=the-runner-up-also-rises
+- Trinity Church NYC Announces2026 Holiday Season ｜ OperaWire  https://operawire.com/trinity-church-nyc-announces2026-holiday-season/
+- Tulsa Opera Announces 2027 Season of ‘Spotlight on Opera’ ｜ OperaWire  https://operawire.com/tulsa-opera-announces-2027-season-of-spotlight-on-opera/
+- Suzanne Vinnik to Host Trunk Shot in Support of Sing for Hope ｜ OperaWire  https://operawire.com/suzanne-vinnik-to-host-trunk-shot-in-support-of-sing-for-hope/
+- Toledo Opera Announces ‘OPERAtunity Day’ 2026 ｜ OperaWire  https://operawire.com/toledo-opera-announces-operatunity-day-2026/
+- Herbert Blomstedt’s Swedish special ｜ Slipped Disc  https://slippedisc.com/2026/11/herbert-blomstedts-swedish-special/?utm_source=rss&utm_medium=rss&utm_campaign=herbert-blomstedts-swedish-special
+- Stephanie Blythe to Revive Blythely Oratonia in Philadelphia Cabaret ｜ OperaWire  https://operawire.com/stephanie-blythe-to-revive-blythely-oratonia-in-philadelphia-cabaret/
+- Wexford Festival Opera 2026 Review: Iris ｜ OperaWire  https://operawire.com/wexford-festival-opera-2026-review-iris/
+- Nadine Sierra Cancels Performances Due to Health Issues ｜ OperaWire  https://operawire.com/nadine-sierra-cancels-performances-due-to-health-issues/
+- Boston: The protests continue ｜ Slipped Disc  https://slippedisc.com/2026/11/yet-another-boston-protest/?utm_source=rss&utm_medium=rss&utm_campaign=yet-another-boston-protest
+- Top US soprano says: Look after your breasts ｜ Slipped Disc  https://slippedisc.com/2026/11/top-us-soprano-says-look-after-your-breasts/?utm_source=rss&utm_medium=rss&utm_campaign=top-us-soprano-says-look-after-your-breasts
+- Appeal for London tenor in terrible road crash ｜ Slipped Disc  https://slippedisc.com/2026/11/appeal-for-london-tenor-in-terrible-road-crash/?utm_source=rss&utm_medium=rss&utm_campaign=appeal-for-london-tenor-in-terrible-road-crash
+- Golda Schultz & Franz Welser-Möst Lead Cleveland Orchestra’s ‘Missa Solemnis’ ｜ OperaWire  https://operawire.com/golda-schultz-franz-welser-most-lead-cleveland-orchestras-missa-solemnis/
 
 ▍排期更新
-- 2026-11-06 伦敦皇家歌剧院：Manon  https://www.rbo.org.uk/production/manon-kenneth-macmillan
-- 2026-11-06 维也纳国家歌剧院：Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,
-        
-    
-
-    
-        
-            Gerald  Resch)  https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-11-06/
-- 2026-11-06 维也纳国家歌剧院：Nijinsky (John Neumeier)  https://www.wiener-staatsoper.at/en/calendar/detail/nijinsky/2026-11-06/
-- 2026-11-06 巴黎歌剧院：L’Or du Rhin (Festival RING) — Richard Wagner  https://www.operadeparis.fr/saison-26-27/opera/lor-du-rhin
-- 2026-11-06 苏黎世歌剧院：Schulworkshop «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/
-- 2026-11-06 旧金山歌剧院：Strauss in Concert  https://www.sfopera.com/seasons/fall-concert/
-- 2026-11-06 悉尼歌剧院：Simone Young conducts Mozart & Bach  https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/simone-young-mozart-bach
 - 2026-11-07 伦敦皇家歌剧院：Manon  https://www.rbo.org.uk/production/manon-kenneth-macmillan
 - 2026-11-07 维也纳国家歌剧院：Open Adult Ballet Class  https://www.wiener-staatsoper.at/en/calendar/detail/open-adult-ballet-class/2026-11-07/
 - 2026-11-07 维也纳国家歌剧院：La Fille du régiment (Gaetano Donizetti)  https://www.wiener-staatsoper.at/en/calendar/detail/la-fille-du-regiment/2026-11-07/
@@ -38,6 +23,13 @@
 - 2026-11-07 苏黎世歌剧院：Workshop für Familien «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/familien-workshop-alice-im-wunderland/
 - 2026-11-07 苏黎世歌剧院：Pascal & Noseda  https://www.opernhaus.ch/spielplan/kalendarium/2-philharmonisches-konzert-1/
 - 2026-11-07 旧金山歌剧院：The Marriage of Figaro (Wolfgang Amadeus Mozart)  https://www.sfopera.com/operas/the-marriage-of-figaro/
+- 2026-11-07 悉尼歌剧院：48th Suzuki Graduation Piano Recitals  https://www.sydneyoperahouse.com/classical-music/48th-suzuki-graduation-piano-recitals
+- 2026-11-07 悉尼歌剧院：Suzuki Talent Education Final Level Graduates Showcase Concert Recital  https://www.sydneyoperahouse.com/classical-music/suzuki-talent-education-final-level-graduates-showcase-concert-recital
+- 2026-11-07 悉尼歌剧院：Simone Young conducts Mozart & Bach  https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/simone-young-mozart-bach
+- 2026-11-08 伦敦皇家歌剧院：Carmen  https://www.rbo.org.uk/production/carmen-damiano-michieletto
+- 2026-11-08 维也纳国家歌剧院：Workout in der Oper  https://www.wiener-staatsoper.at/en/calendar/detail/workout-in-der-oper/2026-11-08/
+- 2026-11-08 维也纳国家歌剧院：Matinee zu Ariadne auf Naxos  https://www.wiener-staatsoper.at/en/calendar/detail/matinee-zu-ariadne-auf-naxos/2026-11-08/
+- 2026-11-08 维也纳国家歌剧院：Otello (Giuseppe Verdi)  https://www.wiener-staatsoper.at/en/calendar/detail/otello/2026-11-08/
 
 ▍艺术家动态
 - 基里尔·别特连科（指挥）
@@ -54,19 +46,6 @@
   · Piotr Beczała  https://www.operadeparis.fr/saison-26-27/concert-et-recital/recital-piotr-beczala
 
 ▍未来 7 天值得关注
-- 2026-11-06 伦敦皇家歌剧院：Manon  https://www.rbo.org.uk/production/manon-kenneth-macmillan
-- 2026-11-06 维也纳国家歌剧院：Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,
-        
-    
-
-    
-        
-            Gerald  Resch)  https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-11-06/
-- 2026-11-06 维也纳国家歌剧院：Nijinsky (John Neumeier)  https://www.wiener-staatsoper.at/en/calendar/detail/nijinsky/2026-11-06/
-- 2026-11-06 巴黎歌剧院：L’Or du Rhin (Festival RING) — Richard Wagner  https://www.operadeparis.fr/saison-26-27/opera/lor-du-rhin
-- 2026-11-06 苏黎世歌剧院：Schulworkshop «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/
-- 2026-11-06 旧金山歌剧院：Strauss in Concert  https://www.sfopera.com/seasons/fall-concert/
-- 2026-11-06 悉尼歌剧院：Simone Young conducts Mozart & Bach  https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/simone-young-mozart-bach
 - 2026-11-07 伦敦皇家歌剧院：Manon  https://www.rbo.org.uk/production/manon-kenneth-macmillan
 - 2026-11-07 维也纳国家歌剧院：Open Adult Ballet Class  https://www.wiener-staatsoper.at/en/calendar/detail/open-adult-ballet-class/2026-11-07/
 - 2026-11-07 维也纳国家歌剧院：La Fille du régiment (Gaetano Donizetti)  https://www.wiener-staatsoper.at/en/calendar/detail/la-fille-du-regiment/2026-11-07/
@@ -75,3 +54,10 @@
 - 2026-11-07 苏黎世歌剧院：Workshop für Familien «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/familien-workshop-alice-im-wunderland/
 - 2026-11-07 苏黎世歌剧院：Pascal & Noseda  https://www.opernhaus.ch/spielplan/kalendarium/2-philharmonisches-konzert-1/
 - 2026-11-07 旧金山歌剧院：The Marriage of Figaro (Wolfgang Amadeus Mozart)  https://www.sfopera.com/operas/the-marriage-of-figaro/
+- 2026-11-07 悉尼歌剧院：48th Suzuki Graduation Piano Recitals  https://www.sydneyoperahouse.com/classical-music/48th-suzuki-graduation-piano-recitals
+- 2026-11-07 悉尼歌剧院：Suzuki Talent Education Final Level Graduates Showcase Concert Recital  https://www.sydneyoperahouse.com/classical-music/suzuki-talent-education-final-level-graduates-showcase-concert-recital
+- 2026-11-07 悉尼歌剧院：Simone Young conducts Mozart & Bach  https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/simone-young-mozart-bach
+- 2026-11-08 伦敦皇家歌剧院：Carmen  https://www.rbo.org.uk/production/carmen-damiano-michieletto
+- 2026-11-08 维也纳国家歌剧院：Workout in der Oper  https://www.wiener-staatsoper.at/en/calendar/detail/workout-in-der-oper/2026-11-08/
+- 2026-11-08 维也纳国家歌剧院：Matinee zu Ariadne auf Naxos  https://www.wiener-staatsoper.at/en/calendar/detail/matinee-zu-ariadne-auf-naxos/2026-11-08/
+- 2026-11-08 维也纳国家歌剧院：Otello (Giuseppe Verdi)  https://www.wiener-staatsoper.at/en/calendar/detail/otello/2026-11-08/
