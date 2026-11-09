@@ -85,9 +85,15 @@
         "title": "Recital Jonas Kaufmann",
         "url": "https://www.wiener-staatsoper.at/en/calendar/detail/recital/2027-01-26/",
         "date": "2027-01-26"
+      },
+      {
+        "type": "新闻",
+        "title": "Artists in residence",
+        "url": "https://pbx.fm/2cpa",
+        "date": "2026-10-29T13:00:47+00:00"
       }
     ],
-    "last_updated": "2026-11-08T06:56:07+00:00"
+    "last_updated": "2026-11-09T07:36:40+00:00"
   },
   {
     "id": "riccardo-muti",
@@ -115,9 +121,15 @@
         "title": "In Gleiß und Zeir",
         "url": "https://parterre.com/2026/10/01/in-gleis-und-zeir/",
         "date": "2026-10-01T13:00:25+00:00"
+      },
+      {
+        "type": "新闻",
+        "title": "Festival Internazionale di Musica e Arte Sacra Announces 25th Edition",
+        "url": "https://operawire.com/festival-internazionale-di-musica-e-arte-sacra-announces-25th-edition/",
+        "date": "2026-11-09T06:00:39+00:00"
       }
     ],
-    "last_updated": "2026-10-02T06:35:36+00:00"
+    "last_updated": "2026-11-09T07:36:40+00:00"
   },
   {
     "id": "kirill-petrenko",
@@ -147,7 +159,7 @@
         "date": "2027-11-15"
       }
     ],
-    "last_updated": "2026-11-08T06:56:07+00:00"
+    "last_updated": "2026-11-09T07:36:40+00:00"
   },
   {
     "id": "diana-damrau",
@@ -171,7 +183,7 @@
         "date": "2026-10-09T20:54:48+00:00"
       }
     ],
-    "last_updated": "2026-11-08T06:56:07+00:00"
+    "last_updated": "2026-11-09T07:36:40+00:00"
   },
   {
     "id": "piotr-beczala",
@@ -189,7 +201,7 @@
         "date": "2026-09-22T04:00:30+00:00"
       }
     ],
-    "last_updated": "2026-11-08T06:56:07+00:00"
+    "last_updated": "2026-11-09T07:36:40+00:00"
   },
   {
     "id": "antonio-pappano",

@@ -1,84 +1,12 @@
 {
-  "updated_at": "2026-11-08T06:56:07+00:00",
+  "updated_at": "2026-11-09T07:36:40+00:00",
   "stats": {
     "houses": 14,
-    "performances": 987,
+    "performances": 977,
     "news": 300,
     "artists": 8
   },
   "upcoming_30": [
-    {
-      "date": "2026-11-08",
-      "house": "伦敦皇家歌剧院",
-      "title": "Carmen",
-      "url": "https://www.rbo.org.uk/production/carmen-damiano-michieletto"
-    },
-    {
-      "date": "2026-11-08",
-      "house": "维也纳国家歌剧院",
-      "title": "Workout in der Oper",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/workout-in-der-oper/2026-11-08/"
-    },
-    {
-      "date": "2026-11-08",
-      "house": "维也纳国家歌剧院",
-      "title": "Matinee zu Ariadne auf Naxos",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/matinee-zu-ariadne-auf-naxos/2026-11-08/"
-    },
-    {
-      "date": "2026-11-08",
-      "house": "维也纳国家歌剧院",
-      "title": "Giuseppe Verdi Otello (Giuseppe Verdi)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/otello/2026-11-08/"
-    },
-    {
-      "date": "2026-11-08",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Charles Gounod Faust (Charles Gounod)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/opera/faust.html"
-    },
-    {
-      "date": "2026-11-08",
-      "house": "苏黎世歌剧院",
-      "title": "Pierangelo Valtinoni Alice im Wunderland (Pierangelo Valtinoni)",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/alice-im-wunderland/"
-    },
-    {
-      "date": "2026-11-08",
-      "house": "苏黎世歌剧院",
-      "title": "Workshop für Familien «Alice im Wunderland»",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/familien-workshop-alice-im-wunderland/"
-    },
-    {
-      "date": "2026-11-08",
-      "house": "苏黎世歌剧院",
-      "title": "Rachmaninow – Die drei Opern",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/rachmaninov-die-drei-opern/"
-    },
-    {
-      "date": "2026-11-08",
-      "house": "萨尔茨堡音乐节",
-      "title": "La nuda voce — Klangforum Wien · Pomàrico (2026)",
-      "url": "https://www.salzburgerfestspiele.at/p/la-nuda-voce-pomarico-2026"
-    },
-    {
-      "date": "2026-11-08",
-      "house": "悉尼歌剧院",
-      "title": "48th Suzuki Graduation Piano Recitals",
-      "url": "https://www.sydneyoperahouse.com/classical-music/48th-suzuki-graduation-piano-recitals"
-    },
-    {
-      "date": "2026-11-08",
-      "house": "悉尼歌剧院",
-      "title": "Simone Young conducts Mozart & Bach",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/simone-young-mozart-bach"
-    },
-    {
-      "date": "2026-11-08",
-      "house": "悉尼歌剧院",
-      "title": "Mischa Maisky",
-      "url": "https://www.sydneyoperahouse.com/classical-music/mischa-maisky"
-    },
     {
       "date": "2026-11-09",
       "house": "伦敦皇家歌剧院",
@@ -334,14 +262,14 @@
     {
       "date": "2026-11-13",
       "house": "悉尼歌剧院",
-      "title": "48th Suzuki Graduation Piano Recitals",
-      "url": "https://www.sydneyoperahouse.com/classical-music/48th-suzuki-graduation-piano-recitals"
+      "title": "James Dekleva in Recital | Tchaikovsky’s Nutcracker",
+      "url": "https://www.sydneyoperahouse.com/classical-music/james-dekleva-recital-tchaikovskys-nutcracker"
     },
     {
       "date": "2026-11-13",
       "house": "悉尼歌剧院",
-      "title": "James Dekleva in Recital | Tchaikovsky’s Nutcracker",
-      "url": "https://www.sydneyoperahouse.com/classical-music/james-dekleva-recital-tchaikovskys-nutcracker"
+      "title": "48th Suzuki Graduation Piano Recitals",
+      "url": "https://www.sydneyoperahouse.com/classical-music/48th-suzuki-graduation-piano-recitals"
     },
     {
       "date": "2026-11-14",
@@ -486,6 +414,78 @@
       "house": "悉尼歌剧院",
       "title": "48th Suzuki Graduation Piano Recitals",
       "url": "https://www.sydneyoperahouse.com/classical-music/48th-suzuki-graduation-piano-recitals"
+    },
+    {
+      "date": "2026-11-15",
+      "house": "悉尼歌剧院",
+      "title": "Beethoven’s Pastoral",
+      "url": "https://www.sydneyoperahouse.com/australian-chamber-orchestra/2026-season/beethovens-pastoral"
+    },
+    {
+      "date": "2026-11-16",
+      "house": "维也纳国家歌剧院",
+      "title": "No Performance",
+      "url": ""
+    },
+    {
+      "date": "2026-11-16",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Symphony Concerts A Riccardo Chailly / Bruckner 9 (Symphony Concerts A)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/concerts/symphony-concerts/riccardo-chailly-bruckner-9.html"
+    },
+    {
+      "date": "2026-11-17",
+      "house": "伦敦皇家歌剧院",
+      "title": "Visionaries: Robbins and MacMillan",
+      "url": "https://www.rbo.org.uk/production/visionaries-robbins-and-macmillan"
+    },
+    {
+      "date": "2026-11-17",
+      "house": "维也纳国家歌剧院",
+      "title": "Gaetano Donizetti L'Elisir d'amore (Gaetano Donizetti)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/lelisir-damore/2026-11-17/"
+    },
+    {
+      "date": "2026-11-17",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Symphony Concerts B Riccardo Chailly / Bruckner 9 (Symphony Concerts B)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/concerts/symphony-concerts/riccardo-chailly-bruckner-9.html"
+    },
+    {
+      "date": "2026-11-17",
+      "house": "苏黎世歌剧院",
+      "title": "open space stimme",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/open-space-stimme/"
+    },
+    {
+      "date": "2026-11-18",
+      "house": "伦敦皇家歌剧院",
+      "title": "Carmen",
+      "url": "https://www.rbo.org.uk/production/carmen-damiano-michieletto"
+    },
+    {
+      "date": "2026-11-18",
+      "house": "维也纳国家歌剧院",
+      "title": "Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-11-18/"
+    },
+    {
+      "date": "2026-11-18",
+      "house": "维也纳国家歌剧院",
+      "title": "Giacomo Puccini Madama Butterfly (Giacomo Puccini)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/madama-butterfly/2026-11-18/"
+    },
+    {
+      "date": "2026-11-18",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "George Balanchine / Pina Bausch Balanchine Bausch Stravinsky (George Balanchine / Pina Bausch)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/ballet/balanchine-bausch-stravinsky.html"
+    },
+    {
+      "date": "2026-11-18",
+      "house": "苏黎世歌剧院",
+      "title": "open space tanz",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/open-space-tanz/"
     }
   ]
 }
