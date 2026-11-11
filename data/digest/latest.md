@@ -1,29 +1,23 @@
-📰 歌剧日报 · 2026-11-10
+📰 歌剧日报 · 2026-11-11
 
 ▍今日要闻
-- Collegium 1704 2026-27 Review: Susanna ｜ OperaWire  https://operawire.com/collegium-1704-2026-27-review-susanna/
-- ABAO Bilbao Opera Announces ABAO Txiki’s 2026-27 Programming ｜ OperaWire  https://operawire.com/abao-bilbao-opera-announces-abao-txikis-2026-27-programming/
-- Five years since a top soprano was taken by Covid ｜ Slipped Disc  https://slippedisc.com/2026/11/five-years-since-a-top-soprano-was-taken-by-covid/?utm_source=rss&utm_medium=rss&utm_campaign=five-years-since-a-top-soprano-was-taken-by-covid
-- Opera Parallèle to Present World Premiere of ‘Salt & Spirit’ ｜ OperaWire  https://operawire.com/opera-parallele-to-present-world-premiere-of-salt-spirit/
-- The [current] Marriage of Figaro in San Francisco ｜ Opera Today  https://operatoday.com/2026/11/the-current-marriage-of-figaro-in-san-francisco/
-- Gianandrea Noseda Receives Highest Italian Honors ｜ OperaWire  https://operawire.com/gianandrea-noseda-receives-highest-italian-honors/
-- OPERA America Announces Business Innovation Research & Development Lab ｜ OperaWire  https://operawire.com/opera-america-announces-business-innovation-research-development-lab/
-- Soprano Bridget Esler Among 2026 Susan Wadsworth International Auditions Winners ｜ OperaWire  https://operawire.com/soprano-bridget-esler-among-2026-susan-wadsworth-international-auditions-winners/
-- No-one left to welcome you at Covent Garden ｜ Slipped Disc  https://slippedisc.com/2026/11/no-one-left-to-welcome-you-at-covent-garden/?utm_source=rss&utm_medium=rss&utm_campaign=no-one-left-to-welcome-you-at-covent-garden
-- Anti-Netrebko protests in Bonn ｜ Slipped Disc  https://slippedisc.com/2026/11/anti-netrebko-protests-in-bonn/?utm_source=rss&utm_medium=rss&utm_campaign=anti-netrebko-protests-in-bonn
-- Once Upon A Time: Humperdinck’s Dornröschen in Hamburg ｜ Opera Today  https://operatoday.com/2026/11/once-upon-a-time-humperdincks-dornroschen-in-hamburg/
+- Paul Moravec, Composer of ‘The Shining’ Opera, Inducted into American Academy of Sciences & Letters ｜ OperaWire  https://operawire.com/paul-moravec-composer-of-the-shining-opera-inducted-into-american-academy-of-sciences-letters/
+- Sinfonietta Bel Canto to Present ‘Händel & Gretel’ ｜ OperaWire  https://operawire.com/sinfonietta-bel-canto-to-present-handel-gretel/
+- Monika Radecka & Tomasz Konieczny Lead Polish National Opera’s ‘Salome’ ｜ OperaWire  https://operawire.com/monika-radecka-tomasz-konieczny-lead-polish-national-operas-salome/
+- Pensacola Opera to Present ‘The Falling and the Rising’ ｜ OperaWire  https://operawire.com/pensacola-opera-to-present-the-falling-and-the-rising/
+- Obituary: Italian Tenor Antonello Palombi Dies at 58 ｜ OperaWire  https://operawire.com/obituary-italian-tenor-antonello-palombi-dies-at-58/
+- Gidon Saks Diagnosed with Inoperable Tumor; Godson Starts Fundraiser ｜ OperaWire  https://operawire.com/gidon-saks-diagnosed-with-inoperable-tumor-godson-starts-fundraiser/
+- Attic Opera to Present ‘Il Delirio d’Amore’ ｜ OperaWire  https://operawire.com/attic-opera-to-present-il-delirio-damore/
+- Cast Change: Chiara Isotton Jumps In for Metropolitan Opera’s ‘Medea’ ｜ OperaWire  https://operawire.com/cast-change-chiara-isotton-jumps-in-for-metropolitan-operas-medea/
+- NY Phil: The Dudamel exodus continues ｜ Slipped Disc  https://slippedisc.com/2026/11/ny-phil-the-dudamel-exodus-continues/?utm_source=rss&utm_medium=rss&utm_campaign=ny-phil-the-dudamel-exodus-continues
+- Italian tenor is found dead in German hotel room ｜ Slipped Disc  https://slippedisc.com/2026/11/italian-tenor-is-found-dead-in-german-hotel-room/?utm_source=rss&utm_medium=rss&utm_campaign=italian-tenor-is-found-dead-in-german-hotel-room
+- Beg, Bardo, or steal ｜ Parterre Box  https://pbx.fm/2d2o
+- In for the kill ｜ Parterre Box  https://pbx.fm/2d29
+- Cleveland candidate makes Scala debut ｜ Slipped Disc  https://slippedisc.com/2026/11/cleveland-candidate-makes-scala-debut/?utm_source=rss&utm_medium=rss&utm_campaign=cleveland-candidate-makes-scala-debut
+- Appeal for an ailing opera singer ｜ Slipped Disc  https://slippedisc.com/2026/11/appeal-for-a-hospitalised-opera-singer/?utm_source=rss&utm_medium=rss&utm_campaign=appeal-for-a-hospitalised-opera-singer
+- Britten soprano,104 ｜ Slipped Disc  https://slippedisc.com/2026/11/britten-soprano104/?utm_source=rss&utm_medium=rss&utm_campaign=britten-soprano104
 
 ▍排期更新
-- 2026-11-10 伦敦皇家歌剧院：Carmen  https://www.rbo.org.uk/production/carmen-damiano-michieletto
-- 2026-11-10 维也纳国家歌剧院：Audience Discussion  https://www.wiener-staatsoper.at/en/calendar/detail/audience-discussion/2026-11-10/
-- 2026-11-10 维也纳国家歌剧院：La Fille du régiment (Gaetano Donizetti)  https://www.wiener-staatsoper.at/en/calendar/detail/la-fille-du-regiment/2026-11-10/
-- 2026-11-10 巴黎歌剧院：Siegfried (Festival RING) — Richard Wagner  https://www.operadeparis.fr/saison-26-27/opera/siegfried-festival-ring
-- 2026-11-10 苏黎世歌剧院：Schulworkshop «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/2026-2027/
-- 2026-11-10 苏黎世歌剧院：Liederabend Lise Davidsen  https://www.opernhaus.ch/spielplan/kalendarium/liederabend-lise-davidsen-1/
-- 2026-11-10 苏黎世歌剧院：open space stimme  https://www.opernhaus.ch/spielplan/kalendarium/open-space-stimme/
-- 2026-11-10 旧金山歌剧院：The Marriage of Figaro (Wolfgang Amadeus Mozart)  https://www.sfopera.com/operas/the-marriage-of-figaro/
-- 2026-11-10 悉尼歌剧院：48th Suzuki Graduation Piano Recitals  https://www.sydneyoperahouse.com/classical-music/48th-suzuki-graduation-piano-recitals
-- 2026-11-11 伦敦皇家歌剧院：Carmen  https://www.rbo.org.uk/production/carmen-damiano-michieletto
 - 2026-11-11 伦敦皇家歌剧院：Insights: Un ballo in maschera  https://www.rbo.org.uk/production/insights-un-ballo-in-maschera
 - 2026-11-11 伦敦皇家歌剧院：Manon  https://www.rbo.org.uk/production/manon-kenneth-macmillan
 - 2026-11-11 维也纳国家歌剧院：Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,
@@ -35,14 +29,24 @@
             Gerald  Resch)  https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-11-11/
 - 2026-11-11 维也纳国家歌剧院：No Evening Performance  
 - 2026-11-11 米兰斯卡拉歌剧院：Balanchine Bausch Stravinsky (George Balanchine / Pina Bausch)  https://www.teatroallascala.org/en/season/2025-2026/ballet/balanchine-bausch-stravinsky.html
+- 2026-11-11 苏黎世歌剧院：Schulworkshop «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/
+- 2026-11-11 苏黎世歌剧院：open space tanz  https://www.opernhaus.ch/spielplan/kalendarium/open-space-tanz/
+- 2026-11-11 悉尼歌剧院：48th Suzuki Graduation Piano Recitals  https://www.sydneyoperahouse.com/classical-music/48th-suzuki-graduation-piano-recitals
+- 2026-11-12 伦敦皇家歌剧院：Visionaries: Robbins and MacMillan  https://www.rbo.org.uk/production/visionaries-robbins-and-macmillan
+- 2026-11-12 维也纳国家歌剧院：Recital Simon Keenlyside  https://www.wiener-staatsoper.at/en/calendar/detail/recital/2026-11-12/
+- 2026-11-12 米兰斯卡拉歌剧院：Balanchine Bausch Stravinsky (George Balanchine / Pina Bausch)  https://www.teatroallascala.org/en/season/2025-2026/ballet/balanchine-bausch-stravinsky.html
+- 2026-11-12 苏黎世歌剧院：Schulworkshop «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/
+- 2026-11-12 苏黎世歌剧院：Ein Sommer­nachtstraum (Cathy Marston)  https://www.opernhaus.ch/spielplan/kalendarium/ein-sommernachtstraum/
+- 2026-11-12 芝加哥抒情歌剧院：Don Pasquale  https://www.lyricopera.org/shows/upcoming/2026-27/don-pasquale/
+- 2026-11-12 旧金山歌剧院：Opera Ball  https://www.sfopera.com/seasons/opera-ball/
 
 ▍艺术家动态
+- 古斯塔沃·杜达梅尔（指挥）
+  · NY Phil: The Dudamel exodus continues  https://slippedisc.com/2026/11/ny-phil-the-dudamel-exodus-continues/?utm_source=rss&utm_medium=rss&utm_campaign=ny-phil-the-dudamel-exodus-continues
 - 基里尔·别特连科（指挥）
   · Kirill Petrenko / Le Sacre du Printemps (Symphony Concerts B)  https://www.teatroallascala.org/en/season/2026-2027/concerts/symphony-concerts/kirill-petrenko-le-sacre-du-printemps.html
   · Kirill Petrenko / Le Sacre du Printemps (Symphony Concerts C)  https://www.teatroallascala.org/en/season/2026-2027/concerts/symphony-concerts/kirill-petrenko-le-sacre-du-printemps.html
   · Kirill Petrenko / Berliner Philharmoniker (Guest orchestras subscritpion)  https://www.teatroallascala.org/en/season/2026-2027/concerts/guest-orchestras/berliner-philharmoniker-kirill-petrenko.html
-- 安娜·奈瑞贝科（歌唱家）
-  · Anti-Netrebko protests in Bonn  https://slippedisc.com/2026/11/anti-netrebko-protests-in-bonn/?utm_source=rss&utm_medium=rss&utm_campaign=anti-netrebko-protests-in-bonn
 - 乔纳斯·考夫曼（歌唱家）
   · Recital Jonas Kaufmann  https://www.wiener-staatsoper.at/en/calendar/detail/recital/2027-01-26/
 - 迪安娜·达姆娆（歌唱家）
@@ -52,16 +56,6 @@
   · Piotr Beczała  https://www.operadeparis.fr/saison-26-27/concert-et-recital/recital-piotr-beczala
 
 ▍未来 7 天值得关注
-- 2026-11-10 伦敦皇家歌剧院：Carmen  https://www.rbo.org.uk/production/carmen-damiano-michieletto
-- 2026-11-10 维也纳国家歌剧院：Audience Discussion  https://www.wiener-staatsoper.at/en/calendar/detail/audience-discussion/2026-11-10/
-- 2026-11-10 维也纳国家歌剧院：La Fille du régiment (Gaetano Donizetti)  https://www.wiener-staatsoper.at/en/calendar/detail/la-fille-du-regiment/2026-11-10/
-- 2026-11-10 巴黎歌剧院：Siegfried (Festival RING) — Richard Wagner  https://www.operadeparis.fr/saison-26-27/opera/siegfried-festival-ring
-- 2026-11-10 苏黎世歌剧院：Schulworkshop «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/2026-2027/
-- 2026-11-10 苏黎世歌剧院：Liederabend Lise Davidsen  https://www.opernhaus.ch/spielplan/kalendarium/liederabend-lise-davidsen-1/
-- 2026-11-10 苏黎世歌剧院：open space stimme  https://www.opernhaus.ch/spielplan/kalendarium/open-space-stimme/
-- 2026-11-10 旧金山歌剧院：The Marriage of Figaro (Wolfgang Amadeus Mozart)  https://www.sfopera.com/operas/the-marriage-of-figaro/
-- 2026-11-10 悉尼歌剧院：48th Suzuki Graduation Piano Recitals  https://www.sydneyoperahouse.com/classical-music/48th-suzuki-graduation-piano-recitals
-- 2026-11-11 伦敦皇家歌剧院：Carmen  https://www.rbo.org.uk/production/carmen-damiano-michieletto
 - 2026-11-11 伦敦皇家歌剧院：Insights: Un ballo in maschera  https://www.rbo.org.uk/production/insights-un-ballo-in-maschera
 - 2026-11-11 伦敦皇家歌剧院：Manon  https://www.rbo.org.uk/production/manon-kenneth-macmillan
 - 2026-11-11 维也纳国家歌剧院：Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,
@@ -73,3 +67,13 @@
             Gerald  Resch)  https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-11-11/
 - 2026-11-11 维也纳国家歌剧院：No Evening Performance  
 - 2026-11-11 米兰斯卡拉歌剧院：Balanchine Bausch Stravinsky (George Balanchine / Pina Bausch)  https://www.teatroallascala.org/en/season/2025-2026/ballet/balanchine-bausch-stravinsky.html
+- 2026-11-11 苏黎世歌剧院：Schulworkshop «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/
+- 2026-11-11 苏黎世歌剧院：open space tanz  https://www.opernhaus.ch/spielplan/kalendarium/open-space-tanz/
+- 2026-11-11 悉尼歌剧院：48th Suzuki Graduation Piano Recitals  https://www.sydneyoperahouse.com/classical-music/48th-suzuki-graduation-piano-recitals
+- 2026-11-12 伦敦皇家歌剧院：Visionaries: Robbins and MacMillan  https://www.rbo.org.uk/production/visionaries-robbins-and-macmillan
+- 2026-11-12 维也纳国家歌剧院：Recital Simon Keenlyside  https://www.wiener-staatsoper.at/en/calendar/detail/recital/2026-11-12/
+- 2026-11-12 米兰斯卡拉歌剧院：Balanchine Bausch Stravinsky (George Balanchine / Pina Bausch)  https://www.teatroallascala.org/en/season/2025-2026/ballet/balanchine-bausch-stravinsky.html
+- 2026-11-12 苏黎世歌剧院：Schulworkshop «Alice im Wunderland»  https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/
+- 2026-11-12 苏黎世歌剧院：Ein Sommer­nachtstraum (Cathy Marston)  https://www.opernhaus.ch/spielplan/kalendarium/ein-sommernachtstraum/
+- 2026-11-12 芝加哥抒情歌剧院：Don Pasquale  https://www.lyricopera.org/shows/upcoming/2026-27/don-pasquale/
+- 2026-11-12 旧金山歌剧院：Opera Ball  https://www.sfopera.com/seasons/opera-ball/

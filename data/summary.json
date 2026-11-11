@@ -1,72 +1,12 @@
 {
-  "updated_at": "2026-11-10T08:02:27+00:00",
+  "updated_at": "2026-11-11T07:30:25+00:00",
   "stats": {
     "houses": 14,
-    "performances": 972,
+    "performances": 960,
     "news": 300,
     "artists": 8
   },
   "upcoming_30": [
-    {
-      "date": "2026-11-10",
-      "house": "伦敦皇家歌剧院",
-      "title": "Carmen",
-      "url": "https://www.rbo.org.uk/production/carmen-damiano-michieletto"
-    },
-    {
-      "date": "2026-11-10",
-      "house": "维也纳国家歌剧院",
-      "title": "Audience Discussion",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/audience-discussion/2026-11-10/"
-    },
-    {
-      "date": "2026-11-10",
-      "house": "维也纳国家歌剧院",
-      "title": "Gaetano Donizetti La Fille du régiment (Gaetano Donizetti)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/la-fille-du-regiment/2026-11-10/"
-    },
-    {
-      "date": "2026-11-10",
-      "house": "巴黎歌剧院",
-      "title": "Siegfried (Festival RING) — Richard Wagner",
-      "url": "https://www.operadeparis.fr/saison-26-27/opera/siegfried-festival-ring"
-    },
-    {
-      "date": "2026-11-10",
-      "house": "苏黎世歌剧院",
-      "title": "Schulworkshop «Alice im Wunderland»",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/schulworkshop-alice-im-wunderland/2026-2027/"
-    },
-    {
-      "date": "2026-11-10",
-      "house": "苏黎世歌剧院",
-      "title": "Liederabend Lise Davidsen",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/liederabend-lise-davidsen-1/"
-    },
-    {
-      "date": "2026-11-10",
-      "house": "苏黎世歌剧院",
-      "title": "open space stimme",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/open-space-stimme/"
-    },
-    {
-      "date": "2026-11-10",
-      "house": "旧金山歌剧院",
-      "title": "Wolfgang Amadeus Mozart The Marriage of Figaro (Wolfgang Amadeus Mozart)",
-      "url": "https://www.sfopera.com/operas/the-marriage-of-figaro/"
-    },
-    {
-      "date": "2026-11-10",
-      "house": "悉尼歌剧院",
-      "title": "48th Suzuki Graduation Piano Recitals",
-      "url": "https://www.sydneyoperahouse.com/classical-music/48th-suzuki-graduation-piano-recitals"
-    },
-    {
-      "date": "2026-11-11",
-      "house": "伦敦皇家歌剧院",
-      "title": "Carmen",
-      "url": "https://www.rbo.org.uk/production/carmen-damiano-michieletto"
-    },
     {
       "date": "2026-11-11",
       "house": "伦敦皇家歌剧院",
@@ -114,12 +54,6 @@
       "house": "悉尼歌剧院",
       "title": "48th Suzuki Graduation Piano Recitals",
       "url": "https://www.sydneyoperahouse.com/classical-music/48th-suzuki-graduation-piano-recitals"
-    },
-    {
-      "date": "2026-11-12",
-      "house": "伦敦皇家歌剧院",
-      "title": "Carmen",
-      "url": "https://www.rbo.org.uk/production/carmen-damiano-michieletto"
     },
     {
       "date": "2026-11-12",
@@ -232,12 +166,6 @@
     {
       "date": "2026-11-14",
       "house": "伦敦皇家歌剧院",
-      "title": "Carmen",
-      "url": "https://www.rbo.org.uk/production/carmen-damiano-michieletto"
-    },
-    {
-      "date": "2026-11-14",
-      "house": "伦敦皇家歌剧院",
       "title": "Manon",
       "url": "https://www.rbo.org.uk/production/manon-kenneth-macmillan"
     },
@@ -294,12 +222,6 @@
       "house": "悉尼歌剧院",
       "title": "48th Suzuki Graduation Piano Recitals",
       "url": "https://www.sydneyoperahouse.com/classical-music/48th-suzuki-graduation-piano-recitals"
-    },
-    {
-      "date": "2026-11-15",
-      "house": "伦敦皇家歌剧院",
-      "title": "Carmen",
-      "url": "https://www.rbo.org.uk/production/carmen-damiano-michieletto"
     },
     {
       "date": "2026-11-15",
@@ -486,6 +408,84 @@
       "house": "维也纳国家歌剧院",
       "title": "Gaetano Donizetti L'Elisir d'amore (Gaetano Donizetti)",
       "url": "https://www.wiener-staatsoper.at/en/calendar/detail/lelisir-damore/2026-11-19/"
+    },
+    {
+      "date": "2026-11-19",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Balanchine Bausch Stravinsky",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/ballet/balanchine-bausch-stravinsky.html"
+    },
+    {
+      "date": "2026-11-19",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "George Balanchine / Pina Bausch Balanchine Bausch Stravinsky (George Balanchine / Pina Bausch)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/ballet/balanchine-bausch-stravinsky.html"
+    },
+    {
+      "date": "2026-11-19",
+      "house": "苏黎世歌剧院",
+      "title": "Alice im Wunderland",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/alice-im-wunderland/"
+    },
+    {
+      "date": "2026-11-19",
+      "house": "悉尼歌剧院",
+      "title": "Simone Young conducts Götterdämmerung",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/simone-young-gotterdammerung"
+    },
+    {
+      "date": "2026-11-20",
+      "house": "伦敦皇家歌剧院",
+      "title": "Live at Lunch",
+      "url": "https://www.rbo.org.uk/production/live-at-lunch"
+    },
+    {
+      "date": "2026-11-20",
+      "house": "伦敦皇家歌剧院",
+      "title": "Visionaries: Robbins and MacMillan",
+      "url": "https://www.rbo.org.uk/production/visionaries-robbins-and-macmillan"
+    },
+    {
+      "date": "2026-11-20",
+      "house": "维也纳国家歌剧院",
+      "title": "Giacomo Puccini Madama Butterfly (Giacomo Puccini)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/madama-butterfly/2026-11-20/"
+    },
+    {
+      "date": "2026-11-20",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Symphony Concerts C Riccardo Chailly / Bruckner 9 (Symphony Concerts C)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/concerts/symphony-concerts/riccardo-chailly-bruckner-9.html"
+    },
+    {
+      "date": "2026-11-20",
+      "house": "苏黎世歌剧院",
+      "title": "Cathy Marston Romeo und Julia (Cathy Marston)",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/romeo-und-julia-1/"
+    },
+    {
+      "date": "2026-11-20",
+      "house": "芝加哥抒情歌剧院",
+      "title": "Wagner: Myth & Music",
+      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/Wagner-Myth-and-Music/"
+    },
+    {
+      "date": "2026-11-20",
+      "house": "旧金山歌剧院",
+      "title": "Future is Now",
+      "url": "https://www.sfopera.com/seasons/the-future-is-now-adlers-in-concert/"
+    },
+    {
+      "date": "2026-11-21",
+      "house": "伦敦皇家歌剧院",
+      "title": "Carmen",
+      "url": "https://www.rbo.org.uk/production/carmen-damiano-michieletto"
+    },
+    {
+      "date": "2026-11-21",
+      "house": "维也纳国家歌剧院",
+      "title": "Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-11-21/"
     }
   ]
 }
