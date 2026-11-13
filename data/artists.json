@@ -99,7 +99,7 @@
         "date": "2026-10-29T13:00:47+00:00"
       }
     ],
-    "last_updated": "2026-11-12T07:58:32+00:00"
+    "last_updated": "2026-11-13T07:34:15+00:00"
   },
   {
     "id": "riccardo-muti",
@@ -165,7 +165,7 @@
         "date": "2027-11-15"
       }
     ],
-    "last_updated": "2026-11-12T07:58:32+00:00"
+    "last_updated": "2026-11-13T07:34:15+00:00"
   },
   {
     "id": "diana-damrau",
@@ -189,7 +189,7 @@
         "date": "2026-10-09T20:54:48+00:00"
       }
     ],
-    "last_updated": "2026-11-12T07:58:32+00:00"
+    "last_updated": "2026-11-13T07:34:15+00:00"
   },
   {
     "id": "piotr-beczala",
@@ -207,7 +207,7 @@
         "date": "2026-09-22T04:00:30+00:00"
       }
     ],
-    "last_updated": "2026-11-12T07:58:32+00:00"
+    "last_updated": "2026-11-13T07:34:15+00:00"
   },
   {
     "id": "antonio-pappano",
@@ -253,8 +253,14 @@
         "title": "Anti-Netrebko protests in Bonn",
         "url": "https://slippedisc.com/2026/11/anti-netrebko-protests-in-bonn/?utm_source=rss&utm_medium=rss&utm_campaign=anti-netrebko-protests-in-bonn",
         "date": "2026-11-09T10:33:56+00:00"
+      },
+      {
+        "type": "新闻",
+        "title": "Basel discounts Netrebko tickets",
+        "url": "https://slippedisc.com/2026/11/basel-discounts-netrebko-tickets/?utm_source=rss&utm_medium=rss&utm_campaign=basel-discounts-netrebko-tickets",
+        "date": "2026-11-13T05:26:37+00:00"
       }
     ],
-    "last_updated": "2026-11-10T08:02:27+00:00"
+    "last_updated": "2026-11-13T07:34:15+00:00"
   }
 ]
