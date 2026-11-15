@@ -1,5 +1,25 @@
 [
   {
+    "id": "parterre:https://pbx.fm/2d4j",
+    "source": "parterre",
+    "source_name": "Parterre Box",
+    "title": "The trolley problem",
+    "url": "https://pbx.fm/2d4j",
+    "summary": "At Boston Lyric Opera, a hardworking cast can’t make magic of André Previn’s disenchanting adaptation of <em>A Streetcar Named Desire</em>.",
+    "published": "2026-11-14T14:00:34+00:00",
+    "fetched_at": "2026-11-15T07:27:12+00:00"
+  },
+  {
+    "id": "parterre:https://pbx.fm/2d3p",
+    "source": "parterre",
+    "source_name": "Parterre Box",
+    "title": "How much of what we did was good?",
+    "url": "https://pbx.fm/2d3p",
+    "summary": "Director <b>Elkhanah Pulitzer </b> reflects on the images and the legacy of that historic 1972 visit before her production of <a href=\"https://washnatopera.org/nixon-in-china\"><i>Nixon in China</i></a> opens in Washington.",
+    "published": "2026-11-14T14:00:00+00:00",
+    "fetched_at": "2026-11-15T07:27:12+00:00"
+  },
+  {
     "id": "slippedisc:https://slippedisc.com/2026/11/shanghai-restages-donizetti-in-a-chinese-restaurant/?utm_source=rss&utm_medium=rss&utm_campaign=shanghai-restages-donizetti-in-a-chinese-restaurant",
     "source": "slippedisc",
     "source_name": "Slipped Disc",
@@ -2977,26 +2997,6 @@
     "url": "https://operawire.com/the-quarrel-of-the-buffons-an-18th-century-culture-war/",
     "summary": "<p>Long before people spoke of culture wars in political terms, they were already fighting over what counted as legitimate culture and who had the authority to define it. In 1752, an argument broke out in Paris over an Italian comic opera – and it didn’t stay contained for long. Within months, it had drawn in composers, philosophers, critics and the&#160;{&#8230;}</p>\n<p>The post <a href=\"https://",
     "published": "2026-10-21T04:30:01+00:00",
-    "fetched_at": "2026-10-21T05:39:18+00:00"
-  },
-  {
-    "id": "operawire:https://operawire.com/jamie-barton-to-perform-recital-at-la-opera/",
-    "source": "operawire",
-    "source_name": "OperaWire",
-    "title": "Jamie Barton to Perform Recital at LA Opera",
-    "url": "https://operawire.com/jamie-barton-to-perform-recital-at-la-opera/",
-    "summary": "<p>Grammy Award-winning mezzo-soprano Jamie Barton is set to perform a recital at LA Opera on Nov. 15. The mezzo will be joined by pianist Kathleen Kelly at The Wallis in Beverly Hills and it will mark her first appearance with the company since her 2015 LA Opera debut as Adalgisa in &#8220;Norma.&#8221; Her recital will include music by Henri Duparc and&#160;{&#8230;}</p>\n<p>The post <a href=\"htt",
-    "published": "2026-10-21T04:15:40+00:00",
-    "fetched_at": "2026-10-21T05:39:18+00:00"
-  },
-  {
-    "id": "operawire:https://operawire.com/metropolitan-opera-2026-27-review-lincoln-in-the-bardo/",
-    "source": "operawire",
-    "source_name": "OperaWire",
-    "title": "Metropolitan Opera 2026-27 Review: Lincoln in the Bardo",
-    "url": "https://operawire.com/metropolitan-opera-2026-27-review-lincoln-in-the-bardo/",
-    "summary": "<p>(Credit: Karen Almond / Met Opera) A blue curtain draped the Met Opera&#8217;s stage. The color of sadness. The color of the sky. The color of water. That choice already shifts the mood. But in addition to the color, the moment you entered the hallowed hall, electronic sounds permeated the space. These are the first sensations of the &#8220;Lincoln in&#160;{&#8230;}</p>\n<p>The post <a href=\"htt",
-    "published": "2026-10-21T04:11:19+00:00",
     "fetched_at": "2026-10-21T05:39:18+00:00"
   }
 ]

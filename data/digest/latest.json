@@ -1,111 +1,21 @@
 {
-  "date": "2026-11-14",
-  "generated_at": "2026-11-14T07:19:58+00:00",
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T07:30:35+00:00",
   "news": [
     {
-      "source": "Slipped Disc",
-      "title": "Shanghai restages Donizetti in a Chinese restaurant",
-      "url": "https://slippedisc.com/2026/11/shanghai-restages-donizetti-in-a-chinese-restaurant/?utm_source=rss&utm_medium=rss&utm_campaign=shanghai-restages-donizetti-in-a-chinese-restaurant",
+      "source": "Parterre Box",
+      "title": "The trolley problem",
+      "url": "https://pbx.fm/2d4j",
       "date": "2026-11-14"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Virginia Opera 2026-27 Review: Pagliacci",
-      "url": "https://operawire.com/virginia-opera-2026-27-review-pagliacci/",
-      "date": "2026-11-14"
-    },
-    {
-      "source": "Slipped Disc",
-      "title": "Simon Rattle: Find me a composer of 27 who could compose this",
-      "url": "https://slippedisc.com/2026/11/simon-rattle-find-me-a-composer-of-27-who-could-compose-this/?utm_source=rss&utm_medium=rss&utm_campaign=simon-rattle-find-me-a-composer-of-27-who-could-compose-this",
-      "date": "2026-11-13"
     },
     {
       "source": "Parterre Box",
-      "title": "Un bel DAR",
-      "url": "https://pbx.fm/2d3y",
-      "date": "2026-11-13"
-    },
-    {
-      "source": "OperaWire",
-      "title": "Opera Meets Film: Recalling Cinematic Legacies, Pt. 3: Boris Godunov",
-      "url": "https://operawire.com/opera-meets-film-recalling-cinematic-legacies-pt-3-boris-godunov/",
-      "date": "2026-11-13"
-    },
-    {
-      "source": "Slipped Disc",
-      "title": "Exclusive: Washington opera chief heads for Chicago",
-      "url": "https://slippedisc.com/2026/11/exclusive-washington-opera-chief-heads-for-chicago/?utm_source=rss&utm_medium=rss&utm_campaign=exclusive-washington-opera-chief-heads-for-chicago",
-      "date": "2026-11-13"
-    },
-    {
-      "source": "Slipped Disc",
-      "title": "Swiss soprano, RIP",
-      "url": "https://slippedisc.com/2026/11/swiss-soprano-80/?utm_source=rss&utm_medium=rss&utm_campaign=swiss-soprano-80",
-      "date": "2026-11-13"
+      "title": "How much of what we did was good?",
+      "url": "https://pbx.fm/2d3p",
+      "date": "2026-11-14"
     }
   ],
   "schedule_updates": [
-    {
-      "date": "2026-11-14",
-      "house": "伦敦皇家歌剧院",
-      "title": "Manon",
-      "url": "https://www.rbo.org.uk/production/manon-kenneth-macmillan"
-    },
-    {
-      "date": "2026-11-14",
-      "house": "维也纳国家歌剧院",
-      "title": "Matinee of the Opera Studio",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/studiokonzert/2026-11-14/"
-    },
-    {
-      "date": "2026-11-14",
-      "house": "维也纳国家歌剧院",
-      "title": "Open Adult Ballet Class",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/open-adult-ballet-class/2026-11-14/"
-    },
-    {
-      "date": "2026-11-14",
-      "house": "维也纳国家歌剧院",
-      "title": "Impulse",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/impulse/2026-11-14/"
-    },
-    {
-      "date": "2026-11-14",
-      "house": "维也纳国家歌剧院",
-      "title": "L'Elisir d'amore (Gaetano Donizetti)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/lelisir-damore/2026-11-14/"
-    },
-    {
-      "date": "2026-11-14",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Balanchine Bausch Stravinsky (George Balanchine / Pina Bausch)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/ballet/balanchine-bausch-stravinsky.html"
-    },
-    {
-      "date": "2026-11-14",
-      "house": "巴黎歌剧院",
-      "title": "Répétition publique : Path 19 de Lucinda Childs",
-      "url": "https://www.operadeparis.fr/saison-26-27/repetition/repetition-publique-path-19"
-    },
-    {
-      "date": "2026-11-14",
-      "house": "苏黎世歌剧院",
-      "title": "Preview «Elektra»",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/preview-elektra/"
-    },
-    {
-      "date": "2026-11-14",
-      "house": "苏黎世歌剧院",
-      "title": "Ein Sommer­nachtstraum (Cathy Marston)",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/ein-sommernachtstraum/"
-    },
-    {
-      "date": "2026-11-14",
-      "house": "悉尼歌剧院",
-      "title": "48th Suzuki Graduation Piano Recitals",
-      "url": "https://www.sydneyoperahouse.com/classical-music/48th-suzuki-graduation-piano-recitals"
-    },
     {
       "date": "2026-11-15",
       "house": "伦敦皇家歌剧院",
@@ -135,6 +45,66 @@
       "house": "米兰斯卡拉歌剧院",
       "title": "Members of the Teatro alla Scala Orchestra",
       "url": "https://www.teatroallascala.org/en/season/2025-2026/concerts/chamber-music-at-toscanini-boxes-foyer/members-of-teatro-alla-scala-orchestra-15-november-2026.html"
+    },
+    {
+      "date": "2026-11-15",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Balanchine Bausch Stravinsky (George Balanchine / Pina Bausch)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/ballet/balanchine-bausch-stravinsky.html"
+    },
+    {
+      "date": "2026-11-15",
+      "house": "巴黎歌剧院",
+      "title": "Lise Davidsen",
+      "url": "https://www.operadeparis.fr/saison-26-27/concert-et-recital/recital-lise-davidsen"
+    },
+    {
+      "date": "2026-11-15",
+      "house": "苏黎世歌剧院",
+      "title": "Alice im Wunderland (Pierangelo Valtinoni)",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/alice-im-wunderland/"
+    },
+    {
+      "date": "2026-11-15",
+      "house": "苏黎世歌剧院",
+      "title": "Rachmaninow – Die drei Opern",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/rachmaninov-die-drei-opern/"
+    },
+    {
+      "date": "2026-11-15",
+      "house": "芝加哥抒情歌剧院",
+      "title": "Don Pasquale",
+      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/don-pasquale/"
+    },
+    {
+      "date": "2026-11-15",
+      "house": "旧金山歌剧院",
+      "title": "The Marriage of Figaro (Wolfgang Amadeus Mozart)",
+      "url": "https://www.sfopera.com/operas/the-marriage-of-figaro/"
+    },
+    {
+      "date": "2026-11-15",
+      "house": "悉尼歌剧院",
+      "title": "48th Suzuki Graduation Piano Recitals",
+      "url": "https://www.sydneyoperahouse.com/classical-music/48th-suzuki-graduation-piano-recitals"
+    },
+    {
+      "date": "2026-11-15",
+      "house": "悉尼歌剧院",
+      "title": "Beethoven’s Pastoral",
+      "url": "https://www.sydneyoperahouse.com/australian-chamber-orchestra/2026-season/beethovens-pastoral"
+    },
+    {
+      "date": "2026-11-16",
+      "house": "维也纳国家歌剧院",
+      "title": "No Performance",
+      "url": ""
+    },
+    {
+      "date": "2026-11-16",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Riccardo Chailly / Bruckner 9 (Symphony Concerts A)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/concerts/symphony-concerts/riccardo-chailly-bruckner-9.html"
     }
   ],
   "artists": [
@@ -207,66 +177,6 @@
   ],
   "upcoming_7": [
     {
-      "date": "2026-11-14",
-      "house": "伦敦皇家歌剧院",
-      "title": "Manon",
-      "url": "https://www.rbo.org.uk/production/manon-kenneth-macmillan"
-    },
-    {
-      "date": "2026-11-14",
-      "house": "维也纳国家歌剧院",
-      "title": "Matinee of the Opera Studio",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/studiokonzert/2026-11-14/"
-    },
-    {
-      "date": "2026-11-14",
-      "house": "维也纳国家歌剧院",
-      "title": "Open Adult Ballet Class",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/open-adult-ballet-class/2026-11-14/"
-    },
-    {
-      "date": "2026-11-14",
-      "house": "维也纳国家歌剧院",
-      "title": "Impulse",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/impulse/2026-11-14/"
-    },
-    {
-      "date": "2026-11-14",
-      "house": "维也纳国家歌剧院",
-      "title": "L'Elisir d'amore (Gaetano Donizetti)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/lelisir-damore/2026-11-14/"
-    },
-    {
-      "date": "2026-11-14",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Balanchine Bausch Stravinsky (George Balanchine / Pina Bausch)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/ballet/balanchine-bausch-stravinsky.html"
-    },
-    {
-      "date": "2026-11-14",
-      "house": "巴黎歌剧院",
-      "title": "Répétition publique : Path 19 de Lucinda Childs",
-      "url": "https://www.operadeparis.fr/saison-26-27/repetition/repetition-publique-path-19"
-    },
-    {
-      "date": "2026-11-14",
-      "house": "苏黎世歌剧院",
-      "title": "Preview «Elektra»",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/preview-elektra/"
-    },
-    {
-      "date": "2026-11-14",
-      "house": "苏黎世歌剧院",
-      "title": "Ein Sommer­nachtstraum (Cathy Marston)",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/ein-sommernachtstraum/"
-    },
-    {
-      "date": "2026-11-14",
-      "house": "悉尼歌剧院",
-      "title": "48th Suzuki Graduation Piano Recitals",
-      "url": "https://www.sydneyoperahouse.com/classical-music/48th-suzuki-graduation-piano-recitals"
-    },
-    {
       "date": "2026-11-15",
       "house": "伦敦皇家歌剧院",
       "title": "Family Sundays — Magic &amp; Myth",
@@ -295,6 +205,66 @@
       "house": "米兰斯卡拉歌剧院",
       "title": "Members of the Teatro alla Scala Orchestra",
       "url": "https://www.teatroallascala.org/en/season/2025-2026/concerts/chamber-music-at-toscanini-boxes-foyer/members-of-teatro-alla-scala-orchestra-15-november-2026.html"
+    },
+    {
+      "date": "2026-11-15",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Balanchine Bausch Stravinsky (George Balanchine / Pina Bausch)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/ballet/balanchine-bausch-stravinsky.html"
+    },
+    {
+      "date": "2026-11-15",
+      "house": "巴黎歌剧院",
+      "title": "Lise Davidsen",
+      "url": "https://www.operadeparis.fr/saison-26-27/concert-et-recital/recital-lise-davidsen"
+    },
+    {
+      "date": "2026-11-15",
+      "house": "苏黎世歌剧院",
+      "title": "Alice im Wunderland (Pierangelo Valtinoni)",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/alice-im-wunderland/"
+    },
+    {
+      "date": "2026-11-15",
+      "house": "苏黎世歌剧院",
+      "title": "Rachmaninow – Die drei Opern",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/rachmaninov-die-drei-opern/"
+    },
+    {
+      "date": "2026-11-15",
+      "house": "芝加哥抒情歌剧院",
+      "title": "Don Pasquale",
+      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/don-pasquale/"
+    },
+    {
+      "date": "2026-11-15",
+      "house": "旧金山歌剧院",
+      "title": "The Marriage of Figaro (Wolfgang Amadeus Mozart)",
+      "url": "https://www.sfopera.com/operas/the-marriage-of-figaro/"
+    },
+    {
+      "date": "2026-11-15",
+      "house": "悉尼歌剧院",
+      "title": "48th Suzuki Graduation Piano Recitals",
+      "url": "https://www.sydneyoperahouse.com/classical-music/48th-suzuki-graduation-piano-recitals"
+    },
+    {
+      "date": "2026-11-15",
+      "house": "悉尼歌剧院",
+      "title": "Beethoven’s Pastoral",
+      "url": "https://www.sydneyoperahouse.com/australian-chamber-orchestra/2026-season/beethovens-pastoral"
+    },
+    {
+      "date": "2026-11-16",
+      "house": "维也纳国家歌剧院",
+      "title": "No Performance",
+      "url": ""
+    },
+    {
+      "date": "2026-11-16",
+      "house": "米兰斯卡拉歌剧院",
+      "title": "Riccardo Chailly / Bruckner 9 (Symphony Concerts A)",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/concerts/symphony-concerts/riccardo-chailly-bruckner-9.html"
     }
   ]
 }
