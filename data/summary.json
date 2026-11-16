@@ -1,90 +1,12 @@
 {
-  "updated_at": "2026-11-15T07:30:35+00:00",
+  "updated_at": "2026-11-16T07:36:39+00:00",
   "stats": {
     "houses": 14,
-    "performances": 932,
+    "performances": 925,
     "news": 300,
     "artists": 8
   },
   "upcoming_30": [
-    {
-      "date": "2026-11-15",
-      "house": "伦敦皇家歌剧院",
-      "title": "Family Sundays — Magic &amp; Myth",
-      "url": "https://www.rbo.org.uk/tickets-and-events/family-sundays-dates"
-    },
-    {
-      "date": "2026-11-15",
-      "house": "维也纳国家歌剧院",
-      "title": "Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-11-15/"
-    },
-    {
-      "date": "2026-11-15",
-      "house": "维也纳国家歌剧院",
-      "title": "Dialog am Löwensofa",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/dialog-am-loewensofa/2026-11-15/"
-    },
-    {
-      "date": "2026-11-15",
-      "house": "维也纳国家歌剧院",
-      "title": "Giacomo Puccini Madama Butterfly (Giacomo Puccini)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/madama-butterfly/2026-11-15/"
-    },
-    {
-      "date": "2026-11-15",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Members of the Teatro alla Scala Orchestra",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/concerts/chamber-music-at-toscanini-boxes-foyer/members-of-teatro-alla-scala-orchestra-15-november-2026.html"
-    },
-    {
-      "date": "2026-11-15",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "George Balanchine / Pina Bausch Balanchine Bausch Stravinsky (George Balanchine / Pina Bausch)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/ballet/balanchine-bausch-stravinsky.html"
-    },
-    {
-      "date": "2026-11-15",
-      "house": "巴黎歌剧院",
-      "title": "Lise Davidsen",
-      "url": "https://www.operadeparis.fr/saison-26-27/concert-et-recital/recital-lise-davidsen"
-    },
-    {
-      "date": "2026-11-15",
-      "house": "苏黎世歌剧院",
-      "title": "Pierangelo Valtinoni Alice im Wunderland (Pierangelo Valtinoni)",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/alice-im-wunderland/"
-    },
-    {
-      "date": "2026-11-15",
-      "house": "苏黎世歌剧院",
-      "title": "Rachmaninow – Die drei Opern",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/rachmaninov-die-drei-opern/"
-    },
-    {
-      "date": "2026-11-15",
-      "house": "芝加哥抒情歌剧院",
-      "title": "Don Pasquale",
-      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/don-pasquale/"
-    },
-    {
-      "date": "2026-11-15",
-      "house": "旧金山歌剧院",
-      "title": "Wolfgang Amadeus Mozart The Marriage of Figaro (Wolfgang Amadeus Mozart)",
-      "url": "https://www.sfopera.com/operas/the-marriage-of-figaro/"
-    },
-    {
-      "date": "2026-11-15",
-      "house": "悉尼歌剧院",
-      "title": "48th Suzuki Graduation Piano Recitals",
-      "url": "https://www.sydneyoperahouse.com/classical-music/48th-suzuki-graduation-piano-recitals"
-    },
-    {
-      "date": "2026-11-15",
-      "house": "悉尼歌剧院",
-      "title": "Beethoven’s Pastoral",
-      "url": "https://www.sydneyoperahouse.com/australian-chamber-orchestra/2026-season/beethovens-pastoral"
-    },
     {
       "date": "2026-11-16",
       "house": "维也纳国家歌剧院",
@@ -486,6 +408,84 @@
       "house": "巴黎歌剧院",
       "title": "Toï toï toï : École de danse",
       "url": "https://www.operadeparis.fr/saison-26-27/rencontre/toi-toi-toi-ecole-de-danse"
+    },
+    {
+      "date": "2026-11-26",
+      "house": "苏黎世歌剧院",
+      "title": "Alice im Wunderland",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/alice-im-wunderland/"
+    },
+    {
+      "date": "2026-11-26",
+      "house": "苏黎世歌剧院",
+      "title": "Richard Strauss Elektra (Richard Strauss)",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/elektra-1/"
+    },
+    {
+      "date": "2026-11-27",
+      "house": "伦敦皇家歌剧院",
+      "title": "Friends Rehearsals",
+      "url": "https://www.rbo.org.uk/production/friends-rehearsals"
+    },
+    {
+      "date": "2026-11-27",
+      "house": "伦敦皇家歌剧院",
+      "title": "Live at Lunch",
+      "url": "https://www.rbo.org.uk/production/live-at-lunch"
+    },
+    {
+      "date": "2026-11-27",
+      "house": "维也纳国家歌剧院",
+      "title": "Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,\n        \n    \n\n    \n        \n            Gerald  Resch)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-11-27/"
+    },
+    {
+      "date": "2026-11-27",
+      "house": "维也纳国家歌剧院",
+      "title": "Giuseppe Verdi Luisa Miller (Giuseppe Verdi)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/luisa-miller/2026-11-27/"
+    },
+    {
+      "date": "2026-11-27",
+      "house": "巴黎歌剧院",
+      "title": "Turandot — Giacomo Puccini",
+      "url": "https://www.operadeparis.fr/saison-26-27/opera/turandot"
+    },
+    {
+      "date": "2026-11-27",
+      "house": "苏黎世歌剧院",
+      "title": "Cathy Marston Romeo und Julia (Cathy Marston)",
+      "url": "https://www.opernhaus.ch/spielplan/kalendarium/romeo-und-julia-1/"
+    },
+    {
+      "date": "2026-11-27",
+      "house": "芝加哥抒情歌剧院",
+      "title": "Don Pasquale",
+      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/don-pasquale/"
+    },
+    {
+      "date": "2026-11-27",
+      "house": "旧金山歌剧院",
+      "title": "Wolfgang Amadeus Mozart The Marriage of Figaro (Wolfgang Amadeus Mozart)",
+      "url": "https://www.sfopera.com/operas/the-marriage-of-figaro/"
+    },
+    {
+      "date": "2026-11-28",
+      "house": "伦敦皇家歌剧院",
+      "title": "Visionaries: Robbins and MacMillan",
+      "url": "https://www.rbo.org.uk/production/visionaries-robbins-and-macmillan"
+    },
+    {
+      "date": "2026-11-28",
+      "house": "维也纳国家歌剧院",
+      "title": "Chamber Music",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/chamber-music/2026-11-28/"
+    },
+    {
+      "date": "2026-11-28",
+      "house": "维也纳国家歌剧院",
+      "title": "Open Adult Ballet Class",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/open-adult-ballet-class/2026-11-28/"
     }
   ]
 }
