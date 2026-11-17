@@ -1,24 +1,12 @@
 {
-  "updated_at": "2026-11-16T07:36:39+00:00",
+  "updated_at": "2026-11-17T08:47:57+00:00",
   "stats": {
     "houses": 14,
-    "performances": 925,
+    "performances": 924,
     "news": 300,
     "artists": 8
   },
   "upcoming_30": [
-    {
-      "date": "2026-11-16",
-      "house": "维也纳国家歌剧院",
-      "title": "No Performance",
-      "url": ""
-    },
-    {
-      "date": "2026-11-16",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Symphony Concerts A Riccardo Chailly / Bruckner 9 (Symphony Concerts A)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/concerts/symphony-concerts/riccardo-chailly-bruckner-9.html"
-    },
     {
       "date": "2026-11-17",
       "house": "伦敦皇家歌剧院",
@@ -486,6 +474,18 @@
       "house": "维也纳国家歌剧院",
       "title": "Open Adult Ballet Class",
       "url": "https://www.wiener-staatsoper.at/en/calendar/detail/open-adult-ballet-class/2026-11-28/"
+    },
+    {
+      "date": "2026-11-28",
+      "house": "维也纳国家歌剧院",
+      "title": "Richard Strauss Ariadne auf Naxos (Richard Strauss)",
+      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/ariadne-auf-naxos/2026-11-28/"
+    },
+    {
+      "date": "2026-11-28",
+      "house": "巴黎歌剧院",
+      "title": "Méditerranée",
+      "url": "https://www.operadeparis.fr/saison-26-27/concert-et-recital/mediterranee"
     }
   ]
 }
