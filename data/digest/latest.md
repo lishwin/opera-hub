@@ -1,27 +1,21 @@
-📰 歌剧日报 · 2026-11-17
+📰 歌剧日报 · 2026-11-18
 
 ▍今日要闻
-- Staatsoper Unter den Linden 2026-2027 Review: La Calisto ｜ OperaWire  https://operawire.com/staatsoper-unter-den-linden-2026-2027-review-la-calisto/
-- Francesco Lodola Joins International Jury of Musicum Laude 2026 ｜ OperaWire  https://operawire.com/francesco-lodola-joins-international-jury-of-musicum-laude-2026/
-- Opera Southwest to Present ‘The Farolitos of Christmas’ ｜ OperaWire  https://operawire.com/opera-southwest-to-present-the-farolitos-of-christmas-2/
-- National Sawdust to Premierer Hailey McAvoy’s ‘Wholly Unwinding’ ｜ OperaWire  https://operawire.com/national-sawdust-to-premierer-hailey-mcavoys-wholly-unwinding/
-- Babatunde Akinboboye to Present ‘HipHopera’ in London ｜ OperaWire  https://operawire.com/babatunde-akinboboye-to-present-hiphopera-in-london/
-- Salzburg Extends Partnership With Main Sponsors Through 2030 ｜ OperaWire  https://operawire.com/salzburg-extends-partnership-with-main-sponsors-through-2030/
-- Salt & Spirit at San Francisco’s Opera Parallèle ｜ Opera Today  https://operatoday.com/2026/11/salt-spirit-at-san-franciscos-opera-parallele/
-- Prodigal divos ｜ Parterre Box  https://pbx.fm/2d5w
-- Renée Fleming, Nicholas Phan, Joyce DiDonato, Metropolitan Opera, Houston Grand Opera, & Gustavo Dudamel Lead Grammy Award Nominations ｜ OperaWire  https://operawire.com/renee-fleming-nicholas-phan-joyce-didonato-metropolitan-opera-houston-grand-opera-gustavo-dudamel-lead-grammy-award-nominations/
-- Igor Levit takes Salzburg job ｜ Slipped Disc  https://slippedisc.com/2026/11/igor-levit-takes-salzburg-job/?utm_source=rss&utm_medium=rss&utm_campaign=igor-levit-takes-salzburg-job
-- Two Mahler finalists meet over New York Tosca ｜ Slipped Disc  https://slippedisc.com/2026/11/two-mahler-finalists-meet-in-new-york-tosca/?utm_source=rss&utm_medium=rss&utm_campaign=two-mahler-finalists-meet-in-new-york-tosca
-- Barrie Kosky: Why I walked out on Salzburg ｜ Slipped Disc  https://slippedisc.com/2026/11/barrie-kosky-why-i-walked-out-on-salzburg/?utm_source=rss&utm_medium=rss&utm_campaign=barrie-kosky-why-i-walked-out-on-salzburg
-- Eugene Onegin is better in translation ｜ Parterre Box  https://pbx.fm/2cub
-- Sober but Satisfying: Iphigénie en Tauride at ENO ｜ Opera Today  https://operatoday.com/2026/11/sober-but-satisfying-iphigenie-en-tauride-at-eno/
-- Jakob Lehman Joins Roster of Sempre Artists ｜ OperaWire  https://operawire.com/jakob-lehman-joins-roster-of-sempre-artists/
-- Clay Hilley & Aigul Akhmetshina Lead Metropolitan Opera’s ‘Samson et Dalila’ ｜ OperaWire  https://operawire.com/clay-hilley-aigul-akhmetshina-lead-metropolitan-operas-samson-et-dalila/
+- The Croatian National Theatre in Zagreb 2026–27 Review: Carmen ｜ OperaWire  https://operawire.com/the-croatian-national-theatre-in-zagreb-2026-27-review-carmen/
+- Ópera Queer Returns to Buenos Aires This November ｜ OperaWire  https://operawire.com/opera-queer-returns-to-buenos-aires-this-november/
+- Andreas Massow Steps Down from Deutsche Oper Berlin ｜ OperaWire  https://operawire.com/andreas-massow-steps-down-from-deutsche-oper-berlin/
+- Henning Ruhe Extends Contract with Göteborg Opera ｜ OperaWire  https://operawire.com/henning-ruhe-extends-contract-with-goteborg-opera/
+- Metropolitan Opera 2026-27 Review: Jenůfa ｜ OperaWire  https://operawire.com/metropolitan-opera-2026-27-review-jenufa/
+- International Contemporary Ensemble Announces New Artistic Director Designate ｜ OperaWire  https://operawire.com/international-contemporary-ensemble-announces-new-artistic-director-designate/
+- Carnegie Hall 2026-27 Review: Aigul Akhmetshina & Jonathan Palmer Lakeland ｜ OperaWire  https://operawire.com/carnegie-hall-2026-27-review-aigul-akhmetshina-jonathan-palmer-lakeland/
+- Wexford Festival Opera 2026 Review: The Gambler ｜ OperaWire  https://operawire.com/wexford-festival-opera-2026-review-the-gamblers/
+- Andras Schiff receives highest Munich honour ｜ Slipped Disc  https://slippedisc.com/2026/11/andras-schiff-receives-highest-bavarian-honour/?utm_source=rss&utm_medium=rss&utm_campaign=andras-schiff-receives-highest-bavarian-honour
+- Serious people ｜ Parterre Box  https://pbx.fm/2d33
+- New law: Russian orchestras must hire combat soldiers ｜ Slipped Disc  https://slippedisc.com/2026/11/new-law-russian-orchestras-must-hire-combat-soldiers/?utm_source=rss&utm_medium=rss&utm_campaign=new-law-russian-orchestras-must-hire-combat-soldiers
+- Second-gen conductor stages first all-Korean Ring ｜ Slipped Disc  https://slippedisc.com/2026/11/second-gen-conductor-stages-first-all-korean-ring/?utm_source=rss&utm_medium=rss&utm_campaign=second-gen-conductor-stages-first-all-korean-ring
+- Khovanshchina is better in translation ｜ Parterre Box  https://pbx.fm/2d2e
 
 ▍排期更新
-- 2026-11-17 伦敦皇家歌剧院：Visionaries: Robbins and MacMillan  https://www.rbo.org.uk/production/visionaries-robbins-and-macmillan
-- 2026-11-17 维也纳国家歌剧院：L'Elisir d'amore (Gaetano Donizetti)  https://www.wiener-staatsoper.at/en/calendar/detail/lelisir-damore/2026-11-17/
-- 2026-11-17 米兰斯卡拉歌剧院：Riccardo Chailly / Bruckner 9 (Symphony Concerts B)  https://www.teatroallascala.org/en/season/2025-2026/concerts/symphony-concerts/riccardo-chailly-bruckner-9.html
 - 2026-11-18 伦敦皇家歌剧院：Carmen  https://www.rbo.org.uk/production/carmen-damiano-michieletto
 - 2026-11-18 维也纳国家歌剧院：Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,
         
@@ -40,16 +34,16 @@
 - 2026-11-19 维也纳国家歌剧院：Ariadne auf Naxos (Richard Strauss)  https://www.wiener-staatsoper.at/en/calendar/detail/ariadne-auf-naxos/2026-11-19/
 - 2026-11-19 维也纳国家歌剧院：Die unvergessliche Leonie Rysanek  https://www.wiener-staatsoper.at/en/calendar/detail/die-unvergessliche-leonie-rysanek/2026-11-19/
 - 2026-11-19 维也纳国家歌剧院：L'Elisir d'amore (Gaetano Donizetti)  https://www.wiener-staatsoper.at/en/calendar/detail/lelisir-damore/2026-11-19/
+- 2026-11-19 米兰斯卡拉歌剧院：Balanchine Bausch Stravinsky  https://www.teatroallascala.org/en/season/2025-2026/ballet/balanchine-bausch-stravinsky.html
+- 2026-11-19 米兰斯卡拉歌剧院：Balanchine Bausch Stravinsky (George Balanchine / Pina Bausch)  https://www.teatroallascala.org/en/season/2025-2026/ballet/balanchine-bausch-stravinsky.html
+- 2026-11-19 苏黎世歌剧院：Alice im Wunderland  https://www.opernhaus.ch/spielplan/kalendarium/alice-im-wunderland/
 
 ▍艺术家动态
-- 古斯塔沃·杜达梅尔（指挥）
-  · Renée Fleming, Nicholas Phan, Joyce DiDonato, Metropolitan Opera, Houston Grand Opera, & Gustavo Dudamel Lead Grammy Award Nominations  https://operawire.com/renee-fleming-nicholas-phan-joyce-didonato-metropolitan-opera-houston-grand-opera-gustavo-dudamel-lead-grammy-award-nominations/
 - 基里尔·别特连科（指挥）
   · Kirill Petrenko / Le Sacre du Printemps (Symphony Concerts B)  https://www.teatroallascala.org/en/season/2026-2027/concerts/symphony-concerts/kirill-petrenko-le-sacre-du-printemps.html
   · Kirill Petrenko / Le Sacre du Printemps (Symphony Concerts C)  https://www.teatroallascala.org/en/season/2026-2027/concerts/symphony-concerts/kirill-petrenko-le-sacre-du-printemps.html
   · Kirill Petrenko / Berliner Philharmoniker (Guest orchestras subscritpion)  https://www.teatroallascala.org/en/season/2026-2027/concerts/guest-orchestras/berliner-philharmoniker-kirill-petrenko.html
 - 乔纳斯·考夫曼（歌唱家）
-  · Prodigal divos  https://pbx.fm/2d5w
   · Recital Jonas Kaufmann  https://www.wiener-staatsoper.at/en/calendar/detail/recital/2027-01-26/
 - 迪安娜·达姆娆（歌唱家）
   · Diana Damrau  https://www.operadeparis.fr/saison-26-27/concert-et-recital/recital-diana-damrau
@@ -58,9 +52,6 @@
   · Piotr Beczała  https://www.operadeparis.fr/saison-26-27/concert-et-recital/recital-piotr-beczala
 
 ▍未来 7 天值得关注
-- 2026-11-17 伦敦皇家歌剧院：Visionaries: Robbins and MacMillan  https://www.rbo.org.uk/production/visionaries-robbins-and-macmillan
-- 2026-11-17 维也纳国家歌剧院：L'Elisir d'amore (Gaetano Donizetti)  https://www.wiener-staatsoper.at/en/calendar/detail/lelisir-damore/2026-11-17/
-- 2026-11-17 米兰斯卡拉歌剧院：Riccardo Chailly / Bruckner 9 (Symphony Concerts B)  https://www.teatroallascala.org/en/season/2025-2026/concerts/symphony-concerts/riccardo-chailly-bruckner-9.html
 - 2026-11-18 伦敦皇家歌剧院：Carmen  https://www.rbo.org.uk/production/carmen-damiano-michieletto
 - 2026-11-18 维也纳国家歌剧院：Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,
         
@@ -79,3 +70,6 @@
 - 2026-11-19 维也纳国家歌剧院：Ariadne auf Naxos (Richard Strauss)  https://www.wiener-staatsoper.at/en/calendar/detail/ariadne-auf-naxos/2026-11-19/
 - 2026-11-19 维也纳国家歌剧院：Die unvergessliche Leonie Rysanek  https://www.wiener-staatsoper.at/en/calendar/detail/die-unvergessliche-leonie-rysanek/2026-11-19/
 - 2026-11-19 维也纳国家歌剧院：L'Elisir d'amore (Gaetano Donizetti)  https://www.wiener-staatsoper.at/en/calendar/detail/lelisir-damore/2026-11-19/
+- 2026-11-19 米兰斯卡拉歌剧院：Balanchine Bausch Stravinsky  https://www.teatroallascala.org/en/season/2025-2026/ballet/balanchine-bausch-stravinsky.html
+- 2026-11-19 米兰斯卡拉歌剧院：Balanchine Bausch Stravinsky (George Balanchine / Pina Bausch)  https://www.teatroallascala.org/en/season/2025-2026/ballet/balanchine-bausch-stravinsky.html
+- 2026-11-19 苏黎世歌剧院：Alice im Wunderland  https://www.opernhaus.ch/spielplan/kalendarium/alice-im-wunderland/
