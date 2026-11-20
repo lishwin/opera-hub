@@ -1,38 +1,45 @@
-📰 歌剧日报 · 2026-11-19
+📰 歌剧日报 · 2026-11-20
 
 ▍今日要闻
-- Opera San José to Present ‘Fiddler Family Day’ ｜ OperaWire  https://operawire.com/opera-san-jose-to-present-fiddler-family-day/
-- Opera Modesto Unveils December 2026 Slate ｜ OperaWire  https://operawire.com/opera-modesto-unveils-december-2026-slate/
-- David Morgans & Lauren Torey Lead Mid-Atlantic Symphony Orchestra’s ‘Holiday Joy’ Concert ｜ OperaWire  https://operawire.com/david-morgans-lauren-torey-lead-mid-atlantic-symphony-orchestras-holiday-joy-concert/
-- The Dallas Opera Announces New Christmas Concert ｜ OperaWire  https://operawire.com/the-dallas-opera-announces-new-christmas-concert/
-- Rai 5 to Broadcast Opening Night of ‘Samson et Dalila’ from Teatro Massimo di Palermo ｜ OperaWire  https://operawire.com/rai-5-to-broadcast-opening-night-of-samson-et-dalila-from-teatro-massimo-di-palermo/
-- Rai 5 to Broadcast Opening Night of ‘The Rake’s Progress’ from Teatro dell’Opera di Roma ｜ OperaWire  https://operawire.com/rai-5-to-broadcast-opening-night-of-the-rakes-progress-from-teatro-dellopera-di-roma/
-- Opera North Cancels Performances at Nottingham Theatre Royal Following Tragic Incident ｜ OperaWire  https://operawire.com/opera-north-cancels-performances-at-nottingham-theatre-royal-following-tragic-incident/
-- Francesca Zambello, Ryan Speedo Green & Elim Chan Among 2027 Winners of Musical America ｜ OperaWire  https://operawire.com/francesca-zambello-ryan-speedo-green-elim-chan-among-2027-winners-of-musical-america/
-- Jensen Huang’s man is composer of the year ｜ Slipped Disc  https://slippedisc.com/2026/11/jensen-huangs-man-is-composer-of-the-year/?utm_source=rss&utm_medium=rss&utm_campaign=jensen-huangs-man-is-composer-of-the-year
-- Opera North cancels week following a death outside theatre ｜ Slipped Disc  https://slippedisc.com/2026/11/opera-north-cancels-nottinghm-following-a-death-outside-theate/?utm_source=rss&utm_medium=rss&utm_campaign=opera-north-cancels-nottinghm-following-a-death-outside-theate
-- Andris Nelsons, 48 today ｜ Slipped Disc  https://slippedisc.com/2026/11/andris-nelsons-48-today/?utm_source=rss&utm_medium=rss&utm_campaign=andris-nelsons-48-today
-- Sydney Opera will stream via Britain’s National Theatre ｜ Slipped Disc  https://slippedisc.com/2026/11/sydney-opera-will-stream-via-britains-national-theatre/?utm_source=rss&utm_medium=rss&utm_campaign=sydney-opera-will-stream-via-britains-national-theatre
-- Peter Gelb: The Met pays more than any opera house in the world ｜ Slipped Disc  https://slippedisc.com/2026/11/peter-gelb-the-met-pays-more-than-any-opera-house-in-the-world/?utm_source=rss&utm_medium=rss&utm_campaign=peter-gelb-the-met-pays-more-than-any-opera-house-in-the-world
-- Woman turned on fire hydrant, flooding opera house ｜ Slipped Disc  https://slippedisc.com/2026/11/woman-turned-on-fire-hydrant-flooding-opera-house/?utm_source=rss&utm_medium=rss&utm_campaign=woman-turned-on-fire-hydrant-flooding-opera-house
-- The Stories of Two Abandoned Mythological Women Ingeniously Bound Together by English Touring Opera ｜ Opera Today  https://operatoday.com/2026/11/the-stories-of-two-abandoned-mythological-women-ingeniously-bound-together-by-english-touring-opera/
+- Wexford Festival Opera 2026 Review: L’Equivico Stravagante ｜ OperaWire  https://operawire.com/wexford-festival-opera-2026-review-lequivico-stravagante/
+- Mozart’s Don Giovanni at Lyric Opera of Chicago ｜ Opera Today  https://operatoday.com/2026/11/mozarts-don-giovanni-at-lyric-opera-of-chicago/
+- Operalia 2026: The World’s Audition Room Moves to Shanghai ｜ OperaWire  https://operawire.com/operalia-2026-the-worlds-audition-room-moves-to-shanghai/
+- Andrzej Filończyk Lead ABAO Bilbao Opera’s ‘Il Barbiere di Siviglia’ ｜ OperaWire  https://operawire.com/andrzej-filonczyk-lead-abao-bilbao-operas-il-barbiere-di-siviglia/
+- Cologne apiro Entertainment 2026-27 Review: Kick Like a Woman ｜ OperaWire  https://operawire.com/cologne-apiro-entertainment-2026-27-review-kick-like-a-woman/
+- Cincinnati Opera Announces 2027 ‘Underscore’ Slate ｜ OperaWire  https://operawire.com/cincinnati-opera-announces-2027-underscore-slate/
+- Oper Köln to Receive Major Award at OPER! AWARDS ｜ OperaWire  https://operawire.com/oper-koln-to-receive-major-award-at-oper-awards/
+- Best Bulba ever ｜ Slipped Disc  https://slippedisc.com/2026/11/best-bulba-ever/?utm_source=rss&utm_medium=rss&utm_campaign=best-bulba-ever
+- Don Giovanni hits back at racist review ｜ Slipped Disc  https://slippedisc.com/2026/11/don-giovanni-hits-back-at-racist-review/?utm_source=rss&utm_medium=rss&utm_campaign=don-giovanni-hits-back-at-racist-review
+- Anthony Roth Costanzo & Zachary James to Headline English National Opera & Factory International’s ‘Einstein on the Beach’ ｜ OperaWire  https://operawire.com/anthony-roth-costanzo-zachary-james-to-headline-english-national-opera-factory-internationals-einstein-on-the-beach/
+- Kühne Foundation Extends Support of Salzburg Festival ｜ OperaWire  https://operawire.com/kuhne-foundation-extends-support-of-salzburg-festival/
+- Commedia all’italiana ｜ Parterre Box  https://pbx.fm/2d7y
+- Carlo mio ben ｜ Parterre Box  https://pbx.fm/2chf
+- Ivan Fischer doubles up in Dutch ｜ Slipped Disc  https://slippedisc.com/2026/11/ivan-fischer-doubles-up-in-dutch/?utm_source=rss&utm_medium=rss&utm_campaign=ivan-fischer-doubles-up-in-dutch
+- Italy’s famed opera presenter dies at 91 ｜ Slipped Disc  https://slippedisc.com/2026/11/italys-famed-opera-presenter-dies-at-91/?utm_source=rss&utm_medium=rss&utm_campaign=italys-famed-opera-presenter-dies-at-91
+- Fangs out ｜ Parterre Box  https://pbx.fm/2d7x
 
 ▍排期更新
-- 2026-11-19 伦敦皇家歌剧院：Manon  https://www.rbo.org.uk/production/manon-kenneth-macmillan
-- 2026-11-19 维也纳国家歌剧院：Ariadne auf Naxos (Richard Strauss)  https://www.wiener-staatsoper.at/en/calendar/detail/ariadne-auf-naxos/2026-11-19/
-- 2026-11-19 维也纳国家歌剧院：Die unvergessliche Leonie Rysanek  https://www.wiener-staatsoper.at/en/calendar/detail/die-unvergessliche-leonie-rysanek/2026-11-19/
-- 2026-11-19 维也纳国家歌剧院：L'Elisir d'amore (Gaetano Donizetti)  https://www.wiener-staatsoper.at/en/calendar/detail/lelisir-damore/2026-11-19/
-- 2026-11-19 米兰斯卡拉歌剧院：Balanchine Bausch Stravinsky  https://www.teatroallascala.org/en/season/2025-2026/ballet/balanchine-bausch-stravinsky.html
-- 2026-11-19 米兰斯卡拉歌剧院：Balanchine Bausch Stravinsky (George Balanchine / Pina Bausch)  https://www.teatroallascala.org/en/season/2025-2026/ballet/balanchine-bausch-stravinsky.html
-- 2026-11-19 苏黎世歌剧院：Alice im Wunderland  https://www.opernhaus.ch/spielplan/kalendarium/alice-im-wunderland/
-- 2026-11-19 悉尼歌剧院：Simone Young conducts Götterdämmerung  https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/simone-young-gotterdammerung
 - 2026-11-20 伦敦皇家歌剧院：Live at Lunch  https://www.rbo.org.uk/production/live-at-lunch
 - 2026-11-20 伦敦皇家歌剧院：Visionaries: Robbins and MacMillan  https://www.rbo.org.uk/production/visionaries-robbins-and-macmillan
 - 2026-11-20 维也纳国家歌剧院：Madama Butterfly (Giacomo Puccini)  https://www.wiener-staatsoper.at/en/calendar/detail/madama-butterfly/2026-11-20/
 - 2026-11-20 米兰斯卡拉歌剧院：Riccardo Chailly / Bruckner 9 (Symphony Concerts C)  https://www.teatroallascala.org/en/season/2025-2026/concerts/symphony-concerts/riccardo-chailly-bruckner-9.html
 - 2026-11-20 苏黎世歌剧院：Romeo und Julia (Cathy Marston)  https://www.opernhaus.ch/spielplan/kalendarium/romeo-und-julia-1/
-- 2026-11-20 芝加哥抒情歌剧院：Wagner: Myth & Music  https://www.lyricopera.org/shows/upcoming/2026-27/Wagner-Myth-and-Music/
 - 2026-11-20 旧金山歌剧院：Future is Now  https://www.sfopera.com/seasons/the-future-is-now-adlers-in-concert/
+- 2026-11-21 伦敦皇家歌剧院：Carmen  https://www.rbo.org.uk/production/carmen-damiano-michieletto
+- 2026-11-21 伦敦皇家歌剧院：Make and Believe: Crafts and Dressing up  https://www.rbo.org.uk/production/make-and-believe
+- 2026-11-21 伦敦皇家歌剧院：Tinsel and Tales: Stories around the Tree  https://www.rbo.org.uk/production/tinsel-and-tales
+- 2026-11-21 维也纳国家歌剧院：Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,
+        
+    
+
+    
+        
+            Gerald  Resch)  https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-11-21/
+- 2026-11-21 维也纳国家歌剧院：Open Adult Ballet Class  https://www.wiener-staatsoper.at/en/calendar/detail/open-adult-ballet-class/2026-11-21/
+- 2026-11-21 维也纳国家歌剧院：Luisa Miller (Giuseppe Verdi)  https://www.wiener-staatsoper.at/en/calendar/detail/luisa-miller/2026-11-21/
+- 2026-11-21 米兰斯卡拉歌剧院：Balanchine Bausch Stravinsky (George Balanchine / Pina Bausch)  https://www.teatroallascala.org/en/season/2025-2026/ballet/balanchine-bausch-stravinsky.html
+- 2026-11-21 巴黎歌剧院：Répétition publique : Dans les pas de Gilbert Mayer — École de Danse  https://www.operadeparis.fr/saison-26-27/repetition/repetition-publique-ecole-de-danse-1
+- 2026-11-21 苏黎世歌剧院：Alice im Wunderland (Pierangelo Valtinoni)  https://www.opernhaus.ch/spielplan/kalendarium/alice-im-wunderland/
 
 ▍艺术家动态
 - 基里尔·别特连科（指挥）
@@ -48,18 +55,24 @@
   · Piotr Beczała  https://www.operadeparis.fr/saison-26-27/concert-et-recital/recital-piotr-beczala
 
 ▍未来 7 天值得关注
-- 2026-11-19 伦敦皇家歌剧院：Manon  https://www.rbo.org.uk/production/manon-kenneth-macmillan
-- 2026-11-19 维也纳国家歌剧院：Ariadne auf Naxos (Richard Strauss)  https://www.wiener-staatsoper.at/en/calendar/detail/ariadne-auf-naxos/2026-11-19/
-- 2026-11-19 维也纳国家歌剧院：Die unvergessliche Leonie Rysanek  https://www.wiener-staatsoper.at/en/calendar/detail/die-unvergessliche-leonie-rysanek/2026-11-19/
-- 2026-11-19 维也纳国家歌剧院：L'Elisir d'amore (Gaetano Donizetti)  https://www.wiener-staatsoper.at/en/calendar/detail/lelisir-damore/2026-11-19/
-- 2026-11-19 米兰斯卡拉歌剧院：Balanchine Bausch Stravinsky  https://www.teatroallascala.org/en/season/2025-2026/ballet/balanchine-bausch-stravinsky.html
-- 2026-11-19 米兰斯卡拉歌剧院：Balanchine Bausch Stravinsky (George Balanchine / Pina Bausch)  https://www.teatroallascala.org/en/season/2025-2026/ballet/balanchine-bausch-stravinsky.html
-- 2026-11-19 苏黎世歌剧院：Alice im Wunderland  https://www.opernhaus.ch/spielplan/kalendarium/alice-im-wunderland/
-- 2026-11-19 悉尼歌剧院：Simone Young conducts Götterdämmerung  https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/simone-young-gotterdammerung
 - 2026-11-20 伦敦皇家歌剧院：Live at Lunch  https://www.rbo.org.uk/production/live-at-lunch
 - 2026-11-20 伦敦皇家歌剧院：Visionaries: Robbins and MacMillan  https://www.rbo.org.uk/production/visionaries-robbins-and-macmillan
 - 2026-11-20 维也纳国家歌剧院：Madama Butterfly (Giacomo Puccini)  https://www.wiener-staatsoper.at/en/calendar/detail/madama-butterfly/2026-11-20/
 - 2026-11-20 米兰斯卡拉歌剧院：Riccardo Chailly / Bruckner 9 (Symphony Concerts C)  https://www.teatroallascala.org/en/season/2025-2026/concerts/symphony-concerts/riccardo-chailly-bruckner-9.html
 - 2026-11-20 苏黎世歌剧院：Romeo und Julia (Cathy Marston)  https://www.opernhaus.ch/spielplan/kalendarium/romeo-und-julia-1/
-- 2026-11-20 芝加哥抒情歌剧院：Wagner: Myth & Music  https://www.lyricopera.org/shows/upcoming/2026-27/Wagner-Myth-and-Music/
 - 2026-11-20 旧金山歌剧院：Future is Now  https://www.sfopera.com/seasons/the-future-is-now-adlers-in-concert/
+- 2026-11-21 伦敦皇家歌剧院：Carmen  https://www.rbo.org.uk/production/carmen-damiano-michieletto
+- 2026-11-21 伦敦皇家歌剧院：Make and Believe: Crafts and Dressing up  https://www.rbo.org.uk/production/make-and-believe
+- 2026-11-21 伦敦皇家歌剧院：Tinsel and Tales: Stories around the Tree  https://www.rbo.org.uk/production/tinsel-and-tales
+- 2026-11-21 维也纳国家歌剧院：Geheimmission Zauberflöte (Wolfgang Amadeus Mozart,
+        
+    
+
+    
+        
+            Gerald  Resch)  https://www.wiener-staatsoper.at/en/calendar/detail/geheimmission-zauberfloete/2026-11-21/
+- 2026-11-21 维也纳国家歌剧院：Open Adult Ballet Class  https://www.wiener-staatsoper.at/en/calendar/detail/open-adult-ballet-class/2026-11-21/
+- 2026-11-21 维也纳国家歌剧院：Luisa Miller (Giuseppe Verdi)  https://www.wiener-staatsoper.at/en/calendar/detail/luisa-miller/2026-11-21/
+- 2026-11-21 米兰斯卡拉歌剧院：Balanchine Bausch Stravinsky (George Balanchine / Pina Bausch)  https://www.teatroallascala.org/en/season/2025-2026/ballet/balanchine-bausch-stravinsky.html
+- 2026-11-21 巴黎歌剧院：Répétition publique : Dans les pas de Gilbert Mayer — École de Danse  https://www.operadeparis.fr/saison-26-27/repetition/repetition-publique-ecole-de-danse-1
+- 2026-11-21 苏黎世歌剧院：Alice im Wunderland (Pierangelo Valtinoni)  https://www.opernhaus.ch/spielplan/kalendarium/alice-im-wunderland/
