@@ -1,48 +1,12 @@
 {
-  "updated_at": "2026-11-20T08:04:03+00:00",
+  "updated_at": "2026-11-21T07:59:46+00:00",
   "stats": {
     "houses": 14,
-    "performances": 872,
+    "performances": 922,
     "news": 300,
     "artists": 8
   },
   "upcoming_30": [
-    {
-      "date": "2026-11-20",
-      "house": "伦敦皇家歌剧院",
-      "title": "Live at Lunch",
-      "url": "https://www.rbo.org.uk/production/live-at-lunch"
-    },
-    {
-      "date": "2026-11-20",
-      "house": "伦敦皇家歌剧院",
-      "title": "Visionaries: Robbins and MacMillan",
-      "url": "https://www.rbo.org.uk/production/visionaries-robbins-and-macmillan"
-    },
-    {
-      "date": "2026-11-20",
-      "house": "维也纳国家歌剧院",
-      "title": "Giacomo Puccini Madama Butterfly (Giacomo Puccini)",
-      "url": "https://www.wiener-staatsoper.at/en/calendar/detail/madama-butterfly/2026-11-20/"
-    },
-    {
-      "date": "2026-11-20",
-      "house": "米兰斯卡拉歌剧院",
-      "title": "Symphony Concerts C Riccardo Chailly / Bruckner 9 (Symphony Concerts C)",
-      "url": "https://www.teatroallascala.org/en/season/2025-2026/concerts/symphony-concerts/riccardo-chailly-bruckner-9.html"
-    },
-    {
-      "date": "2026-11-20",
-      "house": "苏黎世歌剧院",
-      "title": "Cathy Marston Romeo und Julia (Cathy Marston)",
-      "url": "https://www.opernhaus.ch/spielplan/kalendarium/romeo-und-julia-1/"
-    },
-    {
-      "date": "2026-11-20",
-      "house": "旧金山歌剧院",
-      "title": "Future is Now",
-      "url": "https://www.sfopera.com/seasons/the-future-is-now-adlers-in-concert/"
-    },
     {
       "date": "2026-11-21",
       "house": "伦敦皇家歌剧院",
@@ -111,6 +75,12 @@
     },
     {
       "date": "2026-11-21",
+      "house": "芝加哥抒情歌剧院",
+      "title": "Don Pasquale",
+      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/don-pasquale/"
+    },
+    {
+      "date": "2026-11-21",
       "house": "旧金山歌剧院",
       "title": "Wolfgang Amadeus Mozart The Marriage of Figaro (Wolfgang Amadeus Mozart)",
       "url": "https://www.sfopera.com/operas/the-marriage-of-figaro/"
@@ -162,6 +132,12 @@
       "house": "苏黎世歌剧院",
       "title": "Richard Strauss Elektra (Richard Strauss)",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/elektra-1/"
+    },
+    {
+      "date": "2026-11-22",
+      "house": "芝加哥抒情歌剧院",
+      "title": "Wagner: Myth & Music",
+      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/Wagner-Myth-and-Music/"
     },
     {
       "date": "2026-11-22",
@@ -228,6 +204,12 @@
       "house": "苏黎世歌剧院",
       "title": "open space stimme",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/open-space-stimme/"
+    },
+    {
+      "date": "2026-11-24",
+      "house": "芝加哥抒情歌剧院",
+      "title": "Don Pasquale",
+      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/don-pasquale/"
     },
     {
       "date": "2026-11-25",
@@ -321,6 +303,12 @@
     },
     {
       "date": "2026-11-27",
+      "house": "芝加哥抒情歌剧院",
+      "title": "Don Pasquale",
+      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/don-pasquale/"
+    },
+    {
+      "date": "2026-11-27",
       "house": "旧金山歌剧院",
       "title": "Wolfgang Amadeus Mozart The Marriage of Figaro (Wolfgang Amadeus Mozart)",
       "url": "https://www.sfopera.com/operas/the-marriage-of-figaro/"
@@ -387,6 +375,12 @@
     },
     {
       "date": "2026-11-28",
+      "house": "芝加哥抒情歌剧院",
+      "title": "Disney's Encanto In Concert Live to Film",
+      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/disneys-encanto-in-concert-live-to-film/"
+    },
+    {
+      "date": "2026-11-28",
       "house": "悉尼歌剧院",
       "title": "Nandi: Lord of Rhythm",
       "url": "https://www.sydneyoperahouse.com/classical-music/nandi-lord-rhythm"
@@ -438,6 +432,12 @@
       "house": "苏黎世歌剧院",
       "title": "Richard Wagner Opernhaustag Das Rheingold (Richard Wagner Opernhaustag)",
       "url": "https://www.opernhaus.ch/spielplan/kalendarium/das-rheingold/"
+    },
+    {
+      "date": "2026-11-29",
+      "house": "芝加哥抒情歌剧院",
+      "title": "Disney's Encanto In Concert Live to Film",
+      "url": "https://www.lyricopera.org/shows/upcoming/2026-27/disneys-encanto-in-concert-live-to-film/"
     },
     {
       "date": "2026-11-29",
